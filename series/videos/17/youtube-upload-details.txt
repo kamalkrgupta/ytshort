@@ -1,0 +1,20 @@
+HTML Dropdown Menus | Web Development in 60 Seconds
+
+A select element presents a list of choices. Learn html dropdown menus with a quick example for beginners.
+
+Each option inside the select becomes one available choice.
+A value attribute can specify the data submitted for an option.
+
+Try it: Create a dropdown with three learning goals.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 17
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content
+
+#WebDevelopment #LearnToCode #Shorts
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU
+
+Tags: html dropdown menus, web development for beginners, learn to code, coding shorts, html tutorial, TECH AT 60

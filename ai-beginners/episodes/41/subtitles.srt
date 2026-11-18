@@ -1,0 +1,267 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,542
+Welcome to episode 41 of AI for Beginners Today
+
+4
+00:00:12,774 --> 00:00:16,576
+we’re looking at what is an ai api By
+
+5
+00:00:16,589 --> 00:00:20,274
+the end you’ll understand one practical idea watch a
+
+6
+00:00:20,287 --> 00:00:25,352
+realistic example and try a small exercise yourself You
+
+7
+00:00:25,364 --> 00:00:30,300
+don’t need a technical background or expensive software Bring
+
+8
+00:00:30,313 --> 00:00:35,545
+your curiosity We’ll work through it together Here’s the
+
+9
+00:00:35,558 --> 00:00:39,140
+example we’ll use a website sending a question to
+
+10
+00:00:39,153 --> 00:00:42,774
+a model We’ll use that situation to make the
+
+11
+00:00:42,787 --> 00:00:46,808
+topic concrete Watch how we break the task into
+
+12
+00:00:46,821 --> 00:00:50,029
+small steps because the same thinking will help you
+
+13
+00:00:50,042 --> 00:00:53,431
+use many different AI tools later in this course
+
+14
+00:01:00,183 --> 00:01:04,811
+Let’s start with the main idea understand how software
+
+15
+00:01:04,824 --> 00:01:09,167
+sends requests to an AI service Think of AI
+
+16
+00:01:09,180 --> 00:01:12,169
+as a tool that processes information and returns an
+
+17
+00:01:12,182 --> 00:01:16,345
+output based on its training instructions and any relevant
+
+18
+00:01:16,358 --> 00:01:20,288
+information it can access It can save time on
+
+19
+00:01:20,301 --> 00:01:23,935
+drafts and patterns but it doesn’t automatically know what’s
+
+20
+00:01:23,948 --> 00:01:28,059
+correct for your situation The most useful habit is
+
+21
+00:01:28,071 --> 00:01:30,778
+to define what you want before touching the tool
+
+22
+00:01:31,667 --> 00:01:35,919
+Ask yourself three questions what’s my goal what information
+
+23
+00:01:35,932 --> 00:01:38,278
+does the tool need and how will I check
+
+24
+00:01:38,291 --> 00:01:42,272
+the result Those questions work whether you’re writing a
+
+25
+00:01:42,285 --> 00:01:46,435
+prompt building a workflow or reviewing a generated answer
+
+26
+00:01:53,217 --> 00:01:57,252
+Let’s try it with an example Our example is
+
+27
+00:01:57,265 --> 00:02:01,143
+a website sending a question to a model Start
+
+28
+00:02:01,156 --> 00:02:04,494
+by writing down the desired result in one sentence
+
+29
+00:02:05,383 --> 00:02:09,107
+Next identify the input what would a person need
+
+30
+00:02:09,120 --> 00:02:12,754
+to know to do this task correctly Then write
+
+31
+00:02:12,767 --> 00:02:15,692
+a simple instruction with that context and a clear
+
+32
+00:02:15,705 --> 00:02:20,293
+format On screen I am showing a sample request
+
+33
+00:02:20,473 --> 00:02:24,700
+followed by a possible output Notice that we’re not
+
+34
+00:02:24,713 --> 00:02:28,811
+judging the result by how impressive it sounds We’re
+
+35
+00:02:28,824 --> 00:02:32,767
+checking whether it actually meets the task If the
+
+36
+00:02:32,780 --> 00:02:35,924
+output is too broad ask for a more specific
+
+37
+00:02:35,937 --> 00:02:39,971
+version If a fact matters verify it from a
+
+38
+00:02:39,984 --> 00:02:43,811
+reliable source Pause the video here if you’d like
+
+39
+00:02:43,824 --> 00:02:46,311
+to copy the structure into your own notes
+
+40
+00:02:53,050 --> 00:02:58,760
+Your turn Try this exercise draw a request-and-response diagram
+
+41
+00:02:59,650 --> 00:03:03,168
+Begin with a very small example not a complex
+
+42
+00:03:03,180 --> 00:03:08,077
+project Give yourself thirty seconds to decide what success
+
+43
+00:03:08,090 --> 00:03:11,840
+would look like Then complete the task once and
+
+44
+00:03:11,853 --> 00:03:18,425
+inspect the result What’s useful What’s missing What would
+
+45
+00:03:18,438 --> 00:03:22,768
+you change Make one improvement and compare the first
+
+46
+00:03:22,781 --> 00:03:28,116
+and second versions This simple before-and-after comparison teaches you
+
+47
+00:03:28,129 --> 00:03:31,454
+more than copying a complicated prompt from the internet
+
+48
+00:03:32,356 --> 00:03:35,745
+If your chosen tool is unavailable do the exercise
+
+49
+00:03:35,758 --> 00:03:39,327
+on paper sketch the input the steps and the
+
+50
+00:03:39,340 --> 00:03:43,812
+output The objective is to practice the underlying thinking
+
+51
+00:03:43,992 --> 00:03:46,441
+not to depend on one particular app
+
+52
+00:03:53,217 --> 00:03:58,101
+Before we finish remember this important limitation API usage
+
+53
+00:03:58,114 --> 00:04:03,592
+may incur costs and requires secret-key protection Responsible AI
+
+54
+00:04:03,605 --> 00:04:06,659
+use means understanding the strengths of the tool and
+
+55
+00:04:06,672 --> 00:04:11,143
+keeping yourself accountable for the final result Today you
+
+56
+00:04:11,156 --> 00:04:14,765
+learned that understand how software sends requests to an
+
+57
+00:04:14,777 --> 00:04:18,283
+AI service saw the example of a website sending
+
+58
+00:04:18,296 --> 00:04:21,221
+a question to a model and practiced a small
+
+59
+00:04:21,234 --> 00:04:26,131
+hands-on task Here’s your challenge repeat the exercise with
+
+60
+00:04:26,143 --> 00:04:28,862
+a different topic and write down one thing that
+
+61
+00:04:28,875 --> 00:04:32,909
+improved In the comments share the part you found
+
+62
+00:04:32,922 --> 00:04:36,685
+easiest or the question you still have If this
+
+63
+00:04:36,698 --> 00:04:41,414
+helped share it with someone learning AI And subscribe
+
+64
+00:04:41,427 --> 00:04:45,035
+to Tech at sixty for the next lesson We’re
+
+65
+00:04:45,048 --> 00:04:48,424
+building practical AI skills one simple step at a
+
+66
+00:04:48,437 --> 00:04:53,141
+time Thanks for watching See you in the next
+
+67
+00:04:53,154 --> 00:04:53,631
+lesson

@@ -1,0 +1,40 @@
+{
+  "number": 1,
+  "slug": "satellite",
+  "title": "Satellite Messaging: How a Phone Connects Beyond Cell Towers",
+  "category": "CONNECTIVITY",
+  "source": "https://www.t-mobile.com/dialed-in/wireless/how-satellite-phone-service-works",
+  "headline": "No nearby tower.\nCan a message still travel?",
+  "meaning": "Supported phones can connect through satellites.",
+  "example": "A message travels via space and a ground network.",
+  "comparison": "Satellite connectivity differs from normal mobile broadband.",
+  "caution": "Availability depends on phone, provider, region and sky view.",
+  "question": "Would messaging be enough off the grid?",
+  "flow": [
+    "Compatible phone",
+    "Satellite",
+    "Ground network"
+  ],
+  "left": [
+    "CELLULAR",
+    "Nearby terrestrial towers"
+  ],
+  "right": [
+    "SATELLITE",
+    "Space-based radio link"
+  ],
+  "lines": [
+    "Your phone has no nearby cell tower. Some supported services can send messages through a satellite instead.",
+    "The signal travels between a compatible phone, a satellite, and the network on the ground.",
+    "This can extend connectivity beyond regular tower coverage, depending on the service and where you are.",
+    "It is not automatically a replacement for normal mobile broadband. Speed, supported apps, and delays can differ.",
+    "Check your phone, provider, region, and clear view of the sky before relying on a feature.",
+    "Would messaging be enough off the grid? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-16T20:00:00+05:30",
+  "publishAt": "2026-11-16T14:30:00+00:00",
+  "status": "needs_attention",
+  "accent": "#ffab73",
+  "updatedAt": "2026-11-16T15:21:41.427462+05:30",
+  "error": "AssertionError: "
+}

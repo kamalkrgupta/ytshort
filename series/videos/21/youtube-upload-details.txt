@@ -1,0 +1,18 @@
+What Is CSS? | Web Development in 60 Seconds
+
+C S S controls how your HTML content looks. Learn what is css? with a quick example for beginners.
+
+A rule combines a selector with declarations inside braces.
+Each declaration pairs a property with a value.
+
+Try it: Change a paragraph color and font size.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 21
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: what is css?, web development for beginners, learn to code, coding shorts, css tutorial

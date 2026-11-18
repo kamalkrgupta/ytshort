@@ -1,0 +1,18 @@
+JavaScript Variables | Web Development in 60 Seconds
+
+Variables give names to values used by your program. Learn javascript variables with a quick example for beginners.
+
+Use let when you need to reassign a variable.
+Use const when the binding should not be reassigned.
+
+Try it: Store your name and a score, then increase the score.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 38
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: javascript variables, web development for beginners, learn to code, coding shorts, javascript tutorial

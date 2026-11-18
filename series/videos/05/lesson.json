@@ -1,0 +1,16 @@
+{
+  "videoNumber": 5,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "How to Add Links in HTML",
+  "description": "Create clickable links using <a href>.",
+  "publishLocal": "2026-10-21T16:00:00+05:30",
+  "publishAt": "2026-10-21T10:30:00Z",
+  "status": "planned",
+  "definition": "Links connect your page to other pages or resources.",
+  "code": "<a href=\"https://example.com\">\n  Visit Example\n</a>",
+  "preview": "<a href=\"https://example.com\">Visit Example</a>",
+  "rule": "The anchor element creates the link; H ref supplies its destination.",
+  "tip": "The text between the tags becomes the clickable label.",
+  "caution": "Use descriptive link text so people know where they are going.",
+  "exercise": "Add a link to a website you find useful."
+}

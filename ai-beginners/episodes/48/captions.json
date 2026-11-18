@@ -1,0 +1,337 @@
+[
+  {
+    "start": 0.35,
+    "end": 3.378374,
+    "text": "Have you ever wondered how to make technology work"
+  },
+  {
+    "start": 3.39125,
+    "end": 6.780416,
+    "text": "for you instead of spending hours figuring everything out"
+  },
+  {
+    "start": 7.684,
+    "end": 12.709791,
+    "text": "Welcome to episode 48 of AI for Beginners Today"
+  },
+  {
+    "start": 12.915958,
+    "end": 17.941749,
+    "text": "we’re looking at capstone ai study assistant By the"
+  },
+  {
+    "start": 17.954625,
+    "end": 22.039707,
+    "text": "end you’ll understand one practical idea watch a realistic"
+  },
+  {
+    "start": 22.052583,
+    "end": 26.885041,
+    "text": "example and try a small exercise yourself You don’t"
+  },
+  {
+    "start": 26.897916,
+    "end": 31.627291,
+    "text": "need a technical background or expensive software Bring your"
+  },
+  {
+    "start": 31.640208,
+    "end": 37.348957,
+    "text": "curiosity We’ll work through it together Here’s the example"
+  },
+  {
+    "start": 37.361833,
+    "end": 41.459791,
+    "text": "we’ll use a study helper that quizzes on photosynthesis"
+  },
+  {
+    "start": 42.348958,
+    "end": 45.725249,
+    "text": "We’ll use that situation to make the topic concrete"
+  },
+  {
+    "start": 46.627333,
+    "end": 49.604125,
+    "text": "Watch how we break the task into small steps"
+  },
+  {
+    "start": 49.720083,
+    "end": 52.477833,
+    "text": "because the same thinking will help you use many"
+  },
+  {
+    "start": 52.490708,
+    "end": 55.196874,
+    "text": "different AI tools later in this course"
+  },
+  {
+    "start": 61.18333333333334,
+    "end": 66.26220733333334,
+    "text": "Let’s start with the main idea combine prompts examples"
+  },
+  {
+    "start": 66.27508333333334,
+    "end": 70.65654133333334,
+    "text": "and verification in a learning workflow Think of AI"
+  },
+  {
+    "start": 70.66941633333333,
+    "end": 73.65912433333334,
+    "text": "as a tool that processes information and returns an"
+  },
+  {
+    "start": 73.67199933333333,
+    "end": 77.83437433333333,
+    "text": "output based on its training instructions and any relevant"
+  },
+  {
+    "start": 77.84724933333334,
+    "end": 81.77766633333334,
+    "text": "information it can access It can save time on"
+  },
+  {
+    "start": 81.79054133333334,
+    "end": 85.42458333333333,
+    "text": "drafts and patterns but it doesn’t automatically know what’s"
+  },
+  {
+    "start": 85.43745833333334,
+    "end": 89.54824933333333,
+    "text": "correct for your situation The most useful habit is"
+  },
+  {
+    "start": 89.56116633333333,
+    "end": 92.26733333333334,
+    "text": "to define what you want before touching the tool"
+  },
+  {
+    "start": 93.15654133333334,
+    "end": 97.40908333333334,
+    "text": "Ask yourself three questions what’s my goal what information"
+  },
+  {
+    "start": 97.42199933333333,
+    "end": 99.76733233333334,
+    "text": "does the tool need and how will I check"
+  },
+  {
+    "start": 99.78024933333333,
+    "end": 103.76220723333333,
+    "text": "the result Those questions work whether you’re writing a"
+  },
+  {
+    "start": 103.77508333333333,
+    "end": 107.92454133333334,
+    "text": "prompt building a workflow or reviewing a generated answer"
+  },
+  {
+    "start": 113.94999999999999,
+    "end": 118.126791,
+    "text": "Let’s try it with an example Our example is"
+  },
+  {
+    "start": 118.139708,
+    "end": 122.830416,
+    "text": "a study helper that quizzes on photosynthesis Start by"
+  },
+  {
+    "start": 122.843291,
+    "end": 127.482457,
+    "text": "writing down the desired result in one sentence Next"
+  },
+  {
+    "start": 127.637125,
+    "end": 130.729916,
+    "text": "identify the input what would a person need to"
+  },
+  {
+    "start": 130.74279099999998,
+    "end": 134.31237389999998,
+    "text": "know to do this task correctly Then write a"
+  },
+  {
+    "start": 134.32524999999998,
+    "end": 137.843291,
+    "text": "simple instruction with that context and a clear format"
+  },
+  {
+    "start": 138.745375,
+    "end": 142.495333,
+    "text": "On screen I am showing a sample request followed"
+  },
+  {
+    "start": 142.50825,
+    "end": 146.644833,
+    "text": "by a possible output Notice that we’re not judging"
+  },
+  {
+    "start": 146.65770799999999,
+    "end": 150.781457,
+    "text": "the result by how impressive it sounds We’re checking"
+  },
+  {
+    "start": 150.794333,
+    "end": 154.73762399999998,
+    "text": "whether it actually meets the task If the output"
+  },
+  {
+    "start": 154.7505,
+    "end": 157.959249,
+    "text": "is too broad ask for a more specific version"
+  },
+  {
+    "start": 158.848458,
+    "end": 162.031458,
+    "text": "If a fact matters verify it from a reliable"
+  },
+  {
+    "start": 162.044333,
+    "end": 165.433541,
+    "text": "source Pause the video here if you’d like to"
+  },
+  {
+    "start": 165.446375,
+    "end": 167.804624,
+    "text": "copy the structure into your own notes"
+  },
+  {
+    "start": 173.81666666666666,
+    "end": 178.76666566666665,
+    "text": "Your turn Try this exercise build a five-question quiz"
+  },
+  {
+    "start": 178.77954166666666,
+    "end": 183.14812366666666,
+    "text": "and check answers Begin with a very small example"
+  },
+  {
+    "start": 183.39295766666666,
+    "end": 187.91612466666666,
+    "text": "not a complex project Give yourself thirty seconds to"
+  },
+  {
+    "start": 187.92904166666668,
+    "end": 191.96254066666665,
+    "text": "decide what success would look like Then complete the"
+  },
+  {
+    "start": 191.97541666666666,
+    "end": 197.59399866666666,
+    "text": "task once and inspect the result What’s useful What’s"
+  },
+  {
+    "start": 197.60687466666667,
+    "end": 202.87749966666667,
+    "text": "missing What would you change Make one improvement and"
+  },
+  {
+    "start": 202.89037466666667,
+    "end": 207.87745766666666,
+    "text": "compare the first and second versions This simple before-and-after"
+  },
+  {
+    "start": 207.89037466666667,
+    "end": 211.60174966666668,
+    "text": "comparison teaches you more than copying a complicated prompt"
+  },
+  {
+    "start": 211.61458266666668,
+    "end": 215.76408266666667,
+    "text": "from the internet If your chosen tool is unavailable"
+  },
+  {
+    "start": 215.89295766666666,
+    "end": 219.38520766666667,
+    "text": "do the exercise on paper sketch the input the"
+  },
+  {
+    "start": 219.39812466666666,
+    "end": 223.68933266666667,
+    "text": "steps and the output The objective is to practice"
+  },
+  {
+    "start": 223.70220766666665,
+    "end": 227.28470766666666,
+    "text": "the underlying thinking not to depend on one particular"
+  },
+  {
+    "start": 227.29758266666667,
+    "end": 227.63262366666666,
+    "text": "app"
+  },
+  {
+    "start": 233.65,
+    "end": 237.838166,
+    "text": "Before we finish remember this important limitation keep it"
+  },
+  {
+    "start": 237.851041,
+    "end": 244.321625,
+    "text": "educational and verify scientific explanations Responsible AI use means"
+  },
+  {
+    "start": 244.334541,
+    "end": 247.58195800000001,
+    "text": "understanding the strengths of the tool and keeping yourself"
+  },
+  {
+    "start": 247.59483300000002,
+    "end": 251.64124900000002,
+    "text": "accountable for the final result Today you learned that"
+  },
+  {
+    "start": 251.65412500000002,
+    "end": 256.11291600000004,
+    "text": "combine prompts examples and verification in a learning workflow"
+  },
+  {
+    "start": 256.267541,
+    "end": 259.08970800000003,
+    "text": "saw the example of a study helper that quizzes"
+  },
+  {
+    "start": 259.102583,
+    "end": 264.386082,
+    "text": "on photosynthesis and practiced a small hands-on task Here’s"
+  },
+  {
+    "start": 264.398958,
+    "end": 267.83970800000003,
+    "text": "your challenge repeat the exercise with a different topic"
+  },
+  {
+    "start": 267.852583,
+    "end": 271.499499,
+    "text": "and write down one thing that improved In the"
+  },
+  {
+    "start": 271.512375,
+    "end": 274.57937400000003,
+    "text": "comments share the part you found easiest or the"
+  },
+  {
+    "start": 274.59225000000004,
+    "end": 278.484041,
+    "text": "question you still have If this helped share it"
+  },
+  {
+    "start": 278.496916,
+    "end": 282.813916,
+    "text": "with someone learning AI And subscribe to Tech at"
+  },
+  {
+    "start": 282.826791,
+    "end": 287.234041,
+    "text": "sixty for the next lesson We’re building practical AI"
+  },
+  {
+    "start": 287.246916,
+    "end": 291.164457,
+    "text": "skills one simple step at a time Thanks for"
+  },
+  {
+    "start": 291.17733300000003,
+    "end": 294.360291,
+    "text": "watching See you in the next lesson"
+  }
+]

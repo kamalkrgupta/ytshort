@@ -1,0 +1,11 @@
+{
+  "state": "rejected",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "42239eb57a706675c86245109cc5cfd052ce9ec2dd62a7b04ef98d97e0cada1a",
+  "title": "Semantic HTML | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-25T07:55:22Z",
+  "publishAt": "2026-10-28T05:30:00Z",
+  "errorReason": "uploadLimitExceeded",
+  "rejectedBeforeUpload": true
+}

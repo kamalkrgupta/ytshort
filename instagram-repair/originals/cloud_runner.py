@@ -1,0 +1,127 @@
+"""GitHub-hosted publisher; no Mac access and no ephemeral-only post state."""
+import argparse,base64,hashlib,json,logging,os,time
+from pathlib import Path
+from datetime import date,timedelta
+from urllib.parse import quote,urlsplit
+import requests
+from config import Config,prepare_storage,secure_json
+from database import Database
+from github_store import GitHub,StateStore,CloudStateError
+from publisher import Publisher,check,Redactor
+from video_source import sha,scan,select,validate_video
+from caption_generator import CaptionGenerator
+
+def download_video(entry,folder,repo,session=None):
+ name=Path(entry['filename']).name
+ if name!=entry['filename'] or not name.lower().endswith('.mp4'):raise CloudStateError('Manifest filename is invalid.')
+ url=entry['download_url'];u=urlsplit(url)
+ if u.scheme!='https' or u.hostname!='github.com' or not u.path.startswith('/'+repo+'/releases/download/') or u.username or u.password:raise CloudStateError('Video URL is not an approved repository Release asset.')
+ folder=Path(folder);folder.mkdir(parents=True,exist_ok=True,mode=0o700);target=folder/name
+ if target.exists() and sha(target)==entry['sha256']:return target
+ temporary=folder/('.'+entry['sha256']+'.part');s=session or requests.Session()
+ try:
+  # Public assets need no credential. No Meta/GitHub authorization is sent on redirects.
+  with s.get(url,stream=True,timeout=(15,180),headers={'User-Agent':'Techat60-Instagram'},allow_redirects=True) as r:
+   r.raise_for_status()
+   if urlsplit(r.url).hostname not in ('github.com','release-assets.githubusercontent.com','objects.githubusercontent.com'):raise CloudStateError('Unexpected Release download host.')
+   total=0;digest=hashlib.sha256()
+   with temporary.open('wb') as out:
+    for chunk in r.iter_content(1024*1024):
+     if chunk:
+      total+=len(chunk)
+      if total>1_000_000_000:raise CloudStateError('Video exceeds approved size.')
+      out.write(chunk);digest.update(chunk)
+   if digest.hexdigest()!=entry['sha256']:raise CloudStateError('Hosted video checksum mismatch; do not publish.')
+   temporary.chmod(0o600);os.replace(temporary,target)
+ finally:temporary.unlink(missing_ok=True)
+ return target
+
+def authorize_catchup(c,db,missed_date,expected_sha256,candidate):
+ """Explicit manual recovery only; retain real publication date and daily/hash guards."""
+ if os.environ.get('GITHUB_EVENT_NAME')!='workflow_dispatch':raise CloudStateError('Catch-up requires a manual workflow dispatch.')
+ try:missed=date.fromisoformat(missed_date)
+ except (ValueError,TypeError):raise CloudStateError('A valid missed date is required.') from None
+ if not 1<=(c.now().date()-missed).days<=7:raise CloudStateError('Catch-up date must be within the previous seven days.')
+ if db.used_day(missed.isoformat()):raise CloudStateError('The missed date already has a confirmed Reel.')
+ if db.used_day(c.now().date().isoformat()):raise CloudStateError('Today already has a confirmed Reel; daily limit remains in force.')
+ pending=db.pending()
+ if pending:
+  try:previous=json.loads(db.setting('last_catchup_authorization','{}'))
+  except ValueError:previous={}
+  if previous.get('sha256')!=expected_sha256 or previous.get('missed_date')!=missed.isoformat() or any(j['sha256']!=expected_sha256 or j['local_day']!=c.now().date().isoformat() for j in pending):raise CloudStateError('Reconcile unrelated pending jobs before authorizing catch-up.')
+ if not candidate or not expected_sha256 or candidate['sha256']!=expected_sha256:raise CloudStateError('Catch-up content does not match the explicitly requested hash.')
+ if expected_sha256 in db.published_hashes():raise CloudStateError('Catch-up content was already published.')
+ # Only the time-of-day gate changes for this invocation. Actual time, account,
+ # real-day reservation, remote duplicate checks and durable checkpoints remain.
+ c.due=lambda now=None:True
+ db.set('last_catchup_authorization',json.dumps({'missed_date':missed.isoformat(),'actual_date':c.now().date().isoformat(),'sha256':expected_sha256}))
+
+def assess_result(c,db,result,has_candidate,event):
+ """A scheduler invocation is not a success when its intended daily slot was missed."""
+ if result.get('status')=='OUTSIDE_PUBLISH_WINDOW' and event=='schedule' and has_candidate:
+  now=c.now();target=now.replace(hour=19,minute=0,second=0,microsecond=0)
+  # The only automatic triggers are evening slots. An overnight arrival belongs
+  # to yesterday; do not falsify the clock or post a backlog on that basis.
+  if now<target-timedelta(minutes=16):target-=timedelta(days=1)
+  if now>target+timedelta(minutes=c.grace_minutes) and not db.used_day(target.date().isoformat()):
+   return {'status':'MISSED_PUBLISH_WINDOW','intended_slot_IST':target.isoformat(),'confirmed_publication':False,'error':'Scheduled runner arrived after the allowed window; no automatic catch-up was attempted.'},2
+ return result,0
+
+def main():
+ p=argparse.ArgumentParser();p.add_argument('--mode',choices=['check','publish','catchup'],default='check');p.add_argument('--missed-date',default='');p.add_argument('--expected-sha256',default='');args=p.parse_args()
+ if os.environ.get('GITHUB_ACTIONS')!='true':raise CloudStateError('Cloud runner is only enabled inside GitHub Actions.')
+ repo=os.environ['GITHUB_REPOSITORY'];token=os.environ['GITHUB_TOKEN'];key=base64.b64decode(os.environ['INSTAGRAM_STATE_KEY'],validate=True)
+ if len(key)!=32:raise CloudStateError('Invalid state encryption key.')
+ root=Path('.instagram-runtime').resolve();videos=root/'videos';videos.mkdir(parents=True,exist_ok=True)
+ os.environ.update(VIDEO_FOLDER=str(videos),TIMEZONE='Asia/Kolkata',PUBLISH_TIME='19:00',CAPTION_MODE='fallback',OPENAI_API_KEY='',PUBLISH_BACKEND='github-actions')
+ c=Config.load(root);prepare_storage(c)
+ h=logging.StreamHandler();h.addFilter(Redactor([c.token,c.app_secret,token,os.environ['INSTAGRAM_STATE_KEY']]));logging.basicConfig(level=logging.INFO,handlers=[h])
+ api=GitHub(repo,token);store=StateStore(api,key);store.load(c.db_path);db=Database(c.db_path)
+ # A cold runner must restore the existing history; it never starts an empty ledger.
+ if db.setting('seed_match')!='same':raise CloudStateError('Original Reel match is not present in the migrated ledger.')
+ manifest=json.loads(Path('cloud/videos.json').read_text());entries=manifest['videos']
+ if manifest.get('repository')!=repo:raise CloudStateError('Wrong asset repository.')
+ if len({v['sha256'] for v in entries})!=len(entries):raise CloudStateError('Duplicate hashes in asset manifest.')
+ entries=sorted(entries,key=lambda e:(e['number'],e['filename']));by_hash={v['sha256']:v for v in entries}
+ pending=db.pending();needed={j['sha256'] for j in pending}
+ candidate=next((v for v in entries if v['sha256'] not in db.published_hashes()),None)
+ if candidate:needed.add(candidate['sha256'])
+ for digest in needed:
+  if digest not in by_hash:raise CloudStateError('Pending/eligible video is not available in cloud assets.')
+  download_video(by_hash[digest],videos,repo)
+ # Paths are local to each runner, but identity stays bound to the original content hash.
+ with db.conn:
+  for job in pending:db.conn.execute('UPDATE jobs SET filename=? WHERE id=? AND sha256=?',(str(videos/by_hash[job['sha256']]['filename']),job['id'],job['sha256']))
+ enabled=os.environ.get('INSTAGRAM_CLOUD_ENABLED')=='true'
+ if enabled:
+  secure_json(c.activation,{'approved':True,'account_id':c.account_id,'backend':'github-actions'})
+  secure_json(c.root/'publication-approval.json',{'approved':True,'account_id':c.account_id})
+ if args.mode=='check':
+  result=check(c,db)
+  result['hosted_video_count']=len(entries);result['durable_state_restored']=True;result['publications']=len(db.history());result['meta_mutations']=0
+  print(json.dumps(result,indent=2));
+  if not result.get('meta',{}).get('valid') or not result.get('meta',{}).get('expiration_verified') or result.get('selection_hold'):return 2
+  return 0
+ if not enabled:
+  print(json.dumps({'status':'CLOUD_PUBLISH_DISABLED','hosted_video_count':len(entries)}));return 0
+ # Every critical ledger commit is encrypted and persisted BEFORE control returns to Meta calls.
+ db.on_commit=lambda:store.persist(db)
+ store.persist(db)
+ # Start early and wait toward 19:00, allowing scheduler/setup overhead; no exact-time guarantee.
+ now=c.now();target=now.replace(hour=19,minute=0,second=0,microsecond=0);wait=(target-now).total_seconds()
+ publisher=Publisher(c,db)
+ if args.mode=='catchup':authorize_catchup(c,db,args.missed_date,args.expected_sha256,candidate)
+ if args.mode!='catchup' and 0<wait<=16*60:
+  staged=publisher.stage_next()
+  print('Cloud preflight result:',staged.get('status'),'— waiting toward 19:00 IST.',flush=True)
+  wait=(target-c.now()).total_seconds()
+  if wait>0:time.sleep(wait)
+ result=publisher.execute();store.persist(db)
+ result,exit_code=assess_result(c,db,result,candidate is not None,os.environ.get('GITHUB_EVENT_NAME',''))
+ # Report fields cannot include the authenticated resumable upload URI.
+ print(json.dumps({k:v for k,v in result.items() if k!='upload_uri'},indent=2));return exit_code
+if __name__=='__main__':
+ try:raise SystemExit(main())
+ except Exception as e:
+  # Never print raw HTTP exceptions, secret-bearing URLs or decrypted state.
+  print(json.dumps({'status':'CLOUD_ERROR','error':str(e) if isinstance(e,(CloudStateError,__import__('meta_client').MetaError)) else type(e).__name__}));raise SystemExit(1)

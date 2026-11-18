@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 26%
+Upload 35%
+Upload 44%
+Upload 53%
+Upload 62%
+Upload 70%
+Upload 79%
+Upload 88%
+Upload 97%
+Uploaded: https://www.youtube.com/watch?v=cUOu4YeaJNk
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "965c828e575ad5172261e7b01db880d398347df51f7067e1fcaa326bb3b21a83",
+  "title": "AI Privacy: What to Check Before Sharing Personal Data | Ep 32",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:07:26Z",
+  "publishAt": "2026-11-11T14:00:00+05:30",
+  "videoId": "cUOu4YeaJNk",
+  "url": "https://www.youtube.com/watch?v=cUOu4YeaJNk",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-11T08:30:00Z"
+}

@@ -1,0 +1,657 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 6534160,
+    "text": "Agile"
+  },
+  {
+    "offset": 7676250,
+    "duration": 1420410,
+    "text": "is"
+  },
+  {
+    "offset": 9238750,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 10090830,
+    "duration": 3551250,
+    "text": "set"
+  },
+  {
+    "offset": 13784160,
+    "duration": 1704580,
+    "text": "of"
+  },
+  {
+    "offset": 15630830,
+    "duration": 6392080,
+    "text": "values"
+  },
+  {
+    "offset": 22164580,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 24579580,
+    "duration": 7102080,
+    "text": "principles"
+  },
+  {
+    "offset": 31823750,
+    "duration": 4119160,
+    "text": "rather"
+  },
+  {
+    "offset": 36085410,
+    "duration": 2272910,
+    "text": "than"
+  },
+  {
+    "offset": 38500000,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 39352080,
+    "duration": 4971660,
+    "text": "single"
+  },
+  {
+    "offset": 44465830,
+    "duration": 7244160,
+    "text": "prescribed"
+  },
+  {
+    "offset": 51852080,
+    "duration": 7386250,
+    "text": "process"
+  },
+  {
+    "offset": 69250000,
+    "duration": 2556660,
+    "text": "In"
+  },
+  {
+    "offset": 71948750,
+    "duration": 3267080,
+    "text": "this"
+  },
+  {
+    "offset": 75357910,
+    "duration": 5681660,
+    "text": "lesson"
+  },
+  {
+    "offset": 82886250,
+    "duration": 2130830,
+    "text": "we"
+  },
+  {
+    "offset": 85159160,
+    "duration": 5965830,
+    "text": "examine"
+  },
+  {
+    "offset": 91267080,
+    "duration": 5965830,
+    "text": "Scrum"
+  },
+  {
+    "offset": 98937500,
+    "duration": 5965830,
+    "text": "Kanban"
+  },
+  {
+    "offset": 106750000,
+    "duration": 5965830,
+    "text": "Extreme"
+  },
+  {
+    "offset": 112857910,
+    "duration": 8096660,
+    "text": "Programming"
+  },
+  {
+    "offset": 121096660,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 123511250,
+    "duration": 2982910,
+    "text": "Lean"
+  },
+  {
+    "offset": 126636250,
+    "duration": 6250000,
+    "text": "Software"
+  },
+  {
+    "offset": 133028330,
+    "duration": 9232910,
+    "text": "Development"
+  },
+  {
+    "offset": 144392080,
+    "duration": 2414580,
+    "text": "and"
+  },
+  {
+    "offset": 146948750,
+    "duration": 5965830,
+    "text": "explain"
+  },
+  {
+    "offset": 153056660,
+    "duration": 3125000,
+    "text": "how"
+  },
+  {
+    "offset": 156323750,
+    "duration": 5539580,
+    "text": "testing"
+  },
+  {
+    "offset": 162005830,
+    "duration": 6250000,
+    "text": "changes"
+  },
+  {
+    "offset": 168397910,
+    "duration": 2556660,
+    "text": "with"
+  },
+  {
+    "offset": 171096660,
+    "duration": 2556660,
+    "text": "each"
+  },
+  {
+    "offset": 173795410,
+    "duration": 6676250,
+    "text": "approach"
+  },
+  {
+    "offset": 190272910,
+    "duration": 5965830,
+    "text": "Start"
+  },
+  {
+    "offset": 196380830,
+    "duration": 1846660,
+    "text": "with"
+  },
+  {
+    "offset": 198369160,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 199079580,
+    "duration": 8948750,
+    "text": "comparison"
+  },
+  {
+    "offset": 208170410,
+    "duration": 2414580,
+    "text": "that"
+  },
+  {
+    "offset": 210727080,
+    "duration": 1846660,
+    "text": "will"
+  },
+  {
+    "offset": 212715830,
+    "duration": 4971660,
+    "text": "remain"
+  },
+  {
+    "offset": 217829580,
+    "duration": 5965830,
+    "text": "useful"
+  },
+  {
+    "offset": 223937500,
+    "duration": 4971660,
+    "text": "throughout"
+  },
+  {
+    "offset": 229051250,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 230471660,
+    "duration": 5823750,
+    "text": "course"
+  },
+  {
+    "offset": 245954580,
+    "duration": 6534160,
+    "text": "Imagine"
+  },
+  {
+    "offset": 252630830,
+    "duration": 852080,
+    "text": "a"
+  },
+  {
+    "offset": 253625000,
+    "duration": 3835410,
+    "text": "team"
+  },
+  {
+    "offset": 257602080,
+    "duration": 4829990,
+    "text": "building a"
+  },
+  {
+    "offset": 262573750,
+    "duration": 6250000,
+    "text": "customer"
+  },
+  {
+    "offset": 268965830,
+    "duration": 5255830,
+    "text": "portal"
+  },
+  {
+    "offset": 274363750,
+    "duration": 3125000,
+    "text": "while"
+  },
+  {
+    "offset": 277630830,
+    "duration": 4119160,
+    "text": "also"
+  },
+  {
+    "offset": 281892080,
+    "duration": 6250000,
+    "text": "receiving"
+  },
+  {
+    "offset": 288284160,
+    "duration": 6676250,
+    "text": "production"
+  },
+  {
+    "offset": 295102500,
+    "duration": 5681660,
+    "text": "support"
+  },
+  {
+    "offset": 300926250,
+    "duration": 8806660,
+    "text": "requests"
+  },
+  {
+    "offset": 319534160,
+    "duration": 3125000,
+    "text": "Its"
+  },
+  {
+    "offset": 322801250,
+    "duration": 4119160,
+    "text": "planned"
+  },
+  {
+    "offset": 327062500,
+    "duration": 5965830,
+    "text": "feature"
+  },
+  {
+    "offset": 333170410,
+    "duration": 3409160,
+    "text": "work"
+  },
+  {
+    "offset": 336721660,
+    "duration": 6250000,
+    "text": "benefits"
+  },
+  {
+    "offset": 343113750,
+    "duration": 2556660,
+    "text": "from"
+  },
+  {
+    "offset": 345812500,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 346522910,
+    "duration": 4261250,
+    "text": "clear"
+  },
+  {
+    "offset": 350926250,
+    "duration": 6250000,
+    "text": "short-term"
+  },
+  {
+    "offset": 357318330,
+    "duration": 4687500,
+    "text": "goal"
+  },
+  {
+    "offset": 363568330,
+    "duration": 2130830,
+    "text": "but"
+  },
+  {
+    "offset": 365840830,
+    "duration": 5823750,
+    "text": "incoming"
+  },
+  {
+    "offset": 371806660,
+    "duration": 6676250,
+    "text": "incidents"
+  },
+  {
+    "offset": 378625000,
+    "duration": 1278330,
+    "text": "do"
+  },
+  {
+    "offset": 380045410,
+    "duration": 3835410,
+    "text": "not"
+  },
+  {
+    "offset": 384022910,
+    "duration": 5539580,
+    "text": "respect"
+  },
+  {
+    "offset": 389704580,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 390556660,
+    "duration": 4545410,
+    "text": "sprint"
+  },
+  {
+    "offset": 395244160,
+    "duration": 7102080,
+    "text": "calendar"
+  },
+  {
+    "offset": 412290000,
+    "duration": 4119160,
+    "text": "No"
+  },
+  {
+    "offset": 416551250,
+    "duration": 4687500,
+    "text": "single"
+  },
+  {
+    "offset": 421380830,
+    "duration": 4403330,
+    "text": "label"
+  },
+  {
+    "offset": 425926250,
+    "duration": 4971660,
+    "text": "solves"
+  },
+  {
+    "offset": 431040000,
+    "duration": 3551250,
+    "text": "both"
+  },
+  {
+    "offset": 434732910,
+    "duration": 7386250,
+    "text": "problems"
+  },
+  {
+    "offset": 451920410,
+    "duration": 2414580,
+    "text": "The"
+  },
+  {
+    "offset": 454477500,
+    "duration": 3693330,
+    "text": "team"
+  },
+  {
+    "offset": 458312500,
+    "duration": 2982910,
+    "text": "must"
+  },
+  {
+    "offset": 461437500,
+    "duration": 4971660,
+    "text": "decide"
+  },
+  {
+    "offset": 466551250,
+    "duration": 3125000,
+    "text": "how"
+  },
+  {
+    "offset": 469818330,
+    "duration": 2130830,
+    "text": "to"
+  },
+  {
+    "offset": 472090830,
+    "duration": 5539580,
+    "text": "plan"
+  },
+  {
+    "offset": 479903330,
+    "duration": 2982910,
+    "text": "how"
+  },
+  {
+    "offset": 483028330,
+    "duration": 1846660,
+    "text": "to"
+  },
+  {
+    "offset": 485017080,
+    "duration": 8806660,
+    "text": "visualize"
+  },
+  {
+    "offset": 493965830,
+    "duration": 5113750,
+    "text": "active"
+  },
+  {
+    "offset": 499221660,
+    "duration": 4261250,
+    "text": "work"
+  },
+  {
+    "offset": 505471660,
+    "duration": 2556660,
+    "text": "and"
+  },
+  {
+    "offset": 508170410,
+    "duration": 3125000,
+    "text": "how"
+  },
+  {
+    "offset": 511437500,
+    "duration": 1420410,
+    "text": "to"
+  },
+  {
+    "offset": 513000000,
+    "duration": 3977080,
+    "text": "build"
+  },
+  {
+    "offset": 517119160,
+    "duration": 6250000,
+    "text": "reliable"
+  },
+  {
+    "offset": 523511250,
+    "duration": 7670410,
+    "text": "software"
+  },
+  {
+    "offset": 540982910,
+    "duration": 5681660,
+    "text": "Scrum"
+  },
+  {
+    "offset": 546806660,
+    "duration": 5681660,
+    "text": "provides"
+  },
+  {
+    "offset": 552630830,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 553482910,
+    "duration": 6960410,
+    "text": "framework"
+  },
+  {
+    "offset": 560585410,
+    "duration": 1988750,
+    "text": "for"
+  },
+  {
+    "offset": 562715830,
+    "duration": 4829580,
+    "text": "product"
+  },
+  {
+    "offset": 567687500,
+    "duration": 4545410,
+    "text": "work"
+  },
+  {
+    "offset": 575784160,
+    "duration": 4119160,
+    "text": "Kanban"
+  },
+  {
+    "offset": 580045410,
+    "duration": 4687500,
+    "text": "helps"
+  },
+  {
+    "offset": 584875000,
+    "duration": 4971660,
+    "text": "manage"
+  },
+  {
+    "offset": 589988750,
+    "duration": 4545410,
+    "text": "flow"
+  },
+  {
+    "offset": 597517080,
+    "duration": 3409160,
+    "text": "X"
+  },
+  {
+    "offset": 601068330,
+    "duration": 2130830,
+    "text": "P"
+  },
+  {
+    "offset": 603340830,
+    "duration": 8948750,
+    "text": "contributes"
+  },
+  {
+    "offset": 612431660,
+    "duration": 6534160,
+    "text": "engineering"
+  },
+  {
+    "offset": 619107910,
+    "duration": 8380830,
+    "text": "practices"
+  },
+  {
+    "offset": 630045410,
+    "duration": 3551250,
+    "text": "Lean"
+  },
+  {
+    "offset": 633738750,
+    "duration": 7528330,
+    "text": "encourages"
+  },
+  {
+    "offset": 641409160,
+    "duration": 6392080,
+    "text": "attention"
+  },
+  {
+    "offset": 647943330,
+    "duration": 1420410,
+    "text": "to"
+  },
+  {
+    "offset": 649505830,
+    "duration": 5823750,
+    "text": "value"
+  },
+  {
+    "offset": 655471660,
+    "duration": 3409160,
+    "text": "and"
+  },
+  {
+    "offset": 659022910,
+    "duration": 5113750,
+    "text": "waste"
+  },
+  {
+    "offset": 673937500,
+    "duration": 7812500,
+    "text": "Evaluate"
+  },
+  {
+    "offset": 681892080,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 683312500,
+    "duration": 5823750,
+    "text": "problem"
+  },
+  {
+    "offset": 689278330,
+    "duration": 4687500,
+    "text": "before"
+  },
+  {
+    "offset": 694107910,
+    "duration": 6534160,
+    "text": "selecting"
+  },
+  {
+    "offset": 700784160,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 701920410,
+    "duration": 9517080,
+    "text": "vocabulary"
+  }
+]

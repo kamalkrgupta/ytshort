@@ -1,0 +1,20 @@
+HTML Input Types | Web Development in 60 Seconds
+
+Input types tell a browser what kind of value to collect. Learn html input types with a quick example for beginners.
+
+Email, password, and number types offer different input behavior.
+An email field can participate in browser validation.
+
+Try it: Try three input types and compare their behavior.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 15
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content
+
+#WebDevelopment #LearnToCode #Shorts
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU
+
+Tags: html input types, web development for beginners, learn to code, coding shorts, html tutorial, TECH AT 60

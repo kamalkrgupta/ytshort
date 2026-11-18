@@ -1,0 +1,22 @@
+{
+  "videoNumber": 51,
+  "phase": "Phase 5 \u2014 Real-World Beginner Projects",
+  "topic": "Publish Your First Website for Free",
+  "description": "Deploy a static website using GitHub Pages.",
+  "publishLocal": "2026-11-19T11:00:00+05:30",
+  "publishAt": "2026-11-19T05:30:00+00:00",
+  "status": "planned",
+  "definition": "GitHub Pages can publish a static website from a repository.",
+  "code": "my-website/\n  index.html\n  styles.css\n  script.js",
+  "preview": "<div style=\"background:#d7f5e3;padding:30px\">\u2713 Your site is live</div><h2>Hello, web!</h2>",
+  "rule": "Choose a branch and folder as the source.",
+  "tip": "Keep index.html at the source root.",
+  "caution": "Public files must not contain secrets.",
+  "exercise": "Open your published URL on a phone.",
+  "title": "Publish a Website for Free with GitHub Pages",
+  "shortTitle": "From local files\nto a public URL",
+  "hook": "index.html \u2192 GitHub Pages",
+  "idea": "GitHub Pages serves static website files.",
+  "closing": "Check your site on a phone.",
+  "code2": "Settings \u2192 Pages\nSource: Deploy from a branch\nBranch: main\nFolder: / (root)\nSave"
+}

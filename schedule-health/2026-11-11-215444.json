@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-11",
+  "checkedAt": "2026-11-11T21:54:44.622066+05:30",
+  "state": "needs_attention",
+  "timezone": "Asia/Kolkata",
+  "lookaheadDays": 3,
+  "error": "RefreshError",
+  "message": "Authorization or connection check failed; manual sign-in may be required.",
+  "finishedAt": "2026-11-11T21:54:45.142800+05:30"
+}

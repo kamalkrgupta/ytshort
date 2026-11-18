@@ -1,0 +1,16 @@
+{
+  "videoNumber": 7,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "HTML Lists Explained",
+  "description": "Create ordered and unordered lists.",
+  "publishLocal": "2026-10-22T16:00:00+05:30",
+  "publishAt": "2026-10-22T10:30:00Z",
+  "status": "planned",
+  "definition": "Lists group related items in a meaningful order.",
+  "code": "<ul>\n  <li>HTML</li>\n  <li>CSS</li>\n</ul>",
+  "preview": "<ul><li>HTML</li><li>CSS</li></ul>",
+  "rule": "Use an unordered list for bullets, and an ordered list for numbering.",
+  "tip": "Each list item belongs inside an L I element.",
+  "caution": "Pick numbering when the sequence of the items matters.",
+  "exercise": "Create a numbered list of three steps in your morning routine."
+}

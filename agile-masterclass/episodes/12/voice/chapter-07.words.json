@@ -1,0 +1,607 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 5255830,
+    "text": "Review"
+  },
+  {
+    "offset": 6397910,
+    "duration": 7954580,
+    "text": "Definition"
+  },
+  {
+    "offset": 14494160,
+    "duration": 1562500,
+    "text": "of"
+  },
+  {
+    "offset": 16198750,
+    "duration": 4829580,
+    "text": "Done"
+  },
+  {
+    "offset": 22875000,
+    "duration": 8948750,
+    "text": "outstanding"
+  },
+  {
+    "offset": 31965830,
+    "duration": 5965830,
+    "text": "defects"
+  },
+  {
+    "offset": 40062500,
+    "duration": 8380830,
+    "text": "deployment"
+  },
+  {
+    "offset": 48585410,
+    "duration": 2414580,
+    "text": "and"
+  },
+  {
+    "offset": 51142080,
+    "duration": 5681660,
+    "text": "rollback"
+  },
+  {
+    "offset": 56965830,
+    "duration": 6392080,
+    "text": "plans"
+  },
+  {
+    "offset": 73227080,
+    "duration": 5397910,
+    "text": "After"
+  },
+  {
+    "offset": 78767080,
+    "duration": 5539580,
+    "text": "release"
+  },
+  {
+    "offset": 86011250,
+    "duration": 5823750,
+    "text": "monitor"
+  },
+  {
+    "offset": 91977080,
+    "duration": 5255830,
+    "text": "logs"
+  },
+  {
+    "offset": 98653330,
+    "duration": 7102080,
+    "text": "failures"
+  },
+  {
+    "offset": 105897910,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 108312500,
+    "duration": 4971660,
+    "text": "service"
+  },
+  {
+    "offset": 113426250,
+    "duration": 4545410,
+    "text": "health"
+  },
+  {
+    "offset": 127772910,
+    "duration": 4403330,
+    "text": "Treat"
+  },
+  {
+    "offset": 132318330,
+    "duration": 6960410,
+    "text": "production"
+  },
+  {
+    "offset": 139420410,
+    "duration": 7670410,
+    "text": "feedback"
+  },
+  {
+    "offset": 147232910,
+    "duration": 2698750,
+    "text": "as"
+  },
+  {
+    "offset": 150073750,
+    "duration": 5539580,
+    "text": "another"
+  },
+  {
+    "offset": 155755830,
+    "duration": 3977080,
+    "text": "input"
+  },
+  {
+    "offset": 159875000,
+    "duration": 1136250,
+    "text": "to"
+  },
+  {
+    "offset": 161153330,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 162431660,
+    "duration": 5397910,
+    "text": "quality"
+  },
+  {
+    "offset": 167971660,
+    "duration": 6534160,
+    "text": "cycle"
+  },
+  {
+    "offset": 184590830,
+    "duration": 5823750,
+    "text": "Before"
+  },
+  {
+    "offset": 190556660,
+    "duration": 5539580,
+    "text": "release"
+  },
+  {
+    "offset": 197517080,
+    "duration": 5965830,
+    "text": "inspect"
+  },
+  {
+    "offset": 203625000,
+    "duration": 1420410,
+    "text": "the"
+  },
+  {
+    "offset": 205187500,
+    "duration": 4119160,
+    "text": "shared"
+  },
+  {
+    "offset": 209448750,
+    "duration": 5397910,
+    "text": "quality"
+  },
+  {
+    "offset": 214988750,
+    "duration": 7812500,
+    "text": "conditions"
+  },
+  {
+    "offset": 224505830,
+    "duration": 4545410,
+    "text": "open"
+  },
+  {
+    "offset": 229193330,
+    "duration": 5539580,
+    "text": "risks"
+  },
+  {
+    "offset": 236579580,
+    "duration": 7812500,
+    "text": "deployment"
+  },
+  {
+    "offset": 244534160,
+    "duration": 5113750,
+    "text": "steps"
+  },
+  {
+    "offset": 249789580,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 252204580,
+    "duration": 5965830,
+    "text": "recovery"
+  },
+  {
+    "offset": 258312500,
+    "duration": 5539580,
+    "text": "plan"
+  },
+  {
+    "offset": 273511250,
+    "duration": 4119160,
+    "text": "Make"
+  },
+  {
+    "offset": 277772910,
+    "duration": 3409160,
+    "text": "sure"
+  },
+  {
+    "offset": 281323750,
+    "duration": 5397910,
+    "text": "relevant"
+  },
+  {
+    "offset": 286863750,
+    "duration": 5681660,
+    "text": "evidence"
+  },
+  {
+    "offset": 292687500,
+    "duration": 5681660,
+    "text": "belongs"
+  },
+  {
+    "offset": 298511250,
+    "duration": 1136250,
+    "text": "to"
+  },
+  {
+    "offset": 299790000,
+    "duration": 1704580,
+    "text": "the"
+  },
+  {
+    "offset": 301636250,
+    "duration": 6250000,
+    "text": "intended"
+  },
+  {
+    "offset": 308028330,
+    "duration": 4545410,
+    "text": "release"
+  },
+  {
+    "offset": 312715830,
+    "duration": 7670410,
+    "text": "candidate"
+  },
+  {
+    "offset": 330329580,
+    "duration": 2698750,
+    "text": "If"
+  },
+  {
+    "offset": 333170410,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 334022910,
+    "duration": 6534160,
+    "text": "serious"
+  },
+  {
+    "offset": 340698750,
+    "duration": 8522910,
+    "text": "unresolved"
+  },
+  {
+    "offset": 349363750,
+    "duration": 5823750,
+    "text": "payment"
+  },
+  {
+    "offset": 355329580,
+    "duration": 3125000,
+    "text": "issue"
+  },
+  {
+    "offset": 358596660,
+    "duration": 6818330,
+    "text": "remains"
+  },
+  {
+    "offset": 366977500,
+    "duration": 3693330,
+    "text": "either"
+  },
+  {
+    "offset": 370812500,
+    "duration": 5823750,
+    "text": "resolve"
+  },
+  {
+    "offset": 376778330,
+    "duration": 2272910,
+    "text": "it"
+  },
+  {
+    "offset": 379193330,
+    "duration": 1704580,
+    "text": "or"
+  },
+  {
+    "offset": 381040000,
+    "duration": 3267080,
+    "text": "make"
+  },
+  {
+    "offset": 384448750,
+    "duration": 1278330,
+    "text": "an"
+  },
+  {
+    "offset": 385869160,
+    "duration": 6818330,
+    "text": "explicit"
+  },
+  {
+    "offset": 392829580,
+    "duration": 4971660,
+    "text": "scope"
+  },
+  {
+    "offset": 397943330,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 400357910,
+    "duration": 4261250,
+    "text": "release"
+  },
+  {
+    "offset": 404761250,
+    "duration": 6107910,
+    "text": "decision"
+  },
+  {
+    "offset": 411011250,
+    "duration": 1704580,
+    "text": "with"
+  },
+  {
+    "offset": 412857910,
+    "duration": 852080,
+    "text": "the"
+  },
+  {
+    "offset": 413852500,
+    "duration": 9232910,
+    "text": "responsible"
+  },
+  {
+    "offset": 423227500,
+    "duration": 11079580,
+    "text": "stakeholders"
+  },
+  {
+    "offset": 444107910,
+    "duration": 4971660,
+    "text": "After"
+  },
+  {
+    "offset": 449221660,
+    "duration": 8380830,
+    "text": "deployment"
+  },
+  {
+    "offset": 459448750,
+    "duration": 6960410,
+    "text": "monitor"
+  },
+  {
+    "offset": 466551250,
+    "duration": 2556660,
+    "text": "error"
+  },
+  {
+    "offset": 469250000,
+    "duration": 6676250,
+    "text": "signals"
+  },
+  {
+    "offset": 477488750,
+    "duration": 8380830,
+    "text": "transaction"
+  },
+  {
+    "offset": 486011250,
+    "duration": 10369160,
+    "text": "consistency"
+  },
+  {
+    "offset": 496522910,
+    "duration": 2556660,
+    "text": "and"
+  },
+  {
+    "offset": 499221660,
+    "duration": 5255830,
+    "text": "customer"
+  },
+  {
+    "offset": 504619160,
+    "duration": 6818330,
+    "text": "feedback"
+  },
+  {
+    "offset": 511579580,
+    "duration": 4829580,
+    "text": "using"
+  },
+  {
+    "offset": 516551250,
+    "duration": 7812500,
+    "text": "appropriate"
+  },
+  {
+    "offset": 524505830,
+    "duration": 5397910,
+    "text": "access"
+  },
+  {
+    "offset": 530045410,
+    "duration": 8806660,
+    "text": "controls"
+  },
+  {
+    "offset": 548653330,
+    "duration": 1704580,
+    "text": "A"
+  },
+  {
+    "offset": 550500000,
+    "duration": 7528330,
+    "text": "successful"
+  },
+  {
+    "offset": 558170410,
+    "duration": 6960410,
+    "text": "deployment"
+  },
+  {
+    "offset": 565272910,
+    "duration": 5397910,
+    "text": "command"
+  },
+  {
+    "offset": 570812500,
+    "duration": 1704580,
+    "text": "is"
+  },
+  {
+    "offset": 572659160,
+    "duration": 3125000,
+    "text": "not"
+  },
+  {
+    "offset": 575926250,
+    "duration": 1846660,
+    "text": "the"
+  },
+  {
+    "offset": 577915000,
+    "duration": 2556660,
+    "text": "end"
+  },
+  {
+    "offset": 580613750,
+    "duration": 1562500,
+    "text": "of"
+  },
+  {
+    "offset": 582318330,
+    "duration": 5255830,
+    "text": "quality"
+  },
+  {
+    "offset": 587715830,
+    "duration": 4829580,
+    "text": "work"
+  },
+  {
+    "offset": 602346660,
+    "duration": 7244160,
+    "text": "Production"
+  },
+  {
+    "offset": 609732910,
+    "duration": 8664580,
+    "text": "observations"
+  },
+  {
+    "offset": 618540000,
+    "duration": 1988750,
+    "text": "can"
+  },
+  {
+    "offset": 620670410,
+    "duration": 3977080,
+    "text": "reveal"
+  },
+  {
+    "offset": 624790000,
+    "duration": 7244160,
+    "text": "conditions"
+  },
+  {
+    "offset": 632176250,
+    "duration": 2272910,
+    "text": "that"
+  },
+  {
+    "offset": 634590830,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 635727500,
+    "duration": 4403330,
+    "text": "test"
+  },
+  {
+    "offset": 640272910,
+    "duration": 7812500,
+    "text": "environment"
+  },
+  {
+    "offset": 648227500,
+    "duration": 1704580,
+    "text": "did"
+  },
+  {
+    "offset": 650073750,
+    "duration": 3551250,
+    "text": "not"
+  },
+  {
+    "offset": 653767080,
+    "duration": 8238750,
+    "text": "reproduce"
+  },
+  {
+    "offset": 663568330,
+    "duration": 3125000,
+    "text": "and"
+  },
+  {
+    "offset": 666835410,
+    "duration": 3551250,
+    "text": "those"
+  },
+  {
+    "offset": 670528330,
+    "duration": 8806660,
+    "text": "observations"
+  },
+  {
+    "offset": 679477500,
+    "duration": 2698750,
+    "text": "should"
+  },
+  {
+    "offset": 682318330,
+    "duration": 5113750,
+    "text": "inform"
+  },
+  {
+    "offset": 687573750,
+    "duration": 3267080,
+    "text": "both"
+  },
+  {
+    "offset": 690982910,
+    "duration": 6676250,
+    "text": "fixes"
+  },
+  {
+    "offset": 697801250,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 700215830,
+    "duration": 5539580,
+    "text": "future"
+  },
+  {
+    "offset": 705897910,
+    "duration": 5539580,
+    "text": "checks"
+  }
+]

@@ -1,0 +1,18 @@
+JavaScript Functions | Web Development in 60 Seconds
+
+A function groups instructions into a reusable operation. Learn javascript functions with a quick example for beginners.
+
+Parameters receive input, and return sends a result back to the caller.
+Call the function with an argument to run its instructions.
+
+Try it: Write a function that returns the sum of two numbers.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 41
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: javascript functions, web development for beginners, learn to code, coding shorts, javascript tutorial

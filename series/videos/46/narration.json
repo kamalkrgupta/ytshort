@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "JavaScript D O M Manipulation. Let’s make it simple.",
+    "idea": "The document object model represents a page as objects JavaScript can change. Start by understanding the role it plays in a page.",
+    "code": "Select an element, then change its text content.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Event listeners can trigger these updates when a user takes an action. Keep this detail in mind when writing your own example.",
+    "caution": "Ensure the element exists before using it, and prefer text content for plain text.",
+    "try": "Change a heading when someone presses a button. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "videoNumber": 45,
+  "phase": "Phase 4 — JavaScript for Beginners",
+  "topic": "JavaScript Objects",
+  "description": "Organize related information with properties.",
+  "publishLocal": "2026-11-10T16:00:00+05:30",
+  "publishAt": "2026-11-10T10:30:00Z",
+  "status": "planned",
+  "definition": "Objects organize information as named properties and their values.",
+  "code": "const learner = {\n name: \"Alex\",\n skill: \"HTML\"\n};\nconsole.log(learner.name);",
+  "preview": "<h2>Alex</h2><p>Skill: HTML</p>",
+  "rule": "Use a property name to access one piece of an object.",
+  "tip": "Dot notation works with ordinary identifier-style property names.",
+  "caution": "Use bracket notation when a property name comes from a variable.",
+  "exercise": "Create an object describing a learner and read its name."
+}

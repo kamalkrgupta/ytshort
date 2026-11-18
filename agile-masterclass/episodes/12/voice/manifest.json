@@ -1,0 +1,60 @@
+{
+  "leadIn": 0.25,
+  "clips": {
+    "chapter-01": {
+      "file": "chapter-01.wav",
+      "duration": 54.55,
+      "source": "measured-edge-tts"
+    },
+    "chapter-02": {
+      "file": "chapter-02.wav",
+      "duration": 60.216667,
+      "source": "measured-edge-tts"
+    },
+    "chapter-03": {
+      "file": "chapter-03.wav",
+      "duration": 61.583333,
+      "source": "measured-edge-tts"
+    },
+    "chapter-04": {
+      "file": "chapter-04.wav",
+      "duration": 58.716667,
+      "source": "measured-edge-tts"
+    },
+    "chapter-05": {
+      "file": "chapter-05.wav",
+      "duration": 63.55,
+      "source": "measured-edge-tts"
+    },
+    "chapter-06": {
+      "file": "chapter-06.wav",
+      "duration": 60.75,
+      "source": "measured-edge-tts"
+    },
+    "chapter-07": {
+      "file": "chapter-07.wav",
+      "duration": 60.65,
+      "source": "measured-edge-tts"
+    },
+    "chapter-08": {
+      "file": "chapter-08.wav",
+      "duration": 47.65,
+      "source": "measured-edge-tts"
+    },
+    "chapter-09": {
+      "file": "chapter-09.wav",
+      "duration": 46.25,
+      "source": "measured-edge-tts"
+    },
+    "chapter-10": {
+      "file": "chapter-10.wav",
+      "duration": 45.45,
+      "source": "measured-edge-tts"
+    },
+    "chapter-11": {
+      "file": "chapter-11.wav",
+      "duration": 33.483333,
+      "source": "measured-edge-tts"
+    }
+  }
+}

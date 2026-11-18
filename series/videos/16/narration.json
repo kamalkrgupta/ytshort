@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "H T M L Checkboxes & Radio Buttons. Let’s make it simple.",
+    "idea": "Checkboxes allow independent choices; radio buttons select within a group. Start by understanding the role it plays in a page.",
+    "code": "Use the same name for radio buttons that belong to one group.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Checkboxes are useful when several options may be selected together. Keep this detail in mind when writing your own example.",
+    "caution": "Associate every control with a label, including checkboxes and radios.",
+    "try": "Create two skill checkboxes and a radio group for experience level. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

@@ -1,0 +1,559 @@
+1
+00:00:00,337 --> 00:00:04,931
+Agile teams need frequent visibility into testing progress remaining
+
+2
+00:00:04,943 --> 00:00:09,703
+risks and blocked work Today we examine planning execution
+
+3
+00:00:09,716 --> 00:00:15,708
+tracking defect management and stakeholder reporting Imagine that stakeholders
+
+4
+00:00:15,720 --> 00:00:20,438
+ask whether a customer-management release is ready A dashboard
+
+5
+00:00:20,450 --> 00:00:24,697
+says seventy percent of tests have passed That number
+
+6
+00:00:24,709 --> 00:00:28,374
+alone cannot answer the question We need to know
+
+7
+00:00:28,386 --> 00:00:31,890
+which features were tested which risks remain and whether
+
+8
+00:00:31,902 --> 00:00:36,942
+important failures are unresolved In this lesson treat tracking
+
+9
+00:00:36,954 --> 00:00:40,520
+as a way to support a decision Every chart
+
+10
+00:00:40,532 --> 00:00:43,801
+should have a meaning and a next action Our
+
+11
+00:00:43,813 --> 00:00:48,444
+fictional release contains registration profile editing and customer search
+
+12
+00:00:49,323 --> 00:00:53,396
+We will connect each feature to scenarios results defects
+
+13
+00:00:53,408 --> 00:00:55,290
+and a concise release update
+
+14
+00:00:56,904 --> 00:01:00,916
+For a CRM sprint with registration profile updates and
+
+15
+00:01:00,928 --> 00:01:05,770
+search identify acceptance criteria and scenarios for each feature
+
+16
+00:01:06,643 --> 00:01:11,943
+Plan environments accounts sample data and integration dependencies before
+
+17
+00:01:11,955 --> 00:01:17,651
+execution begins Begin with registration The team agrees that
+
+18
+00:01:17,664 --> 00:01:20,945
+a valid new address creates an account a duplicate
+
+19
+00:01:20,958 --> 00:01:24,648
+address is handled safely and an invalid address cannot
+
+20
+00:01:24,660 --> 00:01:30,369
+complete registration List the environment build identifier and account
+
+21
+00:01:30,381 --> 00:01:34,567
+data needed for each check If outbound email is
+
+22
+00:01:34,579 --> 00:01:39,520
+unavailable mark email-confirmation scenarios as blocked rather than failed
+
+23
+00:01:39,532 --> 00:01:44,077
+or passed This distinction matters because a failure indicates
+
+24
+00:01:44,089 --> 00:01:48,201
+observed incorrect behavior while a blocked result indicates missing
+
+25
+00:01:48,213 --> 00:01:53,228
+evidence Planning dependencies early makes the dashboard easier to
+
+26
+00:01:53,240 --> 00:01:56,225
+interpret later and gives the team time to restore
+
+27
+00:01:56,237 --> 00:01:57,537
+missing capabilities
+
+28
+00:01:59,171 --> 00:02:03,840
+Suppose forty test cases exist twenty-eight passed six failed
+
+29
+00:02:03,976 --> 00:02:07,438
+four blocked and two not run The numbers are
+
+30
+00:02:07,450 --> 00:02:12,169
+useful but risk matters more than raw percentages One
+
+31
+00:02:12,182 --> 00:02:17,322
+failed payment test can outweigh several cosmetic failures Calculate
+
+32
+00:02:17,334 --> 00:02:22,437
+the illustrative status carefully There are forty tests twenty-eight
+
+33
+00:02:22,450 --> 00:02:25,794
+passed six failed four blocked and two not run
+
+34
+00:02:26,648 --> 00:02:30,055
+Twenty-eight out of forty is seventy percent passed across
+
+35
+00:02:30,067 --> 00:02:34,774
+the planned set Twenty-eight out of thirty-four executed tests
+
+36
+00:02:34,786 --> 00:02:40,186
+is approximately eighty-two percent Both calculations can be mathematically
+
+37
+00:02:40,199 --> 00:02:46,144
+correct but answer different questions Label the denominator More
+
+38
+00:02:46,156 --> 00:02:50,752
+importantly inspect the six failures a broken account-ownership check
+
+39
+00:02:50,764 --> 00:02:54,083
+may prevent release even if many visual checks pass
+
+40
+00:02:54,926 --> 00:02:58,567
+Do not compress blocked work unexecuted work and failed
+
+41
+00:02:58,579 --> 00:03:01,342
+behavior into a single reassuring percentage
+
+42
+00:03:02,937 --> 00:03:08,697
+Record a concise title environment reproduction steps expected behavior
+
+43
+00:03:08,870 --> 00:03:15,553
+actual behavior and evidence Severity describes impact priority describes
+
+44
+00:03:15,565 --> 00:03:20,607
+urgency Link defects to affected stories to maintain context
+
+45
+00:03:21,462 --> 00:03:25,462
+Write a defect that a colleague can reproduce Use
+
+46
+00:03:25,475 --> 00:03:29,067
+a title such as Duplicate registration returns an internal
+
+47
+00:03:29,079 --> 00:03:33,873
+error on build forty-two Specify the test environment a
+
+48
+00:03:33,886 --> 00:03:38,778
+synthetic existing address the exact registration action the expected
+
+49
+00:03:38,791 --> 00:03:43,832
+safe response and the actual error Attach sanitized evidence
+
+50
+00:03:43,845 --> 00:03:48,428
+and link the relevant story Severity describes the impact
+
+51
+00:03:48,440 --> 00:03:52,280
+of the defect priority expresses how urgently the team
+
+52
+00:03:52,292 --> 00:03:56,454
+chooses to address it They often influence each other
+
+53
+00:03:56,467 --> 00:04:00,753
+but are not interchangeable A small-looking visual issue might
+
+54
+00:04:00,765 --> 00:04:04,754
+still be urgent before a time-sensitive demonstration while its
+
+55
+00:04:04,766 --> 00:04:06,785
+functional severity remains low
+
+56
+00:04:08,404 --> 00:04:13,805
+Useful indicators include defect leakage execution progress cycle time
+
+57
+00:04:13,941 --> 00:04:18,468
+blocked tests and automated test stability A high pass
+
+58
+00:04:18,480 --> 00:04:22,667
+rate is not proof of adequate coverage Use metrics
+
+59
+00:04:22,680 --> 00:04:27,820
+to identify patterns rather than reward superficial numbers Build
+
+60
+00:04:27,833 --> 00:04:33,221
+a balanced dashboard Show unresolved critical risks blocked work
+
+61
+00:04:33,494 --> 00:04:36,999
+test execution and defect trends with enough context to
+
+62
+00:04:37,011 --> 00:04:42,202
+explain changes If execution falls because the test environment
+
+63
+00:04:42,214 --> 00:04:46,673
+was unavailable annotate that cause If the pass rate
+
+64
+00:04:46,686 --> 00:04:50,736
+improves because failing tests were removed the apparent improvement
+
+65
+00:04:50,749 --> 00:04:54,700
+is misleading unless the scope change is visible For
+
+66
+00:04:54,712 --> 00:04:58,974
+automation track unstable checks separately so repeated reruns do
+
+67
+00:04:58,986 --> 00:05:04,585
+not disguise unreliable feedback Metrics are prompts for investigation
+
+68
+00:05:05,440 --> 00:05:08,313
+Choose a small set that helps the team decide
+
+69
+00:05:08,326 --> 00:05:11,187
+what to fix finish or investigate next
+
+70
+00:05:12,804 --> 00:05:16,606
+A good update answers what was tested what remains
+
+71
+00:05:16,791 --> 00:05:20,550
+what risks exist and what help is needed For
+
+72
+00:05:20,562 --> 00:05:25,020
+example registration and profile testing are complete search is
+
+73
+00:05:25,032 --> 00:05:29,429
+underway two critical defects remain performance testing is blocked
+
+74
+00:05:29,441 --> 00:05:33,292
+by test data Turn the dashboard into a useful
+
+75
+00:05:33,305 --> 00:05:37,490
+update Registration and profile editing have been checked on
+
+76
+00:05:37,503 --> 00:05:42,221
+the release candidate Customer search remains partly blocked by
+
+77
+00:05:42,233 --> 00:05:47,385
+incomplete test data One critical authorization defect is open
+
+78
+00:05:48,252 --> 00:05:51,595
+The release decision needs either a verified fix or
+
+79
+00:05:51,608 --> 00:05:55,719
+a clear scope change that removes the exposure This
+
+80
+00:05:55,731 --> 00:05:58,840
+message is stronger than listing how many tickets moved
+
+81
+00:05:58,852 --> 00:06:04,771
+today It connects completed work with remaining uncertainty Include
+
+82
+00:06:04,784 --> 00:06:07,198
+an owner and next step for the blocker so
+
+83
+00:06:07,211 --> 00:06:11,161
+stakeholders understand how the uncertainty can be reduced rather
+
+84
+00:06:11,174 --> 00:06:13,861
+than simply being informed that it exists
+
+85
+00:06:15,471 --> 00:06:19,718
+Open a story review criteria create test tasks log
+
+86
+00:06:19,731 --> 00:06:25,199
+linked defects verify fixes and update quality status Maintain
+
+87
+00:06:25,211 --> 00:06:30,128
+traceability from requirements to results Follow one story through
+
+88
+00:06:30,140 --> 00:06:35,490
+its evidence Start with the acceptance criteria Link a
+
+89
+00:06:35,503 --> 00:06:38,772
+set of checks record their results against the build
+
+90
+00:06:39,008 --> 00:06:41,844
+create a linked defect for a failure and attach
+
+91
+00:06:41,856 --> 00:06:46,302
+retest evidence after the fix Then run any relevant
+
+92
+00:06:46,315 --> 00:06:50,786
+regression checks before marking the work complete These links
+
+93
+00:06:50,798 --> 00:06:54,006
+let another team member reconstruct why the story was
+
+94
+00:06:54,018 --> 00:06:58,080
+judged ready The exact screens depend on the tracking
+
+95
+00:06:58,093 --> 00:07:02,774
+product the relationship among requirement test defect and evidence
+
+96
+00:07:02,787 --> 00:07:06,973
+matters more than the tool Avoid duplicating the same
+
+97
+00:07:06,985 --> 00:07:10,366
+status manually in several places where it can drift
+
+98
+00:07:11,971 --> 00:07:15,080
+For your practice task write a release update in
+
+99
+00:07:15,092 --> 00:07:19,868
+four sentences Say what was tested what remains which
+
+100
+00:07:19,880 --> 00:07:23,757
+risk matters most and what help is needed Use
+
+101
+00:07:23,770 --> 00:07:26,768
+the forty-test example but do not rely on the
+
+102
+00:07:26,780 --> 00:07:30,707
+pass rate as your recommendation A good answer could
+
+103
+00:07:30,720 --> 00:07:34,993
+say that most registration scenarios pass search data blocks
+
+104
+00:07:35,006 --> 00:07:39,565
+four checks a failed account-isolation scenario is critical and
+
+105
+00:07:39,577 --> 00:07:43,603
+the team needs a fix plus focused retesting Now
+
+106
+00:07:43,616 --> 00:07:46,688
+ask whether the release would become acceptable if five
+
+107
+00:07:46,700 --> 00:07:51,011
+cosmetic failures were resolved while the authorization failure remained
+
+108
+00:07:51,878 --> 00:07:53,972
+The risk-based answer is still no.
+
+109
+00:07:55,571 --> 00:07:59,999
+Here is a second numerical example Yesterday the team
+
+110
+00:08:00,011 --> 00:08:04,198
+planned forty checks and passed twenty-eight Today it removes
+
+111
+00:08:04,211 --> 00:08:07,159
+ten checks from scope and passes the same twenty-eight
+
+112
+00:08:07,171 --> 00:08:11,173
+of the remaining thirty The displayed pass rate rises
+
+113
+00:08:11,185 --> 00:08:16,363
+dramatically but no additional behavior was tested That change
+
+114
+00:08:16,376 --> 00:08:19,460
+may be legitimate if the release scope changed yet
+
+115
+00:08:19,473 --> 00:08:23,647
+the report must explain it Record which feature or
+
+116
+00:08:23,660 --> 00:08:25,988
+risk moved out of scope and who made the
+
+117
+00:08:26,001 --> 00:08:30,857
+decision Otherwise a chart can suggest improved product quality
+
+118
+00:08:30,869 --> 00:08:35,787
+when only the denominator changed A useful dashboard preserves
+
+119
+00:08:35,800 --> 00:08:39,863
+the relationship between scope execution and risk so readers
+
+120
+00:08:39,875 --> 00:08:43,282
+can interpret movement rather than simply admire a higher
+
+121
+00:08:43,294 --> 00:08:44,050
+percentage
+
+122
+00:08:45,637 --> 00:08:49,322
+Track blocked work with the same care If four
+
+123
+00:08:49,334 --> 00:08:53,558
+checks need unavailable search data record the data dependency
+
+124
+00:08:53,571 --> 00:08:57,881
+and the person coordinating its restoration Separate the age
+
+125
+00:08:57,893 --> 00:09:01,535
+of the blocker from the time spent actively investigating
+
+126
+00:09:02,402 --> 00:09:06,031
+If the team can safely prepare synthetic data describe
+
+127
+00:09:06,044 --> 00:09:09,091
+what it must represent and how its suitability will
+
+128
+00:09:09,103 --> 00:09:13,191
+be checked Once the blocker is removed update the
+
+129
+00:09:13,203 --> 00:09:17,378
+result after execution do not automatically convert Blocked to
+
+130
+00:09:17,390 --> 00:09:21,539
+Passed The absence of an obstacle is not evidence
+
+131
+00:09:21,552 --> 00:09:26,445
+of correct behavior This small reporting discipline prevents an
+
+132
+00:09:26,457 --> 00:09:30,334
+optimistic workflow shortcut from becoming a false claim about
+
+133
+00:09:30,346 --> 00:09:32,415
+what the team actually verified
+
+134
+00:09:34,004 --> 00:09:38,239
+Tracking exists to support decisions not to generate paperwork
+
+135
+00:09:39,109 --> 00:09:42,604
+Knowledge check why can a sprint with ninety-five percent
+
+136
+00:09:42,616 --> 00:09:46,926
+passing tests still be unsafe to release Subscribe to
+
+137
+00:09:46,938 --> 00:09:49,531
+Tech at sixty for the next episode in this
+
+138
+00:09:49,544 --> 00:09:54,730
+Agile Testing Masterclass Practice the example with synthetic data
+
+139
+00:09:54,891 --> 00:09:58,015
+and share the most important risk you identified in
+
+140
+00:09:58,027 --> 00:09:58,743
+the comments

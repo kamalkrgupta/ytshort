@@ -1,0 +1,12 @@
+{
+  "title": "Prompt Injection: When a Webpage Tries to Boss an AI Around",
+  "description": "Untrusted content can contain instructions aimed at an AI. A page summary should not become permission to take actions.\n\nPrompt injection remains an unsolved security challenge.\n\nShould a page be allowed to give orders?\nSubscribe to @Techat60 for clear, beginner-friendly tech explainers.\n\nSource checked November 16, 2026:\nhttps://www.anthropic.com/research/prompt-injection-defenses\n\nOriginal illustrative diagrams; not a product demonstration or benchmark.\n\n#Technology #TechExplained #Shorts",
+  "tags": [
+    "prompt injection",
+    "technology explained",
+    "tech for beginners",
+    "TECH AT 60"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-24T14:30:00+00:00"
+}

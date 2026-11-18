@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "64320c1213f098745da2d81be1067971e171107ee3e5d7bd92d4d8b230b36fe5",
+  "title": "JavaScript Operators | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-05T07:04:36Z",
+  "publishAt": "2026-11-08T05:30:00Z",
+  "videoId": "RXVnmcMFE5M",
+  "url": "https://www.youtube.com/watch?v=RXVnmcMFE5M",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-08T05:30:00Z"
+}

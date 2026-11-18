@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "channelUrl": "https://www.youtube.com/@Techat60",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "connection": "youtube-data-api-oauth",
+  "privacyStatus": "public",
+  "madeForKids": false,
+  "publishAt": null,
+  "timezone": "Asia/Kolkata",
+  "defaultLanguage": "en",
+  "playlistId": "PLXqX5lBoONpI",
+  "descriptionSuffix": "Subscribe to @Techat60 for practical software testing tutorials.",
+  "revisionPublishing": "ask",
+  "publishMode": "per-video",
+  "dailySchedule": {
+    "times": [
+      "18:00"
+    ],
+    "timezone": "Asia/Kolkata",
+    "videosPerDay": 2,
+    "startDate": "2026-10-24"
+  },
+  "scheduleStatus": "confirmed",
+  "queueFile": "agile-masterclass/queue.json",
+  "customThumbnailsSupported": false,
+  "deferScheduledProcessing": true,
+  "retryJob": "com.techat60.agile-final-episodes",
+  "retryNotBefore": "2026-10-24T22:15:00+05:30"
+}

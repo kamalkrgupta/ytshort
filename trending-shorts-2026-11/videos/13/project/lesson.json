@@ -1,0 +1,38 @@
+{
+  "number": 13,
+  "slug": "matter",
+  "title": "Matter Explained: A Common Language for Smart Homes",
+  "category": "SMART HOME",
+  "source": "https://csa-iot.org/all-solutions/matter/matter-faq/",
+  "headline": "Why cannot your\nsmart devices agree?",
+  "meaning": "Matter is a shared smart-home application protocol.",
+  "example": "Connect compatible products across supported ecosystems.",
+  "comparison": "Thread or Wi-Fi carries data; Matter defines communication.",
+  "caution": "Check device type, controller and supported features.",
+  "question": "Which smart-home device should work together?",
+  "flow": [
+    "Compatible device",
+    "Matter controller",
+    "Home ecosystem"
+  ],
+  "left": [
+    "MATTER",
+    "A shared application protocol"
+  ],
+  "right": [
+    "THREAD / WI-FI",
+    "Ways to carry the data"
+  ],
+  "lines": [
+    "A smart bulb and a smart speaker can come from different brands. How do they understand each other?",
+    "Matter gives compatible smart home products a common application protocol, helping supported ecosystems work together.",
+    "Think of it as shared rules for messages such as turn the light on or report a temperature.",
+    "Wi-Fi, Thread, and Ethernet carry the data. Matter describes how compatible devices communicate over that connection.",
+    "Compatibility still needs checking. The device type, controller, setup, and supported features can differ.",
+    "Which devices should work together? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-28T20:00:00+05:30",
+  "publishAt": "2026-11-28T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#ffab73"
+}

@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "Why change encryption before a powerful enough quantum computer exists? Because some information must stay private for years.",
+    "idea": "An attacker could record encrypted traffic now and hope to decrypt it later with future capabilities.",
+    "demo": "Post quantum cryptography uses algorithms designed to resist known quantum attacks. It runs on ordinary computers.",
+    "compare": "This does not mean every kind of encryption is already broken, or that a quantum laptop is required.",
+    "takeaway": "Organizations are updating protocols and systems gradually. Long lived sensitive data is an important reason to prepare.",
+    "close": "How long must data stay private? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

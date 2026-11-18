@@ -1,0 +1,631 @@
+1
+00:00:00,328 --> 00:00:03,040
+Agile is a set of values and principles rather
+
+2
+00:00:03,051 --> 00:00:06,849
+than a single prescribed process In this lesson we
+
+3
+00:00:06,860 --> 00:00:11,292
+examine Scrum Kanban Extreme Programming and Lean Software Development
+
+4
+00:00:11,457 --> 00:00:15,481
+and explain how testing changes with each approach Start
+
+5
+00:00:15,492 --> 00:00:18,127
+with a comparison that will remain useful throughout the
+
+6
+00:00:18,138 --> 00:00:22,118
+course Imagine a team building a customer portal while also
+
+7
+00:00:22,129 --> 00:00:26,870
+receiving production support requests Its planned feature work benefits
+
+8
+00:00:26,881 --> 00:00:29,736
+from a clear short-term goal but incoming incidents do
+
+9
+00:00:29,747 --> 00:00:33,694
+not respect a sprint calendar No single label solves
+
+10
+00:00:33,705 --> 00:00:37,321
+both problems The team must decide how to plan
+
+11
+00:00:37,497 --> 00:00:40,375
+how to visualize active work and how to build
+
+12
+00:00:40,386 --> 00:00:44,664
+reliable software Scrum provides a framework for product work
+
+13
+00:00:44,939 --> 00:00:48,952
+Kanban helps manage flow X P contributes engineering practices
+
+14
+00:00:49,151 --> 00:00:53,274
+Lean encourages attention to value and waste Evaluate the
+
+15
+00:00:53,285 --> 00:00:55,468
+problem before selecting the vocabulary
+
+16
+00:00:57,028 --> 00:01:00,555
+Scrum organizes complex work into sprints commonly one to
+
+17
+00:01:00,566 --> 00:01:05,830
+four weeks Consider a customer management portal During planning
+
+18
+00:01:05,951 --> 00:01:09,743
+the team selects a registration story The Product Owner
+
+19
+00:01:09,755 --> 00:01:14,693
+clarifies acceptance criteria including valid addresses invalid addresses and
+
+20
+00:01:14,704 --> 00:01:19,599
+duplicate registration Developers and testers collaborate during the sprint
+
+21
+00:01:19,720 --> 00:01:22,939
+and stakeholders inspect the increment at the Sprint Review
+
+22
+00:01:23,700 --> 00:01:28,429
+The Retrospective identifies ways to improve Testing is integrated
+
+23
+00:01:28,440 --> 00:01:31,130
+throughout the sprint rather than postponed to its final
+
+24
+00:01:31,141 --> 00:01:35,495
+days Walk through a Scrum example The Sprint Goal
+
+25
+00:01:35,506 --> 00:01:39,111
+is to let new customers register safely The team
+
+26
+00:01:39,122 --> 00:01:42,848
+selects registration and email verification because they support that
+
+27
+00:01:42,859 --> 00:01:46,806
+goal A tester asks whether duplicate email addresses are
+
+28
+00:01:46,817 --> 00:01:49,849
+allowed and what happens if a confirmation message arrives
+
+29
+00:01:49,860 --> 00:01:54,291
+late Developers and testers discuss these examples while work
+
+30
+00:01:54,302 --> 00:01:57,852
+is still small During the sprint they inspect progress
+
+31
+00:01:57,863 --> 00:02:01,567
+and adapt their plan If registration passes its happy
+
+32
+00:02:01,578 --> 00:02:05,183
+path but bypasses verification the team has not established
+
+33
+00:02:05,194 --> 00:02:09,251
+the intended outcome Finishing tasks is useful only when
+
+34
+00:02:09,262 --> 00:02:12,370
+the increment meets the agreed quality conditions and supports
+
+35
+00:02:12,381 --> 00:02:12,844
+the goal
+
+36
+00:02:14,361 --> 00:02:18,182
+Kanban visualizes work and limits work in progress A
+
+37
+00:02:18,193 --> 00:02:22,372
+maintenance team may use Backlog Ready Development Testing and
+
+38
+00:02:22,383 --> 00:02:25,614
+Done columns If Testing has a work in progress
+
+39
+00:02:25,625 --> 00:02:28,636
+limit of three and already contains three items the
+
+40
+00:02:28,647 --> 00:02:32,032
+team focuses on completing existing work rather than starting
+
+41
+00:02:32,043 --> 00:02:36,443
+more This makes bottlenecks visible and supports steady delivery
+
+42
+00:02:36,575 --> 00:02:41,549
+especially for teams receiving unpredictable support requests Now move
+
+43
+00:02:41,560 --> 00:02:45,011
+the same work onto a Kanban board Three registration
+
+44
+00:02:45,022 --> 00:02:48,209
+fixes are already in Testing and the team's illustrative
+
+45
+00:02:48,220 --> 00:02:51,760
+testing limit is three A developer has finished a
+
+46
+00:02:51,771 --> 00:02:55,410
+fourth change Simply pushing it into Testing hides the
+
+47
+00:02:55,421 --> 00:03:00,163
+capacity problem Instead the team investigates why existing work
+
+48
+00:03:00,174 --> 00:03:04,904
+has not finished Perhaps accounts cannot receive verification messages
+
+49
+00:03:04,915 --> 00:03:08,940
+in the test environment Helping restore that environment may
+
+50
+00:03:08,951 --> 00:03:13,506
+finish more valuable work than starting another feature Work-in-progress
+
+51
+00:03:13,517 --> 00:03:16,681
+limits are a signal to collaborate They do not
+
+52
+00:03:16,693 --> 00:03:19,482
+mean that an overloaded person must work faster and
+
+53
+00:03:19,493 --> 00:03:22,074
+they are not a substitute for understanding the system
+
+54
+00:03:23,594 --> 00:03:28,345
+Extreme Programming or X P emphasizes engineering practices including
+
+55
+00:03:28,356 --> 00:03:33,421
+test-driven development pair programming and continuous integration In T
+
+56
+00:03:33,432 --> 00:03:36,408
+D D a developer writes a failing test writes
+
+57
+00:03:36,420 --> 00:03:39,142
+enough code to pass it and then refactors safely
+
+58
+00:03:39,914 --> 00:03:43,783
+This Red Green Refactor cycle works well for calculations
+
+59
+00:03:43,794 --> 00:03:47,454
+and business rules Testing becomes part of writing the
+
+60
+00:03:47,465 --> 00:03:51,631
+software rather than a separate final checkpoint Consider X
+
+61
+00:03:51,643 --> 00:03:55,159
+P through a concrete calculation The portal grants a
+
+62
+00:03:55,170 --> 00:03:58,675
+ten-percent introductory discount on an eligible purchase of one
+
+63
+00:03:58,686 --> 00:04:02,357
+thousand rupees Write a test expecting a discount of
+
+64
+00:04:02,368 --> 00:04:05,532
+one hundred Run it and confirm it fails for
+
+65
+00:04:05,543 --> 00:04:09,522
+the expected reason Implement the smallest change that makes
+
+66
+00:04:09,533 --> 00:04:12,697
+it pass Then improve the code while the check
+
+67
+00:04:12,708 --> 00:04:17,635
+stays green Add an ineligible-customer case expecting zero discount
+
+68
+00:04:18,407 --> 00:04:21,372
+This creates a feedback loop in which examples guide
+
+69
+00:04:21,383 --> 00:04:26,520
+the design Refactoring matters repeatedly adding special cases without
+
+70
+00:04:26,531 --> 00:04:29,232
+improving the design can produce brittle code even when
+
+71
+00:04:29,243 --> 00:04:30,587
+individual tests pass
+
+72
+00:04:32,094 --> 00:04:36,388
+Lean focuses on customer value and reducing waste Waste
+
+73
+00:04:36,399 --> 00:04:39,861
+in testing might include waiting for test environments duplicate
+
+74
+00:04:39,872 --> 00:04:43,092
+paperwork or slow feedback from an oversized test suite
+
+75
+00:04:43,852 --> 00:04:47,513
+Lean does not mean skipping important tests A team
+
+76
+00:04:47,524 --> 00:04:50,236
+might run fast smoke tests on each commit and
+
+77
+00:04:50,247 --> 00:04:54,403
+more comprehensive regression tests later preserving coverage while reducing
+
+78
+00:04:54,414 --> 00:04:58,494
+feedback time Lean invites a different question where does
+
+79
+00:04:58,505 --> 00:05:02,959
+the customer wait without receiving additional value Suppose every
+
+80
+00:05:02,970 --> 00:05:05,484
+small change waits two days for a shared testing
+
+81
+00:05:05,495 --> 00:05:09,585
+environment Buying another reporting tool might not reduce that
+
+82
+00:05:09,596 --> 00:05:14,249
+delay The team could provide reproducible environments isolate test
+
+83
+00:05:14,260 --> 00:05:16,972
+data or run a smaller set of checks earlier
+
+84
+00:05:17,744 --> 00:05:20,864
+Before changing the process record the current delay and
+
+85
+00:05:20,875 --> 00:05:26,045
+its cause After the experiment compare the results Reducing
+
+86
+00:05:26,056 --> 00:05:28,868
+waste does not mean removing evidence needed to judge
+
+87
+00:05:28,879 --> 00:05:32,374
+quality It means avoiding work and waiting that do
+
+88
+00:05:32,385 --> 00:05:35,174
+not help deliver a useful dependable outcome
+
+89
+00:05:36,694 --> 00:05:40,168
+A feature-development team may benefit from Scrum a support
+
+90
+00:05:40,179 --> 00:05:44,060
+operation may benefit from Kanban a calculation-intensive product may
+
+91
+00:05:44,071 --> 00:05:48,443
+benefit from X P practices Teams can combine approaches
+
+92
+00:05:49,204 --> 00:05:52,854
+The right selection depends on delivery constraints technical risk
+
+93
+00:05:52,865 --> 00:05:56,691
+and team maturity Here is a selection exercise with
+
+94
+00:05:56,702 --> 00:06:00,286
+three fictional teams Team A builds a new portal
+
+95
+00:06:00,297 --> 00:06:03,616
+and needs frequent stakeholder feedback around a product goal
+
+96
+00:06:04,377 --> 00:06:08,335
+Scrum could help structure that inspection Team B maintains
+
+97
+00:06:08,346 --> 00:06:12,922
+several systems and receives unpredictable requests Kanban could help
+
+98
+00:06:12,933 --> 00:06:17,256
+expose queues and manage capacity Team C changes financial
+
+99
+00:06:17,267 --> 00:06:22,427
+calculations frequently X P practices such as test-driven development
+
+100
+00:06:22,438 --> 00:06:26,761
+and continuous integration could strengthen technical feedback These are
+
+101
+00:06:26,772 --> 00:06:31,866
+starting hypotheses not universal prescriptions Each team should inspect
+
+102
+00:06:31,877 --> 00:06:35,604
+its constraints run a small process experiment and decide
+
+103
+00:06:35,615 --> 00:06:38,934
+whether actual customer outcomes and feedback speed improve
+
+104
+00:06:40,428 --> 00:06:44,842
+Combining approaches requires clear policies A Scrum team might
+
+105
+00:06:44,853 --> 00:06:47,300
+visualize work with a Kanban board and limit the
+
+106
+00:06:47,311 --> 00:06:51,258
+number of stories actively being developed It might also
+
+107
+00:06:51,269 --> 00:06:54,433
+use pair programming for risky calculations and run unit
+
+108
+00:06:54,444 --> 00:06:58,335
+tests on every commit None of those practices removes
+
+109
+00:06:58,346 --> 00:07:02,788
+Scrum's accountabilities or events Problems arise when a team
+
+110
+00:07:02,799 --> 00:07:06,184
+adopts labels while dropping the useful feedback loops behind
+
+111
+00:07:06,195 --> 00:07:09,865
+them Write down how new work enters when testing
+
+112
+00:07:09,876 --> 00:07:13,183
+begins what Done means and how urgent incidents affect
+
+113
+00:07:13,194 --> 00:07:17,163
+planned work Those agreements are more actionable than saying
+
+114
+00:07:17,174 --> 00:07:18,728
+the team is simply hybrid
+
+115
+00:07:20,228 --> 00:07:23,481
+For your practice task imagine that ten support requests
+
+116
+00:07:23,492 --> 00:07:26,116
+arrive while a portal team is implementing a planned
+
+117
+00:07:26,127 --> 00:07:31,051
+registration improvement Identify the most urgent customer risk then
+
+118
+00:07:31,062 --> 00:07:33,763
+describe how you would make the incoming work visible
+
+119
+00:07:34,524 --> 00:07:37,457
+Decide which active item you would finish before starting
+
+120
+00:07:37,469 --> 00:07:41,879
+another Finally choose one engineering practice that could prevent
+
+121
+00:07:41,890 --> 00:07:45,441
+the same defect returning A strong answer connects the
+
+122
+00:07:45,452 --> 00:07:48,286
+delivery process to a testing action and an observable
+
+123
+00:07:48,297 --> 00:07:52,642
+result For example address a production access problem add
+
+124
+00:07:52,653 --> 00:07:56,060
+a focused regression check and review whether interruption policies
+
+125
+00:07:56,071 --> 00:07:58,729
+preserved visibility into the remaining feature work
+
+126
+00:08:00,228 --> 00:08:02,895
+A useful way to compare approaches is to follow
+
+127
+00:08:02,906 --> 00:08:06,515
+one change from request to feedback Take an urgent
+
+128
+00:08:06,526 --> 00:08:11,255
+password-reset defect First identify the customer impact and make
+
+129
+00:08:11,266 --> 00:08:14,726
+the work visible Decide how it enters the team's
+
+130
+00:08:14,737 --> 00:08:18,529
+current work under an explicit policy Next agree on
+
+131
+00:08:18,540 --> 00:08:21,295
+examples for a valid link an expired link and
+
+132
+00:08:21,306 --> 00:08:24,822
+a reused link Use small technical checks to guide
+
+133
+00:08:24,833 --> 00:08:29,264
+the fix then verify the integrated recovery journey Finally
+
+134
+00:08:29,275 --> 00:08:32,273
+inspect the delay from recognizing the problem to obtaining
+
+135
+00:08:32,284 --> 00:08:37,189
+reliable evidence Scrum Kanban X P and Lean contribute
+
+136
+00:08:37,200 --> 00:08:40,826
+different ideas to that same journey None removes the
+
+137
+00:08:40,837 --> 00:08:44,298
+need to clarify the rule implement safely or evaluate
+
+138
+00:08:44,309 --> 00:08:44,926
+the result
+
+139
+00:08:46,428 --> 00:08:50,787
+Now consider a misleading process improvement A team shortens
+
+140
+00:08:50,798 --> 00:08:52,859
+its sprint from two weeks to one week and
+
+141
+00:08:52,870 --> 00:08:57,456
+expects quality to improve automatically But its test environment
+
+142
+00:08:57,467 --> 00:09:00,366
+still takes three days to restore and stories still
+
+143
+00:09:00,377 --> 00:09:04,830
+arrive without examples The shorter calendar exposes the problem
+
+144
+00:09:04,841 --> 00:09:08,809
+more often without removing it A more useful experiment
+
+145
+00:09:08,820 --> 00:09:12,016
+might make one environment reproducible or split one large
+
+146
+00:09:12,027 --> 00:09:17,307
+story into independently verifiable slices State the expected improvement
+
+147
+00:09:17,318 --> 00:09:20,923
+before trying it then inspect the outcome This is
+
+148
+00:09:20,934 --> 00:09:24,924
+how process choices become learning rather than ceremony When
+
+149
+00:09:24,935 --> 00:09:27,635
+discussing a methodology in an interview or a team
+
+150
+00:09:27,647 --> 00:09:30,259
+meeting connect it to a constraint and a concrete
+
+151
+00:09:30,270 --> 00:09:31,097
+feedback loop
+
+152
+00:09:32,594 --> 00:09:37,110
+Scrum emphasizes iterative inspection Kanban focuses on flow X
+
+153
+00:09:37,121 --> 00:09:41,862
+P strengthens engineering discipline and Lean reduces waste Knowledge
+
+154
+00:09:41,873 --> 00:09:44,754
+check which approach would help a support team receiving
+
+155
+00:09:44,765 --> 00:09:49,093
+unpredictable requests and why Subscribe to Tech at sixty
+
+156
+00:09:49,104 --> 00:09:52,261
+for the next episode in this Agile Testing Masterclass
+
+157
+00:09:53,023 --> 00:09:55,915
+Practice the example with synthetic data and share the
+
+158
+00:09:55,926 --> 00:09:58,830
+most important risk you identified in the comments

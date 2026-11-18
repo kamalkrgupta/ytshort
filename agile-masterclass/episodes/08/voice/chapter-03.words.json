@@ -1,0 +1,677 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 7386250,
+    "text": "Describe"
+  },
+  {
+    "offset": 8528330,
+    "duration": 6534160,
+    "text": "behavior"
+  },
+  {
+    "offset": 15204580,
+    "duration": 10085410,
+    "text": "collaboratively"
+  },
+  {
+    "offset": 25431660,
+    "duration": 4545410,
+    "text": "using"
+  },
+  {
+    "offset": 30119160,
+    "duration": 4687500,
+    "text": "Given"
+  },
+  {
+    "offset": 36227080,
+    "duration": 2556660,
+    "text": "When"
+  },
+  {
+    "offset": 38926250,
+    "duration": 1846660,
+    "text": "and"
+  },
+  {
+    "offset": 40914580,
+    "duration": 4119160,
+    "text": "Then"
+  },
+  {
+    "offset": 55045410,
+    "duration": 5113750,
+    "text": "Given"
+  },
+  {
+    "offset": 60301250,
+    "duration": 2272910,
+    "text": "an"
+  },
+  {
+    "offset": 62715830,
+    "duration": 6107910,
+    "text": "eligible"
+  },
+  {
+    "offset": 68965830,
+    "duration": 6534160,
+    "text": "coupon"
+  },
+  {
+    "offset": 77062500,
+    "duration": 2414580,
+    "text": "when"
+  },
+  {
+    "offset": 79619160,
+    "duration": 1136250,
+    "text": "it"
+  },
+  {
+    "offset": 80897910,
+    "duration": 1562500,
+    "text": "is"
+  },
+  {
+    "offset": 82602080,
+    "duration": 5397910,
+    "text": "applied"
+  },
+  {
+    "offset": 88142080,
+    "duration": 1562500,
+    "text": "to"
+  },
+  {
+    "offset": 89846660,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 90556660,
+    "duration": 8522910,
+    "text": "qualifying"
+  },
+  {
+    "offset": 99221660,
+    "duration": 4971660,
+    "text": "order"
+  },
+  {
+    "offset": 107176250,
+    "duration": 2698750,
+    "text": "then"
+  },
+  {
+    "offset": 110017080,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 111153330,
+    "duration": 8522910,
+    "text": "specified"
+  },
+  {
+    "offset": 119818330,
+    "duration": 7102080,
+    "text": "discount"
+  },
+  {
+    "offset": 127062500,
+    "duration": 1988750,
+    "text": "is"
+  },
+  {
+    "offset": 129193330,
+    "duration": 9232910,
+    "text": "calculated"
+  },
+  {
+    "offset": 148227080,
+    "duration": 3125000,
+    "text": "B"
+  },
+  {
+    "offset": 151494160,
+    "duration": 1988750,
+    "text": "D"
+  },
+  {
+    "offset": 153625000,
+    "duration": 2556660,
+    "text": "D"
+  },
+  {
+    "offset": 156323750,
+    "duration": 1420410,
+    "text": "is"
+  },
+  {
+    "offset": 157886250,
+    "duration": 3977080,
+    "text": "about"
+  },
+  {
+    "offset": 162005830,
+    "duration": 4261250,
+    "text": "shared"
+  },
+  {
+    "offset": 166409160,
+    "duration": 9517080,
+    "text": "understanding"
+  },
+  {
+    "offset": 178056660,
+    "duration": 3693330,
+    "text": "not"
+  },
+  {
+    "offset": 181892080,
+    "duration": 3409160,
+    "text": "just"
+  },
+  {
+    "offset": 185443330,
+    "duration": 6676250,
+    "text": "automation"
+  },
+  {
+    "offset": 192261250,
+    "duration": 6960410,
+    "text": "syntax"
+  },
+  {
+    "offset": 209022910,
+    "duration": 2840830,
+    "text": "For"
+  },
+  {
+    "offset": 212005830,
+    "duration": 1988750,
+    "text": "B"
+  },
+  {
+    "offset": 214136250,
+    "duration": 2272910,
+    "text": "D"
+  },
+  {
+    "offset": 216551250,
+    "duration": 3693330,
+    "text": "D"
+  },
+  {
+    "offset": 221380830,
+    "duration": 4829580,
+    "text": "gather"
+  },
+  {
+    "offset": 226352080,
+    "duration": 5681660,
+    "text": "product"
+  },
+  {
+    "offset": 234164580,
+    "duration": 9659160,
+    "text": "development"
+  },
+  {
+    "offset": 243965830,
+    "duration": 2130830,
+    "text": "and"
+  },
+  {
+    "offset": 246238750,
+    "duration": 4971660,
+    "text": "testing"
+  },
+  {
+    "offset": 251352080,
+    "duration": 8522910,
+    "text": "perspectives"
+  },
+  {
+    "offset": 260017080,
+    "duration": 4545410,
+    "text": "before"
+  },
+  {
+    "offset": 264704580,
+    "duration": 5539580,
+    "text": "choosing"
+  },
+  {
+    "offset": 270386250,
+    "duration": 7386250,
+    "text": "automation"
+  },
+  {
+    "offset": 277915000,
+    "duration": 6676250,
+    "text": "syntax"
+  },
+  {
+    "offset": 294392080,
+    "duration": 4829580,
+    "text": "Ask"
+  },
+  {
+    "offset": 299363750,
+    "duration": 2840830,
+    "text": "how"
+  },
+  {
+    "offset": 302346660,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 303198750,
+    "duration": 6107910,
+    "text": "customer"
+  },
+  {
+    "offset": 309448750,
+    "duration": 3693330,
+    "text": "knows"
+  },
+  {
+    "offset": 313284160,
+    "duration": 2130830,
+    "text": "that"
+  },
+  {
+    "offset": 315556660,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 316267080,
+    "duration": 5823750,
+    "text": "coupon"
+  },
+  {
+    "offset": 322232910,
+    "duration": 2272910,
+    "text": "was"
+  },
+  {
+    "offset": 324647910,
+    "duration": 7528330,
+    "text": "accepted"
+  },
+  {
+    "offset": 332318330,
+    "duration": 2556660,
+    "text": "and"
+  },
+  {
+    "offset": 335017080,
+    "duration": 2982910,
+    "text": "how"
+  },
+  {
+    "offset": 338142080,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 339420410,
+    "duration": 5397910,
+    "text": "final"
+  },
+  {
+    "offset": 344960410,
+    "duration": 4261250,
+    "text": "total"
+  },
+  {
+    "offset": 349363750,
+    "duration": 2556660,
+    "text": "should"
+  },
+  {
+    "offset": 352062500,
+    "duration": 5823750,
+    "text": "change"
+  },
+  {
+    "offset": 367545410,
+    "duration": 7102080,
+    "text": "Express"
+  },
+  {
+    "offset": 374790000,
+    "duration": 1278330,
+    "text": "an"
+  },
+  {
+    "offset": 376210410,
+    "duration": 7954580,
+    "text": "example"
+  },
+  {
+    "offset": 386437500,
+    "duration": 4403330,
+    "text": "given"
+  },
+  {
+    "offset": 390982910,
+    "duration": 1988750,
+    "text": "an"
+  },
+  {
+    "offset": 393113750,
+    "duration": 5823750,
+    "text": "eligible"
+  },
+  {
+    "offset": 399079580,
+    "duration": 5255830,
+    "text": "member"
+  },
+  {
+    "offset": 404477500,
+    "duration": 1846660,
+    "text": "with"
+  },
+  {
+    "offset": 406465830,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 407176250,
+    "duration": 8380830,
+    "text": "qualifying"
+  },
+  {
+    "offset": 415698750,
+    "duration": 6676250,
+    "text": "basket"
+  },
+  {
+    "offset": 424363750,
+    "duration": 2272910,
+    "text": "when"
+  },
+  {
+    "offset": 426778330,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 427488750,
+    "duration": 4687500,
+    "text": "valid"
+  },
+  {
+    "offset": 432318330,
+    "duration": 4971660,
+    "text": "coupon"
+  },
+  {
+    "offset": 437431660,
+    "duration": 1562500,
+    "text": "is"
+  },
+  {
+    "offset": 439136250,
+    "duration": 5823750,
+    "text": "applied"
+  },
+  {
+    "offset": 446665000,
+    "duration": 2840830,
+    "text": "then"
+  },
+  {
+    "offset": 449647910,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 451068330,
+    "duration": 4971660,
+    "text": "agreed"
+  },
+  {
+    "offset": 456181660,
+    "duration": 6676250,
+    "text": "discount"
+  },
+  {
+    "offset": 463000000,
+    "duration": 5965830,
+    "text": "appears"
+  },
+  {
+    "offset": 469107910,
+    "duration": 1704580,
+    "text": "and"
+  },
+  {
+    "offset": 470954580,
+    "duration": 852080,
+    "text": "the"
+  },
+  {
+    "offset": 471948750,
+    "duration": 4829580,
+    "text": "total"
+  },
+  {
+    "offset": 476920410,
+    "duration": 1988750,
+    "text": "is"
+  },
+  {
+    "offset": 479051250,
+    "duration": 6960410,
+    "text": "updated"
+  },
+  {
+    "offset": 495812500,
+    "duration": 3977080,
+    "text": "Now"
+  },
+  {
+    "offset": 499931660,
+    "duration": 5397910,
+    "text": "discuss"
+  },
+  {
+    "offset": 505471660,
+    "duration": 1278330,
+    "text": "an"
+  },
+  {
+    "offset": 506892080,
+    "duration": 6818330,
+    "text": "expired"
+  },
+  {
+    "offset": 513852500,
+    "duration": 5823750,
+    "text": "coupon"
+  },
+  {
+    "offset": 519818330,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 522232910,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 522943330,
+    "duration": 5681660,
+    "text": "basket"
+  },
+  {
+    "offset": 528767080,
+    "duration": 4119160,
+    "text": "below"
+  },
+  {
+    "offset": 533028330,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 534448750,
+    "duration": 6392080,
+    "text": "minimum"
+  },
+  {
+    "offset": 550926250,
+    "duration": 6250000,
+    "text": "Given"
+  },
+  {
+    "offset": 558596660,
+    "duration": 2414580,
+    "text": "When"
+  },
+  {
+    "offset": 561153330,
+    "duration": 1988750,
+    "text": "and"
+  },
+  {
+    "offset": 563284160,
+    "duration": 2556660,
+    "text": "Then"
+  },
+  {
+    "offset": 565982910,
+    "duration": 2130830,
+    "text": "can"
+  },
+  {
+    "offset": 568255830,
+    "duration": 2840830,
+    "text": "make"
+  },
+  {
+    "offset": 571238750,
+    "duration": 8096660,
+    "text": "examples"
+  },
+  {
+    "offset": 579477500,
+    "duration": 7102080,
+    "text": "readable"
+  },
+  {
+    "offset": 588142080,
+    "duration": 1846660,
+    "text": "but"
+  },
+  {
+    "offset": 590130830,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 591267080,
+    "duration": 6107910,
+    "text": "format"
+  },
+  {
+    "offset": 597517080,
+    "duration": 1846660,
+    "text": "is"
+  },
+  {
+    "offset": 599505830,
+    "duration": 2982910,
+    "text": "not"
+  },
+  {
+    "offset": 602630830,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 604051250,
+    "duration": 7102080,
+    "text": "purpose"
+  },
+  {
+    "offset": 621096660,
+    "duration": 2130830,
+    "text": "The"
+  },
+  {
+    "offset": 623369160,
+    "duration": 5539580,
+    "text": "purpose"
+  },
+  {
+    "offset": 629051250,
+    "duration": 1704580,
+    "text": "is"
+  },
+  {
+    "offset": 630897910,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 631607910,
+    "duration": 4687500,
+    "text": "shared"
+  },
+  {
+    "offset": 636437500,
+    "duration": 8380830,
+    "text": "understanding"
+  },
+  {
+    "offset": 644960410,
+    "duration": 1846660,
+    "text": "of"
+  },
+  {
+    "offset": 646948750,
+    "duration": 6960410,
+    "text": "observable"
+  },
+  {
+    "offset": 654051250,
+    "duration": 7670410,
+    "text": "behavior"
+  },
+  {
+    "offset": 663852500,
+    "duration": 6676250,
+    "text": "including"
+  },
+  {
+    "offset": 670670410,
+    "duration": 8096660,
+    "text": "situations"
+  },
+  {
+    "offset": 678909160,
+    "duration": 2982910,
+    "text": "where"
+  },
+  {
+    "offset": 682034160,
+    "duration": 7812500,
+    "text": "assumptions"
+  },
+  {
+    "offset": 689988750,
+    "duration": 5255830,
+    "text": "differ"
+  }
+]

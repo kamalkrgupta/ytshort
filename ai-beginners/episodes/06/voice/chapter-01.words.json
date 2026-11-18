@@ -1,0 +1,577 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 2835000,
+    "text": "Have"
+  },
+  {
+    "offset": 3963750,
+    "duration": 1932910,
+    "text": "you"
+  },
+  {
+    "offset": 6025830,
+    "duration": 3479580,
+    "text": "ever"
+  },
+  {
+    "offset": 9634160,
+    "duration": 4381250,
+    "text": "wondered"
+  },
+  {
+    "offset": 14144160,
+    "duration": 2835000,
+    "text": "how"
+  },
+  {
+    "offset": 17108330,
+    "duration": 1160000,
+    "text": "to"
+  },
+  {
+    "offset": 18397080,
+    "duration": 2577500,
+    "text": "make"
+  },
+  {
+    "offset": 21102910,
+    "duration": 6958750,
+    "text": "technology"
+  },
+  {
+    "offset": 28190830,
+    "duration": 3092910,
+    "text": "work"
+  },
+  {
+    "offset": 31412500,
+    "duration": 1804160,
+    "text": "for"
+  },
+  {
+    "offset": 33345410,
+    "duration": 2061660,
+    "text": "you"
+  },
+  {
+    "offset": 35536250,
+    "duration": 4123750,
+    "text": "instead"
+  },
+  {
+    "offset": 39788750,
+    "duration": 1288750,
+    "text": "of"
+  },
+  {
+    "offset": 41206250,
+    "duration": 5541250,
+    "text": "spending"
+  },
+  {
+    "offset": 46876250,
+    "duration": 2963750,
+    "text": "hours"
+  },
+  {
+    "offset": 49969160,
+    "duration": 5927910,
+    "text": "figuring"
+  },
+  {
+    "offset": 56025830,
+    "duration": 5154580,
+    "text": "everything"
+  },
+  {
+    "offset": 61309160,
+    "duration": 3995000,
+    "text": "out"
+  },
+  {
+    "offset": 74340000,
+    "duration": 5799160,
+    "text": "Welcome"
+  },
+  {
+    "offset": 80267910,
+    "duration": 1546250,
+    "text": "to"
+  },
+  {
+    "offset": 81943330,
+    "duration": 5670000,
+    "text": "episode"
+  },
+  {
+    "offset": 87742080,
+    "duration": 3350410,
+    "text": "6"
+  },
+  {
+    "offset": 91221660,
+    "duration": 2448330,
+    "text": "of"
+  },
+  {
+    "offset": 93799160,
+    "duration": 4123750,
+    "text": "AI"
+  },
+  {
+    "offset": 98051660,
+    "duration": 1932910,
+    "text": "for"
+  },
+  {
+    "offset": 100113330,
+    "duration": 6830000,
+    "text": "Beginners"
+  },
+  {
+    "offset": 115963750,
+    "duration": 4897080,
+    "text": "Today"
+  },
+  {
+    "offset": 122665000,
+    "duration": 2319580,
+    "text": "we’re"
+  },
+  {
+    "offset": 125113330,
+    "duration": 3995000,
+    "text": "looking"
+  },
+  {
+    "offset": 129237080,
+    "duration": 1417500,
+    "text": "at"
+  },
+  {
+    "offset": 130783330,
+    "duration": 3865830,
+    "text": "getting"
+  },
+  {
+    "offset": 134778330,
+    "duration": 5283330,
+    "text": "started"
+  },
+  {
+    "offset": 140190830,
+    "duration": 1932910,
+    "text": "with"
+  },
+  {
+    "offset": 142252500,
+    "duration": 6700830,
+    "text": "chatgpt"
+  },
+  {
+    "offset": 157845410,
+    "duration": 3221660,
+    "text": "By"
+  },
+  {
+    "offset": 161195830,
+    "duration": 1932910,
+    "text": "the"
+  },
+  {
+    "offset": 163257910,
+    "duration": 3995000,
+    "text": "end"
+  },
+  {
+    "offset": 169830000,
+    "duration": 2706250,
+    "text": "you’ll"
+  },
+  {
+    "offset": 172665000,
+    "duration": 6443330,
+    "text": "understand"
+  },
+  {
+    "offset": 179237080,
+    "duration": 2706250,
+    "text": "one"
+  },
+  {
+    "offset": 182072080,
+    "duration": 5541250,
+    "text": "practical"
+  },
+  {
+    "offset": 187742080,
+    "duration": 5154580,
+    "text": "idea"
+  },
+  {
+    "offset": 194830000,
+    "duration": 2706250,
+    "text": "watch"
+  },
+  {
+    "offset": 197665000,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "offset": 198180410,
+    "duration": 5927910,
+    "text": "realistic"
+  },
+  {
+    "offset": 204237080,
+    "duration": 7087500,
+    "text": "example"
+  },
+  {
+    "offset": 212613330,
+    "duration": 2577500,
+    "text": "and"
+  },
+  {
+    "offset": 215319580,
+    "duration": 2963750,
+    "text": "try"
+  },
+  {
+    "offset": 218412500,
+    "duration": 644160,
+    "text": "a"
+  },
+  {
+    "offset": 219185410,
+    "duration": 5412500,
+    "text": "small"
+  },
+  {
+    "offset": 224726660,
+    "duration": 6443330,
+    "text": "exercise"
+  },
+  {
+    "offset": 231298750,
+    "duration": 6314580,
+    "text": "yourself"
+  },
+  {
+    "offset": 246376250,
+    "duration": 2448330,
+    "text": "You"
+  },
+  {
+    "offset": 248953750,
+    "duration": 3608330,
+    "text": "don’t"
+  },
+  {
+    "offset": 252690830,
+    "duration": 2835000,
+    "text": "need"
+  },
+  {
+    "offset": 255654580,
+    "duration": 644160,
+    "text": "a"
+  },
+  {
+    "offset": 256427910,
+    "duration": 5541250,
+    "text": "technical"
+  },
+  {
+    "offset": 262097910,
+    "duration": 7087500,
+    "text": "background"
+  },
+  {
+    "offset": 269314580,
+    "duration": 1804160,
+    "text": "or"
+  },
+  {
+    "offset": 271247500,
+    "duration": 7087500,
+    "text": "expensive"
+  },
+  {
+    "offset": 278463750,
+    "duration": 7216660,
+    "text": "software"
+  },
+  {
+    "offset": 294572080,
+    "duration": 3737080,
+    "text": "Bring"
+  },
+  {
+    "offset": 298437910,
+    "duration": 1546250,
+    "text": "your"
+  },
+  {
+    "offset": 300113330,
+    "duration": 8891660,
+    "text": "curiosity"
+  },
+  {
+    "offset": 318025830,
+    "duration": 3737080,
+    "text": "We’ll"
+  },
+  {
+    "offset": 321891660,
+    "duration": 3092910,
+    "text": "work"
+  },
+  {
+    "offset": 325113330,
+    "duration": 2448330,
+    "text": "through"
+  },
+  {
+    "offset": 327690830,
+    "duration": 1417500,
+    "text": "it"
+  },
+  {
+    "offset": 329237080,
+    "duration": 6056660,
+    "text": "together"
+  },
+  {
+    "offset": 344572080,
+    "duration": 4767910,
+    "text": "Here’s"
+  },
+  {
+    "offset": 349469160,
+    "duration": 1160000,
+    "text": "the"
+  },
+  {
+    "offset": 350757500,
+    "duration": 6056660,
+    "text": "example"
+  },
+  {
+    "offset": 356943330,
+    "duration": 2190830,
+    "text": "we’ll"
+  },
+  {
+    "offset": 359262910,
+    "duration": 4252500,
+    "text": "use"
+  },
+  {
+    "offset": 365963750,
+    "duration": 7732080,
+    "text": "requesting"
+  },
+  {
+    "offset": 373824580,
+    "duration": 644160,
+    "text": "a"
+  },
+  {
+    "offset": 374597910,
+    "duration": 9020410,
+    "text": "beginner-friendly"
+  },
+  {
+    "offset": 383747500,
+    "duration": 7732080,
+    "text": "explanation"
+  },
+  {
+    "offset": 391608330,
+    "duration": 1932910,
+    "text": "of"
+  },
+  {
+    "offset": 393670000,
+    "duration": 3865830,
+    "text": "cloud"
+  },
+  {
+    "offset": 397665000,
+    "duration": 6958750,
+    "text": "computing"
+  },
+  {
+    "offset": 413515410,
+    "duration": 3350410,
+    "text": "We’ll"
+  },
+  {
+    "offset": 416995000,
+    "duration": 3221660,
+    "text": "use"
+  },
+  {
+    "offset": 420345410,
+    "duration": 2448330,
+    "text": "that"
+  },
+  {
+    "offset": 422922500,
+    "duration": 7087500,
+    "text": "situation"
+  },
+  {
+    "offset": 430139160,
+    "duration": 1160000,
+    "text": "to"
+  },
+  {
+    "offset": 431427910,
+    "duration": 2706250,
+    "text": "make"
+  },
+  {
+    "offset": 434262910,
+    "duration": 1160000,
+    "text": "the"
+  },
+  {
+    "offset": 435551660,
+    "duration": 3995000,
+    "text": "topic"
+  },
+  {
+    "offset": 439675410,
+    "duration": 7602910,
+    "text": "concrete"
+  },
+  {
+    "offset": 456298750,
+    "duration": 3221660,
+    "text": "Watch"
+  },
+  {
+    "offset": 459649580,
+    "duration": 2835000,
+    "text": "how"
+  },
+  {
+    "offset": 462613330,
+    "duration": 1288750,
+    "text": "we"
+  },
+  {
+    "offset": 464030830,
+    "duration": 3221660,
+    "text": "break"
+  },
+  {
+    "offset": 467381250,
+    "duration": 1160000,
+    "text": "the"
+  },
+  {
+    "offset": 468670000,
+    "duration": 4381250,
+    "text": "task"
+  },
+  {
+    "offset": 473180410,
+    "duration": 2577500,
+    "text": "into"
+  },
+  {
+    "offset": 475886660,
+    "duration": 4510410,
+    "text": "small"
+  },
+  {
+    "offset": 480525830,
+    "duration": 5541250,
+    "text": "steps"
+  },
+  {
+    "offset": 487226660,
+    "duration": 4381250,
+    "text": "because"
+  },
+  {
+    "offset": 491737080,
+    "duration": 1160000,
+    "text": "the"
+  },
+  {
+    "offset": 493025830,
+    "duration": 3608330,
+    "text": "same"
+  },
+  {
+    "offset": 496762910,
+    "duration": 4767910,
+    "text": "thinking"
+  },
+  {
+    "offset": 501659580,
+    "duration": 1288750,
+    "text": "will"
+  },
+  {
+    "offset": 503077080,
+    "duration": 3479580,
+    "text": "help"
+  },
+  {
+    "offset": 506685410,
+    "duration": 1288750,
+    "text": "you"
+  },
+  {
+    "offset": 508102910,
+    "duration": 3092910,
+    "text": "use"
+  },
+  {
+    "offset": 511324580,
+    "duration": 3479580,
+    "text": "many"
+  },
+  {
+    "offset": 514932910,
+    "duration": 5412500,
+    "text": "different"
+  },
+  {
+    "offset": 520474160,
+    "duration": 4123750,
+    "text": "AI"
+  },
+  {
+    "offset": 524726660,
+    "duration": 3350410,
+    "text": "tools"
+  },
+  {
+    "offset": 528206250,
+    "duration": 4639160,
+    "text": "later"
+  },
+  {
+    "offset": 532974160,
+    "duration": 1160000,
+    "text": "in"
+  },
+  {
+    "offset": 534262910,
+    "duration": 2319580,
+    "text": "this"
+  },
+  {
+    "offset": 536711250,
+    "duration": 5283330,
+    "text": "course"
+  }
+]

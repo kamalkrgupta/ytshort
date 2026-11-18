@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "You unlock your phone with your face. A passkey can let you sign in the same way.",
+    "idea": "Instead of typing a password, your device uses a cryptographic key to prove the sign-in is yours.",
+    "demo": "The website sends a challenge. You approve with your fingerprint, face scan, or device pin.",
+    "compare": "The site receives a signed response, not your fingerprint. Passkeys are designed to resist phishing.",
+    "takeaway": "Recovery still matters. Check how your account restores access if your device is lost.",
+    "close": "Would you try a passkey? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

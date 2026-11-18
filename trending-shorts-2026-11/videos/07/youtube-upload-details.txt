@@ -1,0 +1,15 @@
+USB-C Explained: Same Plug, Different Capabilities
+
+USB-C describes the connector shape. Two matching connectors can support different data rates.
+
+Check the port, cable and connected device.
+
+Have two identical cables behaved differently?
+Subscribe to @Techat60 for clear, beginner-friendly tech explainers.
+
+Source checked November 16, 2026:
+https://www.usb.org/sites/default/files/usb_type-c_language_product_and_packaging_guidelines_20230320.pdf
+
+Original illustrative diagrams; not a product demonstration or benchmark.
+
+#Technology #TechExplained #Shorts

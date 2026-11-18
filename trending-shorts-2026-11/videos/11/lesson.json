@@ -1,0 +1,38 @@
+{
+  "number": 11,
+  "slug": "small-models",
+  "title": "Small Language Models: Why Smaller Can Be Useful",
+  "category": "AI",
+  "source": "https://developers.googleblog.com/own-your-ai-fine-tune-gemma-3-270m-for-on-device/",
+  "headline": "Does every task\nneed a giant model?",
+  "meaning": "Small models can focus on narrow tasks.",
+  "example": "Classify a message or transform a short piece of text.",
+  "comparison": "Model size is one tradeoff, not a quality score.",
+  "caution": "Test the model on the actual task.",
+  "question": "What small task would you automate?",
+  "flow": [
+    "Narrow task",
+    "Small model",
+    "Check result"
+  ],
+  "left": [
+    "LARGE MODEL",
+    "Broader capacity; more resources"
+  ],
+  "right": [
+    "SMALL MODEL",
+    "Lighter; task dependent"
+  ],
+  "lines": [
+    "Does sorting short messages need the same model as a complex research task? Not necessarily.",
+    "Small language models use fewer parameters and can be easier to run on limited hardware.",
+    "A focused model might classify a message, transform a short sentence, or handle a narrow assistant feature.",
+    "Smaller does not automatically mean better, faster, or accurate enough. The task and implementation decide the tradeoff.",
+    "Compare real outputs, memory use, and response time on your own examples before choosing.",
+    "What small task would you automate? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-26T20:00:00+05:30",
+  "publishAt": "2026-11-26T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#b7b4ff"
+}

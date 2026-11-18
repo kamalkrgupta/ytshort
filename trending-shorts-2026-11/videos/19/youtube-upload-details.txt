@@ -1,0 +1,15 @@
+MCP Explained: How AI Apps Connect to Tools
+
+MCP standardizes connections to tools and data. An AI app can ask a connected service for information.
+
+Review the server, data access and action permissions.
+
+Which tool would you connect first?
+Subscribe to @Techat60 for clear, beginner-friendly tech explainers.
+
+Source checked November 16, 2026:
+https://modelcontextprotocol.io/docs/getting-started/intro
+
+Original illustrative diagrams; not a product demonstration or benchmark.
+
+#Technology #TechExplained #Shorts

@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-08",
+  "checkedAt": "2026-11-08T08:08:37.331928+05:30",
+  "state": "repairing_or_needs_attention",
+  "timezone": "Asia/Kolkata",
+  "lookaheadDays": 3,
+  "checks": [
+    {
+      "course": "Shorts",
+      "episode": 40,
+      "publishAt": "2026-11-08T11:00:00+05:30",
+      "state": "ready",
+      "videoId": "RXVnmcMFE5M",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 41,
+      "publishAt": "2026-11-08T16:00:00+05:30",
+      "state": "ready",
+      "videoId": "n8KtvhK8ScQ",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 42,
+      "publishAt": "2026-11-09T11:00:00+05:30",
+      "state": "ready",
+      "videoId": "vgVn3gu5lhI",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 43,
+      "publishAt": "2026-11-09T16:00:00+05:30",
+      "state": "ready",
+      "videoId": "_3T2NZM_2Ac",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 44,
+      "publishAt": "2026-11-10T11:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "Shorts",
+      "episode": 45,
+      "publishAt": "2026-11-10T16:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "AI",
+      "state": "producer_running",
+      "needsFollowup": true
+    },
+    {
+      "course": "AI",
+      "episode": 25,
+      "publishAt": "2026-11-08T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "sgVAvy3WLEo",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 26,
+      "publishAt": "2026-11-08T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "4_Yu1Y5b5Os",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 27,
+      "publishAt": "2026-11-09T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "Jf6FjiiKUaU",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 28,
+      "publishAt": "2026-11-09T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "te8aPsCX-NA",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 29,
+      "publishAt": "2026-11-10T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "-tLkerCNNbw",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 30,
+      "publishAt": "2026-11-10T14:00:00+05:30",
+      "state": "needs_attention",
+      "error": "ConnectionResetError",
+      "message": "[Errno 54] Connection reset by peer",
+      "needsFollowup": true
+    }
+  ],
+  "repairs": [],
+  "playlistErrors": [
+    "channel-seo/web_playlist.py",
+    "agile-masterclass/playlist.py"
+  ],
+  "finishedAt": "2026-11-08T09:54:31.092422+05:30"
+}

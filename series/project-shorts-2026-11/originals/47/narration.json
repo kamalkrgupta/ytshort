@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "Build a Personal Profile Card. Let’s make it simple.",
+    "idea": "A profile card combines meaningful content with a small reusable layout. Start by understanding the role it plays in a page.",
+    "code": "Start with an article, a heading, and a short introduction. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "Add padding, a border, and consistent spacing in your stylesheet. Keep this detail in mind when writing your own example.",
+    "caution": "If you include a portrait, give it appropriate alternative text. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Build a card with your name, a short bio, and one useful link. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

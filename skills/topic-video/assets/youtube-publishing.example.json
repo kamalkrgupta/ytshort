@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "channelUrl": null,
+  "channelId": null,
+  "connection": null,
+  "privacyStatus": null,
+  "madeForKids": null,
+  "publishAt": null,
+  "timezone": "Asia/Kolkata",
+  "defaultLanguage": "en",
+  "playlistId": null,
+  "descriptionSuffix": "Like, share, and subscribe for more beginner web development lessons.",
+  "revisionPublishing": "ask",
+  "dailySchedule": {
+    "times": [
+      "11:00",
+      "16:00"
+    ],
+    "timezone": "Asia/Kolkata",
+    "videosPerDay": 2,
+    "startDate": null
+  }
+}

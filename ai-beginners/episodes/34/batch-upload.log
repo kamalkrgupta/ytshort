@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 17%
+Upload 26%
+Upload 35%
+Upload 43%
+Upload 52%
+Upload 61%
+Upload 69%
+Upload 78%
+Upload 87%
+Upload 95%
+Uploaded: https://www.youtube.com/watch?v=MEt8xAd042s
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "b3c690081fc51595d6a64ae603d151b5ba12bc0d45d26098f8c175b70b0eb5b3",
+  "title": "AI Scams and Deepfakes: Warning Signs You Can Check | Ep 34",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:09:10Z",
+  "publishAt": "2026-11-12T14:00:00+05:30",
+  "videoId": "MEt8xAd042s",
+  "url": "https://www.youtube.com/watch?v=MEt8xAd042s",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-12T08:30:00Z"
+}

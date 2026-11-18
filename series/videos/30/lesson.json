@@ -1,0 +1,16 @@
+{
+  "videoNumber": 30,
+  "phase": "Phase 3 — Build Beautiful Websites with CSS",
+  "topic": "CSS Grid Explained",
+  "description": "Build clean layouts with rows and columns.",
+  "publishLocal": "2026-11-03T11:00:00+05:30",
+  "publishAt": "2026-11-03T05:30:00Z",
+  "status": "planned",
+  "definition": "Grid arranges items in rows and columns.",
+  "code": ".grid {\n display: grid;\n grid-template-columns:\n   repeat(2, 1fr);\n gap: 12px;\n}",
+  "preview": "<div style=\"display:grid;grid-template-columns:repeat(2,1fr);gap:15px\"><div style=\"background:#d9e8ff;padding:25px\">1</div><div style=\"background:#d9e8ff;padding:25px\">2</div><div style=\"background:#d9e8ff;padding:25px\">3</div><div style=\"background:#d9e8ff;padding:25px\">4</div></div>",
+  "rule": "Define columns on the parent and place items inside it.",
+  "tip": "A fractional unit shares available space between grid tracks.",
+  "caution": "Use grid for layouts that need coordinated rows and columns.",
+  "exercise": "Create a two-column gallery with four cards."
+}

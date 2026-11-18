@@ -1,0 +1,95 @@
+{
+  "kind": "youtube#video",
+  "etag": "-MIcOMIJchFlRC186aUvjk94Nis",
+  "id": "J-erLjRrEvM",
+  "snippet": {
+    "publishedAt": "2026-11-02T07:57:09Z",
+    "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+    "title": "AI: Friend or Devil? The Choice Is Yours | TECH AT 60 #Shorts",
+    "description": "AI can help you learn, practise and draft ideas. But a confident answer can still be wrong. Check important claims, verify urgent requests independently, and think before sharing private information.\n\nWhere would you draw the line? Tell us in the comments.\n\nFollow TECH AT 60 for beginner-friendly technology lessons.\n\n#ArtificialIntelligence #AIAwareness #TechAt60 #Shorts\n\nSources:\nhttps://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf\nhttps://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/J-erLjRrEvM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/J-erLjRrEvM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/J-erLjRrEvM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/J-erLjRrEvM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/J-erLjRrEvM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Tech at 60",
+    "tags": [
+      "AI awareness",
+      "AI benefits",
+      "AI benefits and risks",
+      "AI for beginners",
+      "AI friend or foe",
+      "AI hallucinations",
+      "AI risks",
+      "AI safety",
+      "Shorts",
+      "TECH AT 60",
+      "artificial intelligence",
+      "bjp",
+      "cjp",
+      "generative AI",
+      "latent",
+      "mock",
+      "modi",
+      "technology education",
+      "voice cloning"
+    ],
+    "categoryId": "27",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "AI: Friend or Devil? The Choice Is Yours | TECH AT 60 #Shorts",
+      "description": "AI can help you learn, practise and draft ideas. But a confident answer can still be wrong. Check important claims, verify urgent requests independently, and think before sharing private information.\n\nWhere would you draw the line? Tell us in the comments.\n\nFollow TECH AT 60 for beginner-friendly technology lessons.\n\n#ArtificialIntelligence #AIAwareness #TechAt60 #Shorts\n\nSources:\nhttps://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf\nhttps://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes"
+    },
+    "defaultAudioLanguage": "bn"
+  },
+  "contentDetails": {
+    "duration": "PT1M1S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": false
+  },
+  "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "processingDetails": {
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "available"
+  }
+}

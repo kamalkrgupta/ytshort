@@ -1,0 +1,47 @@
+{
+  "clips": {
+    "caution": {
+      "file": "caution.wav",
+      "source": "file",
+      "duration": 6.42
+    },
+    "close": {
+      "file": "close.wav",
+      "source": "file",
+      "duration": 3.42
+    },
+    "code": {
+      "file": "code.wav",
+      "source": "file",
+      "duration": 5.6
+    },
+    "hook": {
+      "file": "hook.wav",
+      "source": "file",
+      "duration": 5.35
+    },
+    "idea": {
+      "file": "idea.wav",
+      "source": "file",
+      "duration": 6.21
+    },
+    "result": {
+      "file": "result.wav",
+      "source": "file",
+      "duration": 7.29
+    },
+    "tip": {
+      "file": "tip.wav",
+      "source": "file",
+      "duration": 6.88
+    },
+    "try": {
+      "file": "try.wav",
+      "source": "file",
+      "duration": 5.02
+    }
+  },
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "leadIn": 0.25
+}

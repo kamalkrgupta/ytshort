@@ -1,0 +1,13 @@
+{
+  "title": "JavaScript If Else: Choose a Message Based on a Score",
+  "description": "Use JavaScript if and else to display a different message depending on a practice score. See how a condition chooses which branch runs.\n\nTry answering: What message would you show when a score is below your target?\n\nContinue learning: open the JavaScript for Beginners playlist on @Techat60.\nSubscribe to TECH AT 60 for practical beginner coding lessons.\n\nThe if branch runs when its condition is truthy.\nThe else branch handles the alternative when that condition is false.\n\nTry it: Display a different message depending on a practice score.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 42\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "javascript if-else",
+    "web development for beginners",
+    "learn to code",
+    "coding shorts",
+    "javascript tutorial"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-09T05:30:00Z"
+}

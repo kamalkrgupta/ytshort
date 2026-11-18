@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "54937ebf8c494cf865c60f01d42f5f43a69466d3d1ef842e536f379067b86ea5",
+  "title": "Build a JavaScript Counter: Click to Add One",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-16T09:08:08Z",
+  "publishAt": "2026-11-18T05:30:00+00:00",
+  "videoId": "AZeSX3yJi_w",
+  "url": "https://www.youtube.com/watch?v=AZeSX3yJi_w",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-18T05:30:00Z"
+}

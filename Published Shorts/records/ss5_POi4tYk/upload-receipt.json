@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "54edca5d8c61507bb0ebcdbddbcbfdef037ec55ee26ac2e86a95b983ae8b6dc7",
+  "title": "CSS Position Property | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-31T11:16:39Z",
+  "publishAt": "2026-11-03T10:30:00Z",
+  "videoId": "ss5_POi4tYk",
+  "url": "https://www.youtube.com/watch?v=ss5_POi4tYk",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-03T10:30:00Z"
+}

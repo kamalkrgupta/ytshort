@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "Your phone has no nearby cell tower. Some supported services can send messages through a satellite instead.",
+    "idea": "The signal travels between a compatible phone, a satellite, and the network on the ground.",
+    "demo": "This can extend connectivity beyond regular tower coverage, depending on the service and where you are.",
+    "compare": "It is not automatically a replacement for normal mobile broadband. Speed, supported apps, and delays can differ.",
+    "takeaway": "Check your phone, provider, region, and clear view of the sky before relying on a feature.",
+    "close": "Would messaging be enough off the grid? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

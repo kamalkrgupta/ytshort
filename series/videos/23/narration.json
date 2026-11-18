@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Colors Explained. Let’s make it simple.",
+    "idea": "C S S colors can be written as names, hexadecimal values, or color functions. Start by understanding the role it plays in a page.",
+    "code": "Different color formats can describe the same visible color.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Choose text and background colors that remain easy to read. Keep this detail in mind when writing your own example.",
+    "caution": "Color alone should not be the only way to communicate meaning.",
+    "try": "Style a heading, paragraph, and link using three color formats. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

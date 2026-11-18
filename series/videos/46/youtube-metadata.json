@@ -1,0 +1,13 @@
+{
+  "title": "JavaScript DOM Manipulation | Web Development in 60 Seconds",
+  "description": "The document object model represents a page as objects JavaScript can change. Learn javascript dom manipulation with a quick example for beginners.\n\nSelect an element, then change its text content.\nEvent listeners can trigger these updates when a user takes an action.\n\nTry it: Change a heading when someone presses a button.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds • Lesson 46\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "javascript dom manipulation",
+    "web development for beginners",
+    "learn to code",
+    "coding shorts",
+    "javascript tutorial"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-11T05:30:00Z"
+}

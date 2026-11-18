@@ -1,0 +1,19 @@
+AI Privacy: What to Check Before Sharing Personal Data | Ep 32
+
+AI Privacy: What to Check Before Sharing Personal Data. Learn with a simple example and a beginner exercise.
+
+AI for Beginners — Episode 32 of 50
+
+What you will learn: Minimize sensitive information in prompts and uploads.
+Example: summarizing meeting notes after removing names.
+Try it: redact a sample note before using AI.
+Remember: avoid sharing passwords, IDs and private records.
+
+Follow the series in episode order and practice with sample data. Share your question or exercise result in the comments.
+Subscribe to @Techat60 for practical AI tutorials.
+
+#AIForBeginners #ArtificialIntelligence #LearnAI
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk
+
+Tags: ai privacy and personal data, AI for beginners, artificial intelligence tutorial, learn AI, AI tutorial English, Techat60

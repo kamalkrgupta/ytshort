@@ -1,0 +1,58 @@
+[
+  {
+    "id": "hook",
+    "duration": 6,
+    "narration": "The same A I can help you... or fool you. What’s the difference?",
+    "text": "AI: FRIEND… OR DEVIL?",
+    "visual": "Split-screen green/coral; central AI disk turns; question lands at 2.5s."
+  },
+  {
+    "id": "friend",
+    "duration": 8.5,
+    "narration": "Explain this idea. Help me practise. Draft a message. Useful.",
+    "text": "LEARN. PRACTISE. CREATE.",
+    "visual": "Three task tiles enter at 0.7, 2.7 and 4.7 seconds."
+  },
+  {
+    "id": "trap",
+    "duration": 9,
+    "narration": "But sounding confident doesn’t make it right. A I can invent facts, sources, and details that seem real.",
+    "text": "CONFIDENT ≠ CORRECT",
+    "visual": "Confident answer card; red verification stamp arrives at 3.5s; source chip at 6s."
+  },
+  {
+    "id": "fake",
+    "duration": 7.5,
+    "narration": "Even a familiar voice can be faked. Verify urgent requests through another channel.",
+    "text": "A FAMILIAR VOICE?",
+    "visual": "Stylised incoming-call waveform; warning appears at 3s; call-back cue at 4.6s."
+  },
+  {
+    "id": "privacy",
+    "duration": 7,
+    "narration": "Before sharing a password or private document, pause. Check what you’re sending.",
+    "text": "PAUSE BEFORE YOU PASTE",
+    "visual": "Document moves toward input boundary, stops at 2.5s; lock and pause mark at 4s."
+  },
+  {
+    "id": "rule",
+    "duration": 8.5,
+    "narration": "Let A I suggest. You check the original source. Then you decide.",
+    "text": "SUGGEST. CHECK. DECIDE.",
+    "visual": "Three steps illuminate in sequence at 0.5, 2.6 and 5.2 seconds."
+  },
+  {
+    "id": "payoff",
+    "duration": 7.5,
+    "narration": "Friend or devil? It’s a powerful tool. Don’t hand it the steering wheel.",
+    "text": "ASSISTANT. NOT AUTOPILOT.",
+    "visual": "Steering wheel illustration draws in, restrained turn; emphasis switches at 3s."
+  },
+  {
+    "id": "close",
+    "duration": 6,
+    "narration": "Would you trust A I with an important decision? Where would you draw the line?",
+    "text": "WHERE’S YOUR LINE?",
+    "visual": "Friend/devil choice tiles; comment prompt at 2.5s; final frame holds for at least one second."
+  }
+]

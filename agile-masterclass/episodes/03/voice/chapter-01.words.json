@@ -1,0 +1,617 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 2840830,
+    "text": "An"
+  },
+  {
+    "offset": 3982910,
+    "duration": 5255830,
+    "text": "Agile"
+  },
+  {
+    "offset": 9380830,
+    "duration": 5113750,
+    "text": "tester"
+  },
+  {
+    "offset": 14636250,
+    "duration": 3125000,
+    "text": "does"
+  },
+  {
+    "offset": 17903330,
+    "duration": 2982910,
+    "text": "more"
+  },
+  {
+    "offset": 21028330,
+    "duration": 2556660,
+    "text": "than"
+  },
+  {
+    "offset": 23727080,
+    "duration": 5681660,
+    "text": "discover"
+  },
+  {
+    "offset": 29551250,
+    "duration": 5397910,
+    "text": "bugs"
+  },
+  {
+    "offset": 44818330,
+    "duration": 5539580,
+    "text": "Testing"
+  },
+  {
+    "offset": 50500000,
+    "duration": 7244160,
+    "text": "expertise"
+  },
+  {
+    "offset": 57886250,
+    "duration": 8238750,
+    "text": "contributes"
+  },
+  {
+    "offset": 66267080,
+    "duration": 1136250,
+    "text": "to"
+  },
+  {
+    "offset": 67545410,
+    "duration": 7954580,
+    "text": "requirement"
+  },
+  {
+    "offset": 75642080,
+    "duration": 8664580,
+    "text": "analysis"
+  },
+  {
+    "offset": 86579580,
+    "duration": 4119160,
+    "text": "risk"
+  },
+  {
+    "offset": 90840830,
+    "duration": 13068330,
+    "text": "identification"
+  },
+  {
+    "offset": 105755830,
+    "duration": 3551250,
+    "text": "test"
+  },
+  {
+    "offset": 109448750,
+    "duration": 6676250,
+    "text": "design"
+  },
+  {
+    "offset": 117687500,
+    "duration": 9801250,
+    "text": "collaboration"
+  },
+  {
+    "offset": 128767080,
+    "duration": 8380830,
+    "text": "automation"
+  },
+  {
+    "offset": 137289580,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 139704580,
+    "duration": 9232910,
+    "text": "improvement"
+  },
+  {
+    "offset": 158880830,
+    "duration": 6250000,
+    "text": "Follow"
+  },
+  {
+    "offset": 165272910,
+    "duration": 852080,
+    "text": "a"
+  },
+  {
+    "offset": 166267080,
+    "duration": 5681660,
+    "text": "tester"
+  },
+  {
+    "offset": 172090830,
+    "duration": 4971660,
+    "text": "working"
+  },
+  {
+    "offset": 177204580,
+    "duration": 1846660,
+    "text": "on"
+  },
+  {
+    "offset": 179193330,
+    "duration": 1278330,
+    "text": "an"
+  },
+  {
+    "offset": 180613750,
+    "duration": 5681660,
+    "text": "online"
+  },
+  {
+    "offset": 186437500,
+    "duration": 5539580,
+    "text": "banking"
+  },
+  {
+    "offset": 192119160,
+    "duration": 10227080,
+    "text": "application"
+  },
+  {
+    "offset": 212289580,
+    "duration": 5965830,
+    "text": "Follow"
+  },
+  {
+    "offset": 218397910,
+    "duration": 852080,
+    "text": "a"
+  },
+  {
+    "offset": 219392080,
+    "duration": 5823750,
+    "text": "fictional"
+  },
+  {
+    "offset": 225357910,
+    "duration": 4829580,
+    "text": "tester"
+  },
+  {
+    "offset": 230329580,
+    "duration": 4545410,
+    "text": "named"
+  },
+  {
+    "offset": 235017080,
+    "duration": 4545410,
+    "text": "Asha"
+  },
+  {
+    "offset": 239704580,
+    "duration": 2840830,
+    "text": "through"
+  },
+  {
+    "offset": 242687500,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 243539580,
+    "duration": 10085410,
+    "text": "bank-transfer"
+  },
+  {
+    "offset": 253767080,
+    "duration": 6107910,
+    "text": "story"
+  },
+  {
+    "offset": 270102500,
+    "duration": 2130830,
+    "text": "The"
+  },
+  {
+    "offset": 272375000,
+    "duration": 4971660,
+    "text": "product"
+  },
+  {
+    "offset": 277488750,
+    "duration": 5681660,
+    "text": "request"
+  },
+  {
+    "offset": 283312500,
+    "duration": 4119160,
+    "text": "says"
+  },
+  {
+    "offset": 287573750,
+    "duration": 2414580,
+    "text": "that"
+  },
+  {
+    "offset": 290130830,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 290840830,
+    "duration": 6676250,
+    "text": "customer"
+  },
+  {
+    "offset": 297659160,
+    "duration": 2272910,
+    "text": "can"
+  },
+  {
+    "offset": 300073750,
+    "duration": 5965830,
+    "text": "transfer"
+  },
+  {
+    "offset": 306181660,
+    "duration": 3835410,
+    "text": "money"
+  },
+  {
+    "offset": 310159160,
+    "duration": 1420410,
+    "text": "to"
+  },
+  {
+    "offset": 311721660,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 312431660,
+    "duration": 4687500,
+    "text": "saved"
+  },
+  {
+    "offset": 317261250,
+    "duration": 10227080,
+    "text": "beneficiary"
+  },
+  {
+    "offset": 337573750,
+    "duration": 6250000,
+    "text": "Before"
+  },
+  {
+    "offset": 343965830,
+    "duration": 6392080,
+    "text": "creating"
+  },
+  {
+    "offset": 350500000,
+    "duration": 3409160,
+    "text": "test"
+  },
+  {
+    "offset": 354051250,
+    "duration": 6392080,
+    "text": "cases"
+  },
+  {
+    "offset": 363284160,
+    "duration": 5255830,
+    "text": "Asha"
+  },
+  {
+    "offset": 368681660,
+    "duration": 4403330,
+    "text": "asks"
+  },
+  {
+    "offset": 373227500,
+    "duration": 2556660,
+    "text": "what"
+  },
+  {
+    "offset": 375926250,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 376778330,
+    "duration": 7670410,
+    "text": "successful"
+  },
+  {
+    "offset": 384590830,
+    "duration": 6107910,
+    "text": "transfer"
+  },
+  {
+    "offset": 390840830,
+    "duration": 6107910,
+    "text": "means"
+  },
+  {
+    "offset": 406750000,
+    "duration": 3835410,
+    "text": "Should"
+  },
+  {
+    "offset": 410727500,
+    "duration": 852080,
+    "text": "the"
+  },
+  {
+    "offset": 411721660,
+    "duration": 6818330,
+    "text": "recipient"
+  },
+  {
+    "offset": 418681660,
+    "duration": 2130830,
+    "text": "see"
+  },
+  {
+    "offset": 420954580,
+    "duration": 4261250,
+    "text": "funds"
+  },
+  {
+    "offset": 425357910,
+    "duration": 8664580,
+    "text": "immediately"
+  },
+  {
+    "offset": 443965830,
+    "duration": 2698750,
+    "text": "Can"
+  },
+  {
+    "offset": 446806660,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 447517080,
+    "duration": 6250000,
+    "text": "transfer"
+  },
+  {
+    "offset": 453909160,
+    "duration": 1562500,
+    "text": "be"
+  },
+  {
+    "offset": 455613750,
+    "duration": 7102080,
+    "text": "cancelled"
+  },
+  {
+    "offset": 472517080,
+    "duration": 3977080,
+    "text": "What"
+  },
+  {
+    "offset": 476636250,
+    "duration": 5539580,
+    "text": "happens"
+  },
+  {
+    "offset": 482318330,
+    "duration": 2272910,
+    "text": "when"
+  },
+  {
+    "offset": 484732910,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 485869160,
+    "duration": 4403330,
+    "text": "source"
+  },
+  {
+    "offset": 490415000,
+    "duration": 4971660,
+    "text": "account"
+  },
+  {
+    "offset": 495528330,
+    "duration": 1562500,
+    "text": "is"
+  },
+  {
+    "offset": 497232910,
+    "duration": 6107910,
+    "text": "frozen"
+  },
+  {
+    "offset": 513142080,
+    "duration": 4971660,
+    "text": "These"
+  },
+  {
+    "offset": 518255830,
+    "duration": 6392080,
+    "text": "questions"
+  },
+  {
+    "offset": 524790000,
+    "duration": 4403330,
+    "text": "reveal"
+  },
+  {
+    "offset": 529335410,
+    "duration": 4971660,
+    "text": "risks"
+  },
+  {
+    "offset": 534448750,
+    "duration": 2130830,
+    "text": "that"
+  },
+  {
+    "offset": 536721660,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 537431660,
+    "duration": 4545410,
+    "text": "short"
+  },
+  {
+    "offset": 542119160,
+    "duration": 4545410,
+    "text": "user"
+  },
+  {
+    "offset": 546806660,
+    "duration": 4829580,
+    "text": "story"
+  },
+  {
+    "offset": 551778330,
+    "duration": 4971660,
+    "text": "cannot"
+  },
+  {
+    "offset": 556892080,
+    "duration": 6107910,
+    "text": "express"
+  },
+  {
+    "offset": 563142080,
+    "duration": 5539580,
+    "text": "alone"
+  },
+  {
+    "offset": 578625000,
+    "duration": 2130830,
+    "text": "The"
+  },
+  {
+    "offset": 580897910,
+    "duration": 4971660,
+    "text": "tester"
+  },
+  {
+    "offset": 586011250,
+    "duration": 8664580,
+    "text": "contributes"
+  },
+  {
+    "offset": 594818330,
+    "duration": 2272910,
+    "text": "by"
+  },
+  {
+    "offset": 597232910,
+    "duration": 5113750,
+    "text": "helping"
+  },
+  {
+    "offset": 602488750,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 603625000,
+    "duration": 3835410,
+    "text": "team"
+  },
+  {
+    "offset": 607602500,
+    "duration": 2698750,
+    "text": "make"
+  },
+  {
+    "offset": 610443330,
+    "duration": 1846660,
+    "text": "its"
+  },
+  {
+    "offset": 612431660,
+    "duration": 8096660,
+    "text": "assumptions"
+  },
+  {
+    "offset": 620670410,
+    "duration": 6676250,
+    "text": "visible"
+  },
+  {
+    "offset": 637147910,
+    "duration": 4403330,
+    "text": "This"
+  },
+  {
+    "offset": 641693330,
+    "duration": 3551250,
+    "text": "work"
+  },
+  {
+    "offset": 645386250,
+    "duration": 1704580,
+    "text": "is"
+  },
+  {
+    "offset": 647232910,
+    "duration": 4119160,
+    "text": "most"
+  },
+  {
+    "offset": 651494160,
+    "duration": 4545410,
+    "text": "useful"
+  },
+  {
+    "offset": 656181660,
+    "duration": 5255830,
+    "text": "before"
+  },
+  {
+    "offset": 661579580,
+    "duration": 1420410,
+    "text": "an"
+  },
+  {
+    "offset": 663142080,
+    "duration": 10085410,
+    "text": "implementation"
+  },
+  {
+    "offset": 673369160,
+    "duration": 4261250,
+    "text": "turns"
+  },
+  {
+    "offset": 677772910,
+    "duration": 1278330,
+    "text": "an"
+  },
+  {
+    "offset": 679193330,
+    "duration": 7528330,
+    "text": "unanswered"
+  },
+  {
+    "offset": 686863750,
+    "duration": 5397910,
+    "text": "question"
+  },
+  {
+    "offset": 692403330,
+    "duration": 3693330,
+    "text": "into"
+  },
+  {
+    "offset": 696238750,
+    "duration": 8238750,
+    "text": "accidental"
+  },
+  {
+    "offset": 704619160,
+    "duration": 7386250,
+    "text": "behavior"
+  }
+]

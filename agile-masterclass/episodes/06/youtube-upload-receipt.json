@@ -1,0 +1,20 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "d33bb8019e22b183d5c45ca5c2f392656de2c925163552d4b43eed014448dad1",
+  "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:46:58Z",
+  "publishAt": "2026-10-25T18:00:00+05:30",
+  "videoId": "HH9gdETVS-E",
+  "url": "https://www.youtube.com/watch?v=HH9gdETVS-E",
+  "actualVisibility": "public",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null,
+  "remoteAuditedAt": "2026-10-23T15:56:57.583484+00:00"
+}

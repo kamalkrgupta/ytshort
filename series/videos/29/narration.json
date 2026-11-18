@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Flexbox in 60 Seconds. Let’s make it simple.",
+    "idea": "Flexbox arranges items along one main axis. Start by understanding the role it plays in a page.",
+    "code": "Turn the parent into a flex container to arrange its children.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Justify content controls the main axis; align items controls the cross axis. Keep this detail in mind when writing your own example.",
+    "caution": "Those axes change when the flex direction changes.",
+    "try": "Center three items in a row with an even gap. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

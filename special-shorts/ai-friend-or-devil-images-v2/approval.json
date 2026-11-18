@@ -1,0 +1,10 @@
+{
+  "status": "awaiting_user_review",
+  "upload_authorized": false,
+  "publish_authorized": false,
+  "synthetic_voice_authorized": true,
+  "generated_illustrations": true,
+  "add_to_automated_queues": false,
+  "review_artifact": "/Users/impulsiveweb/Documents/YT Short/special-shorts/ai-friend-or-devil-images-v2/out/AI-Friend-or-Devil-IMAGES-REVIEW.mp4",
+  "review_sha256": "a760f866a5049c64373cfd8ec33482ce463fe960cc06f574f5a7b91d98ca9b55"
+}

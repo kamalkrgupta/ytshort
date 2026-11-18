@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "31efecabdb26b3182988a95046ea1aa879fbc6db4c8efd5eb26bc211bd6c00f5",
+  "title": "AI Content Workflow: Take an Educational Video from Idea to Upload | Ep 49",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:22:17Z",
+  "publishAt": "2026-11-20T14:00:00+05:30",
+  "videoId": "W_1KFovAZ9s",
+  "url": "https://www.youtube.com/watch?v=W_1KFovAZ9s",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-20T08:30:00Z"
+}

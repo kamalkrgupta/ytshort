@@ -1,0 +1,17 @@
+{
+  "status": "needs_attention",
+  "attempts": 1,
+  "notBefore": "2026-10-24T22:15:00+05:30",
+  "deadline": "2026-10-28T17:30:00+05:30",
+  "episodes": [
+    11,
+    12
+  ],
+  "intendedPublishAt": "2026-10-28T18:00:00+05:30",
+  "jobRegistered": true,
+  "jobLabel": "com.techat60.agile-final-episodes",
+  "initialGuardRunExitCode": 0,
+  "registeredAt": "2026-10-23T15:58:25.443520+00:00",
+  "lastAttemptAt": "2026-10-24T22:15:05.616069+05:30",
+  "error": "CalledProcessError: retry stopped; inspect publishing receipts and retry.log"
+}

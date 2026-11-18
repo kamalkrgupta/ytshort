@@ -1,0 +1,42 @@
+Agile Testing Explained for Beginners | Real Examples | Episode 1
+
+Learn agile testing fundamentals with practical software testing examples, diagrams and a guided exercise.
+Agile Testing Masterclass — Episode 1 of 12 | English | 10-minute tutorial.
+
+In this lesson:
+• Hook and introduction
+• What is Agile Testing?
+• Agile versus traditional testing
+• Five core principles
+• Agile Testing in Scrum
+• Four Agile Testing quadrants
+• Real-world example
+• Tools and automation
+
+CHAPTERS
+00:00 Hook and introduction
+00:43 What is Agile Testing?
+02:08 Agile versus traditional testing
+02:57 Five core principles
+04:22 Agile Testing in Scrum
+05:15 Four Agile Testing quadrants
+06:51 Real-world example
+08:18 Tools and automation
+09:04 Recap and outro
+
+Practice: Which failure would you investigate first?
+Examples use fictional applications and synthetic data.
+
+Subscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.
+
+References and further reading:
+https://agilemanifesto.org/
+https://scrumguides.org/scrum-guide.html
+https://kanbanguides.org/the-kanban-guide/2025.5/
+https://playwright.dev/docs/best-practices
+
+#AgileTesting #SoftwareTesting #QATutorial
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI
+
+Tags: agile testing, agile testing fundamentals, software testing tutorial, agile testing for beginners, QA tutorial, manual testing, software quality assurance, Techat60, agile testing masterclass

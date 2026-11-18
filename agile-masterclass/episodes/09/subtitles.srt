@@ -1,0 +1,559 @@
+1
+00:00:00,336 --> 00:00:05,133
+Agile values useful documentation not the elimination of documentation
+
+2
+00:00:05,992 --> 00:00:10,887
+We will examine stories criteria cases defects charters and
+
+3
+00:00:10,899 --> 00:00:16,318
+traceability Imagine joining a team just before release The
+
+4
+00:00:16,330 --> 00:00:19,739
+invoice feature looks finished but nobody can explain which
+
+5
+00:00:19,751 --> 00:00:23,490
+account-isolation checks ran or which build contains the last
+
+6
+00:00:23,502 --> 00:00:28,202
+fix More documents would not automatically solve the problem
+
+7
+00:00:29,067 --> 00:00:33,426
+Useful artifacts would connect the customer need expected behavior
+
+8
+00:00:33,438 --> 00:00:38,760
+and evidence Agile values working software while still recognizing
+
+9
+00:00:38,772 --> 00:00:43,667
+that documentation can support collaboration and decisions In this
+
+10
+00:00:43,679 --> 00:00:47,040
+lesson we create a small connected set of artifacts
+
+11
+00:00:47,052 --> 00:00:51,606
+for a monthly invoice download Every artifact should answer
+
+12
+00:00:51,618 --> 00:00:54,760
+a practical question for someone who needs to understand
+
+13
+00:00:54,894 --> 00:00:57,573
+verify operate or change the product
+
+14
+00:00:59,169 --> 00:01:03,692
+A customer wants to download a monthly invoice Clarify
+
+15
+00:01:03,704 --> 00:01:07,418
+completed billing periods P D F output and account
+
+16
+00:01:07,430 --> 00:01:13,298
+ownership Acceptance criteria translate the need into verifiable outcomes
+
+17
+00:01:14,138 --> 00:01:16,853
+Write the user story in terms of the customer
+
+18
+00:01:16,866 --> 00:01:20,396
+goal a customer wants to download a monthly invoice
+
+19
+00:01:20,409 --> 00:01:24,256
+to keep a record of charges Then clarify the
+
+20
+00:01:24,268 --> 00:01:29,637
+acceptance criteria Only completed billing periods are available the
+
+21
+00:01:29,650 --> 00:01:32,657
+output is a readable P D F and customers
+
+22
+00:01:32,669 --> 00:01:36,784
+can access only their own invoices Add an example
+
+23
+00:01:36,796 --> 00:01:38,964
+of a month with no charge if the business
+
+24
+00:01:38,976 --> 00:01:43,797
+needs it Criteria should describe observable outcomes rather than
+
+25
+00:01:43,809 --> 00:01:48,132
+merely repeat interface labels A story that says there
+
+26
+00:01:48,144 --> 00:01:50,859
+is a Download button is incomplete if it never
+
+27
+00:01:50,871 --> 00:01:54,024
+explains which document the button must retrieve or who
+
+28
+00:01:54,037 --> 00:01:55,473
+is allowed to retrieve it
+
+29
+00:01:57,069 --> 00:02:01,891
+A test case can specify ID objective precondition action
+
+30
+00:02:01,903 --> 00:02:06,681
+and expected result For invoice downloads verify that an
+
+31
+00:02:06,694 --> 00:02:10,164
+authenticated customer downloads the correct P D F Use
+
+32
+00:02:10,176 --> 00:02:13,975
+detailed cases for high-risk work and checklists where sufficient
+
+33
+00:02:14,815 --> 00:02:17,627
+Create one test case with enough detail for its
+
+34
+00:02:17,639 --> 00:02:23,435
+risk Its identifier is INV zero one The precondition
+
+35
+00:02:23,447 --> 00:02:26,588
+is a synthetic customer with a completed billing period
+
+36
+00:02:26,601 --> 00:02:30,205
+and a known invoice The action is to request
+
+37
+00:02:30,217 --> 00:02:34,332
+that period's download The expected result is the correct
+
+38
+00:02:34,344 --> 00:02:36,889
+P D F with the agreed account and charge
+
+39
+00:02:36,901 --> 00:02:41,491
+information Record the environment and build when executing it
+
+40
+00:02:42,331 --> 00:02:45,984
+A second test should investigate access to another synthetic
+
+41
+00:02:45,996 --> 00:02:51,171
+customer's invoice Detailed steps are useful where precision matters
+
+42
+00:02:51,305 --> 00:02:54,203
+but a simple low-risk visual check may only need
+
+43
+00:02:54,215 --> 00:02:57,928
+a checklist Match the detail to the reader's need
+
+44
+00:02:57,941 --> 00:03:00,035
+and the consequences of ambiguity
+
+45
+00:03:01,636 --> 00:03:05,945
+An invoice ID modification that exposes another customer’s file
+
+46
+00:03:05,957 --> 00:03:11,879
+is a serious authorization issue Record environment steps expected
+
+47
+00:03:11,891 --> 00:03:17,454
+and actual behavior and sanitized evidence Avoid exposing sensitive
+
+48
+00:03:17,466 --> 00:03:23,127
+customer data Suppose modifying the invoice identifier returns another
+
+49
+00:03:23,139 --> 00:03:27,947
+account's document Write a defect that explains the authorization
+
+50
+00:03:27,960 --> 00:03:33,401
+failure without exposing real customer information Include the environment
+
+51
+00:03:33,571 --> 00:03:39,475
+synthetic account relationship reproduction steps and observed result State
+
+52
+00:03:39,487 --> 00:03:44,028
+the expected denial and attach sanitized evidence Link the
+
+53
+00:03:44,040 --> 00:03:48,873
+affected requirement and test Avoid putting access tokens or
+
+54
+00:03:48,885 --> 00:03:53,413
+confidential invoices in a broadly shared ticket The report
+
+55
+00:03:53,425 --> 00:03:56,700
+should help the team reproduce and prioritize the problem
+
+56
+00:03:56,858 --> 00:04:01,094
+not create a second exposure After the fix retain
+
+57
+00:04:01,107 --> 00:04:04,004
+enough retest evidence to show which build was checked
+
+58
+00:04:04,016 --> 00:04:05,805
+and what outcome was observed
+
+59
+00:04:07,402 --> 00:04:13,039
+A lightweight strategy documents scope risks environments responsibilities and
+
+60
+00:04:13,052 --> 00:04:18,025
+automation An exploratory charter might focus on invoice downloads
+
+61
+00:04:18,037 --> 00:04:24,052
+across roles and billing periods Capture observations afterward A
+
+62
+00:04:24,064 --> 00:04:29,884
+one-page strategy can describe scope important risks environments responsibilities
+
+63
+00:04:29,896 --> 00:04:33,463
+and the mix of automated and human checks For
+
+64
+00:04:33,475 --> 00:04:38,918
+this feature highlight account isolation document accuracy and availability
+
+65
+00:04:39,770 --> 00:04:44,360
+Add an exploratory charter investigate invoice access across roles
+
+66
+00:04:44,372 --> 00:04:48,901
+and billing periods using synthetic accounts A charter sets
+
+67
+00:04:48,913 --> 00:04:52,992
+a mission while leaving room to follow discoveries After
+
+68
+00:04:53,004 --> 00:04:56,170
+the session capture what was covered what was found
+
+69
+00:04:56,182 --> 00:05:00,224
+and what remains uncertain This is more useful than
+
+70
+00:05:00,236 --> 00:05:03,280
+a long plan copied from an unrelated project that
+
+71
+00:05:03,292 --> 00:05:06,592
+nobody updates or uses when making a release decision
+
+72
+00:05:08,202 --> 00:05:13,121
+Link authorization requirements to tests defects fixes and retest
+
+73
+00:05:13,133 --> 00:05:18,691
+evidence This helps teams demonstrate coverage especially in regulated
+
+74
+00:05:18,703 --> 00:05:25,923
+environments without unnecessary bureaucracy Traceability can be lightweight Connect
+
+75
+00:05:25,935 --> 00:05:30,756
+the account-ownership rule to the unauthorized-download check Link the
+
+76
+00:05:30,768 --> 00:05:33,605
+failing result to the defect then the fix and
+
+77
+00:05:33,617 --> 00:05:38,134
+retest Someone reviewing release readiness can follow that chain
+
+78
+00:05:38,146 --> 00:05:42,091
+and understand why the risk is considered addressed The
+
+79
+00:05:42,103 --> 00:05:46,243
+same principle applies to automated results retain the build
+
+80
+00:05:46,255 --> 00:05:49,408
+and relevant report rather than only a screenshot of
+
+81
+00:05:49,420 --> 00:05:54,096
+a green badge Avoid maintaining multiple disconnected copies of
+
+82
+00:05:54,108 --> 00:05:58,381
+the same relationship in spreadsheets and tickets A small
+
+83
+00:05:58,393 --> 00:06:00,950
+set of current links is easier to trust than
+
+84
+00:06:00,962 --> 00:06:04,262
+a large matrix that stopped reflecting the product several
+
+85
+00:06:04,274 --> 00:06:05,053
+sprints ago
+
+86
+00:06:06,636 --> 00:06:12,323
+Maintain stories criteria risk strategy important tests defect reports
+
+87
+00:06:12,445 --> 00:06:17,772
+automated results and relevant release notes Keep artifacts accessible
+
+88
+00:06:17,784 --> 00:06:22,851
+and current Decide what to keep current Stories and
+
+89
+00:06:22,863 --> 00:06:28,526
+criteria describe the agreed behavior Important tests preserve repeatable
+
+90
+00:06:28,538 --> 00:06:35,065
+checks Defect reports record actionable failures Automated reports show
+
+91
+00:06:35,077 --> 00:06:39,291
+what ran on a build Operational notes explain relevant
+
+92
+00:06:39,303 --> 00:06:44,394
+deployment or support concerns Release notes communicate changes to
+
+93
+00:06:44,406 --> 00:06:48,960
+their intended audience Each artifact has a different reader
+
+94
+00:06:48,973 --> 00:06:54,453
+and lifespan When behavior changes identify which artifacts now
+
+95
+00:06:54,465 --> 00:06:59,117
+contain an obsolete rule Documentation debt grows when old
+
+96
+00:06:59,129 --> 00:07:02,709
+expectations remain easy to find but hard to distinguish
+
+97
+00:07:02,722 --> 00:07:07,593
+from current guidance Prefer concise material with clear ownership
+
+98
+00:07:07,605 --> 00:07:10,333
+and a visible relationship to the implementation
+
+99
+00:07:11,936 --> 00:07:15,382
+For your exercise create a miniature evidence chain for
+
+100
+00:07:15,395 --> 00:07:20,589
+the invoice authorization defect Write one criterion one negative
+
+101
+00:07:20,601 --> 00:07:23,987
+test a concise defect title and a retest note
+
+102
+00:07:24,839 --> 00:07:29,151
+The criterion restricts downloads to the owning customer The
+
+103
+00:07:29,163 --> 00:07:33,559
+test attempts access from a different synthetic account The
+
+104
+00:07:33,572 --> 00:07:37,457
+defect states that the file was returned The retest
+
+105
+00:07:37,469 --> 00:07:41,013
+note identifies the fixed build and the observed denial
+
+106
+00:07:41,853 --> 00:07:45,288
+Explain why a screenshot alone would be insufficient if
+
+107
+00:07:45,300 --> 00:07:50,111
+it omitted the account context and build Useful documentation
+
+108
+00:07:50,123 --> 00:07:53,813
+allows another person to reconstruct the decision without needing
+
+109
+00:07:53,825 --> 00:07:56,967
+the original tester to explain every missing detail
+
+110
+00:07:58,536 --> 00:08:01,897
+Review a bad test case click Download and verify
+
+111
+00:08:01,910 --> 00:08:07,372
+the invoice is correct It leaves correctness undefined Improve
+
+112
+00:08:07,384 --> 00:08:11,172
+it by naming the synthetic account billing period expected
+
+113
+00:08:11,184 --> 00:08:15,995
+document identity and important fields Record which build and
+
+114
+00:08:16,007 --> 00:08:20,124
+environment were used Now another tester can tell whether
+
+115
+00:08:20,136 --> 00:08:22,816
+the file belongs to the right account and period
+
+116
+00:08:22,938 --> 00:08:25,739
+rather than simply confirming that a P D F
+
+117
+00:08:25,751 --> 00:08:30,100
+opened Do not add irrelevant detail such as every
+
+118
+00:08:30,112 --> 00:08:35,130
+pointer movement if it does not help reproducibility Precision
+
+119
+00:08:35,142 --> 00:08:38,650
+should serve the risk and the reader A concise
+
+120
+00:08:38,662 --> 00:08:41,707
+test with an observable expected result can be more
+
+121
+00:08:41,719 --> 00:08:45,056
+useful than pages of mechanical steps with an ambiguous
+
+122
+00:08:45,069 --> 00:08:45,799
+conclusion
+
+123
+00:08:47,402 --> 00:08:52,631
+Documentation also needs maintenance when the product changes Suppose
+
+124
+00:08:52,643 --> 00:08:56,101
+invoices become available on the first business day after
+
+125
+00:08:56,113 --> 00:08:59,266
+a billing period instead of immediately at its end
+
+126
+00:09:00,119 --> 00:09:05,488
+Update the acceptance examples automated expectations relevant support guidance
+
+127
+00:09:05,500 --> 00:09:08,580
+and any checks that rely on the previous availability
+
+128
+00:09:08,592 --> 00:09:12,038
+rule Record the change where the team will look
+
+129
+00:09:12,050 --> 00:09:16,348
+for current behavior An obsolete test can create noise
+
+130
+00:09:16,494 --> 00:09:21,875
+while an obsolete customer-facing explanation can create confusion Assign
+
+131
+00:09:21,887 --> 00:09:25,126
+ownership to the artifact that matters and remove redundant
+
+132
+00:09:25,138 --> 00:09:29,265
+copies where possible Keeping a small set of documents
+
+133
+00:09:29,277 --> 00:09:32,357
+current is usually more useful than creating a large
+
+134
+00:09:32,370 --> 00:09:36,326
+collection whose readers cannot identify the authoritative version
+
+135
+00:09:37,936 --> 00:09:42,796
+Documentation should help teams understand and decide Knowledge check
+
+136
+00:09:43,027 --> 00:09:47,408
+what details make a defect reproducible Subscribe to Tech
+
+137
+00:09:47,420 --> 00:09:50,121
+at sixty for the next episode in this Agile
+
+138
+00:09:50,133 --> 00:09:55,182
+Testing Masterclass Practice the example with synthetic data and
+
+139
+00:09:55,195 --> 00:09:58,115
+share the most important risk you identified in the
+
+140
+00:09:58,127 --> 00:09:58,747
+comments

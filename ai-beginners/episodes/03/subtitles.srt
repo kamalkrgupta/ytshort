@@ -1,0 +1,271 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,297
+Welcome to episode 3 of AI for Beginners Today
+
+4
+00:00:12,465 --> 00:00:15,867
+we’re looking at ai vs machine learning vs deep
+
+5
+00:00:15,880 --> 00:00:20,815
+learning By the end you’ll understand one practical idea
+
+6
+00:00:21,009 --> 00:00:24,643
+watch a realistic example and try a small exercise
+
+7
+00:00:24,656 --> 00:00:29,359
+yourself You don’t need a technical background or expensive
+
+8
+00:00:29,372 --> 00:00:35,055
+software Bring your curiosity We’ll work through it together
+
+9
+00:00:35,983 --> 00:00:39,681
+Here’s the example we’ll use sorting photos of cats
+
+10
+00:00:39,694 --> 00:00:43,496
+and dogs We’ll use that situation to make the
+
+11
+00:00:43,509 --> 00:00:47,529
+topic concrete Watch how we break the task into
+
+12
+00:00:47,542 --> 00:00:50,751
+small steps because the same thinking will help you
+
+13
+00:00:50,764 --> 00:00:54,153
+use many different AI tools later in this course
+
+14
+00:00:59,917 --> 00:01:03,797
+Let’s start with the main idea AI is the
+
+15
+00:01:03,810 --> 00:01:07,947
+broad field machine learning learns from examples and deep
+
+16
+00:01:07,959 --> 00:01:12,521
+learning uses layered neural networks Think of AI as
+
+17
+00:01:12,534 --> 00:01:15,717
+a tool that processes information and returns an output
+
+18
+00:01:15,730 --> 00:01:20,176
+based on its training instructions and any relevant information
+
+19
+00:01:20,189 --> 00:01:23,861
+it can access It can save time on drafts
+
+20
+00:01:23,874 --> 00:01:27,457
+and patterns but it doesn’t automatically know what’s correct
+
+21
+00:01:27,470 --> 00:01:31,271
+for your situation The most useful habit is to
+
+22
+00:01:31,284 --> 00:01:35,202
+define what you want before touching the tool Ask
+
+23
+00:01:35,215 --> 00:01:39,313
+yourself three questions what’s my goal what information does
+
+24
+00:01:39,325 --> 00:01:41,490
+the tool need and how will I check the
+
+25
+00:01:41,503 --> 00:01:45,949
+result Those questions work whether you’re writing a prompt
+
+26
+00:01:46,117 --> 00:01:49,544
+building a workflow or reviewing a generated answer
+
+27
+00:01:55,317 --> 00:01:59,326
+Let’s try it with an example Our example is
+
+28
+00:01:59,339 --> 00:02:03,591
+sorting photos of cats and dogs Start by writing
+
+29
+00:02:03,604 --> 00:02:08,785
+down the desired result in one sentence Next identify
+
+30
+00:02:08,798 --> 00:02:11,259
+the input what would a person need to know
+
+31
+00:02:11,272 --> 00:02:15,048
+to do this task correctly Then write a simple
+
+32
+00:02:15,060 --> 00:02:19,287
+instruction with that context and a clear format On
+
+33
+00:02:19,300 --> 00:02:23,024
+screen I am showing a sample request followed by
+
+34
+00:02:23,037 --> 00:02:27,019
+a possible output Notice that we’re not judging the
+
+35
+00:02:27,032 --> 00:02:31,491
+result by how impressive it sounds We’re checking whether
+
+36
+00:02:31,504 --> 00:02:35,215
+it actually meets the task If the output is
+
+37
+00:02:35,228 --> 00:02:39,390
+too broad ask for a more specific version If
+
+38
+00:02:39,403 --> 00:02:42,831
+a fact matters verify it from a reliable source
+
+39
+00:02:43,720 --> 00:02:46,104
+Pause the video here if you’d like to copy
+
+40
+00:02:46,117 --> 00:02:48,089
+the structure into your own notes
+
+41
+00:02:53,883 --> 00:02:59,143
+Your turn Try this exercise draw three nested circles
+
+42
+00:03:00,032 --> 00:03:03,550
+Begin with a very small example not a complex
+
+43
+00:03:03,563 --> 00:03:08,460
+project Give yourself thirty seconds to decide what success
+
+44
+00:03:08,472 --> 00:03:12,222
+would look like Then complete the task once and
+
+45
+00:03:12,235 --> 00:03:18,808
+inspect the result What’s useful What’s missing What would
+
+46
+00:03:18,820 --> 00:03:23,150
+you change Make one improvement and compare the first
+
+47
+00:03:23,163 --> 00:03:28,498
+and second versions This simple before-and-after comparison teaches you
+
+48
+00:03:28,511 --> 00:03:31,836
+more than copying a complicated prompt from the internet
+
+49
+00:03:32,738 --> 00:03:36,127
+If your chosen tool is unavailable do the exercise
+
+50
+00:03:36,140 --> 00:03:39,710
+on paper sketch the input the steps and the
+
+51
+00:03:39,722 --> 00:03:44,194
+output The objective is to practice the underlying thinking
+
+52
+00:03:44,375 --> 00:03:46,823
+not to depend on one particular app
+
+53
+00:03:52,617 --> 00:03:57,088
+Before we finish remember this important limitation these terms
+
+54
+00:03:57,101 --> 00:04:02,322
+overlap but are not interchangeable Responsible AI use means
+
+55
+00:04:02,335 --> 00:04:05,582
+understanding the strengths of the tool and keeping yourself
+
+56
+00:04:05,595 --> 00:04:09,796
+accountable for the final result Today you learned that
+
+57
+00:04:09,809 --> 00:04:13,095
+AI is the broad field machine learning learns from
+
+58
+00:04:13,108 --> 00:04:17,399
+examples and deep learning uses layered neural networks saw
+
+59
+00:04:17,412 --> 00:04:20,556
+the example of sorting photos of cats and dogs
+
+60
+00:04:20,711 --> 00:04:25,389
+and practiced a small hands-on task Here’s your challenge
+
+61
+00:04:25,595 --> 00:04:28,598
+repeat the exercise with a different topic and write
+
+62
+00:04:28,610 --> 00:04:32,811
+down one thing that improved In the comments share
+
+63
+00:04:32,824 --> 00:04:35,440
+the part you found easiest or the question you
+
+64
+00:04:35,453 --> 00:04:39,384
+still have If this helped share it with someone
+
+65
+00:04:39,397 --> 00:04:43,714
+learning AI And subscribe to Tech at sixty for
+
+66
+00:04:43,726 --> 00:04:48,237
+the next lesson We’re building practical AI skills one
+
+67
+00:04:48,250 --> 00:04:53,250
+simple step at a time Thanks for watching See
+
+68
+00:04:53,263 --> 00:04:54,590
+you in the next lesson

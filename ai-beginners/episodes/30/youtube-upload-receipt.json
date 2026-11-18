@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "c77cb00f64d105e9e081e533a11466a67dfa7e88f71ef94c669b1c0c7c829293",
+  "title": "AI Translation and Subtitles: Check Meaning Before You Publish | Ep 30",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:05:32Z",
+  "publishAt": "2026-11-10T14:00:00+05:30",
+  "videoId": "RsKD5c7vbag",
+  "url": "https://www.youtube.com/watch?v=RsKD5c7vbag",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-10T08:30:00Z"
+}

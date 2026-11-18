@@ -1,0 +1,82 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "_NIN59_E4iK43mcvpZN2ZwUzNHE",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "qRwNtI-W6TbzQXgWw1-hlOs8Cxw",
+      "id": "9enXNnWJxG0",
+      "snippet": {
+        "publishedAt": "2026-10-25T17:17:01Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Semantic HTML | Web Development in 60 Seconds",
+        "description": "Semantic HTML describes the purpose of your content. Learn semantic html with a quick example for beginners.\n\nHeader, navigation, main, and footer give sections meaningful roles.\nThese landmarks help assistive technology users navigate a page.\n\nTry it: Replace generic page containers with suitable semantic elements.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 18\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9enXNnWJxG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9enXNnWJxG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9enXNnWJxG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "TECH AT 60",
+          "coding shorts",
+          "html tutorial",
+          "learn to code",
+          "semantic html",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Semantic HTML | Web Development in 60 Seconds",
+          "description": "Semantic HTML describes the purpose of your content. Learn semantic html with a quick example for beginners.\n\nHeader, navigation, main, and footer give sections meaningful roles.\nThese landmarks help assistive technology users navigate a page.\n\nTry it: Replace generic page containers with suitable semantic elements.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 18\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processingDetails": {
+        "processingStatus": "processing",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

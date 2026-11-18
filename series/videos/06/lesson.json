@@ -1,0 +1,16 @@
+{
+  "videoNumber": 6,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "How to Add Images in HTML",
+  "description": "Display images using <img> and understand alt.",
+  "publishLocal": "2026-10-22T11:00:00+05:30",
+  "publishAt": "2026-10-22T05:30:00Z",
+  "status": "planned",
+  "definition": "An image element embeds a picture in your page.",
+  "code": "<img src=\"cat.jpg\"\n     alt=\"An orange cat\">",
+  "preview": "<div style=\"font-size:120px\">🐈</div><p>An orange cat</p>",
+  "rule": "Source identifies the image file; alt provides a text alternative.",
+  "tip": "Describe useful image content in the alternative text.",
+  "caution": "The image element is void, so it has no closing tag.",
+  "exercise": "Add a local image with a useful text description."
+}

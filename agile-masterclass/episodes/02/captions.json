@@ -1,0 +1,792 @@
+[
+  {
+    "start": 0.3276143790849673,
+    "end": 3.0396866421568633,
+    "text": "Agile is a set of values and principles rather"
+  },
+  {
+    "start": 3.0507466911764713,
+    "end": 6.848547875816996,
+    "text": "than a single prescribed process In this lesson we"
+  },
+  {
+    "start": 6.859575326797388,
+    "end": 11.291517810457519,
+    "text": "examine Scrum Kanban Extreme Programming and Lean Software Development"
+  },
+  {
+    "start": 11.45690163398693,
+    "end": 15.480947957516344,
+    "text": "and explain how testing changes with each approach Start"
+  },
+  {
+    "start": 15.491976184640528,
+    "end": 18.12688733660131,
+    "text": "with a comparison that will remain useful throughout the"
+  },
+  {
+    "start": 18.137914787581703,
+    "end": 22.117850531045757,
+    "text": "course Imagine a team building a customer portal while also"
+  },
+  {
+    "start": 22.12887875816994,
+    "end": 26.869532434640526,
+    "text": "receiving production support requests Its planned feature work benefits"
+  },
+  {
+    "start": 26.88056066176471,
+    "end": 29.735961070261443,
+    "text": "from a clear short-term goal but incoming incidents do"
+  },
+  {
+    "start": 29.74698852124184,
+    "end": 33.69387373366013,
+    "text": "not respect a sprint calendar No single label solves"
+  },
+  {
+    "start": 33.70490196078432,
+    "end": 37.320987704248374,
+    "text": "both problems The team must decide how to plan"
+  },
+  {
+    "start": 37.49739897875818,
+    "end": 40.37485506535948,
+    "text": "how to visualize active work and how to build"
+  },
+  {
+    "start": 40.385882516339876,
+    "end": 44.663502001634,
+    "text": "reliable software Scrum provides a framework for product work"
+  },
+  {
+    "start": 44.939130065359485,
+    "end": 48.952148937908504,
+    "text": "Kanban helps manage flow X P contributes engineering practices"
+  },
+  {
+    "start": 49.150583292483674,
+    "end": 53.27384718137256,
+    "text": "Lean encourages attention to value and waste Evaluate the"
+  },
+  {
+    "start": 53.28487540849674,
+    "end": 55.467779044117655,
+    "text": "problem before selecting the vocabulary"
+  },
+  {
+    "start": 57.0276084257685,
+    "end": 60.555266823536556,
+    "text": "Scrum organizes complex work into sprints commonly one to"
+  },
+  {
+    "start": 60.566293428669745,
+    "end": 65.82998789588562,
+    "text": "four weeks Consider a customer management portal During planning"
+  },
+  {
+    "start": 65.9512510611489,
+    "end": 69.7434571802553,
+    "text": "the team selects a registration story The Product Owner"
+  },
+  {
+    "start": 69.75451715701158,
+    "end": 74.69322634132189,
+    "text": "clarifies acceptance criteria including valid addresses invalid addresses and"
+  },
+  {
+    "start": 74.70425294645507,
+    "end": 79.59888675360294,
+    "text": "duplicate registration Developers and testers collaborate during the sprint"
+  },
+  {
+    "start": 79.72014991886621,
+    "end": 82.93915339867891,
+    "text": "and stakeholders inspect the increment at the Sprint Review"
+  },
+  {
+    "start": 83.69978116228779,
+    "end": 88.42904383147113,
+    "text": "The Retrospective identifies ways to improve Testing is integrated"
+  },
+  {
+    "start": 88.44007121268858,
+    "end": 91.12991405874692,
+    "text": "throughout the sprint rather than postponed to its final"
+  },
+  {
+    "start": 91.14090884442555,
+    "end": 95.49538878430896,
+    "text": "days Walk through a Scrum example The Sprint Goal"
+  },
+  {
+    "start": 95.50638279390333,
+    "end": 99.1112289797722,
+    "text": "is to let new customers register safely The team"
+  },
+  {
+    "start": 99.12225636098965,
+    "end": 102.84833389266726,
+    "text": "selects registration and email verification because they support that"
+  },
+  {
+    "start": 102.8593612738847,
+    "end": 106.80594374527703,
+    "text": "goal A tester asks whether duplicate email addresses are"
+  },
+  {
+    "start": 106.81693775487139,
+    "end": 109.84851688645318,
+    "text": "allowed and what happens if a confirmation message arrives"
+  },
+  {
+    "start": 109.85954426767063,
+    "end": 114.29117940011604,
+    "text": "late Developers and testers discuss these examples while work"
+  },
+  {
+    "start": 114.3021734097104,
+    "end": 117.8518857938291,
+    "text": "is still small During the sprint they inspect progress"
+  },
+  {
+    "start": 117.86291317504654,
+    "end": 121.5669367203735,
+    "text": "and adapt their plan If registration passes its happy"
+  },
+  {
+    "start": 121.57799592104551,
+    "end": 125.18281028745983,
+    "text": "path but bypasses verification the team has not established"
+  },
+  {
+    "start": 125.19383689259303,
+    "end": 129.25062332857664,
+    "text": "the intended outcome Finishing tasks is useful only when"
+  },
+  {
+    "start": 129.26165070979405,
+    "end": 132.37038503393785,
+    "text": "the increment meets the agreed quality conditions and supports"
+  },
+  {
+    "start": 132.3814124151553,
+    "end": 132.84444368539658,
+    "text": "the goal"
+  },
+  {
+    "start": 134.3609654683208,
+    "end": 138.18169465007998,
+    "text": "Kanban visualizes work and limits work in progress A"
+  },
+  {
+    "start": 138.19272540014035,
+    "end": 142.37208321636632,
+    "text": "maintenance team may use Backlog Ready Development Testing and"
+  },
+  {
+    "start": 142.3831139664267,
+    "end": 145.6140989899333,
+    "text": "Done columns If Testing has a work in progress"
+  },
+  {
+    "start": 145.6251289636723,
+    "end": 148.63557351282108,
+    "text": "limit of three and already contains three items the"
+  },
+  {
+    "start": 148.64660426288145,
+    "end": 152.03198019484438,
+    "text": "team focuses on completing existing work rather than starting"
+  },
+  {
+    "start": 152.0430101685834,
+    "end": 156.4429084591672,
+    "text": "more This makes bottlenecks visible and supports steady delivery"
+  },
+  {
+    "start": 156.57523864382415,
+    "end": 161.54854729145913,
+    "text": "especially for teams receiving unpredictable support requests Now move"
+  },
+  {
+    "start": 161.5595780415195,
+    "end": 165.0111019867412,
+    "text": "the same work onto a Kanban board Three registration"
+  },
+  {
+    "start": 165.02213273680158,
+    "end": 168.20902891820612,
+    "text": "fixes are already in Testing and the team's illustrative"
+  },
+  {
+    "start": 168.22005889194511,
+    "end": 171.7597931268677,
+    "text": "testing limit is three A developer has finished a"
+  },
+  {
+    "start": 171.77082387692806,
+    "end": 175.4098302044659,
+    "text": "fourth change Simply pushing it into Testing hides the"
+  },
+  {
+    "start": 175.4208601782049,
+    "end": 180.16259837774305,
+    "text": "capacity problem Instead the team investigates why existing work"
+  },
+  {
+    "start": 180.17362912780342,
+    "end": 184.90433657728124,
+    "text": "has not finished Perhaps accounts cannot receive verification messages"
+  },
+  {
+    "start": 184.91536732734158,
+    "end": 188.94033423511124,
+    "text": "in the test environment Helping restore that environment may"
+  },
+  {
+    "start": 188.9513649851716,
+    "end": 193.50565418421172,
+    "text": "finish more valuable work than starting another feature Work-in-progress"
+  },
+  {
+    "start": 193.5166523287754,
+    "end": 196.6814877863805,
+    "text": "limits are a signal to collaborate They do not"
+  },
+  {
+    "start": 196.69251776011953,
+    "end": 199.48242261123187,
+    "text": "mean that an overloaded person must work faster and"
+  },
+  {
+    "start": 199.4934533612922,
+    "end": 202.0738158826104,
+    "text": "they are not a substitute for understanding the system"
+  },
+  {
+    "start": 203.59426983255557,
+    "end": 208.3452644695306,
+    "text": "Extreme Programming or X P emphasizes engineering practices including"
+  },
+  {
+    "start": 208.35629110337175,
+    "end": 213.42119054636746,
+    "text": "test-driven development pair programming and continuous integration In T"
+  },
+  {
+    "start": 213.4322489975066,
+    "end": 216.40849259996338,
+    "text": "D D a developer writes a failing test writes"
+  },
+  {
+    "start": 216.41951845777288,
+    "end": 219.1422255329856,
+    "text": "enough code to pass it and then refactors safely"
+  },
+  {
+    "start": 219.9138594204639,
+    "end": 223.7829910810687,
+    "text": "This Red Green Refactor cycle works well for calculations"
+  },
+  {
+    "start": 223.79401771490984,
+    "end": 227.45371783157194,
+    "text": "and business rules Testing becomes part of writing the"
+  },
+  {
+    "start": 227.4647444654131,
+    "end": 231.63148426720193,
+    "text": "software rather than a separate final checkpoint Consider X"
+  },
+  {
+    "start": 231.64251090104307,
+    "end": 235.15893617268276,
+    "text": "P through a concrete calculation The portal grants a"
+  },
+  {
+    "start": 235.1699309892259,
+    "end": 238.6753296270244,
+    "text": "ten-percent introductory discount on an eligible purchase of one"
+  },
+  {
+    "start": 238.68632444356757,
+    "end": 242.35705041803914,
+    "text": "thousand rupees Write a test expecting a discount of"
+  },
+  {
+    "start": 242.3680770518803,
+    "end": 245.53173152392714,
+    "text": "one hundred Run it and confirm it fails for"
+  },
+  {
+    "start": 245.5427581577683,
+    "end": 249.52211890726505,
+    "text": "the expected reason Implement the smallest change that makes"
+  },
+  {
+    "start": 249.53314476507455,
+    "end": 252.6967992371214,
+    "text": "it pass Then improve the code while the check"
+  },
+  {
+    "start": 252.70782587096255,
+    "end": 257.63517370242016,
+    "text": "stays green Add an ineligible-customer case expecting zero discount"
+  },
+  {
+    "start": 258.4068083659301,
+    "end": 261.3720253345457,
+    "text": "This creates a feedback loop in which examples guide"
+  },
+  {
+    "start": 261.3830511923552,
+    "end": 266.51986316108514,
+    "text": "the design Refactoring matters repeatedly adding special cases without"
+  },
+  {
+    "start": 266.53088979492634,
+    "end": 269.23157619578643,
+    "text": "improving the design can produce brittle code even when"
+  },
+  {
+    "start": 269.24257101232956,
+    "end": 270.5874005078232,
+    "text": "individual tests pass"
+  },
+  {
+    "start": 272.09428342557527,
+    "end": 276.38833281507914,
+    "text": "Lean focuses on customer value and reducing waste Waste"
+  },
+  {
+    "start": 276.39936138035245,
+    "end": 279.8612620934071,
+    "text": "in testing might include waiting for test environments duplicate"
+  },
+  {
+    "start": 279.8722906586804,
+    "end": 283.09160795344206,
+    "text": "paperwork or slow feedback from an oversized test suite"
+  },
+  {
+    "start": 283.8523492116953,
+    "end": 287.5126903637489,
+    "text": "Lean does not mean skipping important tests A team"
+  },
+  {
+    "start": 287.5236863299835,
+    "end": 290.2359061729294,
+    "text": "might run fast smoke tests on each commit and"
+  },
+  {
+    "start": 290.2469029153316,
+    "end": 294.40337659966985,
+    "text": "more comprehensive regression tests later preserving coverage while reducing"
+  },
+  {
+    "start": 294.41440516494316,
+    "end": 298.4936827732061,
+    "text": "feedback time Lean invites a different question where does"
+  },
+  {
+    "start": 298.50471133847947,
+    "end": 302.95884606939995,
+    "text": "the customer wait without receiving additional value Suppose every"
+  },
+  {
+    "start": 302.96987385850565,
+    "end": 305.48358961671033,
+    "text": "small change waits two days for a shared testing"
+  },
+  {
+    "start": 305.4946181819837,
+    "end": 309.58492435551995,
+    "text": "environment Buying another reporting tool might not reduce that"
+  },
+  {
+    "start": 309.5959847436644,
+    "end": 314.24855913741624,
+    "text": "delay The team could provide reproducible environments isolate test"
+  },
+  {
+    "start": 314.25958770268954,
+    "end": 316.97177572276433,
+    "text": "data or run a smaller set of checks earlier"
+  },
+  {
+    "start": 317.74351294725216,
+    "end": 320.8636088582629,
+    "text": "Before changing the process record the current delay and"
+  },
+  {
+    "start": 320.874670022575,
+    "end": 326.04543330299055,
+    "text": "its cause After the experiment compare the results Reducing"
+  },
+  {
+    "start": 326.0564618682639,
+    "end": 328.86786971975437,
+    "text": "waste does not mean removing evidence needed to judge"
+  },
+  {
+    "start": 328.8788982850277,
+    "end": 332.37381871965727,
+    "text": "quality It means avoiding work and waiting that do"
+  },
+  {
+    "start": 332.38487910780174,
+    "end": 335.1742313810807,
+    "text": "not help deliver a useful dependable outcome"
+  },
+  {
+    "start": 336.6942943164665,
+    "end": 340.16767829953403,
+    "text": "A feature-development team may benefit from Scrum a support"
+  },
+  {
+    "start": 340.1787084122941,
+    "end": 344.0600901260091,
+    "text": "operation may benefit from Kanban a calculation-intensive product may"
+  },
+  {
+    "start": 344.07112023876914,
+    "end": 348.44297983732037,
+    "text": "benefit from X P practices Teams can combine approaches"
+  },
+  {
+    "start": 349.2038278399209,
+    "end": 352.85362065715856,
+    "text": "The right selection depends on delivery constraints technical risk"
+  },
+  {
+    "start": 352.8646507699186,
+    "end": 356.6909176285522,
+    "text": "and team maturity Here is a selection exercise with"
+  },
+  {
+    "start": 356.70194774131227,
+    "end": 360.285594814432,
+    "text": "three fictional teams Team A builds a new portal"
+  },
+  {
+    "start": 360.29662492719206,
+    "end": 363.61565952533306,
+    "text": "and needs frequent stakeholder feedback around a product goal"
+  },
+  {
+    "start": 364.3765083042102,
+    "end": 368.3350650985266,
+    "text": "Scrum could help structure that inspection Team B maintains"
+  },
+  {
+    "start": 368.3460952112867,
+    "end": 372.9221473561479,
+    "text": "several systems and receives unpredictable requests Kanban could help"
+  },
+  {
+    "start": 372.93317746890796,
+    "end": 377.25564647527403,
+    "text": "expose queues and manage capacity Team C changes financial"
+  },
+  {
+    "start": 377.26664398442114,
+    "end": 382.42713607398935,
+    "text": "calculations frequently X P practices such as test-driven development"
+  },
+  {
+    "start": 382.4381654104729,
+    "end": 386.7606025895025,
+    "text": "and continuous integration could strengthen technical feedback These are"
+  },
+  {
+    "start": 386.77163192598607,
+    "end": 391.8659464440999,
+    "text": "starting hypotheses not universal prescriptions Each team should inspect"
+  },
+  {
+    "start": 391.87697655686,
+    "end": 395.60397628203555,
+    "text": "its constraints run a small process experiment and decide"
+  },
+  {
+    "start": 395.61500639479556,
+    "end": 398.9340409929366,
+    "text": "whether actual customer outcomes and feedback speed improve"
+  },
+  {
+    "start": 400.4276046622265,
+    "end": 404.8422428788059,
+    "text": "Combining approaches requires clear policies A Scrum team might"
+  },
+  {
+    "start": 404.8532689492151,
+    "end": 407.3004667846099,
+    "text": "visualize work with a Kanban board and limit the"
+  },
+  {
+    "start": 407.3114936310657,
+    "end": 411.25785212297814,
+    "text": "number of stories actively being developed It might also"
+  },
+  {
+    "start": 411.2688789694339,
+    "end": 414.4326262607041,
+    "text": "use pair programming for risky calculations and run unit"
+  },
+  {
+    "start": 414.4436205132017,
+    "end": 418.33488047098007,
+    "text": "tests on every commit None of those practices removes"
+  },
+  {
+    "start": 418.3459065413892,
+    "end": 422.78832024262607,
+    "text": "Scrum's accountabilities or events Problems arise when a team"
+  },
+  {
+    "start": 422.79934708908183,
+    "end": 426.18352421503334,
+    "text": "adopts labels while dropping the useful feedback loops behind"
+  },
+  {
+    "start": 426.19455106148905,
+    "end": 429.86534781458136,
+    "text": "them Write down how new work enters when testing"
+  },
+  {
+    "start": 429.8763746610371,
+    "end": 433.18336851807805,
+    "text": "begins what Done means and how urgent incidents affect"
+  },
+  {
+    "start": 433.19442718244534,
+    "end": 437.1628052212179,
+    "text": "planned work Those agreements are more actionable than saying"
+  },
+  {
+    "start": 437.1738646616318,
+    "end": 438.7281564462417,
+    "text": "the team is simply hybrid"
+  },
+  {
+    "start": 440.2276317866162,
+    "end": 443.4806621596828,
+    "text": "For your practice task imagine that ten support requests"
+  },
+  {
+    "start": 443.4916920839252,
+    "end": 446.1161634992504,
+    "text": "arrive while a portal team is implementing a planned"
+  },
+  {
+    "start": 446.1271941998106,
+    "end": 451.050634712358,
+    "text": "registration improvement Identify the most urgent customer risk then"
+  },
+  {
+    "start": 451.0616646366004,
+    "end": 453.7633478505761,
+    "text": "describe how you would make the incoming work visible"
+  },
+  {
+    "start": 454.52423639914775,
+    "end": 457.45748902205656,
+    "text": "Decide which active item you would finish before starting"
+  },
+  {
+    "start": 457.46851894629896,
+    "end": 461.8794274167456,
+    "text": "another Finally choose one engineering practice that could prevent"
+  },
+  {
+    "start": 461.8904255119555,
+    "end": 465.4412063920455,
+    "text": "the same defect returning A strong answer connects the"
+  },
+  {
+    "start": 465.4522370926058,
+    "end": 468.28624989741166,
+    "text": "delivery process to a testing action and an observable"
+  },
+  {
+    "start": 468.2972479926216,
+    "end": 472.64200719401043,
+    "text": "result For example address a production access problem add"
+  },
+  {
+    "start": 472.65300528922035,
+    "end": 476.06042665423774,
+    "text": "a focused regression check and review whether interruption policies"
+  },
+  {
+    "start": 476.07145657848014,
+    "end": 478.72901854285044,
+    "text": "preserved visibility into the remaining feature work"
+  },
+  {
+    "start": 480.227592668302,
+    "end": 482.8948406411829,
+    "text": "A useful way to compare approaches is to follow"
+  },
+  {
+    "start": 482.90586500749527,
+    "end": 486.5152493663124,
+    "text": "one change from request to feedback Take an urgent"
+  },
+  {
+    "start": 486.5262745085514,
+    "end": 491.25454436835656,
+    "text": "password-reset defect First identify the customer impact and make"
+  },
+  {
+    "start": 491.26560209951623,
+    "end": 494.72639649853505,
+    "text": "the work visible Decide how it enters the team's"
+  },
+  {
+    "start": 494.7374216407741,
+    "end": 498.52889038651546,
+    "text": "current work under an explicit policy Next agree on"
+  },
+  {
+    "start": 498.53991475282777,
+    "end": 501.2953273950668,
+    "text": "examples for a valid link an expired link and"
+  },
+  {
+    "start": 501.3063517613792,
+    "end": 504.8222695438131,
+    "text": "a reused link Use small technical checks to guide"
+  },
+  {
+    "start": 504.8332946860521,
+    "end": 509.26399743884576,
+    "text": "the fix then verify the integrated recovery journey Finally"
+  },
+  {
+    "start": 509.27502180515813,
+    "end": 512.2729433488348,
+    "text": "inspect the delay from recognizing the problem to obtaining"
+  },
+  {
+    "start": 512.28393667808,
+    "end": 517.1886010544426,
+    "text": "reliable evidence Scrum Kanban X P and Lean contribute"
+  },
+  {
+    "start": 517.1996261966817,
+    "end": 520.8257573810985,
+    "text": "different ideas to that same journey None removes the"
+  },
+  {
+    "start": 520.8367825233374,
+    "end": 524.2975761464296,
+    "text": "need to clarify the rule implement safely or evaluate"
+  },
+  {
+    "start": 524.3086012886686,
+    "end": 524.9258183760902,
+    "text": "the result"
+  },
+  {
+    "start": 526.427599336243,
+    "end": 530.7868056811466,
+    "text": "Now consider a misleading process improvement A team shortens"
+  },
+  {
+    "start": 530.7978643625546,
+    "end": 532.8590959555147,
+    "text": "its sprint from two weeks to one week and"
+  },
+  {
+    "start": 532.8701220452015,
+    "end": 537.4555312312466,
+    "text": "expects quality to improve automatically But its test environment"
+  },
+  {
+    "start": 537.4665573209334,
+    "end": 540.3655063403573,
+    "text": "still takes three days to restore and stories still"
+  },
+  {
+    "start": 540.3765324300441,
+    "end": 544.8296673395163,
+    "text": "arrive without examples The shorter calendar exposes the problem"
+  },
+  {
+    "start": 544.8406926532097,
+    "end": 548.8088317111634,
+    "text": "more often without removing it A more useful experiment"
+  },
+  {
+    "start": 548.8198578008502,
+    "end": 552.0164328664871,
+    "text": "might make one environment reproducible or split one large"
+  },
+  {
+    "start": 552.0274581801805,
+    "end": 557.3072844264299,
+    "text": "story into independently verifiable slices State the expected improvement"
+  },
+  {
+    "start": 557.3183105161166,
+    "end": 560.922701909438,
+    "text": "before trying it then inspect the outcome This is"
+  },
+  {
+    "start": 560.9337279991248,
+    "end": 564.9239184604587,
+    "text": "how process choices become learning rather than ceremony When"
+  },
+  {
+    "start": 564.9349437741521,
+    "end": 567.6354976745772,
+    "text": "discussing a methodology in an interview or a team"
+  },
+  {
+    "start": 567.646523764264,
+    "end": 570.2588720511684,
+    "text": "meeting connect it to a constraint and a concrete"
+  },
+  {
+    "start": 570.2698981408552,
+    "end": 571.0965902536257,
+    "text": "feedback loop"
+  },
+  {
+    "start": 572.5943851392715,
+    "end": 577.109568817914,
+    "text": "Scrum emphasizes iterative inspection Kanban focuses on flow X"
+  },
+  {
+    "start": 577.1206118356864,
+    "end": 581.8618591215183,
+    "text": "P strengthens engineering discipline and Lean reduces waste Knowledge"
+  },
+  {
+    "start": 581.8729021392907,
+    "end": 584.7542492275979,
+    "text": "check which approach would help a support team receiving"
+  },
+  {
+    "start": 584.7652596036119,
+    "end": 589.0927858126722,
+    "text": "unpredictable requests and why Subscribe to Tech at sixty"
+  },
+  {
+    "start": 589.1038288304446,
+    "end": 592.2611091382576,
+    "text": "for the next episode in this Agile Testing Masterclass"
+  },
+  {
+    "start": 593.0228799596342,
+    "end": 595.915204782197,
+    "text": "Practice the example with synthetic data and share the"
+  },
+  {
+    "start": 595.9262796645431,
+    "end": 598.8296475048784,
+    "text": "most important risk you identified in the comments"
+  }
+]

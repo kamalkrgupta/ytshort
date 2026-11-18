@@ -1,0 +1,18 @@
+CSS Colors Explained | Web Development in 60 Seconds
+
+C S S colors can be written as names, hexadecimal values, or color functions. Learn css colors explained with a quick example for beginners.
+
+Different color formats can describe the same visible color.
+Choose text and background colors that remain easy to read.
+
+Try it: Style a heading, paragraph, and link using three color formats.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 23
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: css colors explained, web development for beginners, learn to code, coding shorts, css tutorial

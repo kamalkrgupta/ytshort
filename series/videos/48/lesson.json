@@ -1,0 +1,22 @@
+{
+  "videoNumber": 48,
+  "phase": "Phase 5 \u2014 Real-World Beginner Projects",
+  "topic": "Build a Responsive Navigation Bar",
+  "description": "Create a menu that adapts to mobile screens.",
+  "publishLocal": "2026-11-17T16:00:00+05:30",
+  "publishAt": "2026-11-17T10:30:00+00:00",
+  "status": "planned",
+  "definition": "A responsive navigation bar keeps important links usable at different widths.",
+  "code": "<nav>\n  <a href=\"/\">Home</a>\n  <a href=\"about.html\">About</a>\n  <a href=\"contact.html\">Contact</a>\n</nav>",
+  "preview": "<nav style=\"display:flex;flex-wrap:wrap;gap:20px;background:#d9e8ff;padding:30px\"><a>Home</a><a>About</a><a>Contact</a></nav>",
+  "rule": "Flexbox arranges the navigation links.",
+  "tip": "flex-wrap lets links flow onto another line.",
+  "caution": "This example wraps; it is not a hamburger menu.",
+  "exercise": "Try three links at a narrow width.",
+  "title": "Responsive Navbar with CSS Flexbox: Make Links Wrap",
+  "shortTitle": "A menu that\nfits your screen",
+  "hook": "Wide screen \u2192 narrow screen",
+  "idea": "Keep every link visible and usable.",
+  "closing": "Can you still use every link?",
+  "code2": "nav {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 16px;\n}"
+}

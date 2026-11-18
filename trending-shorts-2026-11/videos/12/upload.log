@@ -1,0 +1,28 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 28%
+Upload 55%
+Upload 83%
+Uploaded: https://www.youtube.com/watch?v=ToFx7CqzB5M
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "7217c0b5c7023f95345265aa24518650ae22d2a625c960d9556aea29af4aaff0",
+  "title": "Local AI vs Cloud AI: Where Does Your Prompt Go?",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:53:33Z",
+  "publishAt": "2026-11-28T14:30:00+00:00",
+  "videoId": "ToFx7CqzB5M",
+  "url": "https://www.youtube.com/watch?v=ToFx7CqzB5M",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-28T14:30:00Z"
+}

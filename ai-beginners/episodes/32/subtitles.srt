@@ -1,0 +1,267 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,555
+Welcome to episode 32 of AI for Beginners Today
+
+4
+00:00:12,684 --> 00:00:17,104
+we’re looking at ai privacy and personal data By
+
+5
+00:00:17,117 --> 00:00:20,803
+the end you’ll understand one practical idea watch a
+
+6
+00:00:20,815 --> 00:00:25,880
+realistic example and try a small exercise yourself You
+
+7
+00:00:25,893 --> 00:00:30,828
+don’t need a technical background or expensive software Bring
+
+8
+00:00:30,841 --> 00:00:36,060
+your curiosity We’ll work through it together Here’s the
+
+9
+00:00:36,073 --> 00:00:40,661
+example we’ll use summarizing meeting notes after removing names
+
+10
+00:00:41,563 --> 00:00:44,939
+We’ll use that situation to make the topic concrete
+
+11
+00:00:45,841 --> 00:00:48,818
+Watch how we break the task into small steps
+
+12
+00:00:48,934 --> 00:00:51,692
+because the same thinking will help you use many
+
+13
+00:00:51,705 --> 00:00:54,411
+different AI tools later in this course
+
+14
+00:01:01,117 --> 00:01:06,015
+Let’s start with the main idea minimize sensitive information
+
+15
+00:01:06,028 --> 00:01:09,842
+in prompts and uploads Think of AI as a
+
+16
+00:01:09,855 --> 00:01:13,412
+tool that processes information and returns an output based
+
+17
+00:01:13,425 --> 00:01:17,600
+on its training instructions and any relevant information it
+
+18
+00:01:17,613 --> 00:01:21,311
+can access It can save time on drafts and
+
+19
+00:01:21,324 --> 00:01:24,894
+patterns but it doesn’t automatically know what’s correct for
+
+20
+00:01:24,907 --> 00:01:29,056
+your situation The most useful habit is to define
+
+21
+00:01:29,069 --> 00:01:32,987
+what you want before touching the tool Ask yourself
+
+22
+00:01:33,000 --> 00:01:36,685
+three questions what’s my goal what information does the
+
+23
+00:01:36,698 --> 00:01:39,353
+tool need and how will I check the result
+
+24
+00:01:40,255 --> 00:01:43,915
+Those questions work whether you’re writing a prompt building a
+
+25
+00:01:43,927 --> 00:01:46,801
+workflow or reviewing a generated answer
+
+26
+00:01:53,517 --> 00:01:57,513
+Let’s try it with an example Our example is
+
+27
+00:01:57,526 --> 00:02:02,642
+summarizing meeting notes after removing names Start by writing
+
+28
+00:02:02,655 --> 00:02:07,835
+down the desired result in one sentence Next identify
+
+29
+00:02:07,848 --> 00:02:10,309
+the input what would a person need to know
+
+30
+00:02:10,322 --> 00:02:14,098
+to do this task correctly Then write a simple
+
+31
+00:02:14,111 --> 00:02:18,338
+instruction with that context and a clear format On
+
+32
+00:02:18,351 --> 00:02:22,075
+screen I am showing a sample request followed by
+
+33
+00:02:22,088 --> 00:02:26,070
+a possible output Notice that we’re not judging the
+
+34
+00:02:26,083 --> 00:02:30,541
+result by how impressive it sounds We’re checking whether
+
+35
+00:02:30,554 --> 00:02:34,266
+it actually meets the task If the output is
+
+36
+00:02:34,278 --> 00:02:38,441
+too broad ask for a more specific version If
+
+37
+00:02:38,454 --> 00:02:41,882
+a fact matters verify it from a reliable source
+
+38
+00:02:42,771 --> 00:02:45,155
+Pause the video here if you’d like to copy
+
+39
+00:02:45,168 --> 00:02:47,139
+the structure into your own notes
+
+40
+00:02:53,850 --> 00:02:58,697
+Your turn Try this exercise redact a sample note
+
+41
+00:02:58,710 --> 00:03:03,439
+before using AI Begin with a very small example
+
+42
+00:03:03,684 --> 00:03:08,207
+not a complex project Give yourself thirty seconds to
+
+43
+00:03:08,220 --> 00:03:12,254
+decide what success would look like Then complete the
+
+44
+00:03:12,266 --> 00:03:17,885
+task once and inspect the result What’s useful What’s
+
+45
+00:03:17,898 --> 00:03:23,169
+missing What would you change Make one improvement and
+
+46
+00:03:23,181 --> 00:03:28,169
+compare the first and second versions This simple before-and-after
+
+47
+00:03:28,181 --> 00:03:31,893
+comparison teaches you more than copying a complicated prompt
+
+48
+00:03:31,906 --> 00:03:36,055
+from the internet If your chosen tool is unavailable
+
+49
+00:03:36,184 --> 00:03:39,676
+do the exercise on paper sketch the input the
+
+50
+00:03:39,689 --> 00:03:43,980
+steps and the output The objective is to practice
+
+51
+00:03:43,993 --> 00:03:47,576
+the underlying thinking not to depend on one particular
+
+52
+00:03:47,589 --> 00:03:47,924
+app
+
+53
+00:03:54,650 --> 00:03:59,186
+Before we finish remember this important limitation avoid sharing
+
+54
+00:03:59,199 --> 00:04:04,845
+passwords IDs and private records Responsible AI use means
+
+55
+00:04:04,858 --> 00:04:08,105
+understanding the strengths of the tool and keeping yourself
+
+56
+00:04:08,118 --> 00:04:12,229
+accountable for the final result Today you learned that
+
+57
+00:04:12,242 --> 00:04:16,043
+minimize sensitive information in prompts and uploads saw the
+
+58
+00:04:16,056 --> 00:04:20,064
+example of summarizing meeting notes after removing names and
+
+59
+00:04:20,077 --> 00:04:25,154
+practiced a small hands-on task Here’s your challenge repeat
+
+60
+00:04:25,167 --> 00:04:28,054
+the exercise with a different topic and write down
+
+61
+00:04:28,066 --> 00:04:32,010
+one thing that improved In the comments share the
+
+62
+00:04:32,023 --> 00:04:34,871
+part you found easiest or the question you still
+
+63
+00:04:34,884 --> 00:04:38,994
+have If this helped share it with someone learning
+
+64
+00:04:39,007 --> 00:04:42,899
+AI And subscribe to Tech at sixty for the
+
+65
+00:04:42,912 --> 00:04:47,809
+next lesson We’re building practical AI skills one simple
+
+66
+00:04:47,822 --> 00:04:52,551
+step at a time Thanks for watching See you
+
+67
+00:04:52,564 --> 00:04:53,672
+in the next lesson

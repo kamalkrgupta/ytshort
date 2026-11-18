@@ -1,0 +1,16 @@
+{
+  "videoNumber": 43,
+  "phase": "Phase 4 — JavaScript for Beginners",
+  "topic": "JavaScript Loops",
+  "description": "Repeat tasks using for and while.",
+  "publishLocal": "2026-11-09T16:00:00+05:30",
+  "publishAt": "2026-11-09T10:30:00Z",
+  "status": "planned",
+  "definition": "Loops repeat instructions without writing the same code repeatedly.",
+  "code": "for (let i = 1; i <= 3; i++) {\n console.log(i);\n}",
+  "preview": "<p>1</p><p>2</p><p>3</p>",
+  "rule": "A for loop can initialize a counter, check a condition, and update it.",
+  "tip": "Each pass through the loop is called an iteration.",
+  "caution": "Make sure the condition can become false to avoid an infinite loop.",
+  "exercise": "Print the numbers from one through five with a loop."
+}

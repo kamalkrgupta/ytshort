@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "JavaScript Objects. Let’s make it simple.",
+    "idea": "Objects organize information as named properties and their values. Start by understanding the role it plays in a page.",
+    "code": "Use a property name to access one piece of an object.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Dot notation works with ordinary identifier-style property names. Keep this detail in mind when writing your own example.",
+    "caution": "Use bracket notation when a property name comes from a variable.",
+    "try": "Create an object describing a learner and read its name. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

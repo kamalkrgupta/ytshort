@@ -1,0 +1,27 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 27%
+Upload 54%
+Upload 80%
+Uploaded: https://www.youtube.com/watch?v=KezWw164_cI
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "e1672ea2a37824ab8c516fda9a7491768a7978de0c32bca568e0558b167d74ec",
+  "title": "AI Watermarks Explained: What They Can and Cannot Prove",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:51:55Z",
+  "publishAt": "2026-11-25T14:30:00+00:00",
+  "videoId": "KezWw164_cI",
+  "url": "https://www.youtube.com/watch?v=KezWw164_cI",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-25T14:30:00Z"
+}

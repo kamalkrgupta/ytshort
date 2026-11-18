@@ -1,0 +1,16 @@
+{
+  "videoNumber": 4,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "HTML Paragraphs",
+  "description": "Add readable text to a webpage with <p>.",
+  "publishLocal": "2026-10-21T11:00:00+05:30",
+  "publishAt": "2026-10-21T05:30:00Z",
+  "status": "planned",
+  "definition": "A paragraph element groups a piece of text into a paragraph.",
+  "code": "<p>Hello, web!</p>\n<p>Keep learning.</p>",
+  "preview": "<p>Hello, web!</p><p>Keep learning.</p>",
+  "rule": "Wrap each paragraph in opening and closing P tags.",
+  "tip": "Browsers normally leave space between paragraphs.",
+  "caution": "Extra spaces and line breaks in source code usually collapse.",
+  "exercise": "Write two paragraphs about something you enjoy."
+}

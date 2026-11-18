@@ -1,0 +1,16 @@
+{
+  "videoNumber": 26,
+  "phase": "Phase 2 — Advanced HTML & CSS Basics",
+  "topic": "CSS Box Model",
+  "description": "Understand margin, padding, border, and content.",
+  "publishLocal": "2026-11-01T11:00:00+05:30",
+  "publishAt": "2026-11-01T05:30:00Z",
+  "status": "planned",
+  "definition": "The box model describes the space occupied by an element.",
+  "code": ".card {\n margin: 16px;\n padding: 24px;\n border: 2px solid teal;\n}",
+  "preview": "<div style=\"background:#f6cea2;padding:25px\"><div style=\"border:6px solid teal;padding:30px;background:#d7f5e3\">Content</div></div>",
+  "rule": "From inside out, it has content, padding, border, and margin.",
+  "tip": "Padding is inside the border; margin is outside it.",
+  "caution": "With border box sizing, declared width includes padding and borders.",
+  "exercise": "Give a card padding, a border, and outside margin."
+}

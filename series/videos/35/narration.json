@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Media Queries. Let’s make it simple.",
+    "idea": "Media queries apply styles when specified conditions match. Start by understanding the role it plays in a page.",
+    "code": "A minimum width query can add a wider layout when space is available.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Write the narrow layout first, then add larger-screen adjustments. Keep this detail in mind when writing your own example.",
+    "caution": "Choose breakpoints where the content needs them, rather than by device names.",
+    "try": "Stack two cards on mobile and place them together on wider screens. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

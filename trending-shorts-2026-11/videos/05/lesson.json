@@ -1,0 +1,40 @@
+{
+  "number": 5,
+  "slug": "auracast",
+  "title": "Auracast Explained: One Audio Broadcast, Many Listeners",
+  "category": "GADGETS",
+  "source": "https://www.bluetooth.com/auracast/faq/",
+  "headline": "One screen.\nMany sets of earbuds.",
+  "meaning": "Auracast broadcasts audio to compatible receivers.",
+  "example": "Listeners can join a nearby supported broadcast.",
+  "comparison": "Broadcast audio differs from one-to-one pairing.",
+  "caution": "Both transmitter and receiver need support.",
+  "question": "Where would shared audio be useful?",
+  "flow": [
+    "Audio source",
+    "One broadcast",
+    "Many receivers"
+  ],
+  "left": [
+    "PAIRED AUDIO",
+    "A device-to-device relationship"
+  ],
+  "right": [
+    "BROADCAST AUDIO",
+    "Many listeners join a stream"
+  ],
+  "lines": [
+    "Imagine several people listening to the same television through their own earbuds. Auracast is designed for shared audio.",
+    "A compatible transmitter broadcasts an audio stream that nearby compatible receivers can join.",
+    "Instead of creating a separate one to one link for every listener, one broadcast serves many receivers.",
+    "A phone or another assistant can help you discover the broadcast and choose which stream to hear.",
+    "An ordinary Bluetooth label alone is not enough. Check Auracast support on both ends of the connection.",
+    "Where would shared audio be useful? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-20T20:00:00+05:30",
+  "publishAt": "2026-11-20T14:30:00+00:00",
+  "status": "needs_attention",
+  "accent": "#ffab73",
+  "updatedAt": "2026-11-16T15:22:06.033112+05:30",
+  "error": "AssertionError: "
+}

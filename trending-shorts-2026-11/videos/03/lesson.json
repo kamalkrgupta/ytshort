@@ -1,0 +1,40 @@
+{
+  "number": 3,
+  "slug": "wifi7",
+  "title": "Wi-Fi 7 Explained: Why Multiple Links Matter",
+  "category": "CONNECTIVITY",
+  "source": "https://www.intel.com/content/www/us/en/products/details/wireless/wi-fi-7-series.html",
+  "headline": "One connection.\nMore than one lane.",
+  "meaning": "Multi-Link Operation can use multiple wireless links.",
+  "example": "A compatible device can avoid a congested link.",
+  "comparison": "Wi-Fi capacity is different from internet-plan speed.",
+  "caution": "Both the router and device need compatible support.",
+  "question": "Is your bottleneck Wi-Fi or internet?",
+  "flow": [
+    "Your device",
+    "Multiple links",
+    "Your router"
+  ],
+  "left": [
+    "WI-FI LINK",
+    "Device to router"
+  ],
+  "right": [
+    "INTERNET PLAN",
+    "Router to the internet"
+  ],
+  "lines": [
+    "Your wireless connection can feel busy even when your internet plan looks fast. Wi-Fi seven adds another idea.",
+    "Multi-Link Operation allows compatible devices to use multiple wireless links instead of relying on just one.",
+    "Think of traffic moving through more than one lane, with the exact behavior depending on the hardware.",
+    "This can improve reliability and responsiveness. It does not automatically make your internet subscription faster.",
+    "Your router, device, surroundings, and local rules all affect which features you can actually use.",
+    "Is your bottleneck Wi-Fi or internet? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-18T20:00:00+05:30",
+  "publishAt": "2026-11-18T14:30:00+00:00",
+  "status": "needs_attention",
+  "accent": "#b7b4ff",
+  "updatedAt": "2026-11-16T15:21:54.038419+05:30",
+  "error": "AssertionError: "
+}

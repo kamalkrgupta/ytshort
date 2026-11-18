@@ -1,0 +1,405 @@
+{
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "channelDescription": "Learn AI, web development and software testing with TECH AT 60. Beginner-friendly English tutorials, practical examples and short lessons to help you build useful technology skills.\n\nExplore our learning paths:\n\u2022 AI for Beginners: AI basics, prompts, productivity, creative tools, automation, agents and RAG.\n\u2022 Web Development: HTML, CSS and JavaScript, explained one concept at a time.\n\u2022 Agile Testing Masterclass: QA fundamentals, Scrum, Kanban, test design, documentation and automation.\n\nWatch the playlists in lesson order, try the exercises and use sample data while you practice. Alongside 60-second coding Shorts, you\u2019ll find longer tutorials with guided examples.\n\nSubscribe to TECH AT 60 for clear, practical technology lessons. Ask a question or share what you built in the comments.",
+  "channelKeywords": "\"TECH AT 60\" Techat60 \"AI for beginners\" \"artificial intelligence tutorials\" \"prompt engineering\" \"AI tools\" \"AI agents\" \"RAG explained\" \"web development for beginners\" \"learn HTML\" \"CSS tutorial\" \"JavaScript tutorial\" \"coding shorts\" \"Agile testing\" \"software testing tutorial\" \"manual testing\" \"QA tutorial\" Scrum Kanban \"test automation\"",
+  "updatedVideos": [
+    {
+      "videoId": "ymDU3K5DOUo",
+      "title": "Prompt Engineering for Beginners: Show AI an Example | Ep 08",
+      "tagsRemoved": [],
+      "playlistLinked": "AI"
+    },
+    {
+      "videoId": "GBCI10KLqWg",
+      "title": "Write Better AI Prompts: Goal, Context, Audience and Format | Ep 07",
+      "tagsRemoved": [],
+      "playlistLinked": "AI"
+    },
+    {
+      "videoId": "d9z6XbshUDw",
+      "title": "ChatGPT for Beginners: Ask, Refine and Get Better Answers | Ep 06",
+      "tagsRemoved": [],
+      "playlistLinked": "AI"
+    },
+    {
+      "videoId": "QPEHgxu2Eto",
+      "title": "AI Myths and Realities: What Beginners Should Know | Ep 05",
+      "tagsRemoved": [],
+      "playlistLinked": "AI"
+    },
+    {
+      "videoId": "zk1Z9Aieiys",
+      "title": "How Generative AI Works: From Prompt to New Content | Ep 04",
+      "tagsRemoved": [],
+      "playlistLinked": "AI"
+    },
+    {
+      "videoId": "Zvoo_4O7aRI",
+      "title": "AI vs Machine Learning vs Deep Learning: The Simple Difference | Ep 03",
+      "tagsRemoved": [],
+      "playlistLinked": "AI"
+    },
+    {
+      "videoId": "upGQIZplJPs",
+      "title": "AI in Everyday Life: Features You Already Use | Ep 02",
+      "tagsRemoved": [],
+      "playlistLinked": "AI"
+    },
+    {
+      "videoId": "TgIcPIs9y34",
+      "title": "HTML Dropdown Menus | Web Development in 60 Seconds",
+      "tagsRemoved": [
+        "bjp",
+        "cjp",
+        "congree",
+        "elon mask",
+        "neha bora",
+        "trump",
+        "usa"
+      ],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "z3Z_RcpRZrw",
+      "title": "What Is AI? A Simple Explanation with Everyday Examples | Ep 01",
+      "tagsRemoved": [],
+      "playlistLinked": "AI"
+    },
+    {
+      "videoId": "LYJz6pp8g9Y",
+      "title": "HTML Checkboxes & Radio Buttons | Web Development in 60 Seconds",
+      "tagsRemoved": [
+        "bjp",
+        "cjp",
+        "congree",
+        "elon mask",
+        "neha bora",
+        "trump",
+        "usa"
+      ],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "BxdkMvdx7G8",
+      "title": "TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "_LSyyLx-ex0",
+      "title": "Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "MEEDwR24JOw",
+      "title": "HTML Input Types | Web Development in 60 Seconds",
+      "tagsRemoved": [
+        "bjp",
+        "cjp",
+        "congree",
+        "elon mask",
+        "neha bora",
+        "trump",
+        "usa"
+      ],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "PZeEmk-S7_w",
+      "title": "HTML Forms Introduction | Web Development in 60 Seconds",
+      "tagsRemoved": [
+        "bjp",
+        "cjp",
+        "congree",
+        "elon mask",
+        "neha bora",
+        "trump",
+        "usa"
+      ],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "9enXNnWJxG0",
+      "title": "Semantic HTML | Web Development in 60 Seconds",
+      "tagsRemoved": [
+        "bjp",
+        "cjp",
+        "congree",
+        "elon mask",
+        "neha bora",
+        "trump",
+        "usa"
+      ],
+      "playlistLinked": null
+    },
+    {
+      "videoId": "Ng8wTrGTul4",
+      "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "HH9gdETVS-E",
+      "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "yP-l14vRQME",
+      "title": "HTML Tables | Web Development in 60 Seconds",
+      "tagsRemoved": [],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "s8vTrnbddoo",
+      "title": "HTML Line Breaks | Web Development in 60 Seconds",
+      "tagsRemoved": [
+        "cjp",
+        "bjp",
+        "congree",
+        "neha bora",
+        "trump",
+        "elon mask"
+      ],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "PMmOSKNzM18",
+      "title": "HTML Comments | Web Development in 60 Seconds",
+      "tagsRemoved": [
+        "cjp",
+        "bjp",
+        "latent",
+        "neha bora"
+      ],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "uX0pUdeNRhs",
+      "title": "HTML Div vs Span | Web Development in 60 Seconds",
+      "tagsRemoved": [],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "ETNKUsval9c",
+      "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "bQb0NnHMJt0",
+      "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "4pedCCloISY",
+      "title": "Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "1oW6ocuUhWQ",
+      "title": "Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "X0hokSm8f2U",
+      "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "t3WpRYW0lGg",
+      "title": "Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "aVPTY_zbmlU",
+      "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "reA35oDRHj8",
+      "title": "Agile Testing Explained for Beginners | Real Examples | Episode 1",
+      "tagsRemoved": [
+        "cjp",
+        "latent",
+        "modi",
+        "neha bora"
+      ],
+      "playlistLinked": "Agile"
+    },
+    {
+      "videoId": "5gQr8gC3yno",
+      "title": "HTML Attributes | Web Development in 60 Seconds",
+      "tagsRemoved": [],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "emkJjvrZTeE",
+      "title": "HTML Buttons | Web Development in 60 Seconds",
+      "tagsRemoved": [],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "ZCMbUuFgbHw",
+      "title": "HTML Lists Explained | Web Development in 60 Seconds",
+      "tagsRemoved": [],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "UdFrS1p0n2Q",
+      "title": "How to Add Images in HTML | Web Development in 60 Seconds",
+      "tagsRemoved": [],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "NwK_T8Qxams",
+      "title": "How to Add Links in HTML | Web Development in 60 Seconds",
+      "tagsRemoved": [],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "XpPqAg6oUPQ",
+      "title": "HTML Paragraphs | Web Development in 60 Seconds",
+      "tagsRemoved": [],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "iJj3UEqr3mM",
+      "title": "HTML Headings Explained | Web Development in 60 Seconds",
+      "tagsRemoved": [
+        "cjp",
+        "modi",
+        "latent",
+        "delhi"
+      ],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "GjtwEy6C0BY",
+      "title": "What Are HTML Tags? | Web Development in 60 Seconds",
+      "tagsRemoved": [],
+      "playlistLinked": "Web"
+    },
+    {
+      "videoId": "Vi_gc4jOFAw",
+      "title": "HTML Explained in 60 Seconds | HTML for Beginners",
+      "tagsRemoved": [],
+      "playlistLinked": "Web"
+    }
+  ],
+  "localMetadataUpdated": 80,
+  "playlistIds": {
+    "AI": "PLHH8ZgwKrWFk",
+    "Agile": "PLXqX5lBoONpI",
+    "Web": "PLEJDqf_3IqMU"
+  },
+  "sections": [
+    {
+      "kind": "youtube#channelSection",
+      "etag": "njtLolkowSKHj4LNfdp7jloleVs",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.jNQXAC9IVRw",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 0
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLHH8ZgwKrWFk"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "7m6PMMOgXk3rtRI7dQv3YonEzME",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.LeAltgu_pbM",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 1
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLXqX5lBoONpI"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "g4ngmS3mw8IHPxwBJ28PtmisZVc",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.nGzAI5pLbMY",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 2
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLEJDqf_3IqMU"
+        ]
+      }
+    }
+  ]
+}

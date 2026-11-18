@@ -1,0 +1,16 @@
+{
+  "videoNumber": 18,
+  "phase": "Phase 2 — Advanced HTML & CSS Basics",
+  "topic": "Semantic HTML",
+  "description": "Understand header, nav, main, and footer.",
+  "publishLocal": "2026-10-28T11:00:00+05:30",
+  "publishAt": "2026-10-28T05:30:00Z",
+  "status": "planned",
+  "definition": "Semantic HTML describes the purpose of your content.",
+  "code": "<header>My site</header>\n<nav>Home | About</nav>\n<main>Latest lesson</main>\n<footer>Contact</footer>",
+  "preview": "<header><h2>My site</h2></header><nav>Home | About</nav><main><p>Latest lesson</p></main><footer>Contact</footer>",
+  "rule": "Header, navigation, main, and footer give sections meaningful roles.",
+  "tip": "These landmarks help assistive technology users navigate a page.",
+  "caution": "Choose elements by meaning, rather than their appearance.",
+  "exercise": "Replace generic page containers with suitable semantic elements."
+}

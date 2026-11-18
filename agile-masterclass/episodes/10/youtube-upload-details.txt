@@ -1,0 +1,44 @@
+Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10
+
+Learn agile testing with kanban with practical software testing examples, diagrams and a guided exercise.
+Agile Testing Masterclass — Episode 10 of 12 | English | 10-minute tutorial.
+
+In this lesson:
+• Introduction
+• Visual workflow
+• WIP limits
+• Flow metrics
+• Bottlenecks
+• Classes of service
+• Maintenance example
+• Worked example
+
+CHAPTERS
+00:00 Introduction
+00:56 Visual workflow
+01:55 WIP limits
+02:57 Flow metrics
+04:01 Bottlenecks
+05:03 Classes of service
+06:06 Maintenance example
+07:09 Worked example
+07:53 A closer look
+08:44 Verify the outcome
+09:35 Recap
+
+Practice: Why is the Testing queue always full?
+Examples use fictional applications and synthetic data.
+
+Subscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.
+
+References and further reading:
+https://agilemanifesto.org/
+https://scrumguides.org/scrum-guide.html
+https://kanbanguides.org/the-kanban-guide/2025.5/
+https://playwright.dev/docs/best-practices
+
+#AgileTesting #SoftwareTesting #QATutorial
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI
+
+Tags: agile testing, agile testing with kanban, software testing tutorial, agile testing for beginners, QA tutorial, manual testing, software quality assurance, Techat60, agile testing masterclass

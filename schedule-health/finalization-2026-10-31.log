@@ -1,0 +1,267 @@
+Published Shorts archive: 24 videos, 0 new, 0 errors.
+{
+  "playlistId": "PLEJDqf_3IqMU",
+  "url": "https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+  "title": "Web Development for Beginners | HTML, CSS & JavaScript | TECH AT 60",
+  "privacyStatus": "public",
+  "episodesAdded": [],
+  "orderedVideoIds": [
+    "Vi_gc4jOFAw",
+    "GjtwEy6C0BY",
+    "iJj3UEqr3mM",
+    "XpPqAg6oUPQ",
+    "NwK_T8Qxams",
+    "UdFrS1p0n2Q",
+    "ZCMbUuFgbHw",
+    "emkJjvrZTeE",
+    "5gQr8gC3yno",
+    "uX0pUdeNRhs",
+    "PMmOSKNzM18",
+    "s8vTrnbddoo",
+    "yP-l14vRQME",
+    "PZeEmk-S7_w",
+    "MEEDwR24JOw",
+    "LYJz6pp8g9Y",
+    "TgIcPIs9y34",
+    "oBrUM1-EbwI",
+    "OKr0Qgf5Eec",
+    "3OFT8MUb6Gw",
+    "M7XIh0LLmWw",
+    "XI8c12LzDI8",
+    "BeC8jK5dAHU",
+    "PwX52X07J0k",
+    "_k9pL5fcolg",
+    "rk479ZjGpvo",
+    "A9SjSOECb8s",
+    "tozXzYirna4",
+    "c_JdeG3Iq3o",
+    "KUZhXec9exQ"
+  ]
+}
+{
+  "playlistId": "PLHH8ZgwKrWFk",
+  "url": "https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk",
+  "title": "AI for Beginners | TECH AT 60 | Complete 50-Episode Course",
+  "privacyStatus": "public",
+  "episodesAdded": [],
+  "orderedVideoIds": [
+    "z3Z_RcpRZrw",
+    "upGQIZplJPs",
+    "Zvoo_4O7aRI",
+    "zk1Z9Aieiys",
+    "QPEHgxu2Eto",
+    "d9z6XbshUDw",
+    "GBCI10KLqWg",
+    "ymDU3K5DOUo",
+    "B9SlsiY_zko",
+    "-vsK2rmDkfU",
+    "6RfLeN89OdU",
+    "EmlbxCoB6t0",
+    "k-IXYpwIKcM",
+    "9c9pYDNIw4w",
+    "w8UG5dTFgHY",
+    "a6QvaG0hMg0"
+  ]
+}
+{
+  "playlistId": "PLXqX5lBoONpI",
+  "url": "https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+  "title": "Agile Testing Masterclass | TECH AT 60 | Complete Course",
+  "privacyStatus": "public",
+  "episodesAdded": [],
+  "orderedVideoIds": [
+    "reA35oDRHj8",
+    "aVPTY_zbmlU",
+    "1oW6ocuUhWQ",
+    "4pedCCloISY",
+    "Ng8wTrGTul4",
+    "HH9gdETVS-E",
+    "_LSyyLx-ex0",
+    "BxdkMvdx7G8",
+    "t3WpRYW0lGg",
+    "X0hokSm8f2U",
+    "bQb0NnHMJt0",
+    "ETNKUsval9c"
+  ]
+}
+{
+  "date": "2026-10-31",
+  "checkedAt": "2026-10-31T15:10:47.932265+05:30",
+  "state": "ready",
+  "timezone": "Asia/Kolkata",
+  "lookaheadDays": 3,
+  "checks": [
+    {
+      "course": "Shorts",
+      "episode": 24,
+      "publishAt": "2026-10-31T11:00:00+05:30",
+      "state": "ready",
+      "videoId": "PwX52X07J0k",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 25,
+      "publishAt": "2026-10-31T16:00:00+05:30",
+      "state": "ready",
+      "videoId": "_k9pL5fcolg",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 26,
+      "publishAt": "2026-11-01T11:00:00+05:30",
+      "state": "ready",
+      "videoId": "rk479ZjGpvo",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 27,
+      "publishAt": "2026-11-01T16:00:00+05:30",
+      "state": "ready",
+      "videoId": "A9SjSOECb8s",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 28,
+      "publishAt": "2026-11-02T11:00:00+05:30",
+      "state": "ready",
+      "videoId": "tozXzYirna4",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 29,
+      "publishAt": "2026-11-02T16:00:00+05:30",
+      "state": "ready",
+      "videoId": "c_JdeG3Iq3o",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 30,
+      "publishAt": "2026-11-03T11:00:00+05:30",
+      "state": "ready",
+      "videoId": "KUZhXec9exQ",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 9,
+      "publishAt": "2026-10-31T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "B9SlsiY_zko",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 10,
+      "publishAt": "2026-10-31T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "-vsK2rmDkfU",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 11,
+      "publishAt": "2026-11-01T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "6RfLeN89OdU",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 12,
+      "publishAt": "2026-11-01T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "EmlbxCoB6t0",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 13,
+      "publishAt": "2026-11-02T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "k-IXYpwIKcM",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 14,
+      "publishAt": "2026-11-02T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "9c9pYDNIw4w",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 15,
+      "publishAt": "2026-11-03T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "w8UG5dTFgHY",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 16,
+      "publishAt": "2026-11-03T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "a6QvaG0hMg0",
+      "needsFollowup": false
+    }
+  ],
+  "repairs": [],
+  "finishedAt": "2026-10-31T15:10:55.436658+05:30"
+}
+{
+  "checkedAt": "2026-10-31T15:10:47.335634+05:30",
+  "courses": {
+    "Shorts": {
+      "published": 23,
+      "scheduled": 6,
+      "planned": 21
+    },
+    "AI": {
+      "published": 10,
+      "scheduled": 6,
+      "planned": 34
+    },
+    "Agile": {
+      "published": 12
+    }
+  },
+  "today": [
+    {
+      "course": "Shorts",
+      "episode": 24,
+      "expected": "2026-10-31T11:00:00+05:30",
+      "status": "published",
+      "url": "https://www.youtube.com/watch?v=PwX52X07J0k"
+    },
+    {
+      "course": "Shorts",
+      "episode": 25,
+      "expected": "2026-10-31T16:00:00+05:30",
+      "status": "scheduled",
+      "url": "https://www.youtube.com/watch?v=_k9pL5fcolg"
+    },
+    {
+      "course": "AI",
+      "episode": 9,
+      "expected": "2026-10-31T14:00:00+05:30",
+      "status": "published",
+      "url": "https://www.youtube.com/watch?v=B9SlsiY_zko"
+    },
+    {
+      "course": "AI",
+      "episode": 10,
+      "expected": "2026-10-31T14:00:00+05:30",
+      "status": "published",
+      "url": "https://www.youtube.com/watch?v=-vsK2rmDkfU"
+    }
+  ],
+  "readiness": "ready",
+  "checkedSlots": 15
+}

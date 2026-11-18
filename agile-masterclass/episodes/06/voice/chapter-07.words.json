@@ -1,0 +1,487 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 5965830,
+    "text": "Avoid"
+  },
+  {
+    "offset": 7107910,
+    "duration": 4971660,
+    "text": "treating"
+  },
+  {
+    "offset": 12221660,
+    "duration": 852080,
+    "text": "the"
+  },
+  {
+    "offset": 13215830,
+    "duration": 6960410,
+    "text": "matrix"
+  },
+  {
+    "offset": 20318330,
+    "duration": 2698750,
+    "text": "as"
+  },
+  {
+    "offset": 23159160,
+    "duration": 3693330,
+    "text": "four"
+  },
+  {
+    "offset": 26994160,
+    "duration": 4261250,
+    "text": "equal"
+  },
+  {
+    "offset": 31397910,
+    "duration": 6676250,
+    "text": "budgets"
+  },
+  {
+    "offset": 47943330,
+    "duration": 1704580,
+    "text": "A"
+  },
+  {
+    "offset": 49789580,
+    "duration": 4829580,
+    "text": "simple"
+  },
+  {
+    "offset": 54761250,
+    "duration": 5539580,
+    "text": "internal"
+  },
+  {
+    "offset": 60443330,
+    "duration": 3977080,
+    "text": "tool"
+  },
+  {
+    "offset": 64562500,
+    "duration": 2130830,
+    "text": "and"
+  },
+  {
+    "offset": 66835410,
+    "duration": 426250,
+    "text": "a"
+  },
+  {
+    "offset": 67403330,
+    "duration": 4971660,
+    "text": "public"
+  },
+  {
+    "offset": 72517080,
+    "duration": 5113750,
+    "text": "payment"
+  },
+  {
+    "offset": 77772910,
+    "duration": 6250000,
+    "text": "platform"
+  },
+  {
+    "offset": 84164580,
+    "duration": 4403330,
+    "text": "face"
+  },
+  {
+    "offset": 88710410,
+    "duration": 5255830,
+    "text": "different"
+  },
+  {
+    "offset": 94107910,
+    "duration": 6534160,
+    "text": "risks"
+  },
+  {
+    "offset": 110443330,
+    "duration": 4261250,
+    "text": "One"
+  },
+  {
+    "offset": 114846660,
+    "duration": 5539580,
+    "text": "feature"
+  },
+  {
+    "offset": 120528330,
+    "duration": 1562500,
+    "text": "may"
+  },
+  {
+    "offset": 122232910,
+    "duration": 3693330,
+    "text": "need"
+  },
+  {
+    "offset": 126068330,
+    "duration": 7670410,
+    "text": "extensive"
+  },
+  {
+    "offset": 133880830,
+    "duration": 7386250,
+    "text": "security"
+  },
+  {
+    "offset": 141409160,
+    "duration": 10653330,
+    "text": "investigation"
+  },
+  {
+    "offset": 154903330,
+    "duration": 5255830,
+    "text": "another"
+  },
+  {
+    "offset": 160301250,
+    "duration": 1420410,
+    "text": "may"
+  },
+  {
+    "offset": 161863750,
+    "duration": 3693330,
+    "text": "need"
+  },
+  {
+    "offset": 165698750,
+    "duration": 3267080,
+    "text": "more"
+  },
+  {
+    "offset": 169107910,
+    "duration": 8096660,
+    "text": "usability"
+  },
+  {
+    "offset": 177346660,
+    "duration": 9375000,
+    "text": "exploration"
+  },
+  {
+    "offset": 196664580,
+    "duration": 9090830,
+    "text": "Automation"
+  },
+  {
+    "offset": 205897910,
+    "duration": 4545410,
+    "text": "also"
+  },
+  {
+    "offset": 210585410,
+    "duration": 5539580,
+    "text": "crosses"
+  },
+  {
+    "offset": 216267080,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 217403330,
+    "duration": 5823750,
+    "text": "model"
+  },
+  {
+    "offset": 232886250,
+    "duration": 5397910,
+    "text": "Unit"
+  },
+  {
+    "offset": 238426250,
+    "duration": 5397910,
+    "text": "tests"
+  },
+  {
+    "offset": 243965830,
+    "duration": 1562500,
+    "text": "are"
+  },
+  {
+    "offset": 245670410,
+    "duration": 6250000,
+    "text": "commonly"
+  },
+  {
+    "offset": 252062500,
+    "duration": 8522910,
+    "text": "automated"
+  },
+  {
+    "offset": 262573750,
+    "duration": 8664580,
+    "text": "acceptance"
+  },
+  {
+    "offset": 271380830,
+    "duration": 4119160,
+    "text": "checks"
+  },
+  {
+    "offset": 275642080,
+    "duration": 1562500,
+    "text": "may"
+  },
+  {
+    "offset": 277346660,
+    "duration": 1988750,
+    "text": "be"
+  },
+  {
+    "offset": 279477500,
+    "duration": 8522910,
+    "text": "automated"
+  },
+  {
+    "offset": 289704580,
+    "duration": 2698750,
+    "text": "and"
+  },
+  {
+    "offset": 292545410,
+    "duration": 7812500,
+    "text": "performance"
+  },
+  {
+    "offset": 300500000,
+    "duration": 3835410,
+    "text": "tools"
+  },
+  {
+    "offset": 304477500,
+    "duration": 2272910,
+    "text": "can"
+  },
+  {
+    "offset": 306892080,
+    "duration": 5965830,
+    "text": "automate"
+  },
+  {
+    "offset": 313000000,
+    "duration": 6250000,
+    "text": "technical"
+  },
+  {
+    "offset": 319392080,
+    "duration": 10653330,
+    "text": "experiments"
+  },
+  {
+    "offset": 339846660,
+    "duration": 5681660,
+    "text": "Human"
+  },
+  {
+    "offset": 345670410,
+    "duration": 5965830,
+    "text": "judgment"
+  },
+  {
+    "offset": 351778330,
+    "duration": 5255830,
+    "text": "remains"
+  },
+  {
+    "offset": 357176250,
+    "duration": 7102080,
+    "text": "necessary"
+  },
+  {
+    "offset": 364420410,
+    "duration": 2414580,
+    "text": "when"
+  },
+  {
+    "offset": 366977500,
+    "duration": 6960410,
+    "text": "deciding"
+  },
+  {
+    "offset": 374079580,
+    "duration": 2698750,
+    "text": "what"
+  },
+  {
+    "offset": 376920410,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 378198750,
+    "duration": 5965830,
+    "text": "results"
+  },
+  {
+    "offset": 384306660,
+    "duration": 3977080,
+    "text": "mean"
+  },
+  {
+    "offset": 388426250,
+    "duration": 3551250,
+    "text": "and"
+  },
+  {
+    "offset": 392119160,
+    "duration": 2698750,
+    "text": "what"
+  },
+  {
+    "offset": 394960410,
+    "duration": 2130830,
+    "text": "to"
+  },
+  {
+    "offset": 397232910,
+    "duration": 8664580,
+    "text": "investigate"
+  },
+  {
+    "offset": 406040000,
+    "duration": 5823750,
+    "text": "next"
+  },
+  {
+    "offset": 421665000,
+    "duration": 7386250,
+    "text": "Describe"
+  },
+  {
+    "offset": 429193330,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 430471660,
+    "duration": 4829580,
+    "text": "risk"
+  },
+  {
+    "offset": 437431660,
+    "duration": 4971660,
+    "text": "select"
+  },
+  {
+    "offset": 442545410,
+    "duration": 1278330,
+    "text": "an"
+  },
+  {
+    "offset": 443965830,
+    "duration": 7670410,
+    "text": "appropriate"
+  },
+  {
+    "offset": 451778330,
+    "duration": 7670410,
+    "text": "activity"
+  },
+  {
+    "offset": 459590830,
+    "duration": 2840830,
+    "text": "and"
+  },
+  {
+    "offset": 462573750,
+    "duration": 8664580,
+    "text": "identify"
+  },
+  {
+    "offset": 471380830,
+    "duration": 1846660,
+    "text": "the"
+  },
+  {
+    "offset": 473369160,
+    "duration": 5681660,
+    "text": "evidence"
+  },
+  {
+    "offset": 479193330,
+    "duration": 1704580,
+    "text": "you"
+  },
+  {
+    "offset": 481040000,
+    "duration": 5255830,
+    "text": "want"
+  },
+  {
+    "offset": 496238750,
+    "duration": 3551250,
+    "text": "Then"
+  },
+  {
+    "offset": 499931660,
+    "duration": 3693330,
+    "text": "use"
+  },
+  {
+    "offset": 503767080,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 505045410,
+    "duration": 5681660,
+    "text": "quadrant"
+  },
+  {
+    "offset": 510869160,
+    "duration": 4119160,
+    "text": "model"
+  },
+  {
+    "offset": 515130830,
+    "duration": 1420410,
+    "text": "to"
+  },
+  {
+    "offset": 516693330,
+    "duration": 3125000,
+    "text": "check"
+  },
+  {
+    "offset": 519960410,
+    "duration": 5255830,
+    "text": "whether"
+  },
+  {
+    "offset": 525357910,
+    "duration": 1846660,
+    "text": "an"
+  },
+  {
+    "offset": 527346660,
+    "duration": 6250000,
+    "text": "important"
+  },
+  {
+    "offset": 533738750,
+    "duration": 7954580,
+    "text": "perspective"
+  },
+  {
+    "offset": 541835410,
+    "duration": 2698750,
+    "text": "has"
+  },
+  {
+    "offset": 544676250,
+    "duration": 2556660,
+    "text": "been"
+  },
+  {
+    "offset": 547375000,
+    "duration": 4687500,
+    "text": "missed"
+  }
+]

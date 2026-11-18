@@ -1,0 +1,44 @@
+TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8
+
+Learn agile testing methods and techniques with practical software testing examples, diagrams and a guided exercise.
+Agile Testing Masterclass — Episode 8 of 12 | English | 10-minute tutorial.
+
+In this lesson:
+• Introduction
+• TDD
+• BDD
+• ATDD
+• Exploratory testing
+• Test design
+• Combining methods
+• Worked example
+
+CHAPTERS
+00:00 Introduction
+00:58 TDD
+01:56 BDD
+02:59 ATDD
+04:03 Exploratory testing
+05:06 Test design
+06:11 Combining methods
+07:08 Worked example
+07:56 A closer look
+08:44 Verify the outcome
+09:35 Recap
+
+Practice: What changes after an item is removed?
+Examples use fictional applications and synthetic data.
+
+Subscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.
+
+References and further reading:
+https://agilemanifesto.org/
+https://scrumguides.org/scrum-guide.html
+https://kanbanguides.org/the-kanban-guide/2025.5/
+https://playwright.dev/docs/best-practices
+
+#AgileTesting #SoftwareTesting #QATutorial
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI
+
+Tags: agile testing, agile testing methods and techniques, software testing tutorial, agile testing for beginners, QA tutorial, manual testing, software quality assurance, Techat60, agile testing masterclass

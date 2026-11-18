@@ -1,0 +1,15 @@
+AI Agents vs Chatbots: What Actually Changes?
+
+Agents use tools in a feedback loop. Draft a plan, use a tool, inspect the result.
+
+Give tools only the permissions the task needs.
+
+Which task would you delegate?
+Subscribe to @Techat60 for clear, beginner-friendly tech explainers.
+
+Source checked November 16, 2026:
+https://www.anthropic.com/research/trustworthy-agents
+
+Original illustrative diagrams; not a product demonstration or benchmark.
+
+#Technology #TechExplained #Shorts

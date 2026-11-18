@@ -1,0 +1,597 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 5113750,
+    "text": "Tests"
+  },
+  {
+    "offset": 6255830,
+    "duration": 4829580,
+    "text": "cover"
+  },
+  {
+    "offset": 11227080,
+    "duration": 6107910,
+    "text": "available"
+  },
+  {
+    "offset": 17477080,
+    "duration": 6250000,
+    "text": "slots"
+  },
+  {
+    "offset": 25573750,
+    "duration": 7812500,
+    "text": "unavailable"
+  },
+  {
+    "offset": 33528330,
+    "duration": 6250000,
+    "text": "slots"
+  },
+  {
+    "offset": 41340830,
+    "duration": 10085410,
+    "text": "simultaneous"
+  },
+  {
+    "offset": 51568330,
+    "duration": 5255830,
+    "text": "booking"
+  },
+  {
+    "offset": 56965830,
+    "duration": 2698750,
+    "text": "and"
+  },
+  {
+    "offset": 59806660,
+    "duration": 10227080,
+    "text": "cancellation"
+  },
+  {
+    "offset": 80045410,
+    "duration": 9375000,
+    "text": "Integration"
+  },
+  {
+    "offset": 89562500,
+    "duration": 4829580,
+    "text": "tests"
+  },
+  {
+    "offset": 94534160,
+    "duration": 5255830,
+    "text": "protect"
+  },
+  {
+    "offset": 99931660,
+    "duration": 5113750,
+    "text": "against"
+  },
+  {
+    "offset": 105187500,
+    "duration": 3409160,
+    "text": "double"
+  },
+  {
+    "offset": 108738750,
+    "duration": 5397910,
+    "text": "booking"
+  },
+  {
+    "offset": 124079580,
+    "duration": 10227080,
+    "text": "Exploratory"
+  },
+  {
+    "offset": 134448750,
+    "duration": 5681660,
+    "text": "testing"
+  },
+  {
+    "offset": 140272910,
+    "duration": 10511250,
+    "text": "identifies"
+  },
+  {
+    "offset": 150926250,
+    "duration": 7812500,
+    "text": "confusing"
+  },
+  {
+    "offset": 158880830,
+    "duration": 6392080,
+    "text": "messages"
+  },
+  {
+    "offset": 165414580,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 167829580,
+    "duration": 4829580,
+    "text": "prompts"
+  },
+  {
+    "offset": 172801250,
+    "duration": 1846660,
+    "text": "an"
+  },
+  {
+    "offset": 174789580,
+    "duration": 8948750,
+    "text": "improvement"
+  },
+  {
+    "offset": 193681660,
+    "duration": 2272910,
+    "text": "In"
+  },
+  {
+    "offset": 196096660,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 197232910,
+    "duration": 3977080,
+    "text": "booking"
+  },
+  {
+    "offset": 201352080,
+    "duration": 6960410,
+    "text": "increment"
+  },
+  {
+    "offset": 210443330,
+    "duration": 4971660,
+    "text": "create"
+  },
+  {
+    "offset": 215556660,
+    "duration": 3977080,
+    "text": "one"
+  },
+  {
+    "offset": 219676250,
+    "duration": 7102080,
+    "text": "isolated"
+  },
+  {
+    "offset": 226920410,
+    "duration": 7812500,
+    "text": "appointment"
+  },
+  {
+    "offset": 234875000,
+    "duration": 5113750,
+    "text": "slot"
+  },
+  {
+    "offset": 240130830,
+    "duration": 2130830,
+    "text": "and"
+  },
+  {
+    "offset": 242403330,
+    "duration": 1562500,
+    "text": "two"
+  },
+  {
+    "offset": 244107910,
+    "duration": 8522910,
+    "text": "customers"
+  },
+  {
+    "offset": 262431660,
+    "duration": 5113750,
+    "text": "Send"
+  },
+  {
+    "offset": 267687500,
+    "duration": 6676250,
+    "text": "competing"
+  },
+  {
+    "offset": 274505830,
+    "duration": 7244160,
+    "text": "reservation"
+  },
+  {
+    "offset": 281892080,
+    "duration": 7244160,
+    "text": "attempts"
+  },
+  {
+    "offset": 298937500,
+    "duration": 3835410,
+    "text": "Under"
+  },
+  {
+    "offset": 302915000,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 304335410,
+    "duration": 4687500,
+    "text": "agreed"
+  },
+  {
+    "offset": 309165000,
+    "duration": 4545410,
+    "text": "rule"
+  },
+  {
+    "offset": 315698750,
+    "duration": 7670410,
+    "text": "exactly"
+  },
+  {
+    "offset": 323511250,
+    "duration": 3409160,
+    "text": "one"
+  },
+  {
+    "offset": 327062500,
+    "duration": 2414580,
+    "text": "should"
+  },
+  {
+    "offset": 329619160,
+    "duration": 6676250,
+    "text": "succeed"
+  },
+  {
+    "offset": 336437500,
+    "duration": 2130830,
+    "text": "and"
+  },
+  {
+    "offset": 338710410,
+    "duration": 852080,
+    "text": "the"
+  },
+  {
+    "offset": 339704580,
+    "duration": 4119160,
+    "text": "stored"
+  },
+  {
+    "offset": 343965830,
+    "duration": 3977080,
+    "text": "booking"
+  },
+  {
+    "offset": 348085410,
+    "duration": 3409160,
+    "text": "must"
+  },
+  {
+    "offset": 351636250,
+    "duration": 3551250,
+    "text": "match"
+  },
+  {
+    "offset": 355329580,
+    "duration": 1704580,
+    "text": "the"
+  },
+  {
+    "offset": 357176250,
+    "duration": 3693330,
+    "text": "winning"
+  },
+  {
+    "offset": 361011250,
+    "duration": 6534160,
+    "text": "customer"
+  },
+  {
+    "offset": 377488750,
+    "duration": 3835410,
+    "text": "Check"
+  },
+  {
+    "offset": 381465830,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 382602500,
+    "duration": 6392080,
+    "text": "response"
+  },
+  {
+    "offset": 389136250,
+    "duration": 1420410,
+    "text": "for"
+  },
+  {
+    "offset": 390698750,
+    "duration": 1420410,
+    "text": "the"
+  },
+  {
+    "offset": 392261250,
+    "duration": 9659160,
+    "text": "unsuccessful"
+  },
+  {
+    "offset": 402062500,
+    "duration": 6676250,
+    "text": "customer"
+  },
+  {
+    "offset": 408880830,
+    "duration": 2840830,
+    "text": "and"
+  },
+  {
+    "offset": 411863750,
+    "duration": 5965830,
+    "text": "confirm"
+  },
+  {
+    "offset": 417971660,
+    "duration": 2130830,
+    "text": "that"
+  },
+  {
+    "offset": 420244160,
+    "duration": 1420410,
+    "text": "it"
+  },
+  {
+    "offset": 421806660,
+    "duration": 5397910,
+    "text": "offers"
+  },
+  {
+    "offset": 427346660,
+    "duration": 1846660,
+    "text": "an"
+  },
+  {
+    "offset": 429335410,
+    "duration": 9801250,
+    "text": "understandable"
+  },
+  {
+    "offset": 439278330,
+    "duration": 4119160,
+    "text": "next"
+  },
+  {
+    "offset": 443540000,
+    "duration": 4545410,
+    "text": "step"
+  },
+  {
+    "offset": 458028330,
+    "duration": 6392080,
+    "text": "Cancel"
+  },
+  {
+    "offset": 464562500,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 465840830,
+    "duration": 7670410,
+    "text": "successful"
+  },
+  {
+    "offset": 473653330,
+    "duration": 8664580,
+    "text": "reservation"
+  },
+  {
+    "offset": 482460410,
+    "duration": 1846660,
+    "text": "if"
+  },
+  {
+    "offset": 484448750,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 485869160,
+    "duration": 5539580,
+    "text": "policy"
+  },
+  {
+    "offset": 491551250,
+    "duration": 5397910,
+    "text": "permits"
+  },
+  {
+    "offset": 497090830,
+    "duration": 2840830,
+    "text": "it"
+  },
+  {
+    "offset": 501636250,
+    "duration": 2982910,
+    "text": "then"
+  },
+  {
+    "offset": 504761250,
+    "duration": 6960410,
+    "text": "verify"
+  },
+  {
+    "offset": 511863750,
+    "duration": 5255830,
+    "text": "whether"
+  },
+  {
+    "offset": 517261250,
+    "duration": 8380830,
+    "text": "availability"
+  },
+  {
+    "offset": 525784160,
+    "duration": 6392080,
+    "text": "returns"
+  },
+  {
+    "offset": 532318330,
+    "duration": 2698750,
+    "text": "as"
+  },
+  {
+    "offset": 535159160,
+    "duration": 5823750,
+    "text": "agreed"
+  },
+  {
+    "offset": 550784160,
+    "duration": 5539580,
+    "text": "Also"
+  },
+  {
+    "offset": 556465830,
+    "duration": 6250000,
+    "text": "explore"
+  },
+  {
+    "offset": 562857910,
+    "duration": 4119160,
+    "text": "stale"
+  },
+  {
+    "offset": 567119160,
+    "duration": 6960410,
+    "text": "screens"
+  },
+  {
+    "offset": 576778330,
+    "duration": 1278330,
+    "text": "a"
+  },
+  {
+    "offset": 578198750,
+    "duration": 6392080,
+    "text": "customer"
+  },
+  {
+    "offset": 584732910,
+    "duration": 1562500,
+    "text": "may"
+  },
+  {
+    "offset": 586437500,
+    "duration": 4829580,
+    "text": "select"
+  },
+  {
+    "offset": 591409160,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 592261250,
+    "duration": 4687500,
+    "text": "slot"
+  },
+  {
+    "offset": 597090830,
+    "duration": 2698750,
+    "text": "that"
+  },
+  {
+    "offset": 599931660,
+    "duration": 5823750,
+    "text": "someone"
+  },
+  {
+    "offset": 605897910,
+    "duration": 3551250,
+    "text": "else"
+  },
+  {
+    "offset": 609590830,
+    "duration": 5681660,
+    "text": "reserved"
+  },
+  {
+    "offset": 615415000,
+    "duration": 6534160,
+    "text": "moments"
+  },
+  {
+    "offset": 622090830,
+    "duration": 5681660,
+    "text": "earlier"
+  },
+  {
+    "offset": 637715830,
+    "duration": 2698750,
+    "text": "The"
+  },
+  {
+    "offset": 640556660,
+    "duration": 6818330,
+    "text": "interface"
+  },
+  {
+    "offset": 647517080,
+    "duration": 1704580,
+    "text": "and"
+  },
+  {
+    "offset": 649363750,
+    "duration": 852080,
+    "text": "the"
+  },
+  {
+    "offset": 650357910,
+    "duration": 5397910,
+    "text": "backend"
+  },
+  {
+    "offset": 655897910,
+    "duration": 2840830,
+    "text": "must"
+  },
+  {
+    "offset": 658880830,
+    "duration": 3551250,
+    "text": "work"
+  },
+  {
+    "offset": 662573750,
+    "duration": 5113750,
+    "text": "together"
+  },
+  {
+    "offset": 667829580,
+    "duration": 1704580,
+    "text": "to"
+  },
+  {
+    "offset": 669676250,
+    "duration": 4687500,
+    "text": "handle"
+  },
+  {
+    "offset": 674505830,
+    "duration": 2272910,
+    "text": "that"
+  },
+  {
+    "offset": 676920410,
+    "duration": 3977080,
+    "text": "change"
+  },
+  {
+    "offset": 681040000,
+    "duration": 7102080,
+    "text": "safely"
+  }
+]

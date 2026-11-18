@@ -1,0 +1,105 @@
+{
+  "episode": 37,
+  "topic": "Building an AI Workflow",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Hook and promise",
+      "text": "Have you ever wondered how to make technology work for you instead of spending hours figuring everything out? Welcome to episode 37 of AI for Beginners. Today, we’re looking at building an ai workflow. By the end, you’ll understand one practical idea, watch a realistic example, and try a small exercise yourself. You don’t need a technical background or expensive software. Bring your curiosity. We’ll work through it together. Here’s the example we’ll use: summarizing support tickets into categories. We’ll use that situation to make the topic concrete. Watch how we break the task into small steps, because the same thinking will help you use many different AI tools later in this course.",
+      "direction": "Presenter on right; large title “Building an AI Workflow” on left; animated question mark and simple example icon.",
+      "cards": [
+        "One practical AI skill",
+        "Building an AI Workflow",
+        "Try a beginner exercise"
+      ],
+      "summary": "Learn one practical idea, see an example, and try it yourself.",
+      "start": 0,
+      "duration": 60.433333,
+      "speechDuration": 54.384,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-02",
+      "title": "Explain the concept",
+      "text": "Let’s start with the main idea. define inputs, outputs, checks and handoffs.\n\nThink of AI as a tool that processes information and returns an output based on its training, instructions, and any relevant information it can access. It can save time on drafts and patterns, but it doesn’t automatically know what’s correct for your situation. The most useful habit is to define what you want before touching the tool.\n\nAsk yourself three questions: what’s my goal, what information does the tool need, and how will I check the result? Those questions work whether you’re writing a prompt, building a workflow, or reviewing a generated answer.",
+      "direction": "Full-width explainer diagram: INPUT → AI TOOL → OUTPUT → HUMAN CHECK. Highlight “define inputs, outputs, checks and handoffs”.",
+      "cards": [
+        "Define inputs, outputs, checks and handoffs.",
+        "Inputs shape the response",
+        "Human review remains essential"
+      ],
+      "summary": "Define inputs, outputs, checks and handoffs.",
+      "start": 60.433333,
+      "duration": 52.633333,
+      "speechDuration": 46.584,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-03",
+      "title": "On-screen demonstration",
+      "text": "Let’s try it with an example. Our example is summarizing support tickets into categories.\n\nStart by writing down the desired result in one sentence. Next, identify the input: what would a person need to know to do this task correctly? Then write a simple instruction with that context and a clear format. On screen, I am showing a sample request, followed by a possible output. Notice that we’re not judging the result by how impressive it sounds. We’re checking whether it actually meets the task. If the output is too broad, ask for a more specific version. If a fact matters, verify it from a reliable source.\n\nPause the video here if you’d like to copy the structure into your own notes.",
+      "direction": "Screen capture or mock interface showing: summarizing support tickets into categories. Zoom to prompt/input and result; blur account details.",
+      "cards": [
+        "Summarizing support tickets into categories",
+        "Define input and desired output",
+        "Compare the response with your goal"
+      ],
+      "summary": "Summarizing support tickets into categories",
+      "start": 113.066667,
+      "duration": 60.6,
+      "speechDuration": 54.528,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-04",
+      "title": "Guided beginner exercise",
+      "text": "Your turn. Try this exercise: design a workflow on a whiteboard. Begin with a very small example, not a complex project. Give yourself thirty seconds to decide what success would look like. Then complete the task once and inspect the result. What’s useful? What’s missing? What would you change? Make one improvement and compare the first and second versions. This simple before-and-after comparison teaches you more than copying a complicated prompt from the internet. If your chosen tool is unavailable, do the exercise on paper: sketch the input, the steps, and the output. The objective is to practice the underlying thinking, not to depend on one particular app.",
+      "direction": "Split screen: exercise instruction “design a workflow on a whiteboard” on left; worked sample on right; 10-second pause card.",
+      "cards": [
+        "Design a workflow on a whiteboard",
+        "Make one improvement",
+        "Compare your two attempts"
+      ],
+      "summary": "Design a workflow on a whiteboard",
+      "start": 173.666667,
+      "duration": 60.6,
+      "speechDuration": 54.528,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-05",
+      "title": "Limitations, recap and CTA",
+      "text": "Before we finish, remember this important limitation: keep a human approval step for external messages. Responsible AI use means understanding the strengths of the tool and keeping yourself accountable for the final result. Today you learned that define inputs, outputs, checks and handoffs, saw the example of summarizing support tickets into categories, and practiced a small hands-on task. Here’s your challenge: repeat the exercise with a different topic and write down one thing that improved. In the comments, share the part you found easiest or the question you still have. If this helped, share it with someone learning AI. And subscribe to Tech at sixty for the next lesson. We’re building practical AI skills one simple step at a time. Thanks for watching. See you in the next lesson.",
+      "direction": "Three-point recap animation; caution banner “keep a human approval step for external messages”; subscribe end screen with next-episode placeholder.",
+      "cards": [
+        "Define inputs, outputs, checks and handoffs.",
+        "Keep a human approval step for external messages",
+        "Practice again with a new example"
+      ],
+      "summary": "Keep a human approval step for external messages",
+      "start": 234.266667,
+      "duration": 65.733333,
+      "speechDuration": 59.664,
+      "speed": 1.0
+    }
+  ],
+  "visual": {
+    "example": "Summarizing support tickets into categories",
+    "question": "Design a workflow on a whiteboard?",
+    "steps": [
+      "Define your goal",
+      "Provide useful input",
+      "Review the output"
+    ],
+    "checks": [
+      "Check accuracy",
+      "Refine the response",
+      "Compare the result"
+    ],
+    "result": "Keep a human approval step for external messages"
+  },
+  "publishAt": "2026-11-14T14:00:00+05:30",
+  "plannedDate": "2026-11-14",
+  "status": "prepared",
+  "duration": 300
+}

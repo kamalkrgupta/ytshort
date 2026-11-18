@@ -1,0 +1,18 @@
+{
+  "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+  "description": "Learn agile testing methodologies with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 2 of 12 | English | 10-minute tutorial.\n\nNext lesson: https://www.youtube.com/watch?v=1oW6ocuUhWQ\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Scrum\n\u2022 Kanban\n\u2022 Extreme Programming\n\u2022 Lean Software Development\n\u2022 Choosing an approach\n\u2022 Worked example\n\u2022 Guided practice\n\nCHAPTERS\n00:00 Introduction\n00:56 Scrum\n02:14 Kanban\n03:23 Extreme Programming\n04:31 Lean Software Development\n05:36 Choosing an approach\n06:40 Worked example\n07:19 Guided practice\n07:59 A closer look\n08:46 Verify the outcome\n09:32 Recap\n\nPractice: What is slowing down useful feedback?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+  "tags": [
+    "agile testing",
+    "agile testing methodologies",
+    "software testing tutorial",
+    "agile testing for beginners",
+    "QA tutorial",
+    "manual testing",
+    "software quality assurance",
+    "Techat60",
+    "agile testing masterclass"
+  ],
+  "video": "video.mp4",
+  "thumbnail": "thumbnail.jpg",
+  "publishAt": null
+}

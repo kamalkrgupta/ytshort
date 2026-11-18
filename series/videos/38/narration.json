@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "JavaScript Variables. Let’s make it simple.",
+    "idea": "Variables give names to values used by your program. Start by understanding the role it plays in a page.",
+    "code": "Use let when you need to reassign a variable. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "Use const when the binding should not be reassigned. Keep this detail in mind when writing your own example.",
+    "caution": "Const does not make the contents of an object immutable. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Store your name and a score, then increase the score. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

@@ -1,0 +1,25 @@
+FAILED 2 Command '['node', 'tools/record.mjs', '--out', '/Users/impulsiveweb/Documents/YT Short/trending-shorts-2026-11/videos/02/video.partial.mp4']' died with <Signals.SIGTERM: 15>.
+FAILED 1 Command '['node', 'tools/record.mjs', '--out', '/Users/impulsiveweb/Documents/YT Short/trending-shorts-2026-11/videos/01/video.partial.mp4']' died with <Signals.SIGTERM: 15>.
+FAILED 3 Command '['node', 'tools/record.mjs', '--out', '/Users/impulsiveweb/Documents/YT Short/trending-shorts-2026-11/videos/03/video.partial.mp4']' died with <Signals.SIGTERM: 15>.
+RENDERED 4 webgpu
+RENDERED 6 agents
+RENDERED 5 auracast
+RENDERED 7 usb-c
+RENDERED 8 prompt-injection
+RENDERED 9 watermarks
+RENDERED 10 semantic-search
+RENDERED 11 small-models
+RENDERED 12 local-ai
+RENDERED 13 matter
+RENDERED 14 passkeys
+RENDERED 15 post-quantum
+RENDERED 16 vibe-coding
+RENDERED 18 world-models
+RENDERED 17 smart-glasses
+RENDERED 19 mcp
+RENDERED 20 digital-twins
+Traceback (most recent call last):
+  File "/Users/impulsiveweb/Documents/YT Short/trending-shorts-2026-11/pipeline.py", line 146, in <module>
+    if failures:raise RuntimeError(str(failures))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: [(2, "Command '['node', 'tools/record.mjs', '--out', '/Users/impulsiveweb/Documents/YT Short/trending-shorts-2026-11/videos/02/video.partial.mp4']' died with <Signals.SIGTERM: 15>."), (1, "Command '['node', 'tools/record.mjs', '--out', '/Users/impulsiveweb/Documents/YT Short/trending-shorts-2026-11/videos/01/video.partial.mp4']' died with <Signals.SIGTERM: 15>."), (3, "Command '['node', 'tools/record.mjs', '--out', '/Users/impulsiveweb/Documents/YT Short/trending-shorts-2026-11/videos/03/video.partial.mp4']' died with <Signals.SIGTERM: 15>.")]

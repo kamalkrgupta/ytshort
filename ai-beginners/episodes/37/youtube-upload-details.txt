@@ -1,0 +1,19 @@
+Build an AI Workflow: Inputs, Outputs and Review Steps | Ep 37
+
+Build an AI Workflow: Inputs, Outputs and Review Steps. Learn with a simple example and a beginner exercise.
+
+AI for Beginners — Episode 37 of 50
+
+What you will learn: Define inputs, outputs, checks and handoffs.
+Example: summarizing support tickets into categories.
+Try it: design a workflow on a whiteboard.
+Remember: keep a human approval step for external messages.
+
+Follow the series in episode order and practice with sample data. Share your question or exercise result in the comments.
+Subscribe to @Techat60 for practical AI tutorials.
+
+#AIForBeginners #ArtificialIntelligence #LearnAI
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk
+
+Tags: building an ai workflow, AI for beginners, artificial intelligence tutorial, learn AI, AI tutorial English, Techat60

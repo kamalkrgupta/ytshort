@@ -1,0 +1,547 @@
+1
+00:00:00,334 --> 00:00:04,586
+We conclude with a fictional subscription appointment-booking platform containing
+
+2
+00:00:04,598 --> 00:00:08,707
+a customer website mobile app admin dashboard and backend
+
+3
+00:00:08,719 --> 00:00:13,132
+A P I services Our fictional platform lets customers
+
+4
+00:00:13,144 --> 00:00:17,408
+register find appointments reserve a slot pay and receive
+
+5
+00:00:17,420 --> 00:00:22,521
+confirmation Staff use an administrative dashboard while a mobile
+
+6
+00:00:22,533 --> 00:00:26,821
+app and website share backend services A customer sees
+
+7
+00:00:26,833 --> 00:00:30,332
+one journey but the system contains several boundaries where
+
+8
+00:00:30,344 --> 00:00:34,429
+information can be delayed or misunderstood We will build
+
+9
+00:00:34,441 --> 00:00:39,052
+a connected testing plan across three illustrative sprints The
+
+10
+00:00:39,064 --> 00:00:42,408
+schedule is a teaching example not a requirement that
+
+11
+00:00:42,420 --> 00:00:46,099
+real teams deliver these exact features in separate sprints
+
+12
+00:00:46,923 --> 00:00:50,315
+Focus on how each increment adds evidence and how
+
+13
+00:00:50,327 --> 00:00:53,958
+earlier checks continue protecting behavior as the product grows
+
+14
+00:00:55,534 --> 00:01:00,752
+The backlog includes registration appointment discovery booking payments and
+
+15
+00:01:00,764 --> 00:01:07,169
+notifications Refinement uncovers risks involving duplicate bookings payment failures
+
+16
+00:01:07,312 --> 00:01:13,557
+cancellations and authorization Refine the journey before implementation A
+
+17
+00:01:13,569 --> 00:01:16,971
+reservation must belong to the requesting customer a slot
+
+18
+00:01:16,983 --> 00:01:19,240
+must not be confirmed for two people and a
+
+19
+00:01:19,252 --> 00:01:23,813
+payment outcome must update the booking consistently Ask when
+
+20
+00:01:23,825 --> 00:01:28,374
+temporary holds expire how cancellation affects availability and what
+
+21
+00:01:28,386 --> 00:01:33,639
+happens if a notification arrives late Identify dependencies among
+
+22
+00:01:33,651 --> 00:01:39,179
+identity availability and payment services Translate the highest risks
+
+23
+00:01:39,191 --> 00:01:43,453
+into examples that product development and testing participants can
+
+24
+00:01:43,465 --> 00:01:47,966
+understand This prevents the team from treating five attractive
+
+25
+00:01:47,978 --> 00:01:51,871
+screens as five independent features when their correctness actually
+
+26
+00:01:51,883 --> 00:01:54,820
+depends on shared state and coordinated outcomes
+
+27
+00:01:56,401 --> 00:02:01,458
+Developers implement registration and login Tests cover valid and
+
+28
+00:02:01,470 --> 00:02:07,238
+invalid input duplicate accounts password recovery and sessions Concurrent
+
+29
+00:02:07,250 --> 00:02:11,012
+registration exposes a race condition the team fixes and
+
+30
+00:02:11,024 --> 00:02:15,216
+retests it In the first sprint test registration and
+
+31
+00:02:15,228 --> 00:02:20,303
+login with synthetic accounts Check valid input rejected input
+
+32
+00:02:20,483 --> 00:02:25,594
+duplicate addresses recovery and session behavior Now send two
+
+33
+00:02:25,606 --> 00:02:29,929
+registration requests for the same address close together A
+
+34
+00:02:29,941 --> 00:02:33,464
+defect could allow duplicate accounts if the implementation checks
+
+35
+00:02:33,476 --> 00:02:37,692
+availability and creates the record as separate unprotected steps
+
+36
+00:02:38,516 --> 00:02:42,576
+Record the observed outcome discuss a safe implementation and
+
+37
+00:02:42,588 --> 00:02:47,508
+retest the fix Add an appropriate regression check The
+
+38
+00:02:47,520 --> 00:02:51,234
+important lesson is not a particular database command it
+
+39
+00:02:51,246 --> 00:02:54,184
+is that a realistic concurrency question can expose a
+
+40
+00:02:54,196 --> 00:02:57,038
+defect that sequential happy-path checks miss
+
+41
+00:02:58,634 --> 00:03:03,566
+Tests cover available slots unavailable slots simultaneous booking and
+
+42
+00:03:03,578 --> 00:03:10,331
+cancellation Integration tests protect against double booking Exploratory testing
+
+43
+00:03:10,343 --> 00:03:15,120
+identifies confusing messages and prompts an improvement In the
+
+44
+00:03:15,132 --> 00:03:19,061
+booking increment create one isolated appointment slot and two
+
+45
+00:03:19,073 --> 00:03:24,925
+customers Send competing reservation attempts Under the agreed rule
+
+46
+00:03:25,092 --> 00:03:28,101
+exactly one should succeed and the stored booking must
+
+47
+00:03:28,113 --> 00:03:31,517
+match the winning customer Check the response for the
+
+48
+00:03:31,529 --> 00:03:35,470
+unsuccessful customer and confirm that it offers an understandable
+
+49
+00:03:35,481 --> 00:03:39,864
+next step Cancel the successful reservation if the policy
+
+50
+00:03:39,876 --> 00:03:44,032
+permits it then verify whether availability returns as agreed
+
+51
+00:03:44,856 --> 00:03:48,331
+Also explore stale screens a customer may select a
+
+52
+00:03:48,343 --> 00:03:52,977
+slot that someone else reserved moments earlier The interface
+
+53
+00:03:52,989 --> 00:03:55,449
+and the backend must work together to handle that
+
+54
+00:03:55,461 --> 00:03:56,404
+change safely
+
+55
+00:03:58,001 --> 00:04:03,005
+Using a payment sandbox test success failure cancellation delayed
+
+56
+00:04:03,017 --> 00:04:08,279
+confirmation and duplicate callbacks A network timeout reveals incorrect
+
+57
+00:04:08,290 --> 00:04:13,785
+payment-state handling The team adds safe recovery and repeat-notification
+
+58
+00:04:13,797 --> 00:04:19,243
+checks For payments stay in the provider's sandbox Test
+
+59
+00:04:19,255 --> 00:04:24,081
+success decline user cancellation delayed confirmation and a repeated
+
+60
+00:04:24,093 --> 00:04:28,930
+callback Suppose the provider accepted payment but the platform
+
+61
+00:04:28,942 --> 00:04:32,669
+lost the response A retry should not create a
+
+62
+00:04:32,681 --> 00:04:37,172
+second charge or second booking Define the recovery policy
+
+63
+00:04:37,184 --> 00:04:41,639
+and examine how unique request identifiers and payment-state transitions
+
+64
+00:04:41,651 --> 00:04:45,772
+support it Verify records as well as the displayed
+
+65
+00:04:45,783 --> 00:04:49,868
+message A page saying Payment failed while the provider
+
+66
+00:04:49,880 --> 00:04:54,742
+recorded success is a serious inconsistency Capture the evidence
+
+67
+00:04:54,754 --> 00:04:57,166
+and add focused checks for the failure mode rather
+
+68
+00:04:57,178 --> 00:05:00,594
+than relying only on the standard successful purchase journey
+
+69
+00:05:02,201 --> 00:05:07,723
+Run regression checks across authentication booking and payments Evaluate
+
+70
+00:05:07,735 --> 00:05:13,443
+performance under concurrent searches authorization controls accessibility and resilience
+
+71
+00:05:14,255 --> 00:05:19,414
+Document remaining risks As new increments arrive rerun relevant
+
+72
+00:05:19,426 --> 00:05:24,298
+checks across identity booking and payment A permission change
+
+73
+00:05:24,310 --> 00:05:28,597
+in the dashboard could affect existing customer access A
+
+74
+00:05:28,609 --> 00:05:34,221
+payment-state fix could accidentally prevent cancellation Add nonfunctional questions
+
+75
+00:05:34,233 --> 00:05:38,150
+where the risks justify them concurrent search traffic keyboard
+
+76
+00:05:38,162 --> 00:05:43,296
+accessibility account isolation and recovery after a dependency failure
+
+77
+00:05:44,132 --> 00:05:48,037
+Use realistic synthetic data and record the tested conditions
+
+78
+00:05:48,861 --> 00:05:53,960
+No single green pipeline proves complete readiness Combine automated
+
+79
+00:05:53,972 --> 00:05:58,749
+results with exploratory findings unresolved defects and operational evidence
+
+80
+00:05:58,760 --> 00:06:02,032
+to explain what is known and what uncertainty remains
+
+81
+00:06:03,601 --> 00:06:08,294
+Review Definition of Done outstanding defects deployment and rollback
+
+82
+00:06:08,306 --> 00:06:13,434
+plans After release monitor logs failures and service health
+
+83
+00:06:14,258 --> 00:06:17,626
+Treat production feedback as another input to the quality
+
+84
+00:06:17,638 --> 00:06:22,773
+cycle Before release inspect the shared quality conditions open
+
+85
+00:06:22,784 --> 00:06:27,621
+risks deployment steps and recovery plan Make sure relevant
+
+86
+00:06:27,633 --> 00:06:31,585
+evidence belongs to the intended release candidate If a
+
+87
+00:06:31,597 --> 00:06:35,538
+serious unresolved payment issue remains either resolve it or
+
+88
+00:06:35,550 --> 00:06:38,296
+make an explicit scope and release decision with the
+
+89
+00:06:38,308 --> 00:06:45,246
+responsible stakeholders After deployment monitor error signals transaction consistency
+
+90
+00:06:45,258 --> 00:06:50,429
+and customer feedback using appropriate access controls A successful
+
+91
+00:06:50,441 --> 00:06:53,331
+deployment command is not the end of quality work
+
+92
+00:06:54,155 --> 00:06:58,000
+Production observations can reveal conditions that the test environment
+
+93
+00:06:58,012 --> 00:07:01,594
+did not reproduce and those observations should inform both
+
+94
+00:07:01,606 --> 00:07:03,326
+fixes and future checks
+
+95
+00:07:04,901 --> 00:07:08,293
+Your final exercise is to present a release recommendation
+
+96
+00:07:08,305 --> 00:07:12,205
+for this platform Name the three highest risks give
+
+97
+00:07:12,217 --> 00:07:15,215
+one piece of evidence for each and identify any
+
+98
+00:07:15,227 --> 00:07:21,617
+remaining uncertainty A strong response connects duplicate-registration checks competing-booking
+
+99
+00:07:21,629 --> 00:07:26,180
+results and payment-recovery verification to specific builds and conditions
+
+100
+00:07:27,005 --> 00:07:29,907
+It also explains how the team will detect problems
+
+101
+00:07:29,919 --> 00:07:34,112
+after release Look back at the whole course principles
+
+102
+00:07:34,124 --> 00:07:39,583
+guided priorities methods shaped examples artifacts preserved evidence tools
+
+103
+00:07:39,595 --> 00:07:44,361
+accelerated feedback and collaboration connected the work You now
+
+104
+00:07:44,372 --> 00:07:47,275
+have a practical way to discuss Agile Testing as
+
+105
+00:07:47,287 --> 00:07:50,333
+part of delivering a product from the first question
+
+106
+00:07:50,345 --> 00:07:51,623
+through production learning
+
+107
+00:07:53,201 --> 00:07:57,112
+Trace one defect across the entire case study A
+
+108
+00:07:57,124 --> 00:08:02,391
+repeated payment notification creates two booking confirmations Start by
+
+109
+00:08:02,403 --> 00:08:05,974
+reproducing the sequence with synthetic data in the sandbox
+
+110
+00:08:06,798 --> 00:08:09,353
+Link the failure to the rule that one successful
+
+111
+00:08:09,365 --> 00:08:14,799
+payment should confirm one reservation Investigate how event identifiers
+
+112
+00:08:14,811 --> 00:08:19,099
+and state transitions are handled After the fix repeat
+
+113
+00:08:19,111 --> 00:08:22,933
+the original sequence test a delayed notification and verify
+
+114
+00:08:22,945 --> 00:08:27,017
+that a distinct legitimate payment still works Retain the
+
+115
+00:08:27,029 --> 00:08:32,439
+build and results This evidence chain connects discovery implementation
+
+116
+00:08:32,451 --> 00:08:36,177
+and verification giving the release discussion more substance than
+
+117
+00:08:36,189 --> 00:08:38,530
+the statement that the ticket is now closed
+
+118
+00:08:40,101 --> 00:08:45,300
+Finally prepare a post-release learning loop Identify which signals
+
+119
+00:08:45,312 --> 00:08:49,682
+would reveal duplicate confirmations unusual payment failures or growing
+
+120
+00:08:49,694 --> 00:08:53,741
+booking errors Agree who reviews those signals and how
+
+121
+00:08:53,753 --> 00:08:57,777
+a new issue enters the team's work Use operational
+
+122
+00:08:57,789 --> 00:09:01,168
+data with the access and privacy controls appropriate to
+
+123
+00:09:01,180 --> 00:09:05,550
+the product When an incident occurs examine the contributing
+
+124
+00:09:05,562 --> 00:09:08,511
+conditions and improve both the product and the relevant
+
+125
+00:09:08,523 --> 00:09:13,466
+checks Production monitoring does not replace pre-release testing and
+
+126
+00:09:13,478 --> 00:09:16,057
+testing does not eliminate the need to observe a
+
+127
+00:09:16,068 --> 00:09:20,534
+live service Together they provide feedback across the product's
+
+128
+00:09:20,546 --> 00:09:23,340
+life and help the team adapt when real usage
+
+129
+00:09:23,352 --> 00:09:24,629
+reveals a new risk
+
+130
+00:09:26,201 --> 00:09:29,804
+Agile Testing begins with clear requirements and continues through
+
+131
+00:09:29,816 --> 00:09:36,336
+development integration exploration automation and production Quality is shared
+
+132
+00:09:36,348 --> 00:09:42,444
+across the team Congratulations on completing the masterclass Thank
+
+133
+00:09:42,456 --> 00:09:45,594
+you for completing the Agile Testing Masterclass with Tech
+
+134
+00:09:45,606 --> 00:09:49,770
+at sixty Keep your examples and evidence apply the
+
+135
+00:09:49,782 --> 00:09:52,538
+approach to a small feature and share your most
+
+136
+00:09:52,550 --> 00:09:56,929
+useful takeaway in the comments Subscribe for more practical
+
+137
+00:09:56,941 --> 00:09:58,754
+software testing tutorials

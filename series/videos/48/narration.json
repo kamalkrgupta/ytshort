@@ -1,0 +1,16 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "These navigation links need to work on a phone as well as a desktop.",
+    "idea": "Put real links inside a navigation element. Each link needs a destination.",
+    "code": "Set display to flex to arrange the links. Gap adds space between them.",
+    "result": "Now add flex wrap. When the container gets narrower, links move onto another line.",
+    "tip": "The links stay visible instead of being squeezed into unreadable text.",
+    "caution": "This is a wrapping menu. A separate collapsible menu would need an accessible toggle and keyboard support.",
+    "try": "Try three links, then shrink the available width. Can you still use every link?",
+    "close": "Subscribe to Tech at sixty for practical web projects."
+  }
+}

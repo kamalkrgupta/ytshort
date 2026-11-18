@@ -1,0 +1,19 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "e2eb887c01c0d5d204371f5b0bbb089fbc7650a13556f99b0edcc725f779ce6a",
+  "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-24T16:45:07Z",
+  "publishAt": "2026-10-28T18:00:00+05:30",
+  "videoId": "bQb0NnHMJt0",
+  "url": "https://www.youtube.com/watch?v=bQb0NnHMJt0",
+  "actualVisibility": "public",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "uploaded",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null
+}

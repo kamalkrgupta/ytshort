@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "What if you could test a factory change before moving a single machine? That is one use of digital twins.",
+    "idea": "A digital twin is a digital representation of a real object or system, connected to relevant data.",
+    "demo": "A team might simulate a different layout and inspect how people, machines, or materials move.",
+    "compare": "The point is not just a beautiful three dimensional picture. The connection to the real system makes it useful.",
+    "takeaway": "A simulation is only as dependable as its assumptions, model, and data. Check those before acting.",
+    "close": "What would you test first? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

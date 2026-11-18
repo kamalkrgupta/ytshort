@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "H T M L Dropdown Menus. Let’s make it simple.",
+    "idea": "A select element presents a list of choices. Start by understanding the role it plays in a page.",
+    "code": "Each option inside the select becomes one available choice. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "A value attribute can specify the data submitted for an option. Keep this detail in mind when writing your own example.",
+    "caution": "Use a label so the purpose of the selection is clear. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Create a dropdown with three learning goals. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

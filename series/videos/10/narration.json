@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "H T M L Div vs Span. Let’s make it simple.",
+    "idea": "Div and span are generic containers for grouping content. Start by understanding the role it plays in a page.",
+    "code": "A div is block level by default; a span is inline. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "Use a span to group words within a line of text. Keep this detail in mind when writing your own example.",
+    "caution": "Prefer a meaningful semantic element when one fits your content. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Wrap a sentence in a div and one word in a span. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

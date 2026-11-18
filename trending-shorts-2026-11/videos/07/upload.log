@@ -1,0 +1,25 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 27%
+Upload 54%
+Upload 81%
+Uploaded: https://www.youtube.com/watch?v=P16SZw6Mnos
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "e6835128f0a29b5295a3be3c9d2a8f0c211f2ef150041928510dec441cc7b1b6",
+  "title": "USB-C Explained: Same Plug, Different Capabilities",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:50:56Z",
+  "publishAt": "2026-11-23T14:30:00+00:00",
+  "videoId": "P16SZw6Mnos",
+  "url": "https://www.youtube.com/watch?v=P16SZw6Mnos",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-23T14:30:00Z"
+}

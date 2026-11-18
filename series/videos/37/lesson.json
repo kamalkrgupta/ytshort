@@ -1,0 +1,16 @@
+{
+  "videoNumber": 37,
+  "phase": "Phase 4 — JavaScript for Beginners",
+  "topic": "What Is JavaScript?",
+  "description": "Learn how JavaScript adds website interactivity.",
+  "publishLocal": "2026-11-06T16:00:00+05:30",
+  "publishAt": "2026-11-06T10:30:00Z",
+  "status": "planned",
+  "definition": "JavaScript adds logic and interactive behavior to web pages.",
+  "code": "const button =\n document.querySelector(\"button\");\nbutton.addEventListener(\"click\",\n () => alert(\"Hello!\"));",
+  "preview": "<button>Say hello</button><p style=\"background:#d7f5e3;padding:20px\">Hello!</p>",
+  "rule": "A script can respond when a user activates a button.",
+  "tip": "Use JavaScript to update content, validate input, or manage application state.",
+  "caution": "Keep HTML structure and accessible controls in place before adding behavior.",
+  "exercise": "Make a button respond with a greeting."
+}

@@ -1,0 +1,16 @@
+{
+  "videoNumber": 22,
+  "phase": "Phase 2 — Advanced HTML & CSS Basics",
+  "topic": "Three Ways to Add CSS",
+  "description": "Compare inline, internal, and external CSS.",
+  "publishLocal": "2026-10-30T11:00:00+05:30",
+  "publishAt": "2026-10-30T05:30:00Z",
+  "status": "planned",
+  "definition": "You can add C S S inline, inside a document, or in a separate file.",
+  "code": "<!-- In the document head -->\n<link rel=\"stylesheet\"\n      href=\"styles.css\">",
+  "preview": "<p style=\"color:#6141b7\">One stylesheet.</p><p style=\"color:#6141b7\">Many matching elements.</p>",
+  "rule": "Inline styles use an attribute; internal styles use a style element.",
+  "tip": "An external stylesheet can be shared across several pages.",
+  "caution": "Keep larger projects organized with a separate stylesheet.",
+  "exercise": "Create a styles file and connect it to your HTML document."
+}

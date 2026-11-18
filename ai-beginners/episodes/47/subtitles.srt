@@ -1,0 +1,259 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,697
+Welcome to episode 47 of AI for Beginners Today
+
+4
+00:00:12,852 --> 00:00:16,988
+we’re looking at ai for personal projects By the
+
+5
+00:00:17,001 --> 00:00:21,086
+end you’ll understand one practical idea watch a realistic
+
+6
+00:00:21,099 --> 00:00:25,931
+example and try a small exercise yourself You don’t
+
+7
+00:00:25,944 --> 00:00:30,674
+need a technical background or expensive software Bring your
+
+8
+00:00:30,687 --> 00:00:36,395
+curiosity We’ll work through it together Here’s the example
+
+9
+00:00:36,408 --> 00:00:40,790
+we’ll use a personal reading tracker We’ll use that
+
+10
+00:00:40,803 --> 00:00:44,900
+situation to make the topic concrete Watch how we
+
+11
+00:00:44,913 --> 00:00:48,174
+break the task into small steps because the same
+
+12
+00:00:48,187 --> 00:00:51,318
+thinking will help you use many different AI tools
+
+13
+00:00:51,331 --> 00:00:52,710
+later in this course
+
+14
+00:01:00,783 --> 00:01:04,896
+Let’s start with the main idea scope a useful
+
+15
+00:01:04,909 --> 00:01:09,058
+project with constraints Think of AI as a tool
+
+16
+00:01:09,071 --> 00:01:12,434
+that processes information and returns an output based on
+
+17
+00:01:12,447 --> 00:01:16,687
+its training instructions and any relevant information it can
+
+18
+00:01:16,700 --> 00:01:20,824
+access It can save time on drafts and patterns
+
+19
+00:01:21,004 --> 00:01:23,929
+but it doesn’t automatically know what’s correct for your
+
+20
+00:01:23,942 --> 00:01:28,156
+situation The most useful habit is to define what
+
+21
+00:01:28,169 --> 00:01:32,151
+you want before touching the tool Ask yourself three
+
+22
+00:01:32,164 --> 00:01:35,862
+questions what’s my goal what information does the tool
+
+23
+00:01:35,875 --> 00:01:39,586
+need and how will I check the result Those
+
+24
+00:01:39,599 --> 00:01:43,491
+questions work whether you’re writing a prompt building a workflow
+
+25
+00:01:43,633 --> 00:01:45,669
+or reviewing a generated answer
+
+26
+00:01:53,783 --> 00:01:57,896
+Let’s try it with an example Our example is
+
+27
+00:01:57,909 --> 00:02:01,981
+a personal reading tracker Start by writing down the
+
+28
+00:02:01,994 --> 00:02:07,406
+desired result in one sentence Next identify the input
+
+29
+00:02:07,638 --> 00:02:09,597
+what would a person need to know to do
+
+30
+00:02:09,610 --> 00:02:13,927
+this task correctly Then write a simple instruction with
+
+31
+00:02:13,939 --> 00:02:18,244
+that context and a clear format On screen I
+
+32
+00:02:18,257 --> 00:02:21,736
+am showing a sample request followed by a possible
+
+33
+00:02:21,749 --> 00:02:25,769
+output Notice that we’re not judging the result by
+
+34
+00:02:25,782 --> 00:02:30,215
+how impressive it sounds We’re checking whether it actually
+
+35
+00:02:30,228 --> 00:02:33,952
+meets the task If the output is too broad
+
+36
+00:02:34,081 --> 00:02:37,896
+ask for a more specific version If a fact
+
+37
+00:02:37,909 --> 00:02:42,174
+matters verify it from a reliable source Pause the
+
+38
+00:02:42,187 --> 00:02:44,829
+video here if you’d like to copy the structure
+
+39
+00:02:44,842 --> 00:02:46,079
+into your own notes
+
+40
+00:02:54,183 --> 00:02:59,108
+Your turn Try this exercise write a one-page project
+
+41
+00:02:59,120 --> 00:03:03,489
+brief Begin with a very small example not a
+
+42
+00:03:03,502 --> 00:03:08,437
+complex project Give yourself thirty seconds to decide what
+
+43
+00:03:08,450 --> 00:03:12,600
+success would look like Then complete the task once
+
+44
+00:03:12,613 --> 00:03:19,146
+and inspect the result What’s useful What’s missing What
+
+45
+00:03:19,159 --> 00:03:23,180
+would you change Make one improvement and compare the
+
+46
+00:03:23,193 --> 00:03:28,888
+first and second versions This simple before-and-after comparison teaches
+
+47
+00:03:28,901 --> 00:03:31,724
+you more than copying a complicated prompt from the
+
+48
+00:03:31,736 --> 00:03:35,963
+internet If your chosen tool is unavailable do the
+
+49
+00:03:35,976 --> 00:03:40,087
+exercise on paper sketch the input the steps and
+
+50
+00:03:40,100 --> 00:03:44,120
+the output The objective is to practice the underlying
+
+51
+00:03:44,133 --> 00:03:47,342
+thinking not to depend on one particular app
+
+52
+00:03:55,450 --> 00:04:00,257
+Before we finish remember this important limitation avoid collecting
+
+53
+00:04:00,270 --> 00:04:06,238
+unnecessary personal information Responsible AI use means understanding the
+
+54
+00:04:06,251 --> 00:04:09,614
+strengths of the tool and keeping yourself accountable for
+
+55
+00:04:09,627 --> 00:04:13,222
+the final result Today you learned that scope a
+
+56
+00:04:13,235 --> 00:04:16,727
+useful project with constraints saw the example of a
+
+57
+00:04:16,740 --> 00:04:20,941
+personal reading tracker and practiced a small hands-on task
+
+58
+00:04:21,830 --> 00:04:25,310
+Here’s your challenge repeat the exercise with a different
+
+59
+00:04:25,323 --> 00:04:29,292
+topic and write down one thing that improved In
+
+60
+00:04:29,305 --> 00:04:32,372
+the comments share the part you found easiest or
+
+61
+00:04:32,385 --> 00:04:36,250
+the question you still have If this helped share
+
+62
+00:04:36,263 --> 00:04:40,477
+it with someone learning AI And subscribe to Tech
+
+63
+00:04:40,490 --> 00:04:44,769
+at sixty for the next lesson We’re building practical
+
+64
+00:04:44,781 --> 00:04:48,879
+AI skills one simple step at a time Thanks
+
+65
+00:04:48,892 --> 00:04:52,256
+for watching See you in the next lesson

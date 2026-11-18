@@ -1,0 +1,16 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "Build this profile card with a name, a short bio, and one useful link.",
+    "idea": "Use an article for the card, a heading for the name, and a paragraph for the introduction.",
+    "code": "Give the article a class called card. The same class connects it to your style rule.",
+    "result": "Add padding for breathing room. A border and rounded corners turn the content into a card.",
+    "tip": "Keep the text readable against your background. Simple colors work well.",
+    "caution": "If you add a portrait, write alternative text that describes its purpose.",
+    "try": "Now replace Alex with your name, change the bio, and add your own link.",
+    "close": "Subscribe to Tech at sixty for more small coding projects."
+  }
+}

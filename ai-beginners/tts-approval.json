@@ -1,0 +1,7 @@
+{
+  "approved": true,
+  "instruction": "User explicitly approved sending the scripts to Microsoft Edge TTS for narration.",
+  "service": "Microsoft Edge TTS",
+  "voice": "en-IN-NeerjaNeural",
+  "latestPreference": "Use a more natural-sounding synthetic voice."
+}

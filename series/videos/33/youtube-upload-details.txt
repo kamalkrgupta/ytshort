@@ -1,0 +1,18 @@
+CSS Borders and Shadows | Web Development in 60 Seconds
+
+Borders define edges, while shadows can suggest depth. Learn css borders and shadows with a quick example for beginners.
+
+A border has a width, style, and color.
+Border radius rounds the corners; box shadow paints a shadow.
+
+Try it: Create a rounded card with a border and soft shadow.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 33
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: css borders and shadows, web development for beginners, learn to code, coding shorts, css tutorial

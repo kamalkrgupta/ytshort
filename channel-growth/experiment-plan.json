@@ -1,0 +1,52 @@
+{
+  "createdAt": "2026-11-03T07:12:12.419111+00:00",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "changes": [],
+  "sections": [
+    {
+      "kind": "youtube#channelSection",
+      "etag": "njtLolkowSKHj4LNfdp7jloleVs",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.jNQXAC9IVRw",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 0
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLHH8ZgwKrWFk"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "7m6PMMOgXk3rtRI7dQv3YonEzME",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.LeAltgu_pbM",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 1
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLXqX5lBoONpI"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "g4ngmS3mw8IHPxwBJ28PtmisZVc",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.nGzAI5pLbMY",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 2
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLEJDqf_3IqMU"
+        ]
+      }
+    }
+  ]
+}

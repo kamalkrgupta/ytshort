@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "You ask an A I to summarize a webpage. The page contains instructions trying to redirect the assistant.",
+    "idea": "That is prompt injection: untrusted content attempts to influence how an A I follows your task.",
+    "demo": "The trick becomes more serious when an assistant can also use tools or access private information.",
+    "compare": "Text on a webpage is information to inspect. It should not automatically become an instruction to obey.",
+    "takeaway": "Defenses help, but the problem is not fully solved. Limit access and check important actions.",
+    "close": "Should a page give orders? Subscribe to Tech at sixty for practical tech explained."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "videoNumber": 8,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "HTML Buttons",
+  "description": "Add buttons and understand their basic purpose.",
+  "publishLocal": "2026-10-23T11:00:00+05:30",
+  "publishAt": "2026-10-23T05:30:00Z",
+  "status": "planned",
+  "definition": "A button is a control that people can activate.",
+  "code": "<button type=\"button\">\n  Say hello\n</button>",
+  "preview": "<button>Say hello</button>",
+  "rule": "Use the button element to create an accessible native control.",
+  "tip": "JavaScript can listen for a click and perform an action.",
+  "caution": "Inside a form, specify the type to avoid accidental submission.",
+  "exercise": "Create a button with a clear action label."
+}

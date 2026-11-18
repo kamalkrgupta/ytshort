@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 23%
+Upload 46%
+Upload 69%
+Upload 92%
+Uploaded: https://www.youtube.com/watch?v=OITndaBo7DA
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "d2cfc2b2253148d29cb119df28b8f14df4d2babf3728aad815f9a7b5301c32a3",
+  "title": "WebGPU Explained: How AI Can Run Inside a Browser",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:49:01Z",
+  "publishAt": "2026-11-20T14:30:00+00:00",
+  "videoId": "OITndaBo7DA",
+  "url": "https://www.youtube.com/watch?v=OITndaBo7DA",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-20T14:30:00Z"
+}

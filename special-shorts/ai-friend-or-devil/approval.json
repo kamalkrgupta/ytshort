@@ -1,0 +1,23 @@
+{
+  "status": "published_to_youtube",
+  "upload_authorized": true,
+  "publish_authorized": true,
+  "synthetic_voice_authorized": true,
+  "add_to_automated_queues": false,
+  "review_artifact": "/Users/impulsiveweb/Documents/YT Short/special-shorts/ai-friend-or-devil/out/AI-Friend-or-Devil-REVIEW.mp4",
+  "review_sha256": "7ee826575558054136673106341b66036da624e6863f76f4b5c36871a5bbb811",
+  "intended_destination": "YouTube @Techat60 only",
+  "voice": "en-IN-NeerjaNeural synthetic narration",
+  "approved_at": "2026-11-02T13:26:39.523021+05:30",
+  "approval_instruction": "Use the 1st version and push it in youtube short.",
+  "approved_sha256": "7ee826575558054136673106341b66036da624e6863f76f4b5c36871a5bbb811",
+  "requested_tags": [
+    "modi",
+    "cjp",
+    "bjp",
+    "mock",
+    "latent"
+  ],
+  "youtube_video_id": "J-erLjRrEvM",
+  "youtube_url": "https://www.youtube.com/shorts/J-erLjRrEvM"
+}

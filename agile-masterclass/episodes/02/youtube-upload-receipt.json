@@ -1,0 +1,20 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "45a1250c5d517a2a72a14aa4687bf9b7a1be5d28bf990288b50680ea692eb708",
+  "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:41:48Z",
+  "publishAt": null,
+  "videoId": "aVPTY_zbmlU",
+  "url": "https://www.youtube.com/watch?v=aVPTY_zbmlU",
+  "actualVisibility": "public",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "The authenticated user doesn't have permissions to upload and set custom video thumbnails.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null,
+  "remoteAuditedAt": "2026-10-24T16:46:38.042211+00:00"
+}

@@ -1,0 +1,575 @@
+1
+00:00:00,337 --> 00:00:03,220
+This lesson covers T D D B D D
+
+2
+00:00:03,394 --> 00:00:06,737
+A T D D exploratory testing and core test
+
+3
+00:00:06,749 --> 00:00:11,241
+design techniques We use a discount and checkout feature
+
+4
+00:00:11,254 --> 00:00:15,292
+as our example Begin with a checkout rule an
+
+5
+00:00:15,305 --> 00:00:19,294
+eligible member receives a ten-percent discount but an expired
+
+6
+00:00:19,306 --> 00:00:23,432
+coupon must be rejected There are several questions hidden
+
+7
+00:00:23,444 --> 00:00:28,849
+inside that sentence We need to clarify eligibility calculate
+
+8
+00:00:28,862 --> 00:00:32,801
+the amount investigate limits and observe the user journey
+
+9
+00:00:33,671 --> 00:00:35,982
+T D D B D D A T D
+
+10
+00:00:35,995 --> 00:00:39,126
+D and exploratory testing can help but they work
+
+11
+00:00:39,138 --> 00:00:43,575
+at different points and with different intentions Test design
+
+12
+00:00:43,587 --> 00:00:48,769
+techniques help choose examples systematically The objective is not
+
+13
+00:00:48,781 --> 00:00:52,522
+to use every method on every story It is
+
+14
+00:00:52,534 --> 00:00:55,529
+to choose methods that give useful evidence about the
+
+15
+00:00:55,541 --> 00:00:57,094
+most important risks
+
+16
+00:00:58,704 --> 00:01:02,269
+Write a failing test for an eligible ten-percent discount
+
+17
+00:01:02,518 --> 00:01:07,057
+implement enough code to pass then refactor safely The
+
+18
+00:01:07,070 --> 00:01:13,144
+Red Green Refactor loop encourages small verified changes For
+
+19
+00:01:13,156 --> 00:01:16,075
+a T D D demonstration write a small test
+
+20
+00:01:16,088 --> 00:01:19,156
+saying that a purchase of one thousand rupees produces
+
+21
+00:01:19,168 --> 00:01:23,715
+a one-hundred-rupee discount for an eligible member Confirm the
+
+22
+00:01:23,727 --> 00:01:27,193
+test fails because the function has not implemented that
+
+23
+00:01:27,205 --> 00:01:32,049
+behavior Add the smallest implementation that makes it pass
+
+24
+00:01:32,919 --> 00:01:37,304
+Refactor the design while keeping the test green Next
+
+25
+00:01:37,478 --> 00:01:42,869
+add an ineligible-customer case expecting zero These examples should
+
+26
+00:01:42,881 --> 00:01:46,993
+guide the code in small steps Writing all production
+
+27
+00:01:47,005 --> 00:01:49,961
+code first and adding tests afterward can still be
+
+28
+00:01:49,974 --> 00:01:52,868
+useful but it does not provide the same design
+
+29
+00:01:52,880 --> 00:01:55,613
+feedback loop as test-driven development
+
+30
+00:01:57,237 --> 00:02:02,411
+Describe behavior collaboratively using Given When and Then Given
+
+31
+00:02:02,423 --> 00:02:05,057
+an eligible coupon when it is applied to a
+
+32
+00:02:05,069 --> 00:02:10,386
+qualifying order then the specified discount is calculated B
+
+33
+00:02:10,398 --> 00:02:13,951
+D D is about shared understanding not just automation
+
+34
+00:02:13,963 --> 00:02:18,671
+syntax For B D D gather product development and
+
+35
+00:02:18,683 --> 00:02:23,652
+testing perspectives before choosing automation syntax Ask how a
+
+36
+00:02:23,665 --> 00:02:26,708
+customer knows that a coupon was accepted and how
+
+37
+00:02:26,720 --> 00:02:31,329
+the final total should change Express an example given
+
+38
+00:02:31,341 --> 00:02:34,521
+an eligible member with a qualifying basket when a
+
+39
+00:02:34,534 --> 00:02:38,161
+valid coupon is applied then the agreed discount appears
+
+40
+00:02:38,173 --> 00:02:42,074
+and the total is updated Now discuss an expired
+
+41
+00:02:42,086 --> 00:02:46,210
+coupon and a basket below the minimum Given When
+
+42
+00:02:46,223 --> 00:02:49,390
+and Then can make examples readable but the format
+
+43
+00:02:49,403 --> 00:02:52,794
+is not the purpose The purpose is a shared
+
+44
+00:02:52,806 --> 00:02:57,949
+understanding of observable behavior including situations where assumptions differ
+
+45
+00:02:59,571 --> 00:03:04,626
+Define acceptance examples with business development and testing participants
+
+46
+00:03:04,639 --> 00:03:10,768
+before implementation For refunds clarify eligible and ineligible cases
+
+47
+00:03:10,942 --> 00:03:14,892
+timing and expected outcomes A T D D and
+
+48
+00:03:14,905 --> 00:03:18,507
+B D D overlap but are not identical A
+
+49
+00:03:18,519 --> 00:03:22,904
+T D D also brings acceptance examples forward For
+
+50
+00:03:22,916 --> 00:03:26,469
+a refund feature agree that an eligible cancelled purchase
+
+51
+00:03:26,481 --> 00:03:29,798
+returns the correct amount and changes the order state
+
+52
+00:03:30,667 --> 00:03:34,046
+Include an ineligible refund a partial refund and a
+
+53
+00:03:34,058 --> 00:03:37,474
+delayed provider confirmation if those apply to the product
+
+54
+00:03:38,331 --> 00:03:41,747
+The team can use these examples to guide implementation
+
+55
+00:03:41,760 --> 00:03:45,560
+and later verification B D D and A T
+
+56
+00:03:45,573 --> 00:03:49,635
+D D overlap in collaborative discovery and examples their
+
+57
+00:03:49,647 --> 00:03:52,690
+labels do not define a rigid boundary for every
+
+58
+00:03:52,703 --> 00:03:57,373
+team What matters is that acceptance expectations are clear
+
+59
+00:03:57,386 --> 00:04:00,305
+before code is judged complete and that the checks
+
+60
+00:04:00,317 --> 00:04:02,304
+reflect real business outcomes
+
+61
+00:04:03,937 --> 00:04:08,757
+Investigate checkout by changing quantities applying coupons and navigating
+
+62
+00:04:08,769 --> 00:04:14,874
+backward Adapt based on observations Use charters notes and
+
+63
+00:04:14,886 --> 00:04:20,687
+debriefs to keep exploration purposeful Exploratory testing adds responsive
+
+64
+00:04:20,699 --> 00:04:26,090
+investigation Set a charter investigate whether coupon changes can
+
+65
+00:04:26,102 --> 00:04:31,021
+leave checkout totals inconsistent Begin with a normal purchase
+
+66
+00:04:31,157 --> 00:04:35,728
+change quantity apply a coupon navigate backward and return
+
+67
+00:04:36,585 --> 00:04:41,380
+Observe what changes and follow surprising behavior Record the
+
+68
+00:04:41,392 --> 00:04:45,305
+data actions and findings so another person can understand
+
+69
+00:04:45,317 --> 00:04:49,987
+the investigation A timebox helps focus the session but
+
+70
+00:04:50,000 --> 00:04:54,968
+curiosity should still respond to evidence Exploration is not
+
+71
+00:04:54,980 --> 00:05:00,048
+random clicking It combines learning test design and execution
+
+72
+00:05:00,061 --> 00:05:02,942
+while the tester updates the next question based on
+
+73
+00:05:02,955 --> 00:05:04,743
+what the product actually does
+
+74
+00:05:06,371 --> 00:05:12,365
+Equivalence partitioning groups inputs with similar behavior Boundary analysis
+
+75
+00:05:12,377 --> 00:05:17,595
+checks values around limits Decision tables cover combinations of
+
+76
+00:05:17,608 --> 00:05:22,825
+rules such as membership and coupon eligibility Use equivalence
+
+77
+00:05:22,838 --> 00:05:26,292
+partitioning and boundaries for a coupon that accepts whole-number
+
+78
+00:05:26,304 --> 00:05:31,000
+quantities from one through ten Valid quantities form one
+
+79
+00:05:31,012 --> 00:05:35,522
+partition zero and negative values are invalid values above
+
+80
+00:05:35,535 --> 00:05:41,001
+ten are invalid Representative examples can reduce redundant checks
+
+81
+00:05:41,858 --> 00:05:46,293
+Boundary analysis gives special attention to zero one ten
+
+82
+00:05:46,306 --> 00:05:50,269
+and eleven Other values may be needed depending on
+
+83
+00:05:50,281 --> 00:05:54,058
+the input type and risks If the input permits
+
+84
+00:05:54,070 --> 00:05:59,860
+decimals or text those introduce additional partitions The specification
+
+85
+00:05:59,872 --> 00:06:04,195
+must define the expected result A technique helps choose
+
+86
+00:06:04,208 --> 00:06:07,687
+inputs but it cannot resolve an unclear rule about
+
+87
+00:06:07,699 --> 00:06:09,885
+whether a particular input is allowed
+
+88
+00:06:11,504 --> 00:06:14,349
+Use T D D for calculations B D D
+
+89
+00:06:14,361 --> 00:06:17,231
+for shared renewal behavior A T D D for
+
+90
+00:06:17,244 --> 00:06:21,343
+refund acceptance boundary tests for limits and exploration for
+
+91
+00:06:21,356 --> 00:06:26,654
+user journeys Select methods based on risk Build a
+
+92
+00:06:26,666 --> 00:06:29,747
+decision table for two conditions the customer is a
+
+93
+00:06:29,760 --> 00:06:33,425
+member and the coupon is valid There are four
+
+94
+00:06:33,437 --> 00:06:37,462
+combinations Agree on the outcome for a member with
+
+95
+00:06:37,475 --> 00:06:40,655
+a valid coupon a member with an invalid coupon
+
+96
+00:06:40,804 --> 00:06:43,935
+a nonmember with a valid coupon and a nonmember
+
+97
+00:06:43,947 --> 00:06:48,457
+with an invalid coupon Maybe membership is required or
+
+98
+00:06:48,469 --> 00:06:51,823
+maybe the coupon is available to anyone the product
+
+99
+00:06:51,836 --> 00:06:57,625
+rule decides A table makes missing combinations visible Add
+
+100
+00:06:57,637 --> 00:07:00,979
+columns only when they affect the decision because many
+
+101
+00:07:00,992 --> 00:07:04,619
+independent conditions can produce more combinations than a team
+
+102
+00:07:04,632 --> 00:07:06,868
+can practically test through the interface
+
+103
+00:07:08,471 --> 00:07:12,024
+For your exercise design checks for a discount feature
+
+104
+00:07:12,037 --> 00:07:15,894
+with a minimum spend of five hundred rupees State
+
+105
+00:07:15,906 --> 00:07:20,044
+whether the threshold is inclusive then choose values immediately
+
+106
+00:07:20,056 --> 00:07:23,957
+below at and above it Add an expired coupon
+
+107
+00:07:23,970 --> 00:07:29,362
+example and one combination of membership and eligibility Finally
+
+108
+00:07:29,486 --> 00:07:33,002
+write a short exploratory charter about changing the basket
+
+109
+00:07:33,014 --> 00:07:37,673
+after applying a coupon Explain which method supports each
+
+110
+00:07:37,686 --> 00:07:43,786
+part Boundary analysis addresses the threshold shared examples clarify
+
+111
+00:07:43,798 --> 00:07:50,172
+behavior and exploration investigates interactions The strongest plan combines
+
+112
+00:07:50,184 --> 00:07:53,924
+these views while avoiding multiple expensive checks that all
+
+113
+00:07:53,936 --> 00:07:55,564
+prove the same narrow rule
+
+114
+00:07:57,171 --> 00:08:01,886
+Work through a boundary example numerically The fictional coupon
+
+115
+00:08:01,898 --> 00:08:05,066
+applies when the qualifying subtotal is at least five
+
+116
+00:08:05,079 --> 00:08:09,576
+hundred rupees Test four hundred and ninety-nine five hundred
+
+117
+00:08:09,589 --> 00:08:11,949
+and five hundred and one when the rule operates
+
+118
+00:08:11,962 --> 00:08:16,869
+on whole rupees If the application supports paise values
+
+119
+00:08:16,882 --> 00:08:20,808
+immediately around the boundary need that finer precision instead
+
+120
+00:08:21,653 --> 00:08:25,480
+Confirm whether the subtotal is calculated before or after
+
+121
+00:08:25,492 --> 00:08:30,723
+other discounts and whether tax contributes Without those decisions
+
+122
+00:08:30,872 --> 00:08:33,804
+two tests with the same apparent basket value may
+
+123
+00:08:33,816 --> 00:08:39,581
+legitimately expect different results Boundary analysis is effective only
+
+124
+00:08:39,594 --> 00:08:42,762
+when the unit precision and rule being bounded are
+
+125
+00:08:42,774 --> 00:08:43,507
+explicit
+
+126
+00:08:45,137 --> 00:08:49,778
+Add an interaction example A customer applies a coupon
+
+127
+00:08:49,791 --> 00:08:52,985
+to a qualifying basket then removes an item so
+
+128
+00:08:52,997 --> 00:08:56,824
+the basket falls below the minimum The total should
+
+129
+00:08:56,837 --> 00:08:59,658
+be recalculated according to the agreed rule and the
+
+130
+00:08:59,670 --> 00:09:03,945
+customer should understand the change A focused rule check
+
+131
+00:09:03,957 --> 00:09:07,200
+can verify the arithmetic while a browser journey can
+
+132
+00:09:07,213 --> 00:09:12,084
+verify the integration and message An exploratory session can
+
+133
+00:09:12,096 --> 00:09:16,272
+investigate other sequences such as changing quantity while a
+
+134
+00:09:16,284 --> 00:09:21,056
+request is still pending Avoid writing every variation as
+
+135
+00:09:21,068 --> 00:09:25,902
+a slow end-to-end test automatically Choose the least expensive
+
+136
+00:09:25,915 --> 00:09:29,580
+layer that provides useful evidence and retain a smaller
+
+137
+00:09:29,593 --> 00:09:32,836
+set of integrated journeys for risks that depend on
+
+138
+00:09:32,849 --> 00:09:33,731
+interactions
+
+139
+00:09:35,337 --> 00:09:40,698
+Different techniques answer different quality questions Knowledge check which
+
+140
+00:09:40,711 --> 00:09:44,674
+technique targets values immediately above and below an allowed
+
+141
+00:09:44,686 --> 00:09:48,463
+limit Subscribe to Tech at sixty for the next
+
+142
+00:09:48,475 --> 00:09:53,495
+episode in this Agile Testing Masterclass Practice the example
+
+143
+00:09:53,507 --> 00:09:56,762
+with synthetic data and share the most important risk
+
+144
+00:09:56,775 --> 00:09:58,738
+you identified in the comments

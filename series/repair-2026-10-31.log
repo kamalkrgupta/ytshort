@@ -1,0 +1,669 @@
+Published Shorts archive: 23 videos, 0 new, 0 errors.
+
+=== LESSON 24 CSS Fonts and Text Styling ===
+Preserved incomplete export: video.incomplete-20261031140321.mp4
+
+scene                    voice   needs  scene is   status
+hook                     4.01s      5s        6s   ok
+idea                     6.86s      8s        9s   ok
+code                     3.57s    4.5s        7s   ok
+result                   5.04s      6s        7s   ok
+tip                      7.13s      8s        9s   ok
+caution                  4.62s    5.5s        8s   ok
+try                      7.02s      8s        9s   ok
+close                    3.93s      5s        5s   ok
+
+Speech 42.2s. Voiced scenes need at least 50s = 50s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 398 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-C7r9H7UK.css                               7.90 kB │ gzip:   2.55 kB
+dist/assets/index-iuZIAf0C.js                              338.56 kB │ gzip: 115.23 kB
+✓ built in 5.50s
+npm notice
+npm notice New major version of npm available! 11.16.0 -> 12.2.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.1
+npm notice To update run: npm install -g npm@12.2.1
+npm notice
+still 01.png  t=5.10s  hook
+still 02.png  t=13.63s  idea
+still 03.png  t=20.97s  code
+still 04.png  t=27.97s  result
+still 05.png  t=36.67s  tip
+still 06.png  t=44.80s  caution
+still 07.png  t=53.67s  try
+still 08.png  t=59.27s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~73s left)
+  20%  (16s elapsed, ~64s left)
+  30%  (24s elapsed, ~56s left)
+  40%  (32s elapsed, ~48s left)
+  50%  (40s elapsed, ~40s left)
+  60%  (48s elapsed, ~32s left)
+  70%  (57s elapsed, ~24s left)
+  80%  (66s elapsed, ~16s left)
+  90%  (74s elapsed, ~8s left)
+  100%  (83s elapsed, ~0s left)
+
+Done in 83s -> ../videos/24/video.partial.mp4 (4.4 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 23%
+Upload 46%
+Upload 68%
+Upload 91%
+Uploaded: https://www.youtube.com/watch?v=PwX52X07J0k
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+Published Shorts archive: 24 videos, 1 new, 0 errors.
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "392cc6db7e672556e2adaffc863a59bed59263daf83fd4f88e5c6f18621309a0",
+  "title": "CSS Fonts and Text Styling | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-31T08:35:08Z",
+  "publishAt": null,
+  "videoId": "PwX52X07J0k",
+  "url": "https://www.youtube.com/watch?v=PwX52X07J0k",
+  "actualVisibility": "public",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null
+}
+
+=== LESSON 25 CSS Backgrounds ===
+
+scene                    voice   needs  scene is   status
+hook                     3.59s    4.5s        5s   ok
+idea                     6.72s    7.5s      7.5s   ok
+code                     6.63s    7.5s        8s   ok
+result                   8.56s    9.5s       10s   ok
+tip                      6.95s      8s        8s   ok
+caution                  7.53s    8.5s        9s   ok
+try                      5.84s      7s      7.5s   ok
+close                    3.93s      5s        5s   ok
+
+Speech 49.8s. Voiced scenes need at least 57.5s = 57.5s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 398 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-C7r9H7UK.css                               7.90 kB │ gzip:   2.55 kB
+dist/assets/index-BFlrkVwh.js                              338.49 kB │ gzip: 115.17 kB
+✓ built in 5.39s
+still 01.png  t=4.27s  hook
+still 02.png  t=11.37s  idea
+still 03.png  t=19.30s  code
+still 04.png  t=29.00s  result
+still 05.png  t=37.30s  tip
+still 06.png  t=46.17s  caution
+still 07.png  t=53.87s  try
+still 08.png  t=59.27s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~75s left)
+  20%  (16s elapsed, ~63s left)
+  30%  (24s elapsed, ~55s left)
+  40%  (32s elapsed, ~47s left)
+  50%  (39s elapsed, ~39s left)
+  60%  (47s elapsed, ~32s left)
+  70%  (55s elapsed, ~24s left)
+  80%  (63s elapsed, ~16s left)
+  90%  (71s elapsed, ~8s left)
+  100%  (78s elapsed, ~0s left)
+
+Done in 79s -> ../videos/25/video.partial.mp4 (4.5 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 22%
+Upload 45%
+Upload 67%
+Upload 89%
+Uploaded: https://www.youtube.com/watch?v=_k9pL5fcolg
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "1e5fa7b6e79be1f702b294c79f2022afa4a3be908feaf57d942ccbdf27416f57",
+  "title": "CSS Backgrounds | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-31T08:37:26Z",
+  "publishAt": "2026-10-31T10:30:00Z",
+  "videoId": "_k9pL5fcolg",
+  "url": "https://www.youtube.com/watch?v=_k9pL5fcolg",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-31T10:30:00Z"
+}
+
+=== LESSON 26 CSS Box Model ===
+
+scene                    voice   needs  scene is   status
+hook                     3.72s    4.5s        6s   ok
+idea                     7.21s      8s        9s   ok
+code                     4.34s    5.5s        7s   ok
+result                   5.04s      6s      7.5s   ok
+tip                      6.97s      8s        9s   ok
+caution                  4.11s      5s        8s   3.0s of silence after the voice
+try                      6.60s    7.5s      8.5s   ok
+close                    3.93s      5s        5s   ok
+
+Speech 41.9s. Voiced scenes need at least 49.5s = 49.5s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 398 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-C7r9H7UK.css                               7.90 kB │ gzip:   2.55 kB
+dist/assets/index-B6CbjT_7.js                              338.50 kB │ gzip: 115.17 kB
+✓ built in 7.22s
+still 01.png  t=5.10s  hook
+still 02.png  t=13.63s  idea
+still 03.png  t=20.97s  code
+still 04.png  t=28.37s  result
+still 05.png  t=37.17s  tip
+still 06.png  t=45.30s  caution
+still 07.png  t=53.73s  try
+still 08.png  t=59.27s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (9s elapsed, ~83s left)
+  20%  (17s elapsed, ~69s left)
+  30%  (26s elapsed, ~60s left)
+  40%  (34s elapsed, ~51s left)
+  50%  (43s elapsed, ~43s left)
+  60%  (52s elapsed, ~34s left)
+  70%  (60s elapsed, ~26s left)
+  80%  (68s elapsed, ~17s left)
+  90%  (76s elapsed, ~8s left)
+  100%  (84s elapsed, ~0s left)
+
+Done in 85s -> ../videos/26/video.partial.mp4 (4.2 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 24%
+Upload 47%
+Upload 71%
+Upload 94%
+Uploaded: https://www.youtube.com/watch?v=rk479ZjGpvo
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "5bc1570d50ddcdda0c7dc0bd2bdd99b8bcde384c5349bd978106e470328e5d45",
+  "title": "CSS Box Model | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-31T08:39:50Z",
+  "publishAt": "2026-11-01T05:30:00Z",
+  "videoId": "rk479ZjGpvo",
+  "url": "https://www.youtube.com/watch?v=rk479ZjGpvo",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-01T05:30:00Z"
+}
+
+=== LESSON 27 CSS Classes vs IDs ===
+
+scene                    voice   needs  scene is   status
+hook                     4.78s      6s      6.5s   ok
+idea                     7.71s    8.5s      9.5s   ok
+code                     3.50s    4.5s        7s   ok
+result                   5.04s      6s        7s   ok
+tip                      7.23s      8s        9s   ok
+caution                  4.39s    5.5s        8s   ok
+try                      5.91s      7s        8s   ok
+close                    3.93s      5s        5s   ok
+
+Speech 42.5s. Voiced scenes need at least 50.5s = 50.5s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 398 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-C7r9H7UK.css                               7.90 kB │ gzip:   2.55 kB
+dist/assets/index-QGIuWAW_.js                              338.44 kB │ gzip: 115.15 kB
+✓ built in 5.52s
+still 01.png  t=5.53s  hook
+still 02.png  t=14.57s  idea
+still 03.png  t=21.97s  code
+still 04.png  t=28.97s  result
+still 05.png  t=37.67s  tip
+still 06.png  t=45.80s  caution
+still 07.png  t=53.80s  try
+still 08.png  t=59.27s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~75s left)
+  20%  (16s elapsed, ~65s left)
+  30%  (25s elapsed, ~57s left)
+  40%  (33s elapsed, ~50s left)
+  50%  (41s elapsed, ~41s left)
+  60%  (49s elapsed, ~33s left)
+  70%  (57s elapsed, ~25s left)
+  80%  (65s elapsed, ~16s left)
+  90%  (72s elapsed, ~8s left)
+  100%  (80s elapsed, ~0s left)
+
+Done in 80s -> ../videos/27/video.partial.mp4 (4.3 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 23%
+Upload 47%
+Upload 70%
+Upload 94%
+Uploaded: https://www.youtube.com/watch?v=A9SjSOECb8s
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "ac7638966fcf56d2251b320fd4c03802beb957a616307d51675db9d43b331d00",
+  "title": "CSS Classes vs IDs | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-31T08:42:17Z",
+  "publishAt": "2026-11-01T10:30:00Z",
+  "videoId": "A9SjSOECb8s",
+  "url": "https://www.youtube.com/watch?v=A9SjSOECb8s",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-01T10:30:00Z"
+}
+
+=== LESSON 28 CSS Display Property ===
+
+scene                    voice   needs  scene is   status
+hook                     3.90s      5s        6s   ok
+idea                     7.04s      8s        9s   ok
+code                     4.52s    5.5s        7s   ok
+result                   5.04s      6s        7s   ok
+tip                      7.41s    8.5s      9.5s   ok
+caution                  4.03s      5s        8s   3.0s of silence after the voice
+try                      6.67s    7.5s      8.5s   ok
+close                    3.93s      5s        5s   ok
+
+Speech 42.5s. Voiced scenes need at least 50.5s = 50.5s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 398 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.27 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-C7r9H7UK.css                               7.90 kB │ gzip:   2.55 kB
+dist/assets/index-CidaAp7E.js                              338.56 kB │ gzip: 115.17 kB
+✓ built in 5.52s
+still 01.png  t=5.10s  hook
+still 02.png  t=13.63s  idea
+still 03.png  t=20.97s  code
+still 04.png  t=27.97s  result
+still 05.png  t=37.07s  tip
+still 06.png  t=45.30s  caution
+still 07.png  t=53.73s  try
+still 08.png  t=59.27s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~70s left)
+  20%  (16s elapsed, ~63s left)
+  30%  (23s elapsed, ~55s left)
+  40%  (31s elapsed, ~47s left)
+  50%  (39s elapsed, ~39s left)
+  60%  (46s elapsed, ~31s left)
+  70%  (54s elapsed, ~23s left)
+  80%  (62s elapsed, ~15s left)
+  90%  (70s elapsed, ~8s left)
+  100%  (78s elapsed, ~0s left)
+
+Done in 78s -> ../videos/28/video.partial.mp4 (4.3 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 23%
+Upload 47%
+Upload 70%
+Upload 93%
+Uploaded: https://www.youtube.com/watch?v=tozXzYirna4
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "44c8c6e132ca91a11cd39e751728c7907fa7794c73fb36323bb90609b5d77ef2",
+  "title": "CSS Display Property | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-31T08:44:31Z",
+  "publishAt": "2026-11-02T05:30:00Z",
+  "videoId": "tozXzYirna4",
+  "url": "https://www.youtube.com/watch?v=tozXzYirna4",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-02T05:30:00Z"
+}
+
+=== LESSON 29 CSS Flexbox in 60 Seconds ===
+
+scene                    voice   needs  scene is   status
+hook                     5.07s      6s      6.5s   ok
+idea                     6.92s      8s      8.5s   ok
+code                     3.20s      4s        7s   3.0s of silence after the voice
+result                   5.04s      6s        7s   ok
+tip                      9.13s     10s     10.5s   ok
+caution                  3.11s      4s        8s   4.0s of silence after the voice
+try                      6.02s      7s      7.5s   ok
+close                    3.93s      5s        5s   ok
+
+Speech 42.4s. Voiced scenes need at least 50s = 50s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 398 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-C7r9H7UK.css                               7.90 kB │ gzip:   2.55 kB
+dist/assets/index-B8lh3x2l.js                              338.60 kB │ gzip: 115.20 kB
+✓ built in 5.58s
+still 01.png  t=5.53s  hook
+still 02.png  t=13.73s  idea
+still 03.png  t=20.97s  code
+still 04.png  t=27.97s  result
+still 05.png  t=37.93s  tip
+still 06.png  t=46.30s  caution
+still 07.png  t=53.87s  try
+still 08.png  t=59.27s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~74s left)
+  20%  (16s elapsed, ~65s left)
+  30%  (25s elapsed, ~57s left)
+  40%  (33s elapsed, ~49s left)
+  50%  (41s elapsed, ~41s left)
+  60%  (49s elapsed, ~32s left)
+  70%  (57s elapsed, ~24s left)
+  80%  (65s elapsed, ~16s left)
+  90%  (73s elapsed, ~8s left)
+  100%  (82s elapsed, ~0s left)
+
+Done in 82s -> ../videos/29/video.partial.mp4 (4.3 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 23%
+Upload 47%
+Upload 70%
+Upload 94%
+Uploaded: https://www.youtube.com/watch?v=c_JdeG3Iq3o
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "f22e1f4c77fbfc9b727884adef1eaec8452a1a5e13e0f009498ac58b173b9ee6",
+  "title": "CSS Flexbox in 60 Seconds | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-31T08:46:39Z",
+  "publishAt": "2026-11-02T10:30:00Z",
+  "videoId": "c_JdeG3Iq3o",
+  "url": "https://www.youtube.com/watch?v=c_JdeG3Iq3o",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-02T10:30:00Z"
+}
+
+=== LESSON 30 CSS Grid Explained ===
+
+scene                    voice   needs  scene is   status
+hook                     3.78s      5s        5s   ok
+idea                     6.14s      7s        7s   ok
+code                     6.41s    7.5s        8s   ok
+result                   8.56s    9.5s       10s   ok
+tip                      7.34s    8.5s      8.5s   ok
+caution                  7.53s    8.5s        9s   ok
+try                      5.83s      7s      7.5s   ok
+close                    3.93s      5s        5s   ok
+
+Speech 49.5s. Voiced scenes need at least 58s = 58s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 398 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.27 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-C7r9H7UK.css                               7.90 kB │ gzip:   2.55 kB
+dist/assets/index-Cqip-WuE.js                              338.65 kB │ gzip: 115.19 kB
+✓ built in 5.74s
+still 01.png  t=4.27s  hook
+still 02.png  t=10.97s  idea
+still 03.png  t=18.80s  code
+still 04.png  t=28.50s  result
+still 05.png  t=37.23s  tip
+still 06.png  t=46.17s  caution
+still 07.png  t=53.87s  try
+still 08.png  t=59.27s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~72s left)
+  20%  (16s elapsed, ~62s left)
+  30%  (23s elapsed, ~54s left)
+  40%  (31s elapsed, ~47s left)
+  50%  (39s elapsed, ~39s left)
+  60%  (46s elapsed, ~31s left)
+  70%  (54s elapsed, ~23s left)
+  80%  (62s elapsed, ~15s left)
+  90%  (69s elapsed, ~8s left)
+  100%  (77s elapsed, ~0s left)
+
+Done in 77s -> ../videos/30/video.partial.mp4 (4.4 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 23%
+Upload 45%
+Upload 68%
+Upload 91%
+Uploaded: https://www.youtube.com/watch?v=KUZhXec9exQ
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "21ee2ebcf4b4dd9b0a85989f67cab7690c8c28c2133fb7460345858c412f969d",
+  "title": "CSS Grid Explained | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-31T08:48:51Z",
+  "publishAt": "2026-11-03T05:30:00Z",
+  "videoId": "KUZhXec9exQ",
+  "url": "https://www.youtube.com/watch?v=KUZhXec9exQ",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-03T05:30:00Z"
+}
+Selected production batch complete.
+{
+  "playlistId": "PLEJDqf_3IqMU",
+  "url": "https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+  "title": "Web Development for Beginners | HTML, CSS & JavaScript | TECH AT 60",
+  "privacyStatus": "public",
+  "episodesAdded": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "orderedVideoIds": [
+    "Vi_gc4jOFAw",
+    "GjtwEy6C0BY",
+    "iJj3UEqr3mM",
+    "XpPqAg6oUPQ",
+    "NwK_T8Qxams",
+    "UdFrS1p0n2Q",
+    "ZCMbUuFgbHw",
+    "emkJjvrZTeE",
+    "5gQr8gC3yno",
+    "uX0pUdeNRhs",
+    "PMmOSKNzM18",
+    "s8vTrnbddoo",
+    "yP-l14vRQME",
+    "PZeEmk-S7_w",
+    "MEEDwR24JOw",
+    "LYJz6pp8g9Y",
+    "TgIcPIs9y34",
+    "oBrUM1-EbwI",
+    "OKr0Qgf5Eec",
+    "3OFT8MUb6Gw",
+    "M7XIh0LLmWw",
+    "XI8c12LzDI8",
+    "BeC8jK5dAHU",
+    "PwX52X07J0k",
+    "_k9pL5fcolg",
+    "rk479ZjGpvo",
+    "A9SjSOECb8s",
+    "tozXzYirna4",
+    "c_JdeG3Iq3o",
+    "KUZhXec9exQ"
+  ]
+}
+Published Shorts archive: 24 videos, 0 new, 0 errors.
+Daily publishing: buffer_scheduled

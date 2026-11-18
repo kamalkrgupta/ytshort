@@ -1,0 +1,21 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "50febb498d3c53046669a32399b52241875ecc6dba77fbf23bc21acb7e49a7e8",
+  "title": "Agile Testing Explained for Beginners | Real Examples | Episode 1",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:36:41Z",
+  "publishAt": null,
+  "videoId": "reA35oDRHj8",
+  "url": "https://www.youtube.com/watch?v=reA35oDRHj8",
+  "actualVisibility": "public",
+  "thumbnailSet": true,
+  "thumbnailStatus": "applied",
+  "thumbnailError": "The authenticated user doesn't have permissions to upload and set custom video thumbnails.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null,
+  "remoteAuditedAt": "2026-10-24T16:46:38.040443+00:00",
+  "thumbnailCampaign": "2026-11-05"
+}

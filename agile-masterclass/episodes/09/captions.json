@@ -1,0 +1,702 @@
+[
+  {
+    "start": 0.3357250903661795,
+    "end": 5.133400924534419,
+    "text": "Agile values useful documentation not the elimination of documentation"
+  },
+  {
+    "start": 5.991616235462833,
+    "end": 10.886697203559644,
+    "text": "We will examine stories criteria cases defects charters and"
+  },
+  {
+    "start": 10.898913028936825,
+    "end": 16.317595990983026,
+    "text": "traceability Imagine joining a team just before release The"
+  },
+  {
+    "start": 16.32977666907316,
+    "end": 19.73927696841113,
+    "text": "invoice feature looks finished but nobody can explain which"
+  },
+  {
+    "start": 19.751493651039215,
+    "end": 23.489785676469438,
+    "text": "account-isolation checks ran or which build contains the last"
+  },
+  {
+    "start": 23.501966354559567,
+    "end": 28.202236197548327,
+    "text": "fix More documents would not automatically solve the problem"
+  },
+  {
+    "start": 29.066774591142153,
+    "end": 33.42610889173739,
+    "text": "Useful artifacts would connect the customer need expected behavior"
+  },
+  {
+    "start": 33.438289569827525,
+    "end": 38.7595313934072,
+    "text": "and evidence Agile values working software while still recognizing"
+  },
+  {
+    "start": 38.77174807603529,
+    "end": 43.6668290441321,
+    "text": "that documentation can support collaboration and decisions In this"
+  },
+  {
+    "start": 43.67900886497133,
+    "end": 47.039825028239434,
+    "text": "lesson we create a small connected set of artifacts"
+  },
+  {
+    "start": 47.05200570632957,
+    "end": 51.60615027478195,
+    "text": "for a monthly invoice download Every artifact should answer"
+  },
+  {
+    "start": 51.61833095287208,
+    "end": 54.759977206604596,
+    "text": "a practical question for someone who needs to understand"
+  },
+  {
+    "start": 54.8938866557638,
+    "end": 57.572830876993955,
+    "text": "verify operate or change the product"
+  },
+  {
+    "start": 59.1690471912804,
+    "end": 63.69191633354294,
+    "text": "A customer wants to download a monthly invoice Clarify"
+  },
+  {
+    "start": 63.70409541561864,
+    "end": 67.41754116885257,
+    "text": "completed billing periods P D F output and account"
+  },
+  {
+    "start": 67.42972025092826,
+    "end": 73.29819067777578,
+    "text": "ownership Acceptance criteria translate the need into verifiable outcomes"
+  },
+  {
+    "start": 74.13829362797941,
+    "end": 76.85335122095461,
+    "text": "Write the user story in terms of the customer"
+  },
+  {
+    "start": 76.86556544571206,
+    "end": 80.39636868187807,
+    "text": "goal a customer wants to download a monthly invoice"
+  },
+  {
+    "start": 80.40854776395378,
+    "end": 84.25595742005031,
+    "text": "to keep a record of charges Then clarify the"
+  },
+  {
+    "start": 84.26810050230567,
+    "end": 89.63743084875435,
+    "text": "acceptance criteria Only completed billing periods are available the"
+  },
+  {
+    "start": 89.64957307387112,
+    "end": 92.65687977976404,
+    "text": "output is a readable P D F and customers"
+  },
+  {
+    "start": 92.66905800470116,
+    "end": 96.78428746706192,
+    "text": "can access only their own invoices Add an example"
+  },
+  {
+    "start": 96.79646654913762,
+    "end": 98.9636343050066,
+    "text": "of a month with no charge if the business"
+  },
+  {
+    "start": 98.97584852976405,
+    "end": 103.79721618232723,
+    "text": "needs it Criteria should describe observable outcomes rather than"
+  },
+  {
+    "start": 103.80939526440292,
+    "end": 108.1316588363876,
+    "text": "merely repeat interface labels A story that says there"
+  },
+  {
+    "start": 108.14380277578152,
+    "end": 110.85889636857708,
+    "text": "is a Download button is incomplete if it never"
+  },
+  {
+    "start": 110.87107459351421,
+    "end": 114.02448657024794,
+    "text": "explains which document the button must retrieve or who"
+  },
+  {
+    "start": 114.03663050964187,
+    "end": 115.47333705383879,
+    "text": "is allowed to retrieve it"
+  },
+  {
+    "start": 117.06904927940492,
+    "end": 121.89057038877266,
+    "text": "A test case can specify ID objective precondition action"
+  },
+  {
+    "start": 121.90274976754998,
+    "end": 126.68141290388192,
+    "text": "and expected result For invoice downloads verify that an"
+  },
+  {
+    "start": 126.69359228265922,
+    "end": 130.16362407019992,
+    "text": "authenticated customer downloads the correct P D F Use"
+  },
+  {
+    "start": 130.17580259181776,
+    "end": 133.97455417538356,
+    "text": "detailed cases for high-risk work and checklists where sufficient"
+  },
+  {
+    "start": 134.81467844897722,
+    "end": 137.6272680729893,
+    "text": "Create one test case with enough detail for its"
+  },
+  {
+    "start": 137.63941145106926,
+    "end": 143.43498799976754,
+    "text": "risk Its identifier is INV zero one The precondition"
+  },
+  {
+    "start": 143.44716737854486,
+    "end": 146.58844165504416,
+    "text": "is a synthetic customer with a completed billing period"
+  },
+  {
+    "start": 146.60062103382148,
+    "end": 150.20458312993958,
+    "text": "and a known invoice The action is to request"
+  },
+  {
+    "start": 150.21676250871687,
+    "end": 154.33209136738725,
+    "text": "that period's download The expected result is the correct"
+  },
+  {
+    "start": 154.34427074616457,
+    "end": 156.88896289516504,
+    "text": "P D F with the agreed account and charge"
+  },
+  {
+    "start": 156.90114227394236,
+    "end": 161.49133833100882,
+    "text": "information Record the environment and build when executing it"
+  },
+  {
+    "start": 162.33146174744306,
+    "end": 165.98413964435147,
+    "text": "A second test should investigate access to another synthetic"
+  },
+  {
+    "start": 165.99628216527196,
+    "end": 171.17091868607625,
+    "text": "customer's invoice Detailed steps are useful where precision matters"
+  },
+  {
+    "start": 171.30484985181312,
+    "end": 174.20261969723384,
+    "text": "but a simple low-risk visual check may only need"
+  },
+  {
+    "start": 174.21479907601116,
+    "end": 177.92833443747094,
+    "text": "a checklist Match the detail to the reader's need"
+  },
+  {
+    "start": 177.94051381624826,
+    "end": 180.0346966672478,
+    "text": "and the consequences of ambiguity"
+  },
+  {
+    "start": 181.63569786621747,
+    "end": 185.94494308275426,
+    "text": "An invoice ID modification that exposes another customer’s file"
+  },
+  {
+    "start": 185.95711989256512,
+    "end": 191.8790198427739,
+    "text": "is a serious authorization issue Record environment steps expected"
+  },
+  {
+    "start": 191.89119665258477,
+    "end": 197.45423764498668,
+    "text": "and actual behavior and sanitized evidence Avoid exposing sensitive"
+  },
+  {
+    "start": 197.4664144547975,
+    "end": 203.12686478381414,
+    "text": "customer data Suppose modifying the invoice identifier returns another"
+  },
+  {
+    "start": 203.139041593625,
+    "end": 207.94736975854568,
+    "text": "account's document Write a defect that explains the authorization"
+  },
+  {
+    "start": 207.9595465683565,
+    "end": 213.4008614546045,
+    "text": "failure without exposing real customer information Include the environment"
+  },
+  {
+    "start": 213.57129308604442,
+    "end": 219.4752324774514,
+    "text": "synthetic account relationship reproduction steps and observed result State"
+  },
+  {
+    "start": 219.4873741511371,
+    "end": 224.02789648412823,
+    "text": "the expected denial and attach sanitized evidence Link the"
+  },
+  {
+    "start": 224.0400732939391,
+    "end": 228.87275336452413,
+    "text": "affected requirement and test Avoid putting access tokens or"
+  },
+  {
+    "start": 228.88493017433495,
+    "end": 233.4132774114726,
+    "text": "confidential invoices in a broadly shared ticket The report"
+  },
+  {
+    "start": 233.42545336430476,
+    "end": 236.70000396859865,
+    "text": "should help the team reproduce and prioritize the problem"
+  },
+  {
+    "start": 236.8582245110813,
+    "end": 241.09444743279286,
+    "text": "not create a second exposure After the fix retain"
+  },
+  {
+    "start": 241.10662424260371,
+    "end": 244.00378372552115,
+    "text": "enough retest evidence to show which build was checked"
+  },
+  {
+    "start": 244.01595967835334,
+    "end": 245.80540225420265,
+    "text": "and what outcome was observed"
+  },
+  {
+    "start": 247.40237973096214,
+    "end": 253.03947683039786,
+    "text": "A lightweight strategy documents scope risks environments responsibilities and"
+  },
+  {
+    "start": 253.0516557997036,
+    "end": 258.0249780722754,
+    "text": "automation An exploratory charter might focus on invoice downloads"
+  },
+  {
+    "start": 258.03712104209416,
+    "end": 264.05167790555174,
+    "text": "across roles and billing periods Capture observations afterward A"
+  },
+  {
+    "start": 264.0638208753705,
+    "end": 269.8835588007296,
+    "text": "one-page strategy can describe scope important risks environments responsibilities"
+  },
+  {
+    "start": 269.89573777003534,
+    "end": 273.46304350703946,
+    "text": "and the mix of automated and human checks For"
+  },
+  {
+    "start": 273.4752224763452,
+    "end": 278.9175366371694,
+    "text": "this feature highlight account isolation document accuracy and availability"
+  },
+  {
+    "start": 279.76977563554493,
+    "end": 284.3598165127679,
+    "text": "Add an exploratory charter investigate invoice access across roles"
+  },
+  {
+    "start": 284.37199548207366,
+    "end": 288.90114494129045,
+    "text": "and billing periods using synthetic accounts A charter sets"
+  },
+  {
+    "start": 288.9133239105962,
+    "end": 292.9919792179662,
+    "text": "a mission while leaving room to follow discoveries After"
+  },
+  {
+    "start": 293.00415818727197,
+    "end": 296.169719934878,
+    "text": "the session capture what was covered what was found"
+  },
+  {
+    "start": 296.18189890418375,
+    "end": 300.22405501738484,
+    "text": "and what remains uncertain This is more useful than"
+  },
+  {
+    "start": 300.2361979872036,
+    "end": 303.279975184536,
+    "text": "a long plan copied from an unrelated project that"
+  },
+  {
+    "start": 303.29215415384175,
+    "end": 306.5916425644095,
+    "text": "nobody updates or uses when making a release decision"
+  },
+  {
+    "start": 308.20237826826474,
+    "end": 313.12104566547015,
+    "text": "Link authorization requirements to tests defects fixes and retest"
+  },
+  {
+    "start": 313.1332235698252,
+    "end": 318.69083495807126,
+    "text": "evidence This helps teams demonstrate coverage especially in regulated"
+  },
+  {
+    "start": 318.70301371954235,
+    "end": 325.92275134290577,
+    "text": "environments without unnecessary bureaucracy Traceability can be lightweight Connect"
+  },
+  {
+    "start": 325.9349301043768,
+    "end": 330.75620683715044,
+    "text": "the account-ownership rule to the unauthorized-download check Link the"
+  },
+  {
+    "start": 330.7683855986215,
+    "end": 333.60515333476724,
+    "text": "failing result to the defect then the fix and"
+  },
+  {
+    "start": 333.6173320962383,
+    "end": 338.1342255038369,
+    "text": "retest Someone reviewing release readiness can follow that chain"
+  },
+  {
+    "start": 338.146404265308,
+    "end": 342.09106644985366,
+    "text": "and understand why the risk is considered addressed The"
+  },
+  {
+    "start": 342.10328035308135,
+    "end": 346.2427572940153,
+    "text": "same principle applies to automated results retain the build"
+  },
+  {
+    "start": 346.2549360554863,
+    "end": 349.4082298794055,
+    "text": "and relevant report rather than only a screenshot of"
+  },
+  {
+    "start": 349.42040864087653,
+    "end": 354.0955839489142,
+    "text": "a green badge Avoid maintaining multiple disconnected copies of"
+  },
+  {
+    "start": 354.10776185326927,
+    "end": 358.3811631717001,
+    "text": "the same relationship in spreadsheets and tickets A small"
+  },
+  {
+    "start": 358.39334193317114,
+    "end": 360.9500470110953,
+    "text": "set of current links is easier to trust than"
+  },
+  {
+    "start": 360.96226177143905,
+    "end": 364.26165787721015,
+    "text": "a large matrix that stopped reflecting the product several"
+  },
+  {
+    "start": 364.27383663868125,
+    "end": 365.0530253807207,
+    "text": "sprints ago"
+  },
+  {
+    "start": 366.63573360916615,
+    "end": 372.32290772398153,
+    "text": "Maintain stories criteria risk strategy important tests defect reports"
+  },
+  {
+    "start": 372.44468545711334,
+    "end": 377.77235025660406,
+    "text": "automated results and relevant release notes Keep artifacts accessible"
+  },
+  {
+    "start": 377.7844961370146,
+    "end": 382.8506022696531,
+    "text": "and current Decide what to keep current Stories and"
+  },
+  {
+    "start": 382.86278330084343,
+    "end": 388.5255593451623,
+    "text": "criteria describe the agreed behavior Important tests preserve repeatable"
+  },
+  {
+    "start": 388.53774123368873,
+    "end": 395.0652127426798,
+    "text": "checks Defect reports record actionable failures Automated reports show"
+  },
+  {
+    "start": 395.0773577657543,
+    "end": 399.29098633036284,
+    "text": "what ran on a build Operational notes explain relevant"
+  },
+  {
+    "start": 399.30316736155316,
+    "end": 404.3936004057925,
+    "text": "deployment or support concerns Release notes communicate changes to"
+  },
+  {
+    "start": 404.4057822943189,
+    "end": 408.960344273154,
+    "text": "their intended audience Each artifact has a different reader"
+  },
+  {
+    "start": 408.97256131246024,
+    "end": 414.4526887611394,
+    "text": "and lifespan When behavior changes identify which artifacts now"
+  },
+  {
+    "start": 414.46487064966584,
+    "end": 419.1168834500318,
+    "text": "contain an obsolete rule Documentation debt grows when old"
+  },
+  {
+    "start": 419.12906448122214,
+    "end": 422.7094071670115,
+    "text": "expectations remain easy to find but hard to distinguish"
+  },
+  {
+    "start": 422.7215890555379,
+    "end": 427.59282955323044,
+    "text": "from current guidance Prefer concise material with clear ownership"
+  },
+  {
+    "start": 427.60501058442077,
+    "end": 430.332911710296,
+    "text": "and a visible relationship to the implementation"
+  },
+  {
+    "start": 431.9357404090163,
+    "end": 435.3824328295268,
+    "text": "For your exercise create a miniature evidence chain for"
+  },
+  {
+    "start": 435.3945796732722,
+    "end": 440.5886976405061,
+    "text": "the invoice authorization defect Write one criterion one negative"
+  },
+  {
+    "start": 440.6008804952232,
+    "end": 443.98666121436037,
+    "text": "test a concise defect title and a retest note"
+  },
+  {
+    "start": 444.83917124197643,
+    "end": 449.15059169838787,
+    "text": "The criterion restricts downloads to the owning customer The"
+  },
+  {
+    "start": 449.1627385421332,
+    "end": 453.5593995409763,
+    "text": "test attempts access from a different synthetic account The"
+  },
+  {
+    "start": 453.5715463847216,
+    "end": 457.4566586682714,
+    "text": "defect states that the file was returned The retest"
+  },
+  {
+    "start": 457.4688406655844,
+    "end": 461.0129564832438,
+    "text": "note identifies the fixed build and the observed denial"
+  },
+  {
+    "start": 461.8532836561427,
+    "end": 465.28779407934024,
+    "text": "Explain why a screenshot alone would be insufficient if"
+  },
+  {
+    "start": 465.2999769340573,
+    "end": 470.1106920865055,
+    "text": "it omitted the account context and build Useful documentation"
+  },
+  {
+    "start": 470.1228749412226,
+    "end": 473.8131061343111,
+    "text": "allows another person to reconstruct the decision without needing"
+  },
+  {
+    "start": 473.82528898902825,
+    "end": 476.96749578201974,
+    "text": "the original tester to explain every missing detail"
+  },
+  {
+    "start": 478.5357459572249,
+    "end": 481.89737933946276,
+    "text": "Review a bad test case click Download and verify"
+  },
+  {
+    "start": 481.90956298252485,
+    "end": 487.3719740316902,
+    "text": "the invoice is correct It leaves correctness undefined Improve"
+  },
+  {
+    "start": 487.3841568172927,
+    "end": 491.17205564684406,
+    "text": "it by naming the synthetic account billing period expected"
+  },
+  {
+    "start": 491.18423928990615,
+    "end": 495.99526574074076,
+    "text": "document identity and important fields Record which build and"
+  },
+  {
+    "start": 496.00744938380285,
+    "end": 500.12425512845596,
+    "text": "environment were used Now another tester can tell whether"
+  },
+  {
+    "start": 500.136402758216,
+    "end": 502.81596392149197,
+    "text": "the file belongs to the right account and period"
+  },
+  {
+    "start": 502.93779434989574,
+    "end": 505.7391147724309,
+    "text": "rather than simply confirming that a P D F"
+  },
+  {
+    "start": 505.75133357133546,
+    "end": 510.09954707550867,
+    "text": "opened Do not add irrelevant detail such as every"
+  },
+  {
+    "start": 510.1116947052687,
+    "end": 515.1297976428013,
+    "text": "pointer movement if it does not help reproducibility Precision"
+  },
+  {
+    "start": 515.1419812858634,
+    "end": 518.6497763693271,
+    "text": "should serve the risk and the reader A concise"
+  },
+  {
+    "start": 518.6619239990872,
+    "end": 521.7069052784299,
+    "text": "test with an observable expected result can be more"
+  },
+  {
+    "start": 521.71905290819,
+    "end": 525.0563567325248,
+    "text": "useful than pages of mechanical steps with an ambiguous"
+  },
+  {
+    "start": 525.0685043622849,
+    "end": 525.799309438576,
+    "text": "conclusion"
+  },
+  {
+    "start": 527.4023768613976,
+    "end": 532.6311975733105,
+    "text": "Documentation also needs maintenance when the product changes Suppose"
+  },
+  {
+    "start": 532.6433761348798,
+    "end": 536.1009973868844,
+    "text": "invoices become available on the first business day after"
+  },
+  {
+    "start": 536.1131750913518,
+    "end": 539.2664171572166,
+    "text": "a billing period instead of immediately at its end"
+  },
+  {
+    "start": 540.1186627648913,
+    "end": 545.4877276400344,
+    "text": "Update the acceptance examples automated expectations relevant support guidance"
+  },
+  {
+    "start": 545.4999053445017,
+    "end": 548.5800794693586,
+    "text": "and any checks that rely on the previous availability"
+  },
+  {
+    "start": 548.5922580309278,
+    "end": 552.037736719645,
+    "text": "rule Record the change where the team will look"
+  },
+  {
+    "start": 552.0499144241123,
+    "end": 556.3476018651203,
+    "text": "for current behavior An obsolete test can create noise"
+  },
+  {
+    "start": 556.4937026059565,
+    "end": 561.8749451855671,
+    "text": "while an obsolete customer-facing explanation can create confusion Assign"
+  },
+  {
+    "start": 561.8870877488546,
+    "end": 565.1255763172967,
+    "text": "ownership to the artifact that matters and remove redundant"
+  },
+  {
+    "start": 565.1377540217641,
+    "end": 569.2649853130011,
+    "text": "copies where possible Keeping a small set of documents"
+  },
+  {
+    "start": 569.2771638745705,
+    "end": 572.3573731406071,
+    "text": "current is usually more useful than creating a large"
+  },
+  {
+    "start": 572.3695517021764,
+    "end": 576.3263268436426,
+    "text": "collection whose readers cannot identify the authoritative version"
+  },
+  {
+    "start": 577.935656899811,
+    "end": 582.7962217036862,
+    "text": "Documentation should help teams understand and decide Knowledge check"
+  },
+  {
+    "start": 583.0273882620511,
+    "end": 587.4075600484405,
+    "text": "what details make a defect reproducible Subscribe to Tech"
+  },
+  {
+    "start": 587.4197310373346,
+    "end": 590.1208502776465,
+    "text": "at sixty for the next episode in this Agile"
+  },
+  {
+    "start": 590.1330204099717,
+    "end": 595.1823875827032,
+    "text": "Testing Masterclass Practice the example with synthetic data and"
+  },
+  {
+    "start": 595.1945585715973,
+    "end": 598.1146374054821,
+    "text": "share the most important risk you identified in the"
+  },
+  {
+    "start": 598.1268435137051,
+    "end": 598.7473558010397,
+    "text": "comments"
+  }
+]

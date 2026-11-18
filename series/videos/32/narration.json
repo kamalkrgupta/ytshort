@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Hover Effects. Let’s make it simple.",
+    "idea": "The hover selector styles an element while a pointer rests over it. Start by understanding the role it plays in a page.",
+    "code": "Combine a hover rule with a transition for a smooth change. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "Focus visible can provide a matching cue for keyboard users. Keep this detail in mind when writing your own example.",
+    "caution": "Hover is not reliable on touchscreens; keep essential actions accessible. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Add hover and keyboard focus styles to one button. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

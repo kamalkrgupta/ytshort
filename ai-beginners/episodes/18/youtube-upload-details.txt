@@ -1,0 +1,19 @@
+AI for Spreadsheets: Understand Formulas and Check Results | Ep 18
+
+AI for Spreadsheets: Understand Formulas and Check Results. Learn with a simple example and a beginner exercise.
+
+AI for Beginners — Episode 18 of 50
+
+What you will learn: Explain formulas and help analyze tabular data.
+Example: calculating monthly expenses with SUMIF.
+Try it: create a small budget and request a formula.
+Remember: validate formulas on sample rows.
+
+Follow the series in episode order and practice with sample data. Share your question or exercise result in the comments.
+Subscribe to @Techat60 for practical AI tutorials.
+
+#AIForBeginners #ArtificialIntelligence #LearnAI
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk
+
+Tags: ai with spreadsheets, AI for beginners, artificial intelligence tutorial, learn AI, AI tutorial English, Techat60

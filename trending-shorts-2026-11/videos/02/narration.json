@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "An A I chip is not a tiny person inside your laptop. It is hardware designed for particular calculations.",
+    "idea": "A C P U handles general computing. A G P U processes many operations in parallel.",
+    "demo": "An N P U specializes in neural network workloads, helping supported A I tasks run efficiently on a device.",
+    "compare": "These processors work together. An app may use one or several depending on the operation.",
+    "takeaway": "A bigger marketing number alone does not tell you the whole experience. Software support and memory matter too.",
+    "close": "Which chip does your app use? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

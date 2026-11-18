@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-30",
+  "checkedAt": "2026-10-30T17:39:23.218528+05:30",
+  "state": "repairing_or_needs_attention",
+  "timezone": "Asia/Kolkata",
+  "lookaheadDays": 3,
+  "checks": [
+    {
+      "course": "Shorts",
+      "episode": 22,
+      "publishAt": "2026-10-30T11:00:00+05:30",
+      "state": "ready",
+      "videoId": "XI8c12LzDI8",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 23,
+      "publishAt": "2026-10-30T16:00:00+05:30",
+      "state": "ready",
+      "videoId": "BeC8jK5dAHU",
+      "needsFollowup": false
+    },
+    {
+      "course": "Shorts",
+      "episode": 24,
+      "publishAt": "2026-10-31T11:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "Shorts",
+      "episode": 25,
+      "publishAt": "2026-10-31T16:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "Shorts",
+      "episode": 26,
+      "publishAt": "2026-11-01T11:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "Shorts",
+      "episode": 27,
+      "publishAt": "2026-11-01T16:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "Shorts",
+      "episode": 28,
+      "publishAt": "2026-11-02T11:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "Shorts",
+      "episode": 29,
+      "publishAt": "2026-11-02T16:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "AI",
+      "episode": 7,
+      "publishAt": "2026-10-30T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "GBCI10KLqWg",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 8,
+      "publishAt": "2026-10-30T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "ymDU3K5DOUo",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 9,
+      "publishAt": "2026-10-31T14:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "AI",
+      "episode": 10,
+      "publishAt": "2026-10-31T14:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "AI",
+      "episode": 11,
+      "publishAt": "2026-11-01T14:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "AI",
+      "episode": 12,
+      "publishAt": "2026-11-01T14:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "AI",
+      "episode": 13,
+      "publishAt": "2026-11-02T14:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    },
+    {
+      "course": "AI",
+      "episode": 14,
+      "publishAt": "2026-11-02T14:00:00+05:30",
+      "state": "missing_upload",
+      "needsFollowup": true
+    }
+  ],
+  "repairs": [],
+  "finishedAt": "2026-10-30T17:39:33.615080+05:30"
+}

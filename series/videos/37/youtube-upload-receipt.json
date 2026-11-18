@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "e87ac60dcc382b9462064984d3e909c21c5d459dfb7d61e040767eaf60cd5a28",
+  "title": "What Is JavaScript? | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T08:42:15Z",
+  "publishAt": "2026-11-06T10:30:00Z",
+  "videoId": "3c_WURbuFD0",
+  "url": "https://www.youtube.com/watch?v=3c_WURbuFD0",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-06T10:30:00Z"
+}

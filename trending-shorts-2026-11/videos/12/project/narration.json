@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "When you ask an A I a question, the answer does not always come from a distant server.",
+    "idea": "Local A I runs a downloaded model on your own phone or computer. Cloud A I processes requests remotely.",
+    "demo": "A local app might summarize a sample note without sending that note to a model server.",
+    "compare": "The tradeoff is hardware. Your memory and processor limit which models run comfortably.",
+    "takeaway": "Do not assume every feature stays offline. Check the app, downloads, and network settings.",
+    "close": "Which task would you keep local? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

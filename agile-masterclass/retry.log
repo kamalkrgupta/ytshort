@@ -1,0 +1,113 @@
+Retry is scheduled; no network or upload attempted before 2026-10-24T22:15:00+05:30
+Retry is scheduled; no network or upload attempted before 2026-10-24T22:15:00+05:30
+Retry is scheduled; no network or upload attempted before 2026-10-24T22:15:00+05:30
+Retry is scheduled; no network or upload attempted before 2026-10-24T22:15:00+05:30
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/11
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 9%
+Upload 13%
+Upload 17%
+Upload 22%
+Upload 26%
+Upload 30%
+Upload 35%
+Upload 39%
+Upload 43%
+Upload 47%
+Upload 52%
+Upload 56%
+Upload 60%
+Upload 65%
+Upload 69%
+Upload 73%
+Upload 78%
+Upload 82%
+Upload 86%
+Upload 91%
+Upload 95%
+Upload 99%
+Uploaded: https://www.youtube.com/watch?v=bQb0NnHMJt0
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "e2eb887c01c0d5d204371f5b0bbb089fbc7650a13556f99b0edcc725f779ce6a",
+  "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-24T16:45:07Z",
+  "publishAt": "2026-10-28T18:00:00+05:30",
+  "videoId": "bQb0NnHMJt0",
+  "url": "https://www.youtube.com/watch?v=bQb0NnHMJt0",
+  "actualVisibility": "private",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-28T12:30:00Z"
+}
+CONFIRMED E11: scheduled https://www.youtube.com/watch?v=bQb0NnHMJt0
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/12
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 8%
+Upload 13%
+Upload 17%
+Upload 21%
+Upload 25%
+Upload 30%
+Upload 34%
+Upload 38%
+Upload 42%
+Upload 46%
+Upload 51%
+Upload 55%
+Upload 59%
+Upload 63%
+Upload 68%
+Upload 72%
+Upload 76%
+Upload 80%
+Upload 84%
+Upload 89%
+Upload 93%
+Upload 97%
+Uploaded: https://www.youtube.com/watch?v=ETNKUsval9c
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "d76768afa5c435b4f7be517e5e60a5d8607f9c279056d1add3242c6ba0c48807",
+  "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-24T16:45:27Z",
+  "publishAt": "2026-10-28T18:00:00+05:30",
+  "videoId": "ETNKUsval9c",
+  "url": "https://www.youtube.com/watch?v=ETNKUsval9c",
+  "actualVisibility": "private",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-28T12:30:00Z"
+}
+CONFIRMED E12: scheduled https://www.youtube.com/watch?v=ETNKUsval9c
+YouTube is still processing 2 video(s).
+YouTube is still processing 2 video(s).
+YouTube is still processing 2 video(s).
+YouTube is still processing 2 video(s).
+YouTube is still processing 2 video(s).
+YouTube is still processing 2 video(s).
+YouTube is still processing 2 video(s).
+YouTube is still processing 1 video(s).
+YouTube is still processing 1 video(s).
+VERIFIED E01: published | Published 23 October 2026 | https://www.youtube.com/watch?v=reA35oDRHj8
+VERIFIED E02: published | Published 23 October 2026 | https://www.youtube.com/watch?v=aVPTY_zbmlU
+Traceback (most recent call last):
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/audit.py", line 55, in <module>
+    assert status['privacyStatus']=='private'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+CalledProcessError: retry stopped; inspect publishing receipts and retry.log

@@ -1,0 +1,44 @@
+Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3
+
+Learn role of a tester in agile with practical software testing examples, diagrams and a guided exercise.
+Agile Testing Masterclass — Episode 3 of 12 | English | 10-minute tutorial.
+
+In this lesson:
+• Introduction
+• Requirements refinement
+• Developer collaboration
+• Test execution
+• Communication
+• Technical skills
+• Effectiveness
+• Worked example
+
+CHAPTERS
+00:00 Introduction
+00:59 Requirements refinement
+01:58 Developer collaboration
+03:01 Test execution
+04:05 Communication
+05:05 Technical skills
+06:09 Effectiveness
+07:11 Worked example
+07:54 A closer look
+08:43 Verify the outcome
+09:30 Recap
+
+Practice: Could retrying debit the account twice?
+Examples use fictional applications and synthetic data.
+
+Subscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.
+
+References and further reading:
+https://agilemanifesto.org/
+https://scrumguides.org/scrum-guide.html
+https://kanbanguides.org/the-kanban-guide/2025.5/
+https://playwright.dev/docs/best-practices
+
+#AgileTesting #SoftwareTesting #QATutorial
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI
+
+Tags: agile testing, role of a tester in agile, software testing tutorial, agile testing for beginners, QA tutorial, manual testing, software quality assurance, Techat60, agile testing masterclass

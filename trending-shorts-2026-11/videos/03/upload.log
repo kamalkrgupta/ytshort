@@ -1,0 +1,26 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 26%
+Upload 52%
+Upload 78%
+Uploaded: https://www.youtube.com/watch?v=9_F2twaF3wU
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "9fd2ed18c9273939c02c9fbf2a2c6193cd5aaad4eaea40587cd2b44daa9a9b86",
+  "title": "Wi-Fi 7 Explained: Why Multiple Links Matter",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:48:29Z",
+  "publishAt": "2026-11-19T14:30:00+00:00",
+  "videoId": "9_F2twaF3wU",
+  "url": "https://www.youtube.com/watch?v=9_F2twaF3wU",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-19T14:30:00Z"
+}

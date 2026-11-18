@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "Responsive Web Design. Let’s make it simple.",
+    "idea": "Responsive design adapts a page to different screen sizes. Start by understanding the role it plays in a page.",
+    "code": "Use flexible layouts so content can rearrange as space changes.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Responsive images and a viewport declaration support mobile layouts. Keep this detail in mind when writing your own example.",
+    "caution": "Test real content at narrow widths instead of targeting only one device.",
+    "try": "Make a card layout that works on a phone and desktop. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

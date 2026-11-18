@@ -1,0 +1,502 @@
+[
+  {
+    "episode": 1,
+    "topic": "What Is Artificial Intelligence?",
+    "title": "What Is AI? A Simple Explanation with Everyday Examples | Ep 01",
+    "publishAt": "2026-10-27T14:00:00+05:30",
+    "plannedDate": "2026-10-27",
+    "status": "published",
+    "videoId": "z3Z_RcpRZrw",
+    "url": "https://www.youtube.com/watch?v=z3Z_RcpRZrw"
+  },
+  {
+    "episode": 2,
+    "topic": "AI in Everyday Life",
+    "title": "AI in Everyday Life: Features You Already Use | Ep 02",
+    "publishAt": "2026-10-27T14:00:00+05:30",
+    "plannedDate": "2026-10-27",
+    "status": "published",
+    "videoId": "upGQIZplJPs",
+    "url": "https://www.youtube.com/watch?v=upGQIZplJPs"
+  },
+  {
+    "episode": 3,
+    "topic": "AI vs Machine Learning vs Deep Learning",
+    "title": "AI vs Machine Learning vs Deep Learning: The Simple Difference | Ep 03",
+    "publishAt": "2026-10-28T14:00:00+05:30",
+    "plannedDate": "2026-10-28",
+    "status": "published",
+    "videoId": "Zvoo_4O7aRI",
+    "url": "https://www.youtube.com/watch?v=Zvoo_4O7aRI"
+  },
+  {
+    "episode": 4,
+    "topic": "How Generative AI Works",
+    "title": "How Generative AI Works: From Prompt to New Content | Ep 04",
+    "publishAt": "2026-10-28T14:00:00+05:30",
+    "plannedDate": "2026-10-28",
+    "status": "published",
+    "videoId": "zk1Z9Aieiys",
+    "url": "https://www.youtube.com/watch?v=zk1Z9Aieiys"
+  },
+  {
+    "episode": 5,
+    "topic": "AI Myths and Realities",
+    "title": "AI Myths and Realities: What Beginners Should Know | Ep 05",
+    "publishAt": "2026-10-29T14:00:00+05:30",
+    "plannedDate": "2026-10-29",
+    "status": "published",
+    "videoId": "QPEHgxu2Eto",
+    "url": "https://www.youtube.com/watch?v=QPEHgxu2Eto"
+  },
+  {
+    "episode": 6,
+    "topic": "Getting Started with ChatGPT",
+    "title": "ChatGPT for Beginners: Ask, Refine and Get Better Answers | Ep 06",
+    "publishAt": "2026-10-29T14:00:00+05:30",
+    "plannedDate": "2026-10-29",
+    "status": "published",
+    "videoId": "d9z6XbshUDw",
+    "url": "https://www.youtube.com/watch?v=d9z6XbshUDw"
+  },
+  {
+    "episode": 7,
+    "topic": "Writing Your First Great Prompt",
+    "title": "Write Better AI Prompts: Goal, Context, Audience and Format | Ep 07",
+    "publishAt": "2026-10-30T14:00:00+05:30",
+    "plannedDate": "2026-10-30",
+    "status": "published",
+    "videoId": "GBCI10KLqWg",
+    "url": "https://www.youtube.com/watch?v=GBCI10KLqWg"
+  },
+  {
+    "episode": 8,
+    "topic": "Prompt Engineering with Examples",
+    "title": "Prompt Engineering for Beginners: Show AI an Example | Ep 08",
+    "publishAt": "2026-10-30T14:00:00+05:30",
+    "plannedDate": "2026-10-30",
+    "status": "published",
+    "videoId": "ymDU3K5DOUo",
+    "url": "https://www.youtube.com/watch?v=ymDU3K5DOUo"
+  },
+  {
+    "episode": 9,
+    "topic": "Role and Context Prompting",
+    "title": "Role Prompting Explained: Give AI the Context It Needs | Ep 09",
+    "publishAt": "2026-10-31T14:00:00+05:30",
+    "plannedDate": "2026-10-31",
+    "status": "published",
+    "videoId": "B9SlsiY_zko",
+    "url": "https://www.youtube.com/watch?v=B9SlsiY_zko"
+  },
+  {
+    "episode": 10,
+    "topic": "Follow-up Prompts and Iteration",
+    "title": "Better AI Answers Start with Better Follow-Up Prompts | Ep 10",
+    "publishAt": "2026-10-31T14:00:00+05:30",
+    "plannedDate": "2026-10-31",
+    "status": "published",
+    "videoId": "-vsK2rmDkfU",
+    "url": "https://www.youtube.com/watch?v=-vsK2rmDkfU"
+  },
+  {
+    "episode": 11,
+    "topic": "Using ChatGPT for Research",
+    "title": "AI Research for Beginners: Find Sources and Verify Claims | Ep 11",
+    "publishAt": "2026-11-01T14:00:00+05:30",
+    "plannedDate": "2026-11-01",
+    "status": "published",
+    "videoId": "6RfLeN89OdU",
+    "url": "https://www.youtube.com/watch?v=6RfLeN89OdU"
+  },
+  {
+    "episode": 12,
+    "topic": "AI Hallucinations and Fact Checking",
+    "title": "AI Hallucinations: How to Spot and Check Confident Errors | Ep 12",
+    "publishAt": "2026-11-01T14:00:00+05:30",
+    "plannedDate": "2026-11-01",
+    "status": "published",
+    "videoId": "EmlbxCoB6t0",
+    "url": "https://www.youtube.com/watch?v=EmlbxCoB6t0"
+  },
+  {
+    "episode": 13,
+    "topic": "Advanced Prompt Templates for Beginners",
+    "title": "Reusable AI Prompt Templates: Stop Starting from Scratch | Ep 13",
+    "publishAt": "2026-11-02T14:00:00+05:30",
+    "plannedDate": "2026-11-02",
+    "status": "published",
+    "videoId": "k-IXYpwIKcM",
+    "url": "https://www.youtube.com/watch?v=k-IXYpwIKcM"
+  },
+  {
+    "episode": 14,
+    "topic": "AI for Email Writing",
+    "title": "Write Better Emails with AI: Clear Drafts in Simple Steps | Ep 14",
+    "publishAt": "2026-11-02T14:00:00+05:30",
+    "plannedDate": "2026-11-02",
+    "status": "published",
+    "videoId": "9c9pYDNIw4w",
+    "url": "https://www.youtube.com/watch?v=9c9pYDNIw4w"
+  },
+  {
+    "episode": 15,
+    "topic": "AI for Students",
+    "title": "AI for Students: Build a Tutor, Not an Answer Machine | Ep 15",
+    "publishAt": "2026-11-03T14:00:00+05:30",
+    "plannedDate": "2026-11-03",
+    "status": "published",
+    "videoId": "w8UG5dTFgHY",
+    "url": "https://www.youtube.com/watch?v=w8UG5dTFgHY"
+  },
+  {
+    "episode": 16,
+    "topic": "AI for Job Seekers",
+    "title": "AI for Job Seekers: Improve Your Resume and Interview Practice | Ep 16",
+    "publishAt": "2026-11-03T14:00:00+05:30",
+    "plannedDate": "2026-11-03",
+    "status": "published",
+    "videoId": "a6QvaG0hMg0",
+    "url": "https://www.youtube.com/watch?v=a6QvaG0hMg0"
+  },
+  {
+    "episode": 17,
+    "topic": "AI for Office Productivity",
+    "title": "AI at Work: Turn Meeting Notes into Clear Action Items | Ep 17",
+    "publishAt": "2026-11-04T14:00:00+05:30",
+    "plannedDate": "2026-11-04",
+    "status": "published",
+    "videoId": "yIR1wkNW6oQ",
+    "url": "https://www.youtube.com/watch?v=yIR1wkNW6oQ"
+  },
+  {
+    "episode": 18,
+    "topic": "AI with Spreadsheets",
+    "title": "AI for Spreadsheets: Understand Formulas and Check Results | Ep 18",
+    "publishAt": "2026-11-04T14:00:00+05:30",
+    "plannedDate": "2026-11-04",
+    "status": "published",
+    "videoId": "1nBnoc5tdqM",
+    "url": "https://www.youtube.com/watch?v=1nBnoc5tdqM"
+  },
+  {
+    "episode": 19,
+    "topic": "AI for Presentations",
+    "title": "AI Presentations: Turn One Idea into a Clear Slide Outline | Ep 19",
+    "publishAt": "2026-11-05T14:00:00+05:30",
+    "plannedDate": "2026-11-05",
+    "status": "scheduled",
+    "videoId": "VzWitlOEaZ0",
+    "url": "https://www.youtube.com/watch?v=VzWitlOEaZ0"
+  },
+  {
+    "episode": 20,
+    "topic": "AI for Time Management",
+    "title": "AI Time Management: Prioritize Tasks That Actually Matter | Ep 20",
+    "publishAt": "2026-11-05T14:00:00+05:30",
+    "plannedDate": "2026-11-05",
+    "status": "scheduled",
+    "videoId": "xM1t-tT5zY0",
+    "url": "https://www.youtube.com/watch?v=xM1t-tT5zY0"
+  },
+  {
+    "episode": 21,
+    "topic": "AI for Learning Languages",
+    "title": "Learn a Language with AI: Vocabulary and Conversation Practice | Ep 21",
+    "publishAt": "2026-11-06T14:00:00+05:30",
+    "plannedDate": "2026-11-06",
+    "status": "scheduled",
+    "videoId": "hPHKOypob18",
+    "url": "https://www.youtube.com/watch?v=hPHKOypob18"
+  },
+  {
+    "episode": 22,
+    "topic": "AI for Social Media Captions",
+    "title": "AI Social Media Captions: Write a Hook That Fits Your Audience | Ep 22",
+    "publishAt": "2026-11-06T14:00:00+05:30",
+    "plannedDate": "2026-11-06",
+    "status": "scheduled",
+    "videoId": "V8hRbZE7KDU",
+    "url": "https://www.youtube.com/watch?v=V8hRbZE7KDU"
+  },
+  {
+    "episode": 23,
+    "topic": "AI for YouTube Creators",
+    "title": "AI for YouTube Creators: Plan Titles, Scripts and Descriptions | Ep 23",
+    "publishAt": "2026-11-07T14:00:00+05:30",
+    "plannedDate": "2026-11-07",
+    "status": "scheduled",
+    "videoId": "5MiJQnO2NHI",
+    "url": "https://www.youtube.com/watch?v=5MiJQnO2NHI"
+  },
+  {
+    "episode": 24,
+    "topic": "Introduction to AI Image Generation",
+    "title": "AI Image Generation for Beginners: Your First Image Prompt | Ep 24",
+    "publishAt": "2026-11-07T14:00:00+05:30",
+    "plannedDate": "2026-11-07",
+    "status": "scheduled",
+    "videoId": "67LGri4ql4o",
+    "url": "https://www.youtube.com/watch?v=67LGri4ql4o"
+  },
+  {
+    "episode": 25,
+    "topic": "Better AI Image Prompts",
+    "title": "Better AI Image Prompts: Framing, Color and Aspect Ratio | Ep 25",
+    "publishAt": "2026-11-08T14:00:00+05:30",
+    "plannedDate": "2026-11-08",
+    "status": "scheduled",
+    "videoId": "sgVAvy3WLEo",
+    "url": "https://www.youtube.com/watch?v=sgVAvy3WLEo"
+  },
+  {
+    "episode": 26,
+    "topic": "AI Video Generation Basics",
+    "title": "AI Video Generation for Beginners: Plan Scenes and Camera Motion | Ep 26",
+    "publishAt": "2026-11-08T14:00:00+05:30",
+    "plannedDate": "2026-11-08",
+    "status": "scheduled",
+    "videoId": "4_Yu1Y5b5Os",
+    "url": "https://www.youtube.com/watch?v=4_Yu1Y5b5Os"
+  },
+  {
+    "episode": 27,
+    "topic": "AI Voiceovers and Text to Speech",
+    "title": "AI Voiceovers Explained: Prepare a Script for Text to Speech | Ep 27",
+    "publishAt": "2026-11-09T14:00:00+05:30",
+    "plannedDate": "2026-11-09",
+    "status": "published",
+    "videoId": "Jf6FjiiKUaU",
+    "url": "https://www.youtube.com/watch?v=Jf6FjiiKUaU"
+  },
+  {
+    "episode": 28,
+    "topic": "AI Music and Sound Effects",
+    "title": "AI Music and Sound Effects: Choose Audio That Fits Your Video | Ep 28",
+    "publishAt": "2026-11-09T14:00:00+05:30",
+    "plannedDate": "2026-11-09",
+    "status": "published",
+    "videoId": "te8aPsCX-NA",
+    "url": "https://www.youtube.com/watch?v=te8aPsCX-NA"
+  },
+  {
+    "episode": 29,
+    "topic": "AI Graphic Design Workflows",
+    "title": "AI Graphic Design: Turn a Rough Draft into a Clear Layout | Ep 29",
+    "publishAt": "2026-11-10T14:00:00+05:30",
+    "plannedDate": "2026-11-10",
+    "status": "scheduled",
+    "videoId": "-tLkerCNNbw",
+    "url": "https://www.youtube.com/watch?v=-tLkerCNNbw"
+  },
+  {
+    "episode": 30,
+    "topic": "AI Translation and Subtitles",
+    "title": "AI Translation and Subtitles: Check Meaning Before You Publish | Ep 30",
+    "publishAt": "2026-11-10T14:00:00+05:30",
+    "plannedDate": "2026-11-10",
+    "status": "scheduled",
+    "videoId": "RsKD5c7vbag",
+    "url": "https://www.youtube.com/watch?v=RsKD5c7vbag"
+  },
+  {
+    "episode": 31,
+    "topic": "How AI Search Is Different",
+    "title": "AI Search vs Traditional Search: Answers, Sources and Verification | Ep 31",
+    "publishAt": "2026-11-11T14:00:00+05:30",
+    "plannedDate": "2026-11-11",
+    "status": "scheduled",
+    "videoId": "vOGFMQIvMhg",
+    "url": "https://www.youtube.com/watch?v=vOGFMQIvMhg"
+  },
+  {
+    "episode": 32,
+    "topic": "AI Privacy and Personal Data",
+    "title": "AI Privacy: What to Check Before Sharing Personal Data | Ep 32",
+    "publishAt": "2026-11-11T14:00:00+05:30",
+    "plannedDate": "2026-11-11",
+    "status": "scheduled",
+    "videoId": "cUOu4YeaJNk",
+    "url": "https://www.youtube.com/watch?v=cUOu4YeaJNk"
+  },
+  {
+    "episode": 33,
+    "topic": "AI Copyright and Fair Use Basics",
+    "title": "AI Copyright Basics: Originality, Licensing and Attribution | Ep 33",
+    "publishAt": "2026-11-12T14:00:00+05:30",
+    "plannedDate": "2026-11-12",
+    "status": "scheduled",
+    "videoId": "1UbznXr-YkQ",
+    "url": "https://www.youtube.com/watch?v=1UbznXr-YkQ"
+  },
+  {
+    "episode": 34,
+    "topic": "Spotting AI Scams and Deepfakes",
+    "title": "AI Scams and Deepfakes: Warning Signs You Can Check | Ep 34",
+    "publishAt": "2026-11-12T14:00:00+05:30",
+    "plannedDate": "2026-11-12",
+    "status": "scheduled",
+    "videoId": "MEt8xAd042s",
+    "url": "https://www.youtube.com/watch?v=MEt8xAd042s"
+  },
+  {
+    "episode": 35,
+    "topic": "Responsible AI and Bias",
+    "title": "Responsible AI: Spot Bias and Missing Perspectives | Ep 35",
+    "publishAt": "2026-11-13T14:00:00+05:30",
+    "plannedDate": "2026-11-13",
+    "status": "scheduled",
+    "videoId": "72woOhZMsWM",
+    "url": "https://www.youtube.com/watch?v=72woOhZMsWM"
+  },
+  {
+    "episode": 36,
+    "topic": "No-Code AI Automation",
+    "title": "No-Code AI Automation: Connect a Trigger, Action and Human Check | Ep 36",
+    "publishAt": "2026-11-13T14:00:00+05:30",
+    "plannedDate": "2026-11-13",
+    "status": "scheduled",
+    "videoId": "9UUlB1US9Hg",
+    "url": "https://www.youtube.com/watch?v=9UUlB1US9Hg"
+  },
+  {
+    "episode": 37,
+    "topic": "Building an AI Workflow",
+    "title": "Build an AI Workflow: Inputs, Outputs and Review Steps | Ep 37",
+    "publishAt": "2026-11-14T14:00:00+05:30",
+    "plannedDate": "2026-11-14",
+    "status": "scheduled",
+    "videoId": "wuVRGnMScOw",
+    "url": "https://www.youtube.com/watch?v=wuVRGnMScOw"
+  },
+  {
+    "episode": 38,
+    "topic": "AI for Customer Support",
+    "title": "AI Customer Support: Better FAQ Answers and Human Handoffs | Ep 38",
+    "publishAt": "2026-11-14T14:00:00+05:30",
+    "plannedDate": "2026-11-14",
+    "status": "scheduled",
+    "videoId": "N8PoXt_1fPE",
+    "url": "https://www.youtube.com/watch?v=N8PoXt_1fPE"
+  },
+  {
+    "episode": 39,
+    "topic": "AI for Small Businesses",
+    "title": "AI for Small Business: Find Repetitive Tasks Worth Automating | Ep 39",
+    "publishAt": "2026-11-15T14:00:00+05:30",
+    "plannedDate": "2026-11-15",
+    "status": "scheduled",
+    "videoId": "nt95kmBsRq4",
+    "url": "https://www.youtube.com/watch?v=nt95kmBsRq4"
+  },
+  {
+    "episode": 40,
+    "topic": "AI Data Analysis Basics",
+    "title": "AI Data Analysis for Beginners: Ask Better Questions of Your Data | Ep 40",
+    "publishAt": "2026-11-15T14:00:00+05:30",
+    "plannedDate": "2026-11-15",
+    "status": "scheduled",
+    "videoId": "1F3vAegKmUI",
+    "url": "https://www.youtube.com/watch?v=1F3vAegKmUI"
+  },
+  {
+    "episode": 41,
+    "topic": "What Is an AI API?",
+    "title": "What Is an AI API? Requests and Responses Explained Simply | Ep 41",
+    "publishAt": "2026-11-16T14:00:00+05:30",
+    "plannedDate": "2026-11-16",
+    "status": "published",
+    "videoId": "DW8w75cuN7A",
+    "url": "https://www.youtube.com/watch?v=DW8w75cuN7A"
+  },
+  {
+    "episode": 42,
+    "topic": "AI and Python for Absolute Beginners",
+    "title": "AI and Python for Beginners: Variables, Strings and Functions | Ep 42",
+    "publishAt": "2026-11-16T14:00:00+05:30",
+    "plannedDate": "2026-11-16",
+    "status": "published",
+    "videoId": "bFd7LIUEI30",
+    "url": "https://www.youtube.com/watch?v=bFd7LIUEI30"
+  },
+  {
+    "episode": 43,
+    "topic": "Build a Simple FAQ Chatbot",
+    "title": "Build a Simple FAQ Chatbot: Questions, Answers and Limits | Ep 43",
+    "publishAt": "2026-11-17T14:00:00+05:30",
+    "plannedDate": "2026-11-17",
+    "status": "scheduled",
+    "videoId": "wMlOdJV4yDI",
+    "url": "https://www.youtube.com/watch?v=wMlOdJV4yDI"
+  },
+  {
+    "episode": 44,
+    "topic": "What Are AI Agents?",
+    "title": "What Are AI Agents? Planning, Tools and Human Oversight | Ep 44",
+    "publishAt": "2026-11-17T14:00:00+05:30",
+    "plannedDate": "2026-11-17",
+    "status": "scheduled",
+    "videoId": "JCva46HidWQ",
+    "url": "https://www.youtube.com/watch?v=JCva46HidWQ"
+  },
+  {
+    "episode": 45,
+    "topic": "Introduction to RAG",
+    "title": "RAG Explained for Beginners: Give AI Relevant Documents | Ep 45",
+    "publishAt": "2026-11-18T14:00:00+05:30",
+    "plannedDate": "2026-11-18",
+    "status": "scheduled",
+    "videoId": "mcH_IGUOPxw",
+    "url": "https://www.youtube.com/watch?v=mcH_IGUOPxw"
+  },
+  {
+    "episode": 46,
+    "topic": "AI for Coding Assistance",
+    "title": "AI Coding Help: Explain, Generate and Debug Small Programs | Ep 46",
+    "publishAt": "2026-11-18T14:00:00+05:30",
+    "plannedDate": "2026-11-18",
+    "status": "scheduled",
+    "videoId": "4pph6YBvXfw",
+    "url": "https://www.youtube.com/watch?v=4pph6YBvXfw"
+  },
+  {
+    "episode": 47,
+    "topic": "AI for Personal Projects",
+    "title": "Your First AI Project: Pick a Useful Goal and Keep It Small | Ep 47",
+    "publishAt": "2026-11-19T14:00:00+05:30",
+    "plannedDate": "2026-11-19",
+    "status": "scheduled",
+    "videoId": "Oi1DNS5lVC0",
+    "url": "https://www.youtube.com/watch?v=Oi1DNS5lVC0"
+  },
+  {
+    "episode": 48,
+    "topic": "Capstone: AI Study Assistant",
+    "title": "Build an AI Study Assistant: Prompts, Examples and Fact Checks | Ep 48",
+    "publishAt": "2026-11-19T14:00:00+05:30",
+    "plannedDate": "2026-11-19",
+    "status": "scheduled",
+    "videoId": "R-es_JUW730",
+    "url": "https://www.youtube.com/watch?v=R-es_JUW730"
+  },
+  {
+    "episode": 49,
+    "topic": "Capstone: AI Content Production",
+    "title": "AI Content Workflow: Take an Educational Video from Idea to Upload | Ep 49",
+    "publishAt": "2026-11-20T14:00:00+05:30",
+    "plannedDate": "2026-11-20",
+    "status": "scheduled",
+    "videoId": "W_1KFovAZ9s",
+    "url": "https://www.youtube.com/watch?v=W_1KFovAZ9s"
+  },
+  {
+    "episode": 50,
+    "topic": "Your Next 30 Days with AI",
+    "title": "Learn AI in 30 Days: A Practical Beginner Practice Plan | Ep 50",
+    "publishAt": "2026-11-20T14:00:00+05:30",
+    "plannedDate": "2026-11-20",
+    "status": "scheduled",
+    "videoId": "hyvLNnLsm1w",
+    "url": "https://www.youtube.com/watch?v=hyvLNnLsm1w"
+  }
+]

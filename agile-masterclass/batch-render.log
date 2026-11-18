@@ -1,0 +1,24 @@
+RENDERED E04
+Traceback (most recent call last):
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/render-batch.py", line 10, in <module>
+    failures=[]
+    
+  File "/Library/Frameworks/Python.framework/Versions/3.15/lib/python3.15/concurrent/futures/_base.py", line 672, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.15/lib/python3.15/concurrent/futures/_base.py", line 312, in _result_or_cancel
+    return fut.result(timeout)
+           ~~~~~~~~~~^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.15/lib/python3.15/concurrent/futures/_base.py", line 454, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.15/lib/python3.15/concurrent/futures/_base.py", line 396, in __get_result
+    raise self._exception
+  File "/Library/Frameworks/Python.framework/Versions/3.15/lib/python3.15/concurrent/futures/thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "/Library/Frameworks/Python.framework/Versions/3.15/lib/python3.15/concurrent/futures/thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/render-batch.py", line 7, in render
+    if result.returncode:raise RuntimeError(f'Episode {n} render failed; inspect render-{n:02d}.log')
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Episode 2 render failed; inspect render-02.log

@@ -1,0 +1,16 @@
+{
+  "videoNumber": 13,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "HTML Tables",
+  "description": "Organize information using rows and columns.",
+  "publishLocal": "2026-10-25T16:00:00+05:30",
+  "publishAt": "2026-10-25T10:30:00Z",
+  "status": "planned",
+  "definition": "Tables organize data into rows and columns.",
+  "code": "<table>\n <tr><th>Skill</th></tr>\n <tr><td>HTML</td></tr>\n</table>",
+  "preview": "<table border=\"1\" cellpadding=\"16\"><tr><th>Skill</th></tr><tr><td>HTML</td></tr></table>",
+  "rule": "T R defines a row, T H a header, and T D a cell.",
+  "tip": "A caption can describe what the table contains.",
+  "caution": "Use tables for data, rather than for arranging an entire page.",
+  "exercise": "Create a table showing two skills and their practice time."
+}

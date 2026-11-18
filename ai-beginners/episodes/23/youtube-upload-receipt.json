@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "dbdaad3d09b2b2a95a11090357ac6be91b504afac029fd500c150fd578f3de21",
+  "title": "AI for YouTube Creators: Plan Titles, Scripts and Descriptions | Ep 23",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T08:38:04Z",
+  "publishAt": "2026-11-07T14:00:00+05:30",
+  "videoId": "5MiJQnO2NHI",
+  "url": "https://www.youtube.com/watch?v=5MiJQnO2NHI",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-07T08:30:00Z"
+}

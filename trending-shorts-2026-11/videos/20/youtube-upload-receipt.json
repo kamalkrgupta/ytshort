@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "4bae815d8fc4bc71f5c7b96342286b3fb27ab7f5a9aa0b93a3cc419856741c91",
+  "title": "Digital Twins Explained: Test a Change Before Making It",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:59:15Z",
+  "publishAt": "2026-12-06T14:30:00+00:00",
+  "videoId": "Vodz47Dd5Ro",
+  "url": "https://www.youtube.com/watch?v=Vodz47Dd5Ro",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-12-06T14:30:00Z"
+}

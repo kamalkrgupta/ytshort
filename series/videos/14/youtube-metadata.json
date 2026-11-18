@@ -1,0 +1,14 @@
+{
+  "title": "HTML Forms for Beginners: Build Your First Form",
+  "description": "Learn how an HTML form groups input controls, and try a simple beginner form example.\n\nWhat would your first form collect: feedback or a sign-up?\n\nNext lesson: https://www.youtube.com/watch?v=MEEDwR24JOw\nFull beginner course: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU\n\nGive controls labels so people can understand what to enter.\nThe name attribute identifies a field when form data is submitted.\n\nTry it: Create a labeled email field and a submit button.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 14\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "TECH AT 60",
+    "coding shorts",
+    "html forms introduction",
+    "html tutorial",
+    "learn to code",
+    "web development for beginners"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-10-26T05:30:00Z"
+}

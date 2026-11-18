@@ -1,0 +1,213 @@
+{
+  "complete": true,
+  "verifiedAt": "2026-11-17T11:31:35.141989+05:30",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "scheduledCount": 20,
+  "allProcessingSucceeded": true,
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLcuUzq1UFe64",
+  "existingVideosPreserved": 114,
+  "videos": [
+    {
+      "number": 1,
+      "slug": "satellite",
+      "title": "Satellite Messaging: How a Phone Connects Beyond Cell Towers",
+      "publishLocal": "2026-11-17T20:00:00+05:30",
+      "publishAt": "2026-11-17T14:30:00+00:00",
+      "videoId": "LaHg-DLtkGk",
+      "url": "https://www.youtube.com/watch?v=LaHg-DLtkGk",
+      "source": "https://www.t-mobile.com/dialed-in/wireless/how-satellite-phone-service-works"
+    },
+    {
+      "number": 2,
+      "slug": "npu",
+      "title": "CPU vs GPU vs NPU: What Does an AI Chip Do?",
+      "publishLocal": "2026-11-18T20:00:00+05:30",
+      "publishAt": "2026-11-18T14:30:00+00:00",
+      "videoId": "Tk7OJdGctAw",
+      "url": "https://www.youtube.com/watch?v=Tk7OJdGctAw",
+      "source": "https://www.qualcomm.com/artificial-intelligence/what-is-ai-faq"
+    },
+    {
+      "number": 3,
+      "slug": "wifi7",
+      "title": "Wi-Fi 7 Explained: Why Multiple Links Matter",
+      "publishLocal": "2026-11-19T20:00:00+05:30",
+      "publishAt": "2026-11-19T14:30:00+00:00",
+      "videoId": "9_F2twaF3wU",
+      "url": "https://www.youtube.com/watch?v=9_F2twaF3wU",
+      "source": "https://www.intel.com/content/www/us/en/products/details/wireless/wi-fi-7-series.html"
+    },
+    {
+      "number": 4,
+      "slug": "webgpu",
+      "title": "WebGPU Explained: How AI Can Run Inside a Browser",
+      "publishLocal": "2026-11-20T20:00:00+05:30",
+      "publishAt": "2026-11-20T14:30:00+00:00",
+      "videoId": "OITndaBo7DA",
+      "url": "https://www.youtube.com/watch?v=OITndaBo7DA",
+      "source": "https://developer.chrome.com/blog/io24-webassembly-webgpu-1"
+    },
+    {
+      "number": 5,
+      "slug": "auracast",
+      "title": "Auracast Explained: One Audio Broadcast, Many Listeners",
+      "publishLocal": "2026-11-21T20:00:00+05:30",
+      "publishAt": "2026-11-21T14:30:00+00:00",
+      "videoId": "33CoAipp1IY",
+      "url": "https://www.youtube.com/watch?v=33CoAipp1IY",
+      "source": "https://www.bluetooth.com/auracast/faq/"
+    },
+    {
+      "number": 6,
+      "slug": "agents",
+      "title": "AI Agents vs Chatbots: What Actually Changes?",
+      "publishLocal": "2026-11-22T20:00:00+05:30",
+      "publishAt": "2026-11-22T14:30:00+00:00",
+      "videoId": "xSDwH6K06gs",
+      "url": "https://www.youtube.com/watch?v=xSDwH6K06gs",
+      "source": "https://www.anthropic.com/research/trustworthy-agents"
+    },
+    {
+      "number": 7,
+      "slug": "usb-c",
+      "title": "USB-C Explained: Same Plug, Different Capabilities",
+      "publishLocal": "2026-11-23T20:00:00+05:30",
+      "publishAt": "2026-11-23T14:30:00+00:00",
+      "videoId": "P16SZw6Mnos",
+      "url": "https://www.youtube.com/watch?v=P16SZw6Mnos",
+      "source": "https://www.usb.org/sites/default/files/usb_type-c_language_product_and_packaging_guidelines_20230320.pdf"
+    },
+    {
+      "number": 8,
+      "slug": "prompt-injection",
+      "title": "Prompt Injection: When a Webpage Tries to Boss an AI Around",
+      "publishLocal": "2026-11-24T20:00:00+05:30",
+      "publishAt": "2026-11-24T14:30:00+00:00",
+      "videoId": "iq6X3rK4MnQ",
+      "url": "https://www.youtube.com/watch?v=iq6X3rK4MnQ",
+      "source": "https://www.anthropic.com/research/prompt-injection-defenses"
+    },
+    {
+      "number": 9,
+      "slug": "watermarks",
+      "title": "AI Watermarks Explained: What They Can and Cannot Prove",
+      "publishLocal": "2026-11-25T20:00:00+05:30",
+      "publishAt": "2026-11-25T14:30:00+00:00",
+      "videoId": "KezWw164_cI",
+      "url": "https://www.youtube.com/watch?v=KezWw164_cI",
+      "source": "https://deepmind.google/models/synthid/"
+    },
+    {
+      "number": 10,
+      "slug": "semantic-search",
+      "title": "Semantic Search: Finding Meaning Instead of Exact Words",
+      "publishLocal": "2026-11-26T20:00:00+05:30",
+      "publishAt": "2026-11-26T14:30:00+00:00",
+      "videoId": "8L9U4DgDQNM",
+      "url": "https://www.youtube.com/watch?v=8L9U4DgDQNM",
+      "source": "https://developers.googleblog.com/en/embeddinggemma-2-the-developer-guide/"
+    },
+    {
+      "number": 11,
+      "slug": "small-models",
+      "title": "Small Language Models: Why Smaller Can Be Useful",
+      "publishLocal": "2026-11-27T20:00:00+05:30",
+      "publishAt": "2026-11-27T14:30:00+00:00",
+      "videoId": "cgF6ZsE0-TA",
+      "url": "https://www.youtube.com/watch?v=cgF6ZsE0-TA",
+      "source": "https://developers.googleblog.com/own-your-ai-fine-tune-gemma-3-270m-for-on-device/"
+    },
+    {
+      "number": 12,
+      "slug": "local-ai",
+      "title": "Local AI vs Cloud AI: Where Does Your Prompt Go?",
+      "publishLocal": "2026-11-28T20:00:00+05:30",
+      "publishAt": "2026-11-28T14:30:00+00:00",
+      "videoId": "ToFx7CqzB5M",
+      "url": "https://www.youtube.com/watch?v=ToFx7CqzB5M",
+      "source": "https://developers.googleblog.com/en/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4/"
+    },
+    {
+      "number": 13,
+      "slug": "matter",
+      "title": "Matter Explained: A Common Language for Smart Homes",
+      "publishLocal": "2026-11-29T20:00:00+05:30",
+      "publishAt": "2026-11-29T14:30:00+00:00",
+      "videoId": "G0-bd_osQYU",
+      "url": "https://www.youtube.com/watch?v=G0-bd_osQYU",
+      "source": "https://csa-iot.org/all-solutions/matter/matter-faq/"
+    },
+    {
+      "number": 14,
+      "slug": "passkeys",
+      "title": "Passkeys Explained: Sign In Without Typing a Password",
+      "publishLocal": "2026-11-30T20:00:00+05:30",
+      "publishAt": "2026-11-30T14:30:00+00:00",
+      "videoId": "Vb4NBi7S96U",
+      "url": "https://www.youtube.com/watch?v=Vb4NBi7S96U",
+      "source": "https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/"
+    },
+    {
+      "number": 15,
+      "slug": "post-quantum",
+      "title": "Post-Quantum Encryption: Why Prepare Before Quantum Computers?",
+      "publishLocal": "2026-12-01T20:00:00+05:30",
+      "publishAt": "2026-12-01T14:30:00+00:00",
+      "videoId": "GbqpbH7PS2U",
+      "url": "https://www.youtube.com/watch?v=GbqpbH7PS2U",
+      "source": "https://blog.cloudflare.com/post-quantum-geo-key-manager/"
+    },
+    {
+      "number": 16,
+      "slug": "vibe-coding",
+      "title": "Vibe Coding: The Part You Still Need to Check",
+      "publishLocal": "2026-12-02T20:00:00+05:30",
+      "publishAt": "2026-12-02T14:30:00+00:00",
+      "videoId": "PsnmvWSmTHc",
+      "url": "https://www.youtube.com/watch?v=PsnmvWSmTHc",
+      "source": "https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/"
+    },
+    {
+      "number": 17,
+      "slug": "smart-glasses",
+      "title": "AI Glasses vs AR Glasses: Do They All Have a Screen?",
+      "publishLocal": "2026-12-03T20:00:00+05:30",
+      "publishAt": "2026-12-03T14:30:00+00:00",
+      "videoId": "SaNjutTSq8A",
+      "url": "https://www.youtube.com/watch?v=SaNjutTSq8A",
+      "source": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/"
+    },
+    {
+      "number": 18,
+      "slug": "world-models",
+      "title": "AI World Models: Predicting What Happens Next",
+      "publishLocal": "2026-12-04T20:00:00+05:30",
+      "publishAt": "2026-12-04T14:30:00+00:00",
+      "videoId": "dmXC41kFCYs",
+      "url": "https://www.youtube.com/watch?v=dmXC41kFCYs",
+      "source": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+    },
+    {
+      "number": 19,
+      "slug": "mcp",
+      "title": "MCP Explained: How AI Apps Connect to Tools",
+      "publishLocal": "2026-12-05T20:00:00+05:30",
+      "publishAt": "2026-12-05T14:30:00+00:00",
+      "videoId": "2SR116GfQRM",
+      "url": "https://www.youtube.com/watch?v=2SR116GfQRM",
+      "source": "https://modelcontextprotocol.io/docs/getting-started/intro"
+    },
+    {
+      "number": 20,
+      "slug": "digital-twins",
+      "title": "Digital Twins Explained: Test a Change Before Making It",
+      "publishLocal": "2026-12-06T20:00:00+05:30",
+      "publishAt": "2026-12-06T14:30:00+00:00",
+      "videoId": "Vodz47Dd5Ro",
+      "url": "https://www.youtube.com/watch?v=Vodz47Dd5Ro",
+      "source": "https://www.nvidia.com/en-eu/glossary/digital-twin/"
+    }
+  ]
+}

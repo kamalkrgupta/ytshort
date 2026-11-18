@@ -1,0 +1,30 @@
+{
+  "leadIn": 0.25,
+  "clips": {
+    "chapter-01": {
+      "file": "chapter-01.wav",
+      "duration": 60.316667,
+      "source": "measured-edge-tts"
+    },
+    "chapter-02": {
+      "file": "chapter-02.wav",
+      "duration": 52.15,
+      "source": "measured-edge-tts"
+    },
+    "chapter-03": {
+      "file": "chapter-03.wav",
+      "duration": 59.583333,
+      "source": "measured-edge-tts"
+    },
+    "chapter-04": {
+      "file": "chapter-04.wav",
+      "duration": 59.283333,
+      "source": "measured-edge-tts"
+    },
+    "chapter-05": {
+      "file": "chapter-05.wav",
+      "duration": 65.416667,
+      "source": "measured-edge-tts"
+    }
+  }
+}

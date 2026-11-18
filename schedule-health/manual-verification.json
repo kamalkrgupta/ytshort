@@ -1,0 +1,50 @@
+{
+  "checkedAt": "2026-10-31T15:10:47.335634+05:30",
+  "courses": {
+    "Shorts": {
+      "published": 23,
+      "scheduled": 6,
+      "planned": 21
+    },
+    "AI": {
+      "published": 10,
+      "scheduled": 6,
+      "planned": 34
+    },
+    "Agile": {
+      "published": 12
+    }
+  },
+  "today": [
+    {
+      "course": "Shorts",
+      "episode": 24,
+      "expected": "2026-10-31T11:00:00+05:30",
+      "status": "published",
+      "url": "https://www.youtube.com/watch?v=PwX52X07J0k"
+    },
+    {
+      "course": "Shorts",
+      "episode": 25,
+      "expected": "2026-10-31T16:00:00+05:30",
+      "status": "scheduled",
+      "url": "https://www.youtube.com/watch?v=_k9pL5fcolg"
+    },
+    {
+      "course": "AI",
+      "episode": 9,
+      "expected": "2026-10-31T14:00:00+05:30",
+      "status": "published",
+      "url": "https://www.youtube.com/watch?v=B9SlsiY_zko"
+    },
+    {
+      "course": "AI",
+      "episode": 10,
+      "expected": "2026-10-31T14:00:00+05:30",
+      "status": "published",
+      "url": "https://www.youtube.com/watch?v=-vsK2rmDkfU"
+    }
+  ],
+  "readiness": "ready",
+  "checkedSlots": 15
+}

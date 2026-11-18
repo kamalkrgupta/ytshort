@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "These two cables have the same plug. That does not mean they do the same job.",
+    "idea": "U S B C describes a connector. Data speed, charging power, and display support are separate capabilities.",
+    "demo": "A cable with that connector might support basic data, while another supports much faster transfers.",
+    "compare": "The connection is limited by the combination of the port, cable, and device, not the plug shape alone.",
+    "takeaway": "Check the performance labels and specifications before expecting a cable to handle a display or fast transfer.",
+    "close": "Have identical plugs behaved differently? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

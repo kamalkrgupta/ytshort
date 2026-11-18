@@ -1,0 +1,9 @@
+services:
+  - type: cron
+    name: techat60-8am-readiness
+    runtime: docker
+    schedule: "30 2 * * *"
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: YOUTUBE_OAUTH_JSON
+        sync: false

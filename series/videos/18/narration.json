@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "Semantic H T M L. Let’s make it simple.",
+    "idea": "Semantic H T M L describes the purpose of your content. Start by understanding the role it plays in a page.",
+    "code": "Header, navigation, main, and footer give sections meaningful roles.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "These landmarks help assistive technology users navigate a page. Keep this detail in mind when writing your own example.",
+    "caution": "Choose elements by meaning, rather than their appearance.",
+    "try": "Replace generic page containers with suitable semantic elements. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "number": 19,
+  "slug": "mcp",
+  "title": "MCP Explained: How AI Apps Connect to Tools",
+  "category": "AI",
+  "source": "https://modelcontextprotocol.io/docs/getting-started/intro",
+  "headline": "How does an AI\nconnect to your tools?",
+  "meaning": "MCP standardizes connections to tools and data.",
+  "example": "An AI app can ask a connected service for information.",
+  "comparison": "A connection protocol is different from permission.",
+  "caution": "Review the server, data access and action permissions.",
+  "question": "Which tool would you connect first?",
+  "flow": [
+    "AI application",
+    "MCP connection",
+    "Tool or data"
+  ],
+  "left": [
+    "WITHOUT A STANDARD",
+    "Separate custom integrations"
+  ],
+  "right": [
+    "WITH MCP",
+    "A shared connection protocol"
+  ],
+  "lines": [
+    "An A I model and your calendar are different systems. How does an app connect the two?",
+    "The Model Context Protocol, or M C P, standardizes how A I applications connect to tools and data sources.",
+    "A connected service can expose useful information or actions in a structured way the application understands.",
+    "Think of a common connection language. It does not magically give a model access to everything.",
+    "Permissions, server trust, and what data gets shared still need careful setup.",
+    "Which tool would you connect first? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-12-04T20:00:00+05:30",
+  "publishAt": "2026-12-04T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#b7b4ff"
+}

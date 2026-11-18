@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "Your wireless connection can feel busy even when your internet plan looks fast. Wi-Fi seven adds another idea.",
+    "idea": "Multi-Link Operation allows compatible devices to use multiple wireless links instead of relying on just one.",
+    "demo": "Think of traffic moving through more than one lane, with the exact behavior depending on the hardware.",
+    "compare": "This can improve reliability and responsiveness. It does not automatically make your internet subscription faster.",
+    "takeaway": "Your router, device, surroundings, and local rules all affect which features you can actually use.",
+    "close": "Is your bottleneck Wi-Fi or internet? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

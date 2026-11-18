@@ -1,0 +1,612 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 4123750,
+    "text": "Let’s"
+  },
+  {
+    "offset": 5252500,
+    "duration": 3737080,
+    "text": "try"
+  },
+  {
+    "offset": 9118750,
+    "duration": 1675410,
+    "text": "it"
+  },
+  {
+    "offset": 10922500,
+    "duration": 1804160,
+    "text": "with"
+  },
+  {
+    "offset": 12855830,
+    "duration": 902080,
+    "text": "an"
+  },
+  {
+    "offset": 13886660,
+    "duration": 6958750,
+    "text": "example"
+  },
+  {
+    "offset": 29752500,
+    "duration": 3221660,
+    "text": "Our"
+  },
+  {
+    "offset": 33102910,
+    "duration": 6830000,
+    "text": "example"
+  },
+  {
+    "offset": 40061660,
+    "duration": 1675410,
+    "text": "is"
+  },
+  {
+    "offset": 41865830,
+    "duration": 2190830,
+    "text": "an"
+  },
+  {
+    "offset": 44185410,
+    "duration": 9149580,
+    "text": "AI-generated"
+  },
+  {
+    "offset": 53463750,
+    "duration": 5412500,
+    "text": "hiring"
+  },
+  {
+    "offset": 59005000,
+    "duration": 3350410,
+    "text": "job"
+  },
+  {
+    "offset": 62484580,
+    "duration": 7989580,
+    "text": "description"
+  },
+  {
+    "offset": 79495000,
+    "duration": 5025830,
+    "text": "Start"
+  },
+  {
+    "offset": 84649580,
+    "duration": 1804160,
+    "text": "by"
+  },
+  {
+    "offset": 86582500,
+    "duration": 4639160,
+    "text": "writing"
+  },
+  {
+    "offset": 91350410,
+    "duration": 2963750,
+    "text": "down"
+  },
+  {
+    "offset": 94443330,
+    "duration": 773330,
+    "text": "the"
+  },
+  {
+    "offset": 95345410,
+    "duration": 5154580,
+    "text": "desired"
+  },
+  {
+    "offset": 100628750,
+    "duration": 5412500,
+    "text": "result"
+  },
+  {
+    "offset": 106170000,
+    "duration": 2061660,
+    "text": "in"
+  },
+  {
+    "offset": 108360830,
+    "duration": 2577500,
+    "text": "one"
+  },
+  {
+    "offset": 111067080,
+    "duration": 6958750,
+    "text": "sentence"
+  },
+  {
+    "offset": 126917500,
+    "duration": 6056660,
+    "text": "Next"
+  },
+  {
+    "offset": 134520410,
+    "duration": 8634160,
+    "text": "identify"
+  },
+  {
+    "offset": 143283330,
+    "duration": 1546250,
+    "text": "the"
+  },
+  {
+    "offset": 144958750,
+    "duration": 4510410,
+    "text": "input"
+  },
+  {
+    "offset": 151788750,
+    "duration": 2963750,
+    "text": "what"
+  },
+  {
+    "offset": 154881250,
+    "duration": 1417500,
+    "text": "would"
+  },
+  {
+    "offset": 156427910,
+    "duration": 644160,
+    "text": "a"
+  },
+  {
+    "offset": 157200830,
+    "duration": 4767910,
+    "text": "person"
+  },
+  {
+    "offset": 162097910,
+    "duration": 2061660,
+    "text": "need"
+  },
+  {
+    "offset": 164288750,
+    "duration": 1160000,
+    "text": "to"
+  },
+  {
+    "offset": 165577500,
+    "duration": 2319580,
+    "text": "know"
+  },
+  {
+    "offset": 168025830,
+    "duration": 1288750,
+    "text": "to"
+  },
+  {
+    "offset": 169443330,
+    "duration": 1932910,
+    "text": "do"
+  },
+  {
+    "offset": 171505000,
+    "duration": 2577500,
+    "text": "this"
+  },
+  {
+    "offset": 174211250,
+    "duration": 3737080,
+    "text": "task"
+  },
+  {
+    "offset": 178077500,
+    "duration": 6830000,
+    "text": "correctly"
+  },
+  {
+    "offset": 193927910,
+    "duration": 3350410,
+    "text": "Then"
+  },
+  {
+    "offset": 197407080,
+    "duration": 3221660,
+    "text": "write"
+  },
+  {
+    "offset": 200757910,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "offset": 201402080,
+    "duration": 4381250,
+    "text": "simple"
+  },
+  {
+    "offset": 205912500,
+    "duration": 7216660,
+    "text": "instruction"
+  },
+  {
+    "offset": 213257910,
+    "duration": 1417500,
+    "text": "with"
+  },
+  {
+    "offset": 214804160,
+    "duration": 1932910,
+    "text": "that"
+  },
+  {
+    "offset": 216865830,
+    "duration": 6572080,
+    "text": "context"
+  },
+  {
+    "offset": 223567080,
+    "duration": 2190830,
+    "text": "and"
+  },
+  {
+    "offset": 225886660,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "offset": 226402080,
+    "duration": 3608330,
+    "text": "clear"
+  },
+  {
+    "offset": 230139160,
+    "duration": 6443330,
+    "text": "format"
+  },
+  {
+    "offset": 245602910,
+    "duration": 2577500,
+    "text": "On"
+  },
+  {
+    "offset": 248309160,
+    "duration": 5670000,
+    "text": "screen"
+  },
+  {
+    "offset": 255397080,
+    "duration": 2448330,
+    "text": "I"
+  },
+  {
+    "offset": 257974160,
+    "duration": 1030830,
+    "text": "am"
+  },
+  {
+    "offset": 259134160,
+    "duration": 4381250,
+    "text": "showing"
+  },
+  {
+    "offset": 263644160,
+    "duration": 644160,
+    "text": "a"
+  },
+  {
+    "offset": 264417500,
+    "duration": 5283330,
+    "text": "sample"
+  },
+  {
+    "offset": 269830000,
+    "duration": 6185410,
+    "text": "request"
+  },
+  {
+    "offset": 277819580,
+    "duration": 5283330,
+    "text": "followed"
+  },
+  {
+    "offset": 283232080,
+    "duration": 2319580,
+    "text": "by"
+  },
+  {
+    "offset": 285680410,
+    "duration": 773330,
+    "text": "a"
+  },
+  {
+    "offset": 286582500,
+    "duration": 6185410,
+    "text": "possible"
+  },
+  {
+    "offset": 292897080,
+    "duration": 5541250,
+    "text": "output"
+  },
+  {
+    "offset": 307330000,
+    "duration": 5541250,
+    "text": "Notice"
+  },
+  {
+    "offset": 313000000,
+    "duration": 2061660,
+    "text": "that"
+  },
+  {
+    "offset": 315190830,
+    "duration": 2061660,
+    "text": "we’re"
+  },
+  {
+    "offset": 317381250,
+    "duration": 2706250,
+    "text": "not"
+  },
+  {
+    "offset": 320216660,
+    "duration": 4381250,
+    "text": "judging"
+  },
+  {
+    "offset": 324726660,
+    "duration": 773330,
+    "text": "the"
+  },
+  {
+    "offset": 325628750,
+    "duration": 5025830,
+    "text": "result"
+  },
+  {
+    "offset": 330783330,
+    "duration": 2319580,
+    "text": "by"
+  },
+  {
+    "offset": 333232080,
+    "duration": 2963750,
+    "text": "how"
+  },
+  {
+    "offset": 336324580,
+    "duration": 5283330,
+    "text": "impressive"
+  },
+  {
+    "offset": 341737080,
+    "duration": 1288750,
+    "text": "it"
+  },
+  {
+    "offset": 343154580,
+    "duration": 5799160,
+    "text": "sounds"
+  },
+  {
+    "offset": 357845410,
+    "duration": 3350410,
+    "text": "We’re"
+  },
+  {
+    "offset": 361324580,
+    "duration": 4639160,
+    "text": "checking"
+  },
+  {
+    "offset": 366092910,
+    "duration": 4123750,
+    "text": "whether"
+  },
+  {
+    "offset": 370345410,
+    "duration": 2061660,
+    "text": "it"
+  },
+  {
+    "offset": 372536250,
+    "duration": 5025830,
+    "text": "actually"
+  },
+  {
+    "offset": 377690830,
+    "duration": 3608330,
+    "text": "meets"
+  },
+  {
+    "offset": 381427910,
+    "duration": 1160000,
+    "text": "the"
+  },
+  {
+    "offset": 382716660,
+    "duration": 5412500,
+    "text": "task"
+  },
+  {
+    "offset": 397020410,
+    "duration": 2190830,
+    "text": "If"
+  },
+  {
+    "offset": 399340000,
+    "duration": 1417500,
+    "text": "the"
+  },
+  {
+    "offset": 400886660,
+    "duration": 4639160,
+    "text": "output"
+  },
+  {
+    "offset": 405654580,
+    "duration": 1804160,
+    "text": "is"
+  },
+  {
+    "offset": 407587500,
+    "duration": 2577500,
+    "text": "too"
+  },
+  {
+    "offset": 410293750,
+    "duration": 4639160,
+    "text": "broad"
+  },
+  {
+    "offset": 416221660,
+    "duration": 3995000,
+    "text": "ask"
+  },
+  {
+    "offset": 420345410,
+    "duration": 1932910,
+    "text": "for"
+  },
+  {
+    "offset": 422407080,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "offset": 423051660,
+    "duration": 3350410,
+    "text": "more"
+  },
+  {
+    "offset": 426530830,
+    "duration": 5799160,
+    "text": "specific"
+  },
+  {
+    "offset": 432458750,
+    "duration": 5283330,
+    "text": "version"
+  },
+  {
+    "offset": 446634160,
+    "duration": 2577500,
+    "text": "If"
+  },
+  {
+    "offset": 449340000,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "offset": 449984580,
+    "duration": 4381250,
+    "text": "fact"
+  },
+  {
+    "offset": 454495000,
+    "duration": 6185410,
+    "text": "matters"
+  },
+  {
+    "offset": 461840000,
+    "duration": 6314580,
+    "text": "verify"
+  },
+  {
+    "offset": 468283330,
+    "duration": 1160000,
+    "text": "it"
+  },
+  {
+    "offset": 469572080,
+    "duration": 2706250,
+    "text": "from"
+  },
+  {
+    "offset": 472407080,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "offset": 472922500,
+    "duration": 5541250,
+    "text": "reliable"
+  },
+  {
+    "offset": 478592910,
+    "duration": 5025830,
+    "text": "source"
+  },
+  {
+    "offset": 492510410,
+    "duration": 3479580,
+    "text": "Pause"
+  },
+  {
+    "offset": 496118330,
+    "duration": 1030830,
+    "text": "the"
+  },
+  {
+    "offset": 497278330,
+    "duration": 3608330,
+    "text": "video"
+  },
+  {
+    "offset": 501015410,
+    "duration": 3608330,
+    "text": "here"
+  },
+  {
+    "offset": 504752500,
+    "duration": 1546250,
+    "text": "if"
+  },
+  {
+    "offset": 506427910,
+    "duration": 1932910,
+    "text": "you’d"
+  },
+  {
+    "offset": 508489580,
+    "duration": 2706250,
+    "text": "like"
+  },
+  {
+    "offset": 511324580,
+    "duration": 1160000,
+    "text": "to"
+  },
+  {
+    "offset": 512613330,
+    "duration": 3737080,
+    "text": "copy"
+  },
+  {
+    "offset": 516479160,
+    "duration": 1030830,
+    "text": "the"
+  },
+  {
+    "offset": 517639160,
+    "duration": 6056660,
+    "text": "structure"
+  },
+  {
+    "offset": 523824580,
+    "duration": 2448330,
+    "text": "into"
+  },
+  {
+    "offset": 526402080,
+    "duration": 2319580,
+    "text": "your"
+  },
+  {
+    "offset": 528850410,
+    "duration": 2190830,
+    "text": "own"
+  },
+  {
+    "offset": 531170000,
+    "duration": 5025830,
+    "text": "notes"
+  }
+]

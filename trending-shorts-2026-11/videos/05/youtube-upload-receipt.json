@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "01ed0de9f13efd090c76ef0a31b1141cd1b0f8ac2209e7dcd89a34fa1054b14d",
+  "title": "Auracast Explained: One Audio Broadcast, Many Listeners",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:49:45Z",
+  "publishAt": "2026-11-21T14:30:00+00:00",
+  "videoId": "33CoAipp1IY",
+  "url": "https://www.youtube.com/watch?v=33CoAipp1IY",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-21T14:30:00Z"
+}

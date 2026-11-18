@@ -1,0 +1,20 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "80bf91a71b5b4dd0171d9f303dcc81c06c734961fdce7689d5088007af1a33e4",
+  "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:45:49Z",
+  "publishAt": "2026-10-25T18:00:00+05:30",
+  "videoId": "Ng8wTrGTul4",
+  "url": "https://www.youtube.com/watch?v=Ng8wTrGTul4",
+  "actualVisibility": "public",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null,
+  "remoteAuditedAt": "2026-10-23T15:56:57.582092+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "videoNumber": 40,
+  "phase": "Phase 4 — JavaScript for Beginners",
+  "topic": "JavaScript Operators",
+  "description": "Perform basic calculations and comparisons.",
+  "publishLocal": "2026-11-08T11:00:00+05:30",
+  "publishAt": "2026-11-08T05:30:00Z",
+  "status": "planned",
+  "definition": "Operators perform actions such as arithmetic and comparisons.",
+  "code": "const total = 5 + 3;\nconst equal = 5 === 5;\nconst larger = 8 > 3;",
+  "preview": "<h2>5 + 3 = 8</h2><p>5 === 5 → true</p><p>8 > 3 → true</p>",
+  "rule": "Plus can add numbers, and comparison operators return boolean results.",
+  "tip": "Strict equality compares values without converting their types.",
+  "caution": "Plus can also join strings, so check the types of your inputs.",
+  "exercise": "Calculate a total and compare it with a target value."
+}

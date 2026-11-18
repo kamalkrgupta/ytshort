@@ -1,0 +1,139 @@
+{
+  "episode": 12,
+  "topic": "End-to-End Agile Testing Case Study",
+  "visual": {
+    "headline": "AGILE TESTING\nFULL PROJECT EXAMPLE",
+    "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+    "example": "Booking platform",
+    "steps": [
+      "Authentication",
+      "Booking",
+      "Payments & monitoring"
+    ],
+    "checks": [
+      "No duplicate accounts",
+      "No double booking",
+      "No duplicate payment"
+    ],
+    "result": "Connect risk, evidence & release decisions",
+    "question": "What evidence supports your release decision?"
+  },
+  "chapters": [
+    {
+      "title": "Introduction",
+      "text": "We conclude with a fictional subscription appointment-booking platform containing a customer website, mobile app, admin dashboard and backend A P I services. Our fictional platform lets customers register, find appointments, reserve a slot, pay and receive confirmation. Staff use an administrative dashboard, while a mobile app and website share backend services. A customer sees one journey, but the system contains several boundaries where information can be delayed or misunderstood. We will build a connected testing plan across three illustrative sprints. The schedule is a teaching example, not a requirement that real teams deliver these exact features in separate sprints. Focus on how each increment adds evidence and how earlier checks continue protecting behavior as the product grows.",
+      "direction": "System architecture overview.",
+      "id": "chapter-01",
+      "start": 0,
+      "duration": 55.2,
+      "speechDuration": 54.55,
+      "speed": 1.1892208982584784
+    },
+    {
+      "title": "Requirements",
+      "text": "The backlog includes registration, appointment discovery, booking, payments and notifications. Refinement uncovers risks involving duplicate bookings, payment failures, cancellations and authorization. Refine the journey before implementation. A reservation must belong to the requesting customer, a slot must not be confirmed for two people and a payment outcome must update the booking consistently. Ask when temporary holds expire, how cancellation affects availability and what happens if a notification arrives late. Identify dependencies among identity, availability and payment services. Translate the highest risks into examples that product, development and testing participants can understand. This prevents the team from treating five attractive screens as five independent features when their correctness actually depends on shared state and coordinated outcomes.",
+      "direction": "Product backlog and dependency map.",
+      "id": "chapter-02",
+      "start": 55.2,
+      "duration": 60.866667,
+      "speechDuration": 60.216667,
+      "speed": 1.189703847218378
+    },
+    {
+      "title": "Sprint 1: Authentication",
+      "text": "Developers implement registration and login. Tests cover valid and invalid input, duplicate accounts, password recovery and sessions. Concurrent registration exposes a race condition; the team fixes and retests it. In the first sprint, test registration and login with synthetic accounts. Check valid input, rejected input, duplicate addresses, recovery and session behavior. Now send two registration requests for the same address close together. A defect could allow duplicate accounts if the implementation checks availability and creates the record as separate unprotected steps. Record the observed outcome, discuss a safe implementation and retest the fix. Add an appropriate regression check. The important lesson is not a particular database command; it is that a realistic concurrency question can expose a defect that sequential happy-path checks miss.",
+      "direction": "Registration API test and defect resolution.",
+      "id": "chapter-03",
+      "start": 116.066667,
+      "duration": 62.233333,
+      "speechDuration": 61.583333,
+      "speed": 1.1894127198917457
+    },
+    {
+      "title": "Sprint 2: Booking",
+      "text": "Tests cover available slots, unavailable slots, simultaneous booking and cancellation. Integration tests protect against double booking. Exploratory testing identifies confusing messages and prompts an improvement. In the booking increment, create one isolated appointment slot and two customers. Send competing reservation attempts. Under the agreed rule, exactly one should succeed and the stored booking must match the winning customer. Check the response for the unsuccessful customer and confirm that it offers an understandable next step. Cancel the successful reservation if the policy permits it, then verify whether availability returns as agreed. Also explore stale screens: a customer may select a slot that someone else reserved moments earlier. The interface and the backend must work together to handle that change safely.",
+      "direction": "Two customers competing for one slot.",
+      "id": "chapter-04",
+      "start": 178.3,
+      "duration": 59.366667,
+      "speechDuration": 58.716667,
+      "speed": 1.189440817485098
+    },
+    {
+      "title": "Sprint 3: Payments",
+      "text": "Using a payment sandbox, test success, failure, cancellation, delayed confirmation and duplicate callbacks. A network timeout reveals incorrect payment-state handling. The team adds safe recovery and repeat-notification checks. For payments, stay in the provider's sandbox. Test success, decline, user cancellation, delayed confirmation and a repeated callback. Suppose the provider accepted payment but the platform lost the response. A retry should not create a second charge or second booking. Define the recovery policy and examine how unique request identifiers and payment-state transitions support it. Verify records as well as the displayed message. A page saying Payment failed while the provider recorded success is a serious inconsistency. Capture the evidence and add focused checks for the failure mode rather than relying only on the standard successful purchase journey.",
+      "direction": "Payment state diagram and test results.",
+      "id": "chapter-05",
+      "start": 237.666667,
+      "duration": 64.2,
+      "speechDuration": 63.55,
+      "speed": 1.1892368214004718
+    },
+    {
+      "title": "Regression and nonfunctional quality",
+      "text": "Run regression checks across authentication, booking and payments. Evaluate performance under concurrent searches, authorization controls, accessibility and resilience. Document remaining risks. As new increments arrive, rerun relevant checks across identity, booking and payment. A permission change in the dashboard could affect existing customer access. A payment-state fix could accidentally prevent cancellation. Add nonfunctional questions where the risks justify them: concurrent search traffic, keyboard accessibility, account isolation and recovery after a dependency failure. Use realistic synthetic data and record the tested conditions. No single green pipeline proves complete readiness. Combine automated results with exploratory findings, unresolved defects and operational evidence to explain what is known and what uncertainty remains.",
+      "direction": "CI results and load-testing dashboard.",
+      "id": "chapter-06",
+      "start": 301.866667,
+      "duration": 61.4,
+      "speechDuration": 60.75,
+      "speed": 1.1895308641975308
+    },
+    {
+      "title": "Release and monitoring",
+      "text": "Review Definition of Done, outstanding defects, deployment and rollback plans. After release, monitor logs, failures and service health. Treat production feedback as another input to the quality cycle. Before release, inspect the shared quality conditions, open risks, deployment steps and recovery plan. Make sure relevant evidence belongs to the intended release candidate. If a serious unresolved payment issue remains, either resolve it or make an explicit scope and release decision with the responsible stakeholders. After deployment, monitor error signals, transaction consistency and customer feedback using appropriate access controls. A successful deployment command is not the end of quality work. Production observations can reveal conditions that the test environment did not reproduce, and those observations should inform both fixes and future checks.",
+      "direction": "Release readiness checklist and monitoring.",
+      "id": "chapter-07",
+      "start": 363.266667,
+      "duration": 61.3,
+      "speechDuration": 60.65,
+      "speed": 1.1895136026380875
+    },
+    {
+      "title": "Worked example",
+      "text": "Your final exercise is to present a release recommendation for this platform. Name the three highest risks, give one piece of evidence for each and identify any remaining uncertainty. A strong response connects duplicate-registration checks, competing-booking results and payment-recovery verification to specific builds and conditions. It also explains how the team will detect problems after release. Look back at the whole course: principles guided priorities, methods shaped examples, artifacts preserved evidence, tools accelerated feedback and collaboration connected the work. You now have a practical way to discuss Agile Testing as part of delivering a product, from the first question through production learning.",
+      "direction": "Booking platform",
+      "id": "chapter-08",
+      "start": 424.566667,
+      "duration": 48.3,
+      "speechDuration": 47.65,
+      "speed": 1.189171038824764
+    },
+    {
+      "title": "A closer look",
+      "text": "Trace one defect across the entire case study. A repeated payment notification creates two booking confirmations. Start by reproducing the sequence with synthetic data in the sandbox. Link the failure to the rule that one successful payment should confirm one reservation. Investigate how event identifiers and state transitions are handled. After the fix, repeat the original sequence, test a delayed notification and verify that a distinct legitimate payment still works. Retain the build and results. This evidence chain connects discovery, implementation and verification, giving the release discussion more substance than the statement that the ticket is now closed.",
+      "direction": "Booking platform",
+      "id": "chapter-09",
+      "start": 472.866667,
+      "duration": 46.9,
+      "speechDuration": 46.25,
+      "speed": 1.1893621621621622
+    },
+    {
+      "title": "Verify the outcome",
+      "text": "Finally, prepare a post-release learning loop. Identify which signals would reveal duplicate confirmations, unusual payment failures or growing booking errors. Agree who reviews those signals and how a new issue enters the team's work. Use operational data with the access and privacy controls appropriate to the product. When an incident occurs, examine the contributing conditions and improve both the product and the relevant checks. Production monitoring does not replace pre-release testing, and testing does not eliminate the need to observe a live service. Together they provide feedback across the product's life and help the team adapt when real usage reveals a new risk.",
+      "direction": "Booking platform",
+      "id": "chapter-10",
+      "start": 519.766667,
+      "duration": 46.1,
+      "speechDuration": 45.45,
+      "speed": 1.1897029702970296
+    },
+    {
+      "title": "Course conclusion",
+      "text": "Agile Testing begins with clear requirements and continues through development, integration, exploration, automation and production. Quality is shared across the team. Congratulations on completing the masterclass. Thank you for completing the Agile Testing Masterclass with Tech at sixty. Keep your examples and evidence, apply the approach to a small feature, and share your most useful takeaway in the comments. Subscribe for more practical software testing tutorials.",
+      "direction": "Course completion slide and final takeaways.",
+      "id": "chapter-11",
+      "start": 565.866667,
+      "duration": 34.133333,
+      "speechDuration": 33.483333,
+      "speed": 1.1905624688899952
+    }
+  ],
+  "publishAt": "2026-10-28T18:00:00+05:30",
+  "plannedDate": "2026-10-28",
+  "status": "prepared",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-12%",
+  "duration": 600
+}

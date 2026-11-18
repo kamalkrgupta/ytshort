@@ -1,0 +1,702 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 9943330,
+    "text": "Understanding"
+  },
+  {
+    "offset": 11085410,
+    "duration": 2556660,
+    "text": "S"
+  },
+  {
+    "offset": 13784160,
+    "duration": 3267080,
+    "text": "Q"
+  },
+  {
+    "offset": 17193330,
+    "duration": 3551250,
+    "text": "L"
+  },
+  {
+    "offset": 22164580,
+    "duration": 1562500,
+    "text": "A"
+  },
+  {
+    "offset": 23869160,
+    "duration": 2414580,
+    "text": "P"
+  },
+  {
+    "offset": 26426250,
+    "duration": 1846660,
+    "text": "I"
+  },
+  {
+    "offset": 28414580,
+    "duration": 8096660,
+    "text": "services"
+  },
+  {
+    "offset": 38215830,
+    "duration": 5539580,
+    "text": "version"
+  },
+  {
+    "offset": 43897910,
+    "duration": 7244160,
+    "text": "control"
+  },
+  {
+    "offset": 52704580,
+    "duration": 6392080,
+    "text": "browser"
+  },
+  {
+    "offset": 59238750,
+    "duration": 8096660,
+    "text": "automation"
+  },
+  {
+    "offset": 67477080,
+    "duration": 2840830,
+    "text": "and"
+  },
+  {
+    "offset": 70460410,
+    "duration": 6534160,
+    "text": "continuous"
+  },
+  {
+    "offset": 77136250,
+    "duration": 8522910,
+    "text": "integration"
+  },
+  {
+    "offset": 85801250,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 88215830,
+    "duration": 5255830,
+    "text": "delivery"
+  },
+  {
+    "offset": 93613750,
+    "duration": 4119160,
+    "text": "helps"
+  },
+  {
+    "offset": 97875000,
+    "duration": 6107910,
+    "text": "testers"
+  },
+  {
+    "offset": 104125000,
+    "duration": 6250000,
+    "text": "verify"
+  },
+  {
+    "offset": 110517080,
+    "duration": 6960410,
+    "text": "behavior"
+  },
+  {
+    "offset": 117619160,
+    "duration": 10369160,
+    "text": "independently"
+  },
+  {
+    "offset": 138000000,
+    "duration": 7102080,
+    "text": "Postman"
+  },
+  {
+    "offset": 145244160,
+    "duration": 2130830,
+    "text": "can"
+  },
+  {
+    "offset": 147517080,
+    "duration": 5255830,
+    "text": "inspect"
+  },
+  {
+    "offset": 152914580,
+    "duration": 9232910,
+    "text": "responses"
+  },
+  {
+    "offset": 163994160,
+    "duration": 3125000,
+    "text": "S"
+  },
+  {
+    "offset": 167261250,
+    "duration": 3409160,
+    "text": "Q"
+  },
+  {
+    "offset": 170812500,
+    "duration": 2698750,
+    "text": "L"
+  },
+  {
+    "offset": 173653330,
+    "duration": 1988750,
+    "text": "can"
+  },
+  {
+    "offset": 175784160,
+    "duration": 3125000,
+    "text": "check"
+  },
+  {
+    "offset": 179051250,
+    "duration": 6676250,
+    "text": "persisted"
+  },
+  {
+    "offset": 185869160,
+    "duration": 6392080,
+    "text": "records"
+  },
+  {
+    "offset": 194960410,
+    "duration": 2982910,
+    "text": "and"
+  },
+  {
+    "offset": 198085410,
+    "duration": 5681660,
+    "text": "Playwright"
+  },
+  {
+    "offset": 203909160,
+    "duration": 2272910,
+    "text": "can"
+  },
+  {
+    "offset": 206323750,
+    "duration": 5965830,
+    "text": "automate"
+  },
+  {
+    "offset": 212431660,
+    "duration": 6392080,
+    "text": "critical"
+  },
+  {
+    "offset": 218965830,
+    "duration": 2556660,
+    "text": "web"
+  },
+  {
+    "offset": 221664580,
+    "duration": 7244160,
+    "text": "journeys"
+  },
+  {
+    "offset": 238852080,
+    "duration": 4687500,
+    "text": "Not"
+  },
+  {
+    "offset": 243681660,
+    "duration": 3835410,
+    "text": "every"
+  },
+  {
+    "offset": 247659160,
+    "duration": 5113750,
+    "text": "tester"
+  },
+  {
+    "offset": 252914580,
+    "duration": 3551250,
+    "text": "needs"
+  },
+  {
+    "offset": 256607910,
+    "duration": 1278330,
+    "text": "to"
+  },
+  {
+    "offset": 258028330,
+    "duration": 9375000,
+    "text": "specialize"
+  },
+  {
+    "offset": 267545410,
+    "duration": 1846660,
+    "text": "in"
+  },
+  {
+    "offset": 269534160,
+    "duration": 4261250,
+    "text": "every"
+  },
+  {
+    "offset": 273937500,
+    "duration": 4687500,
+    "text": "tool"
+  },
+  {
+    "offset": 288426250,
+    "duration": 6392080,
+    "text": "Technical"
+  },
+  {
+    "offset": 294960410,
+    "duration": 4971660,
+    "text": "knowledge"
+  },
+  {
+    "offset": 300073750,
+    "duration": 3693330,
+    "text": "makes"
+  },
+  {
+    "offset": 303909160,
+    "duration": 10795410,
+    "text": "investigation"
+  },
+  {
+    "offset": 314846660,
+    "duration": 3693330,
+    "text": "more"
+  },
+  {
+    "offset": 318681660,
+    "duration": 9375000,
+    "text": "independent"
+  },
+  {
+    "offset": 337857910,
+    "duration": 3551250,
+    "text": "S"
+  },
+  {
+    "offset": 341551250,
+    "duration": 3409160,
+    "text": "Q"
+  },
+  {
+    "offset": 345102500,
+    "duration": 2272910,
+    "text": "L"
+  },
+  {
+    "offset": 347517080,
+    "duration": 1846660,
+    "text": "can"
+  },
+  {
+    "offset": 349505830,
+    "duration": 3693330,
+    "text": "help"
+  },
+  {
+    "offset": 353340830,
+    "duration": 5397910,
+    "text": "compare"
+  },
+  {
+    "offset": 358880830,
+    "duration": 426250,
+    "text": "a"
+  },
+  {
+    "offset": 359448750,
+    "duration": 8948750,
+    "text": "transaction"
+  },
+  {
+    "offset": 368540000,
+    "duration": 5113750,
+    "text": "record"
+  },
+  {
+    "offset": 373795410,
+    "duration": 1420410,
+    "text": "with"
+  },
+  {
+    "offset": 375357910,
+    "duration": 852080,
+    "text": "the"
+  },
+  {
+    "offset": 376352500,
+    "duration": 5965830,
+    "text": "displayed"
+  },
+  {
+    "offset": 382460410,
+    "duration": 6250000,
+    "text": "balance"
+  },
+  {
+    "offset": 390698750,
+    "duration": 6676250,
+    "text": "provided"
+  },
+  {
+    "offset": 397517080,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 398795410,
+    "duration": 5681660,
+    "text": "tester"
+  },
+  {
+    "offset": 404619160,
+    "duration": 2130830,
+    "text": "has"
+  },
+  {
+    "offset": 406892080,
+    "duration": 7670410,
+    "text": "appropriate"
+  },
+  {
+    "offset": 414704580,
+    "duration": 6392080,
+    "text": "access"
+  },
+  {
+    "offset": 421238750,
+    "duration": 2414580,
+    "text": "and"
+  },
+  {
+    "offset": 423795410,
+    "duration": 7528330,
+    "text": "understands"
+  },
+  {
+    "offset": 431465830,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 432886250,
+    "duration": 6392080,
+    "text": "schema"
+  },
+  {
+    "offset": 449079580,
+    "duration": 6250000,
+    "text": "Browser"
+  },
+  {
+    "offset": 455471660,
+    "duration": 7244160,
+    "text": "developer"
+  },
+  {
+    "offset": 462857910,
+    "duration": 3835410,
+    "text": "tools"
+  },
+  {
+    "offset": 466835410,
+    "duration": 1988750,
+    "text": "can"
+  },
+  {
+    "offset": 468965830,
+    "duration": 4119160,
+    "text": "reveal"
+  },
+  {
+    "offset": 473227500,
+    "duration": 7812500,
+    "text": "requests"
+  },
+  {
+    "offset": 481181660,
+    "duration": 2414580,
+    "text": "and"
+  },
+  {
+    "offset": 483738750,
+    "duration": 9801250,
+    "text": "responses"
+  },
+  {
+    "offset": 503340830,
+    "duration": 6534160,
+    "text": "Version"
+  },
+  {
+    "offset": 510017080,
+    "duration": 5965830,
+    "text": "control"
+  },
+  {
+    "offset": 516125000,
+    "duration": 4403330,
+    "text": "helps"
+  },
+  {
+    "offset": 520670410,
+    "duration": 4403330,
+    "text": "connect"
+  },
+  {
+    "offset": 525215830,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 526068330,
+    "duration": 6676250,
+    "text": "failure"
+  },
+  {
+    "offset": 532886250,
+    "duration": 2130830,
+    "text": "with"
+  },
+  {
+    "offset": 535159160,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 535869160,
+    "duration": 3409160,
+    "text": "code"
+  },
+  {
+    "offset": 539420410,
+    "duration": 6107910,
+    "text": "change"
+  },
+  {
+    "offset": 555329580,
+    "duration": 8380830,
+    "text": "Automation"
+  },
+  {
+    "offset": 563852500,
+    "duration": 2130830,
+    "text": "can"
+  },
+  {
+    "offset": 566125000,
+    "duration": 5113750,
+    "text": "repeat"
+  },
+  {
+    "offset": 571380830,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 572232910,
+    "duration": 6107910,
+    "text": "reliable"
+  },
+  {
+    "offset": 578482910,
+    "duration": 6534160,
+    "text": "transfer"
+  },
+  {
+    "offset": 585159160,
+    "duration": 3409160,
+    "text": "check"
+  },
+  {
+    "offset": 588710410,
+    "duration": 5397910,
+    "text": "across"
+  },
+  {
+    "offset": 594250000,
+    "duration": 5539580,
+    "text": "builds"
+  },
+  {
+    "offset": 609590830,
+    "duration": 3835410,
+    "text": "But"
+  },
+  {
+    "offset": 613568330,
+    "duration": 3125000,
+    "text": "each"
+  },
+  {
+    "offset": 616835410,
+    "duration": 2982910,
+    "text": "tool"
+  },
+  {
+    "offset": 619960410,
+    "duration": 7244160,
+    "text": "answers"
+  },
+  {
+    "offset": 627346660,
+    "duration": 3693330,
+    "text": "only"
+  },
+  {
+    "offset": 631181660,
+    "duration": 3835410,
+    "text": "part"
+  },
+  {
+    "offset": 635159160,
+    "duration": 1136250,
+    "text": "of"
+  },
+  {
+    "offset": 636437500,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 637715830,
+    "duration": 6676250,
+    "text": "question"
+  },
+  {
+    "offset": 654619160,
+    "duration": 1846660,
+    "text": "A"
+  },
+  {
+    "offset": 656607910,
+    "duration": 4261250,
+    "text": "query"
+  },
+  {
+    "offset": 661011250,
+    "duration": 5539580,
+    "text": "against"
+  },
+  {
+    "offset": 666693330,
+    "duration": 3267080,
+    "text": "one"
+  },
+  {
+    "offset": 670102500,
+    "duration": 3977080,
+    "text": "table"
+  },
+  {
+    "offset": 674221660,
+    "duration": 4403330,
+    "text": "cannot"
+  },
+  {
+    "offset": 678767080,
+    "duration": 4403330,
+    "text": "prove"
+  },
+  {
+    "offset": 683312500,
+    "duration": 2414580,
+    "text": "that"
+  },
+  {
+    "offset": 685869160,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 687005830,
+    "duration": 6107910,
+    "text": "complete"
+  },
+  {
+    "offset": 693255830,
+    "duration": 6107910,
+    "text": "customer"
+  },
+  {
+    "offset": 699505830,
+    "duration": 4829580,
+    "text": "journey"
+  },
+  {
+    "offset": 704477500,
+    "duration": 2130830,
+    "text": "is"
+  },
+  {
+    "offset": 706750000,
+    "duration": 5681660,
+    "text": "correct"
+  },
+  {
+    "offset": 714278330,
+    "duration": 4687500,
+    "text": "just"
+  },
+  {
+    "offset": 719107910,
+    "duration": 1704580,
+    "text": "as"
+  },
+  {
+    "offset": 720954580,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 721806660,
+    "duration": 8096660,
+    "text": "successful"
+  },
+  {
+    "offset": 730045410,
+    "duration": 2982910,
+    "text": "click"
+  },
+  {
+    "offset": 733170410,
+    "duration": 4545410,
+    "text": "cannot"
+  },
+  {
+    "offset": 737857910,
+    "duration": 4403330,
+    "text": "prove"
+  },
+  {
+    "offset": 742403330,
+    "duration": 2556660,
+    "text": "that"
+  },
+  {
+    "offset": 745102500,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 746238750,
+    "duration": 5539580,
+    "text": "ledger"
+  },
+  {
+    "offset": 751920410,
+    "duration": 1704580,
+    "text": "is"
+  },
+  {
+    "offset": 753767080,
+    "duration": 9801250,
+    "text": "consistent"
+  }
+]

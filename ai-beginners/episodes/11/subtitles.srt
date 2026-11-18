@@ -1,0 +1,267 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,504
+Welcome to episode 11 of AI for Beginners Today
+
+4
+00:00:12,761 --> 00:00:16,949
+we’re looking at using chatgpt for research By the
+
+5
+00:00:16,962 --> 00:00:21,047
+end you’ll understand one practical idea watch a realistic
+
+6
+00:00:21,060 --> 00:00:25,893
+example and try a small exercise yourself You don’t
+
+7
+00:00:25,906 --> 00:00:30,635
+need a technical background or expensive software Bring your
+
+8
+00:00:30,648 --> 00:00:36,370
+curiosity We’ll work through it together Here’s the example
+
+9
+00:00:36,382 --> 00:00:40,223
+we’ll use researching solar panels for a school project
+
+10
+00:00:41,112 --> 00:00:44,488
+We’ll use that situation to make the topic concrete
+
+11
+00:00:45,390 --> 00:00:48,367
+Watch how we break the task into small steps
+
+12
+00:00:48,483 --> 00:00:51,241
+because the same thinking will help you use many
+
+13
+00:00:51,254 --> 00:00:53,960
+different AI tools later in this course
+
+14
+00:01:00,050 --> 00:01:04,588
+Let’s start with the main idea build research questions
+
+15
+00:01:04,716 --> 00:01:09,897
+request sources and verify independently Think of AI as
+
+16
+00:01:09,910 --> 00:01:13,093
+a tool that processes information and returns an output
+
+17
+00:01:13,106 --> 00:01:17,552
+based on its training instructions and any relevant information
+
+18
+00:01:17,564 --> 00:01:21,237
+it can access It can save time on drafts
+
+19
+00:01:21,250 --> 00:01:24,833
+and patterns but it doesn’t automatically know what’s correct
+
+20
+00:01:24,845 --> 00:01:28,647
+for your situation The most useful habit is to
+
+21
+00:01:28,660 --> 00:01:32,577
+define what you want before touching the tool Ask
+
+22
+00:01:32,590 --> 00:01:36,688
+yourself three questions what’s my goal what information does
+
+23
+00:01:36,701 --> 00:01:38,866
+the tool need and how will I check the
+
+24
+00:01:38,879 --> 00:01:43,325
+result Those questions work whether you’re writing a prompt
+
+25
+00:01:43,492 --> 00:01:46,920
+building a workflow or reviewing a generated answer
+
+26
+00:01:53,017 --> 00:01:57,103
+Let’s try it with an example Our example is
+
+27
+00:01:57,116 --> 00:02:01,614
+researching solar panels for a school project Start by
+
+28
+00:02:01,626 --> 00:02:06,266
+writing down the desired result in one sentence Next
+
+29
+00:02:06,420 --> 00:02:09,513
+identify the input what would a person need to
+
+30
+00:02:09,526 --> 00:02:13,096
+know to do this task correctly Then write a
+
+31
+00:02:13,108 --> 00:02:16,626
+simple instruction with that context and a clear format
+
+32
+00:02:17,528 --> 00:02:21,278
+On screen I am showing a sample request followed
+
+33
+00:02:21,291 --> 00:02:25,428
+by a possible output Notice that we’re not judging
+
+34
+00:02:25,441 --> 00:02:29,565
+the result by how impressive it sounds We’re checking
+
+35
+00:02:29,577 --> 00:02:33,521
+whether it actually meets the task If the output
+
+36
+00:02:33,534 --> 00:02:36,742
+is too broad ask for a more specific version
+
+37
+00:02:37,632 --> 00:02:40,815
+If a fact matters verify it from a reliable
+
+38
+00:02:40,827 --> 00:02:44,217
+source Pause the video here if you’d like to
+
+39
+00:02:44,230 --> 00:02:46,588
+copy the structure into your own notes
+
+40
+00:02:52,683 --> 00:02:57,788
+Your turn Try this exercise create a research checklist
+
+41
+00:02:57,801 --> 00:03:01,873
+and verify one claim Begin with a very small
+
+42
+00:03:01,886 --> 00:03:07,260
+example not a complex project Give yourself thirty seconds
+
+43
+00:03:07,272 --> 00:03:11,319
+to decide what success would look like Then complete
+
+44
+00:03:11,332 --> 00:03:15,713
+the task once and inspect the result What’s useful
+
+45
+00:03:16,589 --> 00:03:22,066
+What’s missing What would you change Make one improvement
+
+46
+00:03:22,079 --> 00:03:26,422
+and compare the first and second versions This simple
+
+47
+00:03:26,435 --> 00:03:30,649
+before-and-after comparison teaches you more than copying a complicated
+
+48
+00:03:30,662 --> 00:03:34,386
+prompt from the internet If your chosen tool is
+
+49
+00:03:34,399 --> 00:03:38,548
+unavailable do the exercise on paper sketch the input
+
+50
+00:03:38,690 --> 00:03:42,608
+the steps and the output The objective is to
+
+51
+00:03:42,620 --> 00:03:46,074
+practice the underlying thinking not to depend on one
+
+52
+00:03:46,087 --> 00:03:47,092
+particular app
+
+53
+00:03:53,217 --> 00:03:57,392
+Before we finish remember this important limitation a model
+
+54
+00:03:57,405 --> 00:04:03,012
+may invent citations or rely on outdated information Responsible
+
+55
+00:04:03,025 --> 00:04:06,182
+AI use means understanding the strengths of the tool
+
+56
+00:04:06,195 --> 00:04:10,808
+and keeping yourself accountable for the final result Today
+
+57
+00:04:10,821 --> 00:04:14,442
+you learned that build research questions request sources and
+
+58
+00:04:14,455 --> 00:04:18,966
+verify independently saw the example of researching solar panels
+
+59
+00:04:18,978 --> 00:04:22,406
+for a school project and practiced a small hands-on
+
+60
+00:04:22,419 --> 00:04:26,826
+task Here’s your challenge repeat the exercise with a
+
+61
+00:04:26,839 --> 00:04:30,164
+different topic and write down one thing that improved
+
+62
+00:04:31,092 --> 00:04:34,198
+In the comments share the part you found easiest
+
+63
+00:04:34,210 --> 00:04:37,767
+or the question you still have If this helped
+
+64
+00:04:37,896 --> 00:04:42,174
+share it with someone learning AI And subscribe to
+
+65
+00:04:42,187 --> 00:04:46,105
+Tech at sixty for the next lesson We’re building
+
+66
+00:04:46,118 --> 00:04:49,520
+practical AI skills one simple step at a time
+
+67
+00:04:50,409 --> 00:04:54,262
+Thanks for watching See you in the next lesson

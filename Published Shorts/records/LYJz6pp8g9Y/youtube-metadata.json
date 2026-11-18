@@ -1,0 +1,14 @@
+{
+  "title": "HTML Checkboxes & Radio Buttons | Web Development in 60 Seconds",
+  "description": "Checkboxes allow independent choices; radio buttons select within a group. Learn html checkboxes & radio buttons with a quick example for beginners.\n\nUse the same name for radio buttons that belong to one group.\nCheckboxes are useful when several options may be selected together.\n\nTry it: Create two skill checkboxes and a radio group for experience level.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 16\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+  "tags": [
+    "html checkboxes & radio buttons",
+    "web development for beginners",
+    "learn to code",
+    "coding shorts",
+    "html tutorial",
+    "TECH AT 60"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-10-27T05:30:00Z"
+}

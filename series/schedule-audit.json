@@ -1,0 +1,463 @@
+{
+  "checkedAt": "2026-10-23T16:02:59.910430+00:00",
+  "channelVideoCount": 19,
+  "configuredTimes": {
+    "times": [
+      "11:00",
+      "16:00"
+    ],
+    "timezone": "Asia/Kolkata",
+    "videosPerDay": 2,
+    "startDate": "2026-10-20"
+  },
+  "shortsQueue": [
+    {
+      "number": 2,
+      "topic": "What Are HTML Tags?",
+      "planned": "2026-10-20T11:00:00+05:30",
+      "localStatus": "scheduled",
+      "videoId": "GjtwEy6C0BY",
+      "visibility": "public",
+      "actualScheduledAt": null,
+      "publishedAt": "2026-10-20T05:30:05Z",
+      "duration": "PT1M1S",
+      "uploadStatus": "processed"
+    },
+    {
+      "number": 3,
+      "topic": "HTML Headings Explained",
+      "planned": "2026-10-20T16:00:00+05:30",
+      "localStatus": "scheduled",
+      "videoId": "iJj3UEqr3mM",
+      "visibility": "public",
+      "actualScheduledAt": null,
+      "publishedAt": "2026-10-20T10:30:18Z",
+      "duration": "PT1M1S",
+      "uploadStatus": "processed"
+    },
+    {
+      "number": 4,
+      "topic": "HTML Paragraphs",
+      "planned": "2026-10-21T11:00:00+05:30",
+      "localStatus": "scheduled",
+      "videoId": "XpPqAg6oUPQ",
+      "visibility": "public",
+      "actualScheduledAt": null,
+      "publishedAt": "2026-10-21T05:30:06Z",
+      "duration": "PT1M1S",
+      "uploadStatus": "processed"
+    },
+    {
+      "number": 5,
+      "topic": "How to Add Links in HTML",
+      "planned": "2026-10-21T16:00:00+05:30",
+      "localStatus": "scheduled",
+      "videoId": "NwK_T8Qxams",
+      "visibility": "public",
+      "actualScheduledAt": null,
+      "publishedAt": "2026-10-21T10:30:22Z",
+      "duration": "PT1M1S",
+      "uploadStatus": "processed"
+    },
+    {
+      "number": 6,
+      "topic": "How to Add Images in HTML",
+      "planned": "2026-10-22T11:00:00+05:30",
+      "localStatus": "scheduled",
+      "videoId": "UdFrS1p0n2Q",
+      "visibility": "public",
+      "actualScheduledAt": null,
+      "publishedAt": "2026-10-22T05:30:19Z",
+      "duration": "PT1M1S",
+      "uploadStatus": "processed"
+    },
+    {
+      "number": 7,
+      "topic": "HTML Lists Explained",
+      "planned": "2026-10-22T16:00:00+05:30",
+      "localStatus": "scheduled",
+      "videoId": "ZCMbUuFgbHw",
+      "visibility": "public",
+      "actualScheduledAt": null,
+      "publishedAt": "2026-10-22T10:30:07Z",
+      "duration": "PT1M1S",
+      "uploadStatus": "processed"
+    },
+    {
+      "number": 8,
+      "topic": "HTML Buttons",
+      "planned": "2026-10-23T11:00:00+05:30",
+      "localStatus": "scheduled",
+      "videoId": "emkJjvrZTeE",
+      "visibility": "public",
+      "actualScheduledAt": null,
+      "publishedAt": "2026-10-23T05:30:28Z",
+      "duration": "PT1M1S",
+      "uploadStatus": "processed"
+    },
+    {
+      "number": 9,
+      "topic": "HTML Attributes",
+      "planned": "2026-10-23T16:00:00+05:30",
+      "localStatus": "scheduled",
+      "videoId": "5gQr8gC3yno",
+      "visibility": "public",
+      "actualScheduledAt": null,
+      "publishedAt": "2026-10-23T10:30:31Z",
+      "duration": "PT1M1S",
+      "uploadStatus": "processed"
+    },
+    {
+      "number": 10,
+      "topic": "HTML Div vs Span",
+      "planned": "2026-10-24T11:00:00+05:30",
+      "localStatus": "needs_attention",
+      "videoId": null
+    },
+    {
+      "number": 11,
+      "topic": "HTML Comments",
+      "planned": "2026-10-24T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 12,
+      "topic": "HTML Line Breaks",
+      "planned": "2026-10-25T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 13,
+      "topic": "HTML Tables",
+      "planned": "2026-10-25T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 14,
+      "topic": "HTML Forms Introduction",
+      "planned": "2026-10-26T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 15,
+      "topic": "HTML Input Types",
+      "planned": "2026-10-26T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 16,
+      "topic": "HTML Checkboxes & Radio Buttons",
+      "planned": "2026-10-27T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 17,
+      "topic": "HTML Dropdown Menus",
+      "planned": "2026-10-27T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 18,
+      "topic": "Semantic HTML",
+      "planned": "2026-10-28T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 19,
+      "topic": "HTML Audio & Video",
+      "planned": "2026-10-28T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 20,
+      "topic": "HTML Meta Tags",
+      "planned": "2026-10-29T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 21,
+      "topic": "What Is CSS?",
+      "planned": "2026-10-29T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 22,
+      "topic": "Three Ways to Add CSS",
+      "planned": "2026-10-30T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 23,
+      "topic": "CSS Colors Explained",
+      "planned": "2026-10-30T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 24,
+      "topic": "CSS Fonts and Text Styling",
+      "planned": "2026-10-31T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 25,
+      "topic": "CSS Backgrounds",
+      "planned": "2026-10-31T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 26,
+      "topic": "CSS Box Model",
+      "planned": "2026-11-01T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 27,
+      "topic": "CSS Classes vs IDs",
+      "planned": "2026-11-01T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 28,
+      "topic": "CSS Display Property",
+      "planned": "2026-11-02T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 29,
+      "topic": "CSS Flexbox in 60 Seconds",
+      "planned": "2026-11-02T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 30,
+      "topic": "CSS Grid Explained",
+      "planned": "2026-11-03T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 31,
+      "topic": "CSS Position Property",
+      "planned": "2026-11-03T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 32,
+      "topic": "CSS Hover Effects",
+      "planned": "2026-11-04T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 33,
+      "topic": "CSS Borders and Shadows",
+      "planned": "2026-11-04T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 34,
+      "topic": "Responsive Web Design",
+      "planned": "2026-11-05T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 35,
+      "topic": "CSS Media Queries",
+      "planned": "2026-11-05T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 36,
+      "topic": "CSS Animations",
+      "planned": "2026-11-06T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 37,
+      "topic": "What Is JavaScript?",
+      "planned": "2026-11-06T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 38,
+      "topic": "JavaScript Variables",
+      "planned": "2026-11-07T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 39,
+      "topic": "JavaScript Data Types",
+      "planned": "2026-11-07T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 40,
+      "topic": "JavaScript Operators",
+      "planned": "2026-11-08T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 41,
+      "topic": "JavaScript Functions",
+      "planned": "2026-11-08T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 42,
+      "topic": "JavaScript If-Else",
+      "planned": "2026-11-09T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 43,
+      "topic": "JavaScript Loops",
+      "planned": "2026-11-09T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 44,
+      "topic": "JavaScript Arrays",
+      "planned": "2026-11-10T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 45,
+      "topic": "JavaScript Objects",
+      "planned": "2026-11-10T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 46,
+      "topic": "JavaScript DOM Manipulation",
+      "planned": "2026-11-11T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 47,
+      "topic": "Build a Personal Profile Card",
+      "planned": "2026-11-11T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 48,
+      "topic": "Build a Responsive Navigation Bar",
+      "planned": "2026-11-12T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 49,
+      "topic": "Build a JavaScript Counter",
+      "planned": "2026-11-12T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 50,
+      "topic": "Build a Simple To-Do List",
+      "planned": "2026-11-13T11:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    },
+    {
+      "number": 51,
+      "topic": "Publish Your First Website for Free",
+      "planned": "2026-11-13T16:00:00+05:30",
+      "localStatus": "planned",
+      "videoId": null
+    }
+  ],
+  "channelUpcoming": [
+    {
+      "videoId": "X0hokSm8f2U",
+      "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+      "duration": "PT10M1S",
+      "seconds": 601.0,
+      "publishLocal": "2026-10-27T18:00:00+05:30"
+    },
+    {
+      "videoId": "t3WpRYW0lGg",
+      "title": "Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9",
+      "duration": "PT10M1S",
+      "seconds": 601.0,
+      "publishLocal": "2026-10-27T18:00:00+05:30"
+    },
+    {
+      "videoId": "BxdkMvdx7G8",
+      "title": "TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8",
+      "duration": "PT10M1S",
+      "seconds": 601.0,
+      "publishLocal": "2026-10-26T18:00:00+05:30"
+    },
+    {
+      "videoId": "_LSyyLx-ex0",
+      "title": "Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7",
+      "duration": "PT10M1S",
+      "seconds": 601.0,
+      "publishLocal": "2026-10-26T18:00:00+05:30"
+    },
+    {
+      "videoId": "HH9gdETVS-E",
+      "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+      "duration": "PT10M1S",
+      "seconds": 601.0,
+      "publishLocal": "2026-10-25T18:00:00+05:30"
+    },
+    {
+      "videoId": "Ng8wTrGTul4",
+      "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+      "duration": "PT10M1S",
+      "seconds": 601.0,
+      "publishLocal": "2026-10-25T18:00:00+05:30"
+    },
+    {
+      "videoId": "4pedCCloISY",
+      "title": "Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4",
+      "duration": "PT10M1S",
+      "seconds": 601.0,
+      "publishLocal": "2026-10-24T18:00:00+05:30"
+    },
+    {
+      "videoId": "1oW6ocuUhWQ",
+      "title": "Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3",
+      "duration": "PT10M1S",
+      "seconds": 601.0,
+      "publishLocal": "2026-10-24T18:00:00+05:30"
+    }
+  ]
+}

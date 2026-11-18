@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "973983c1481ac80b2bff51daa347407cb9dda9929f83dad91675237dfa90ec43",
+  "title": "JavaScript Data Types | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T11:06:15Z",
+  "publishAt": "2026-11-07T10:30:00Z",
+  "videoId": "BmFsB-MoDlU",
+  "url": "https://www.youtube.com/watch?v=BmFsB-MoDlU",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-07T10:30:00Z"
+}

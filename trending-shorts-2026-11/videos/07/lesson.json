@@ -1,0 +1,39 @@
+{
+  "number": 7,
+  "slug": "usb-c",
+  "title": "USB-C Explained: Same Plug, Different Capabilities",
+  "category": "GADGETS",
+  "source": "https://www.usb.org/sites/default/files/usb_type-c_language_product_and_packaging_guidelines_20230320.pdf",
+  "headline": "Same plug.\nDifferent capabilities.",
+  "meaning": "USB-C describes the connector shape.",
+  "example": "Two matching connectors can support different data rates.",
+  "comparison": "Data, charging and display support are separate capabilities.",
+  "caution": "Check the port, cable and connected device.",
+  "question": "Have two identical cables behaved differently?",
+  "flow": [
+    "Computer port",
+    "USB-C cable",
+    "Connected device"
+  ],
+  "left": [
+    "CONNECTOR",
+    "The physical shape"
+  ],
+  "right": [
+    "CAPABILITIES",
+    "Data, power, display"
+  ],
+  "lines": [
+    "These two cables have the same plug. That does not mean they do the same job.",
+    "U S B C describes a connector. Data speed, charging power, and display support are separate capabilities.",
+    "A cable with that connector might support basic data, while another supports much faster transfers.",
+    "The connection is limited by the combination of the port, cable, and device, not the plug shape alone.",
+    "Check the performance labels and specifications before expecting a cable to handle a display or fast transfer.",
+    "Have identical plugs behaved differently? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-22T20:00:00+05:30",
+  "publishAt": "2026-11-22T14:30:00+00:00",
+  "status": "prepared",
+  "accent": "#b7b4ff",
+  "updatedAt": "2026-11-16T15:22:32.037303+05:30"
+}

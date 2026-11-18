@@ -1,0 +1,263 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,684
+Welcome to episode 33 of AI for Beginners Today
+
+4
+00:00:12,826 --> 00:00:16,395
+we’re looking at ai copyright and fair use basics
+
+5
+00:00:17,285 --> 00:00:21,254
+By the end you’ll understand one practical idea watch
+
+6
+00:00:21,266 --> 00:00:25,261
+a realistic example and try a small exercise yourself
+
+7
+00:00:26,138 --> 00:00:30,068
+You don’t need a technical background or expensive software
+
+8
+00:00:30,957 --> 00:00:36,447
+Bring your curiosity We’ll work through it together Here’s
+
+9
+00:00:36,460 --> 00:00:41,035
+the example we’ll use using an AI-created illustration in
+
+10
+00:00:41,047 --> 00:00:44,720
+a video We’ll use that situation to make the
+
+11
+00:00:44,733 --> 00:00:48,754
+topic concrete Watch how we break the task into
+
+12
+00:00:48,766 --> 00:00:51,975
+small steps because the same thinking will help you
+
+13
+00:00:51,988 --> 00:00:55,377
+use many different AI tools later in this course
+
+14
+00:01:01,817 --> 00:01:07,553
+Let’s start with the main idea distinguish originality licensing
+
+15
+00:01:07,566 --> 00:01:11,341
+and attribution Think of AI as a tool that
+
+16
+00:01:11,354 --> 00:01:14,731
+processes information and returns an output based on its
+
+17
+00:01:14,743 --> 00:01:19,460
+training instructions and any relevant information it can access
+
+18
+00:01:20,349 --> 00:01:23,300
+It can save time on drafts and patterns but
+
+19
+00:01:23,313 --> 00:01:26,831
+it doesn’t automatically know what’s correct for your situation
+
+20
+00:01:27,720 --> 00:01:30,388
+The most useful habit is to define what you
+
+21
+00:01:30,401 --> 00:01:34,898
+want before touching the tool Ask yourself three questions
+
+22
+00:01:35,130 --> 00:01:38,339
+what’s my goal what information does the tool need
+
+23
+00:01:38,493 --> 00:01:42,295
+and how will I check the result Those questions
+
+24
+00:01:42,308 --> 00:01:45,955
+work whether you’re writing a prompt building a workflow or
+
+25
+00:01:45,968 --> 00:01:47,772
+reviewing a generated answer
+
+26
+00:01:54,250 --> 00:01:58,362
+Let’s try it with an example Our example is
+
+27
+00:01:58,375 --> 00:02:03,143
+using an AI-created illustration in a video Start by
+
+28
+00:02:03,156 --> 00:02:07,795
+writing down the desired result in one sentence Next
+
+29
+00:02:07,950 --> 00:02:11,043
+identify the input what would a person need to
+
+30
+00:02:11,056 --> 00:02:14,625
+know to do this task correctly Then write a
+
+31
+00:02:14,638 --> 00:02:18,156
+simple instruction with that context and a clear format
+
+32
+00:02:19,058 --> 00:02:22,808
+On screen I am showing a sample request followed
+
+33
+00:02:22,821 --> 00:02:26,958
+by a possible output Notice that we’re not judging
+
+34
+00:02:26,971 --> 00:02:31,094
+the result by how impressive it sounds We’re checking
+
+35
+00:02:31,107 --> 00:02:35,050
+whether it actually meets the task If the output
+
+36
+00:02:35,063 --> 00:02:38,272
+is too broad ask for a more specific version
+
+37
+00:02:39,161 --> 00:02:42,344
+If a fact matters verify it from a reliable
+
+38
+00:02:42,357 --> 00:02:45,746
+source Pause the video here if you’d like to
+
+39
+00:02:45,759 --> 00:02:48,118
+copy the structure into your own notes
+
+40
+00:02:54,583 --> 00:02:59,533
+Your turn Try this exercise create a content rights
+
+41
+00:02:59,546 --> 00:03:04,031
+checklist Begin with a very small example not a
+
+42
+00:03:04,044 --> 00:03:08,979
+complex project Give yourself thirty seconds to decide what
+
+43
+00:03:08,992 --> 00:03:13,142
+success would look like Then complete the task once
+
+44
+00:03:13,154 --> 00:03:19,688
+and inspect the result What’s useful What’s missing What
+
+45
+00:03:19,701 --> 00:03:23,721
+would you change Make one improvement and compare the
+
+46
+00:03:23,734 --> 00:03:29,430
+first and second versions This simple before-and-after comparison teaches
+
+47
+00:03:29,443 --> 00:03:32,265
+you more than copying a complicated prompt from the
+
+48
+00:03:32,278 --> 00:03:36,505
+internet If your chosen tool is unavailable do the
+
+49
+00:03:36,518 --> 00:03:40,629
+exercise on paper sketch the input the steps and
+
+50
+00:03:40,642 --> 00:03:44,662
+the output The objective is to practice the underlying
+
+51
+00:03:44,675 --> 00:03:47,884
+thinking not to depend on one particular app
+
+52
+00:03:54,383 --> 00:03:59,023
+Before we finish remember this important limitation copyright law
+
+53
+00:03:59,035 --> 00:04:04,024
+and platform rules differ by location Responsible AI use
+
+54
+00:04:04,037 --> 00:04:07,168
+means understanding the strengths of the tool and keeping
+
+55
+00:04:07,181 --> 00:04:11,640
+yourself accountable for the final result Today you learned
+
+56
+00:04:11,653 --> 00:04:16,550
+that distinguish originality licensing and attribution saw the example
+
+57
+00:04:16,563 --> 00:04:20,274
+of using an AI-created illustration in a video and
+
+58
+00:04:20,287 --> 00:04:25,338
+practiced a small hands-on task Here’s your challenge repeat
+
+59
+00:04:25,351 --> 00:04:28,238
+the exercise with a different topic and write down
+
+60
+00:04:28,251 --> 00:04:32,194
+one thing that improved In the comments share the
+
+61
+00:04:32,207 --> 00:04:35,055
+part you found easiest or the question you still
+
+62
+00:04:35,068 --> 00:04:39,179
+have If this helped share it with someone learning
+
+63
+00:04:39,192 --> 00:04:43,083
+AI And subscribe to Tech at sixty for the
+
+64
+00:04:43,096 --> 00:04:47,993
+next lesson We’re building practical AI skills one simple
+
+65
+00:04:48,006 --> 00:04:52,735
+step at a time Thanks for watching See you
+
+66
+00:04:52,748 --> 00:04:53,856
+in the next lesson

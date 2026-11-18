@@ -1,0 +1,15 @@
+Passkeys Explained: Sign In Without Typing a Password
+
+Unlock a passkey with your device. The website receives proof, not your fingerprint.
+
+Keep account recovery options up to date.
+
+Would you try a passkey?
+Subscribe to @Techat60 for clear, beginner-friendly tech explainers.
+
+Source checked November 16, 2026:
+https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/
+
+Original illustrative diagrams; not a product demonstration or benchmark.
+
+#Technology #TechExplained #Shorts

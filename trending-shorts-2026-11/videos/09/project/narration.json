@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "An image can contain a watermark you cannot see. A detector may still be able to find it.",
+    "idea": "Tools such as Synth I D embed signals in supported A I generated content to help identify its origin.",
+    "demo": "The signal is part of the content, rather than just a visible logo placed in a corner.",
+    "compare": "A detected watermark can support an origin claim. It does not prove that the scene or message is true.",
+    "takeaway": "And no detected mark does not prove a human made the file. Check sources and context too.",
+    "close": "What would you verify before sharing? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

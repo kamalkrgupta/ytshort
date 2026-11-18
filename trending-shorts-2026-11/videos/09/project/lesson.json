@@ -1,0 +1,38 @@
+{
+  "number": 9,
+  "slug": "watermarks",
+  "title": "AI Watermarks Explained: What They Can and Cannot Prove",
+  "category": "DIGITAL LIFE",
+  "source": "https://deepmind.google/models/synthid/",
+  "headline": "Can an invisible mark\nidentify AI media?",
+  "meaning": "A watermark can signal how content was generated.",
+  "example": "A detector checks for a supported watermark pattern.",
+  "comparison": "Finding a mark is different from proving a claim true.",
+  "caution": "No detected mark does not prove human creation.",
+  "question": "What would you verify before sharing?",
+  "flow": [
+    "Supported generation",
+    "Embedded watermark",
+    "Detector check"
+  ],
+  "left": [
+    "MARK FOUND",
+    "Evidence of a supported signal"
+  ],
+  "right": [
+    "NO MARK FOUND",
+    "Not proof of human origin"
+  ],
+  "lines": [
+    "An image can contain a watermark you cannot see. A detector may still be able to find it.",
+    "Tools such as Synth I D embed signals in supported A I generated content to help identify its origin.",
+    "The signal is part of the content, rather than just a visible logo placed in a corner.",
+    "A detected watermark can support an origin claim. It does not prove that the scene or message is true.",
+    "And no detected mark does not prove a human made the file. Check sources and context too.",
+    "What would you verify before sharing? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-24T20:00:00+05:30",
+  "publishAt": "2026-11-24T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#ffab73"
+}

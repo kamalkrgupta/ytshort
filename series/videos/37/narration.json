@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "What Is JavaScript?. Let’s make it simple.",
+    "idea": "JavaScript adds logic and interactive behavior to web pages. Start by understanding the role it plays in a page.",
+    "code": "A script can respond when a user activates a button.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Use JavaScript to update content, validate input, or manage application state. Keep this detail in mind when writing your own example.",
+    "caution": "Keep H T M L structure and accessible controls in place before adding behavior.",
+    "try": "Make a button respond with a greeting. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

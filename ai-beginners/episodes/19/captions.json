@@ -1,0 +1,282 @@
+[
+  {
+    "start": 0.35,
+    "end": 3.378374,
+    "text": "Have you ever wondered how to make technology work"
+  },
+  {
+    "start": 3.39125,
+    "end": 6.780416,
+    "text": "for you instead of spending hours figuring everything out"
+  },
+  {
+    "start": 7.684,
+    "end": 12.374749,
+    "text": "Welcome to episode 19 of AI for Beginners Today"
+  },
+  {
+    "start": 12.555166,
+    "end": 16.769083,
+    "text": "we’re looking at ai for presentations By the end"
+  },
+  {
+    "start": 17.026791,
+    "end": 21.176291,
+    "text": "you’ll understand one practical idea watch a realistic example"
+  },
+  {
+    "start": 21.305166,
+    "end": 25.596375,
+    "text": "and try a small exercise yourself You don’t need"
+  },
+  {
+    "start": 25.609291,
+    "end": 30.944332,
+    "text": "a technical background or expensive software Bring your curiosity"
+  },
+  {
+    "start": 31.846375,
+    "end": 35.957208,
+    "text": "We’ll work through it together Here’s the example we’ll"
+  },
+  {
+    "start": 35.970083,
+    "end": 41.369583,
+    "text": "use a six-slide presentation about recycling We’ll use that"
+  },
+  {
+    "start": 41.382458,
+    "end": 45.480416,
+    "text": "situation to make the topic concrete Watch how we"
+  },
+  {
+    "start": 45.493291,
+    "end": 48.753624,
+    "text": "break the task into small steps because the same"
+  },
+  {
+    "start": 48.7665,
+    "end": 51.897916,
+    "text": "thinking will help you use many different AI tools"
+  },
+  {
+    "start": 51.910833,
+    "end": 53.289666,
+    "text": "later in this course"
+  },
+  {
+    "start": 69.91666666666666,
+    "end": 74.01612466666666,
+    "text": "Let’s start with the main idea outline a slide"
+  },
+  {
+    "start": 74.02904166666666,
+    "end": 78.02387466666666,
+    "text": "deck around one key message Think of AI as"
+  },
+  {
+    "start": 78.03674966666667,
+    "end": 81.21974966666666,
+    "text": "a tool that processes information and returns an output"
+  },
+  {
+    "start": 81.23262466666667,
+    "end": 85.67849966666667,
+    "text": "based on its training instructions and any relevant information"
+  },
+  {
+    "start": 85.69141666666667,
+    "end": 89.36408266666666,
+    "text": "it can access It can save time on drafts"
+  },
+  {
+    "start": 89.37695766666667,
+    "end": 92.95945766666667,
+    "text": "and patterns but it doesn’t automatically know what’s correct"
+  },
+  {
+    "start": 92.97233266666666,
+    "end": 96.77387466666667,
+    "text": "for your situation The most useful habit is to"
+  },
+  {
+    "start": 96.78674966666667,
+    "end": 100.70429166666666,
+    "text": "define what you want before touching the tool Ask"
+  },
+  {
+    "start": 100.71716666666666,
+    "end": 104.81512466666666,
+    "text": "yourself three questions what’s my goal what information does"
+  },
+  {
+    "start": 104.82799966666667,
+    "end": 106.99295766666665,
+    "text": "the tool need and how will I check the"
+  },
+  {
+    "start": 107.00583266666666,
+    "end": 111.45170766666666,
+    "text": "result Those questions work whether you’re writing a prompt"
+  },
+  {
+    "start": 111.61924966666666,
+    "end": 115.04704066666666,
+    "text": "building a workflow or reviewing a generated answer"
+  },
+  {
+    "start": 131.71666666666667,
+    "end": 135.76462366666667,
+    "text": "Let’s try it with an example Our example is"
+  },
+  {
+    "start": 135.77749966666667,
+    "end": 140.98366666666666,
+    "text": "a six-slide presentation about recycling Start by writing down"
+  },
+  {
+    "start": 140.99658266666668,
+    "end": 146.03520766666668,
+    "text": "the desired result in one sentence Next identify the"
+  },
+  {
+    "start": 146.04812466666667,
+    "end": 148.48366666666666,
+    "text": "input what would a person need to know to"
+  },
+  {
+    "start": 148.49654166666667,
+    "end": 152.86512366666668,
+    "text": "do this task correctly Then write a simple instruction"
+  },
+  {
+    "start": 152.87799966666668,
+    "end": 156.9501666666667,
+    "text": "with that context and a clear format On screen"
+  },
+  {
+    "start": 157.09191666666666,
+    "end": 160.19762466666668,
+    "text": "I am showing a sample request followed by a"
+  },
+  {
+    "start": 160.21045766666668,
+    "end": 164.61770766666666,
+    "text": "possible output Notice that we’re not judging the result"
+  },
+  {
+    "start": 164.63058266666667,
+    "end": 168.79291566666666,
+    "text": "by how impressive it sounds We’re checking whether it"
+  },
+  {
+    "start": 168.80583266666667,
+    "end": 172.5687496666667,
+    "text": "actually meets the task If the output is too"
+  },
+  {
+    "start": 172.58162466666667,
+    "end": 176.53779056666667,
+    "text": "broad ask for a more specific version If a"
+  },
+  {
+    "start": 176.55066666666667,
+    "end": 181.15120766666666,
+    "text": "fact matters verify it from a reliable source Pause"
+  },
+  {
+    "start": 181.16408266666667,
+    "end": 183.30324966666666,
+    "text": "the video here if you’d like to copy the"
+  },
+  {
+    "start": 183.31616666666667,
+    "end": 185.17183266666666,
+    "text": "structure into your own notes"
+  },
+  {
+    "start": 201.81666666666666,
+    "end": 206.95995766666667,
+    "text": "Your turn Try this exercise generate slide titles and"
+  },
+  {
+    "start": 206.97283266666668,
+    "end": 211.72799866666668,
+    "text": "speaker notes Begin with a very small example not"
+  },
+  {
+    "start": 211.74087466666666,
+    "end": 216.48316666666668,
+    "text": "a complex project Give yourself thirty seconds to decide"
+  },
+  {
+    "start": 216.49604166666666,
+    "end": 220.42645766666666,
+    "text": "what success would look like Then complete the task"
+  },
+  {
+    "start": 220.43933266666667,
+    "end": 226.18674966666666,
+    "text": "once and inspect the result What’s useful What’s missing"
+  },
+  {
+    "start": 227.07595766666668,
+    "end": 231.36716566666666,
+    "text": "What would you change Make one improvement and compare"
+  },
+  {
+    "start": 231.38008266666668,
+    "end": 236.66354066666668,
+    "text": "the first and second versions This simple before-and-after comparison"
+  },
+  {
+    "start": 236.67645766666666,
+    "end": 239.88524966666665,
+    "text": "teaches you more than copying a complicated prompt from"
+  },
+  {
+    "start": 249.98333333333332,
+    "end": 254.75137433333333,
+    "text": "Before we finish remember this important limitation verify facts"
+  },
+  {
+    "start": 254.76424933333334,
+    "end": 260.35858233333335,
+    "text": "and use licensed visuals Responsible AI use means understanding"
+  },
+  {
+    "start": 260.37145833333335,
+    "end": 263.6446653333333,
+    "text": "the strengths of the tool and keeping yourself accountable"
+  },
+  {
+    "start": 263.6575413333333,
+    "end": 267.4719993333333,
+    "text": "for the final result Today you learned that outline"
+  },
+  {
+    "start": 267.4848743333333,
+    "end": 270.3328333333333,
+    "text": "a slide deck around one key message saw the"
+  },
+  {
+    "start": 270.34570833333333,
+    "end": 274.88179133333335,
+    "text": "example of a six-slide presentation about recycling and practiced"
+  },
+  {
+    "start": 274.8946663333333,
+    "end": 279.4952083333333,
+    "text": "a small hands-on task Here’s your challenge repeat the"
+  },
+  {
+    "start": 279.50808333333333,
+    "end": 282.58795733333335,
+    "text": "exercise with a different topic and write down one"
+  },
+  {
+    "start": 282.6008743333333,
+    "end": 282.8843743333333,
+    "text": "thing"
+  }
+]

@@ -1,0 +1,15 @@
+Voiceover: 6 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (9s elapsed, ~83s left)
+  20%  (18s elapsed, ~73s left)
+  30%  (27s elapsed, ~63s left)
+  40%  (36s elapsed, ~54s left)
+  50%  (45s elapsed, ~45s left)
+  60%  (53s elapsed, ~35s left)
+  70%  (61s elapsed, ~26s left)
+  80%  (70s elapsed, ~17s left)
+  90%  (79s elapsed, ~9s left)
+  100%  (88s elapsed, ~0s left)
+
+Done in 88s -> ../video.partial.mp4 (3.9 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2

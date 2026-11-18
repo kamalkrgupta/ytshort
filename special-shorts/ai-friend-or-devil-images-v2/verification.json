@@ -1,0 +1,23 @@
+{
+  "duration_seconds": 60,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "decoded_frames": 1800,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio": {
+    "mean_volume": -20.6,
+    "max_volume": -1.7
+  },
+  "narration_and_voice_clips_unchanged": true,
+  "illustrations": 8,
+  "image_generation_mode": "built-in imagegen",
+  "camera_framings_per_scene": 3,
+  "scene_safe_area_checks": "passed",
+  "file": "/Users/impulsiveweb/Documents/YT Short/special-shorts/ai-friend-or-devil-images-v2/out/AI-Friend-or-Devil-IMAGES-REVIEW.mp4",
+  "sha256": "a760f866a5049c64373cfd8ec33482ce463fe960cc06f574f5a7b91d98ca9b55",
+  "bytes": 22379007,
+  "upload_performed": false,
+  "publish_performed": false
+}

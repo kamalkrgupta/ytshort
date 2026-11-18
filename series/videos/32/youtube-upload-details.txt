@@ -1,0 +1,18 @@
+CSS Hover Effects | Web Development in 60 Seconds
+
+The hover selector styles an element while a pointer rests over it. Learn css hover effects with a quick example for beginners.
+
+Combine a hover rule with a transition for a smooth change.
+Focus visible can provide a matching cue for keyboard users.
+
+Try it: Add hover and keyboard focus styles to one button.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 32
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: css hover effects, web development for beginners, learn to code, coding shorts, css tutorial

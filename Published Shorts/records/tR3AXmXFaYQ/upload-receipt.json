@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "09e908fc48dd4fecdeb49270d9449a4093b98703736fd6e9e9269b28e12b583a",
+  "title": "JavaScript DOM Manipulation | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-09T17:09:52Z",
+  "publishAt": "2026-11-11T05:30:00Z",
+  "videoId": "tR3AXmXFaYQ",
+  "url": "https://www.youtube.com/watch?v=tR3AXmXFaYQ",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-11T05:30:00Z"
+}

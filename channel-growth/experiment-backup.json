@@ -1,0 +1,683 @@
+{
+  "createdAt": "2026-11-03T07:09:22.026963+00:00",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "changes": [
+    {
+      "videoId": "iJj3UEqr3mM",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "F3p_AJsvgMJ-ulG67rQmW2ih8BQ",
+        "id": "iJj3UEqr3mM",
+        "snippet": {
+          "publishedAt": "2026-10-20T10:30:18Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "HTML Headings Explained | Web Development in 60 Seconds",
+          "description": "Headings organize a page into meaningful sections. Learn html headings explained with a quick example for beginners.\n\nH one is the highest heading level; H six is the lowest.\nUse heading levels to describe the hierarchy of your content.\n\nTry it: Create a page title and a heading for its first section.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 3\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iJj3UEqr3mM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iJj3UEqr3mM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iJj3UEqr3mM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iJj3UEqr3mM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iJj3UEqr3mM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "TECH AT 60",
+            "coding shorts",
+            "html headings explained",
+            "html tutorial",
+            "learn to code",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "HTML Headings Explained | Web Development in 60 Seconds",
+            "description": "Headings organize a page into meaningful sections. Learn html headings explained with a quick example for beginners.\n\nH one is the highest heading level; H six is the lowest.\nUse heading levels to describe the hierarchy of your content.\n\nTry it: Create a page title and a heading for its first section.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 3\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "17",
+          "likeCount": "3",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "HTML Headings: h1 to h6 Explained in 60 Seconds",
+        "description": "Use h1 to h6 to organize a page into meaningful sections. See the heading hierarchy with a beginner HTML example.\n\nWhich heading would you use for a section inside your page: h1 or h2?\n\nNext lesson: https://www.youtube.com/watch?v=NwK_T8Qxams\nFull beginner course: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU\n\nH one is the highest heading level; H six is the lowest.\nUse heading levels to describe the hierarchy of your content.\n\nTry it: Create a page title and a heading for its first section.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 3\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "TECH AT 60",
+          "coding shorts",
+          "html headings explained",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "videoId": "PZeEmk-S7_w",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "7Twq4IHk3l6mCKDj8QzonS7MF58",
+        "id": "PZeEmk-S7_w",
+        "snippet": {
+          "publishedAt": "2026-10-26T05:30:06Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "HTML Forms Introduction | Web Development in 60 Seconds",
+          "description": "A form groups controls that collect information from a user. Learn html forms introduction with a quick example for beginners.\n\nGive controls labels so people can understand what to enter.\nThe name attribute identifies a field when form data is submitted.\n\nTry it: Create a labeled email field and a submit button.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 14\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PZeEmk-S7_w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PZeEmk-S7_w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PZeEmk-S7_w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PZeEmk-S7_w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PZeEmk-S7_w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "TECH AT 60",
+            "coding shorts",
+            "html forms introduction",
+            "html tutorial",
+            "learn to code",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "HTML Forms Introduction | Web Development in 60 Seconds",
+            "description": "A form groups controls that collect information from a user. Learn html forms introduction with a quick example for beginners.\n\nGive controls labels so people can understand what to enter.\nThe name attribute identifies a field when form data is submitted.\n\nTry it: Create a labeled email field and a submit button.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 14\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "21",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "HTML Forms for Beginners: Build Your First Form",
+        "description": "Learn how an HTML form groups input controls, and try a simple beginner form example.\n\nWhat would your first form collect: feedback or a sign-up?\n\nNext lesson: https://www.youtube.com/watch?v=MEEDwR24JOw\nFull beginner course: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU\n\nGive controls labels so people can understand what to enter.\nThe name attribute identifies a field when form data is submitted.\n\nTry it: Create a labeled email field and a submit button.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 14\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "TECH AT 60",
+          "coding shorts",
+          "html forms introduction",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "videoId": "rk479ZjGpvo",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "EXjDK9lpTp5oWUNmWJ_b4pm6LWM",
+        "id": "rk479ZjGpvo",
+        "snippet": {
+          "publishedAt": "2026-11-01T05:30:31Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "CSS Box Model | Web Development in 60 Seconds",
+          "description": "The box model describes the space occupied by an element. Learn css box model with a quick example for beginners.\n\nFrom inside out, it has content, padding, border, and margin.\nPadding is inside the border; margin is outside it.\n\nTry it: Give a card padding, a border, and outside margin.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 26\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rk479ZjGpvo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rk479ZjGpvo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rk479ZjGpvo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rk479ZjGpvo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rk479ZjGpvo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "coding shorts",
+            "css box model",
+            "css tutorial",
+            "learn to code",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CSS Box Model | Web Development in 60 Seconds",
+            "description": "The box model describes the space occupied by an element. Learn css box model with a quick example for beginners.\n\nFrom inside out, it has content, padding, border, and margin.\nPadding is inside the border; margin is outside it.\n\nTry it: Give a card padding, a border, and outside margin.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 26\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          }
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "19",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "CSS Box Model: Content, Padding, Border and Margin",
+        "description": "Understand the CSS box model with a visual example of content, padding, border and margin.\n\nWhich adds space inside the border: padding or margin?\n\nNext lesson: https://www.youtube.com/watch?v=_k9pL5fcolg\nFull beginner course: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU\n\nFrom inside out, it has content, padding, border, and margin.\nPadding is inside the border; margin is outside it.\n\nTry it: Give a card padding, a border, and outside margin.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 26\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "coding shorts",
+          "css box model",
+          "css tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "videoId": "_k9pL5fcolg",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "dLz36jgBB5dq6ixpsEzb9wgzHKk",
+        "id": "_k9pL5fcolg",
+        "snippet": {
+          "publishedAt": "2026-10-31T10:30:35Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "CSS Backgrounds | Web Development in 60 Seconds",
+          "description": "Background properties paint the area behind an element. Learn css backgrounds with a quick example for beginners.\n\nStart with a solid color, or combine colors in a gradient.\nA background image can be sized and positioned separately.\n\nTry it: Give a card a two-color gradient background.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 25\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_k9pL5fcolg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_k9pL5fcolg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_k9pL5fcolg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_k9pL5fcolg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_k9pL5fcolg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "coding shorts",
+            "css backgrounds",
+            "css tutorial",
+            "learn to code",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CSS Backgrounds | Web Development in 60 Seconds",
+            "description": "Background properties paint the area behind an element. Learn css backgrounds with a quick example for beginners.\n\nStart with a solid color, or combine colors in a gradient.\nA background image can be sized and positioned separately.\n\nTry it: Give a card a two-color gradient background.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 25\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          }
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "25",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "CSS Backgrounds: Make a Two-Color Gradient Card",
+        "description": "Learn CSS backgrounds with a beginner example, then give a card a two-color gradient. Keep text readable over the background.\n\nWhich two colors would you use for your gradient card?\n\nNext lesson: https://www.youtube.com/watch?v=A9SjSOECb8s\nFull beginner course: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU\n\nStart with a solid color, or combine colors in a gradient.\nA background image can be sized and positioned separately.\n\nTry it: Give a card a two-color gradient background.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 25\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "coding shorts",
+          "css backgrounds",
+          "css tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "videoId": "A9SjSOECb8s",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "2yTMfzU6ZKJMVVp2QaeLIi0zLL0",
+        "id": "A9SjSOECb8s",
+        "snippet": {
+          "publishedAt": "2026-11-01T10:30:39Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "CSS Classes vs IDs | Web Development in 60 Seconds",
+          "description": "Classes and identifiers let C S S select particular elements. Learn css classes vs ids with a quick example for beginners.\n\nA dot selects a class; a hash selects an identifier.\nReuse a class to apply the same style to several elements.\n\nTry it: Style two elements with one shared class.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 27\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/A9SjSOECb8s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/A9SjSOECb8s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/A9SjSOECb8s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/A9SjSOECb8s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/A9SjSOECb8s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "coding shorts",
+            "css classes vs ids",
+            "css tutorial",
+            "learn to code",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CSS Classes vs IDs | Web Development in 60 Seconds",
+            "description": "Classes and identifiers let C S S select particular elements. Learn css classes vs ids with a quick example for beginners.\n\nA dot selects a class; a hash selects an identifier.\nReuse a class to apply the same style to several elements.\n\nTry it: Style two elements with one shared class.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 27\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          }
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "31",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "CSS Class vs ID: Which Should You Use?",
+        "description": "Compare CSS classes and IDs with a beginner code example. Reuse a class across elements and keep each ID unique.\n\nTo style three matching cards, would you choose a class or an ID?\n\nNext lesson: https://www.youtube.com/watch?v=tozXzYirna4\nFull beginner course: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU\n\nA dot selects a class; a hash selects an identifier.\nReuse a class to apply the same style to several elements.\n\nTry it: Style two elements with one shared class.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 27\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "coding shorts",
+          "css classes vs ids",
+          "css tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "videoId": "tozXzYirna4",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "unkxkG4U37pDtTEfp1XTvMsFkLY",
+        "id": "tozXzYirna4",
+        "snippet": {
+          "publishedAt": "2026-11-02T05:30:39Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "CSS Display Property | Web Development in 60 Seconds",
+          "description": "Display controls how an element participates in layout. Learn css display property with a quick example for beginners.\n\nBlock elements normally start a new line; inline elements flow with text.\nInline block boxes flow inline while accepting width and height.\n\nTry it: Compare a block container with two inline block labels.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 28\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tozXzYirna4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tozXzYirna4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tozXzYirna4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tozXzYirna4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tozXzYirna4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "coding shorts",
+            "css display property",
+            "css tutorial",
+            "learn to code",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CSS Display Property | Web Development in 60 Seconds",
+            "description": "Display controls how an element participates in layout. Learn css display property with a quick example for beginners.\n\nBlock elements normally start a new line; inline elements flow with text.\nInline block boxes flow inline while accepting width and height.\n\nTry it: Compare a block container with two inline block labels.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 28\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "23",
+          "likeCount": "3",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "CSS Display: Block vs Inline vs Inline-Block",
+        "description": "See how block, inline and inline-block affect a CSS layout. Compare a block container with inline-block labels.\n\nWhich display value lets a label flow inline and accept width and height?\n\nNext lesson: https://www.youtube.com/watch?v=c_JdeG3Iq3o\nFull beginner course: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU\n\nBlock elements normally start a new line; inline elements flow with text.\nInline block boxes flow inline while accepting width and height.\n\nTry it: Compare a block container with two inline block labels.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 28\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "coding shorts",
+          "css display property",
+          "css tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "videoId": "J-erLjRrEvM",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "urQoW2pKtFFk0w12Oj2_5HsA03U",
+        "id": "J-erLjRrEvM",
+        "snippet": {
+          "publishedAt": "2026-11-02T07:57:09Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI: Friend or Devil? The Choice Is Yours | TECH AT 60 #Shorts",
+          "description": "AI can help you learn, practise and draft ideas. But a confident answer can still be wrong. Check important claims, verify urgent requests independently, and think before sharing private information.\n\nWhere would you draw the line? Tell us in the comments.\n\nFollow TECH AT 60 for beginner-friendly technology lessons.\n\n#ArtificialIntelligence #AIAwareness #TechAt60 #Shorts\n\nSources:\nhttps://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf\nhttps://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J-erLjRrEvM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J-erLjRrEvM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J-erLjRrEvM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/J-erLjRrEvM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/J-erLjRrEvM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI awareness",
+            "AI benefits",
+            "AI benefits and risks",
+            "AI for beginners",
+            "AI friend or foe",
+            "AI hallucinations",
+            "AI risks",
+            "AI safety",
+            "Shorts",
+            "TECH AT 60",
+            "artificial intelligence",
+            "bjp",
+            "cjp",
+            "generative AI",
+            "latent",
+            "mock",
+            "modi",
+            "technology education",
+            "voice cloning"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI: Friend or Devil? The Choice Is Yours | TECH AT 60 #Shorts",
+            "description": "AI can help you learn, practise and draft ideas. But a confident answer can still be wrong. Check important claims, verify urgent requests independently, and think before sharing private information.\n\nWhere would you draw the line? Tell us in the comments.\n\nFollow TECH AT 60 for beginner-friendly technology lessons.\n\n#ArtificialIntelligence #AIAwareness #TechAt60 #Shorts\n\nSources:\nhttps://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf\nhttps://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes"
+          },
+          "defaultAudioLanguage": "bn"
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "5",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI: Friend or Devil? The Choice Is Yours | TECH AT 60 #Shorts",
+        "description": "AI can help you learn, practise and draft ideas. But a confident answer can still be wrong. Check important claims, verify urgent requests independently, and think before sharing private information.\n\nWhere would you draw the line? Tell us in the comments.\n\nFollow TECH AT 60 for beginner-friendly technology lessons.\n\n#ArtificialIntelligence #AIAwareness #TechAt60 #Shorts\n\nSources:\nhttps://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf\nhttps://consumer.ftc.gov/consumer-alerts/2023/03/scammers-use-ai-enhance-their-family-emergency-schemes",
+        "tags": [
+          "AI awareness",
+          "AI benefits",
+          "AI benefits and risks",
+          "AI for beginners",
+          "AI friend or foe",
+          "AI hallucinations",
+          "AI risks",
+          "AI safety",
+          "Shorts",
+          "TECH AT 60",
+          "artificial intelligence",
+          "generative AI",
+          "technology education",
+          "voice cloning"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "bn"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "kind": "youtube#channelSection",
+      "etag": "njtLolkowSKHj4LNfdp7jloleVs",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.jNQXAC9IVRw",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 0
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLHH8ZgwKrWFk"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "7m6PMMOgXk3rtRI7dQv3YonEzME",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.LeAltgu_pbM",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 1
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLXqX5lBoONpI"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "g4ngmS3mw8IHPxwBJ28PtmisZVc",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.nGzAI5pLbMY",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 2
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLEJDqf_3IqMU"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "videoNumber": 34,
+  "phase": "Phase 3 — Build Beautiful Websites with CSS",
+  "topic": "Responsive Web Design",
+  "description": "Make websites work on mobile and desktop.",
+  "publishLocal": "2026-11-05T11:00:00+05:30",
+  "publishAt": "2026-11-05T05:30:00Z",
+  "status": "planned",
+  "definition": "Responsive design adapts a page to different screen sizes.",
+  "code": ".cards {\n display: grid;\n grid-template-columns:\n  repeat(auto-fit,\n   minmax(200px, 1fr));\n}",
+  "preview": "<div style=\"display:grid;grid-template-columns:repeat(2,1fr);gap:15px\"><div style=\"background:#d9e8ff;padding:25px\">Card 1</div><div style=\"background:#ffd6a5;padding:25px\">Card 2</div></div>",
+  "rule": "Use flexible layouts so content can rearrange as space changes.",
+  "tip": "Responsive images and a viewport declaration support mobile layouts.",
+  "caution": "Test real content at narrow widths instead of targeting only one device.",
+  "exercise": "Make a card layout that works on a phone and desktop."
+}

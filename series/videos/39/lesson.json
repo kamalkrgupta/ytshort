@@ -1,0 +1,16 @@
+{
+  "videoNumber": 39,
+  "phase": "Phase 4 — JavaScript for Beginners",
+  "topic": "JavaScript Data Types",
+  "description": "Explore strings, numbers, booleans, and more.",
+  "publishLocal": "2026-11-07T16:00:00+05:30",
+  "publishAt": "2026-11-07T10:30:00Z",
+  "status": "planned",
+  "definition": "JavaScript values have different types with different behavior.",
+  "code": "const name = \"Alex\";\nconst score = 10;\nconst ready = true;",
+  "preview": "<p>“Alex” → string</p><p>10 → number</p><p>true → boolean</p>",
+  "rule": "Text is a string, a numeric value is a number, and true is a boolean.",
+  "tip": "The type of operator can help inspect the type of a value.",
+  "caution": "A number inside quotation marks is a string, which changes some operations.",
+  "exercise": "Create a string, a number, and a boolean."
+}

@@ -1,0 +1,38 @@
+{
+  "number": 16,
+  "slug": "vibe-coding",
+  "title": "Vibe Coding: The Part You Still Need to Check",
+  "category": "CODING",
+  "source": "https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/",
+  "headline": "The code runs.\nIs the job finished?",
+  "meaning": "AI can turn a description into a draft implementation.",
+  "example": "Ask for a small feature, then test normal and edge cases.",
+  "comparison": "A generated draft is different from verified software.",
+  "caution": "Understand changes before running them on real data.",
+  "question": "What test would you run first?",
+  "flow": [
+    "Describe feature",
+    "Review code",
+    "Run tests"
+  ],
+  "left": [
+    "GENERATED DRAFT",
+    "Looks plausible"
+  ],
+  "right": [
+    "VERIFIED CHANGE",
+    "Tested against requirements"
+  ],
+  "lines": [
+    "You describe an app, and an A I writes code. The first version appears quickly. Is the work finished?",
+    "People often call this vibe coding. The useful idea is describing a goal and iterating with a coding assistant.",
+    "Try a tiny example: a counter that adds one. Then test what reset does and what happens at the boundaries.",
+    "Generated code is a draft, not proof that the feature is correct or safe for real data.",
+    "Read changes, run tests, and check dependencies. Keep the project small enough to understand.",
+    "What test would you run first? Subscribe to Tech at sixty for practical tech explained."
+  ],
+  "publishLocal": "2026-12-01T20:00:00+05:30",
+  "publishAt": "2026-12-01T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#8fc9ff"
+}

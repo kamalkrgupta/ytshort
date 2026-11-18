@@ -1,0 +1,722 @@
+[
+  {
+    "start": 0.3374813063336163,
+    "end": 3.22039101440928,
+    "text": "This lesson covers T D D B D D"
+  },
+  {
+    "start": 3.3943694623802596,
+    "end": 6.737030177387737,
+    "text": "A T D D exploratory testing and core test"
+  },
+  {
+    "start": 6.749459521391618,
+    "end": 11.241333288872722,
+    "text": "design techniques We use a discount and checkout feature"
+  },
+  {
+    "start": 11.253762632876603,
+    "end": 15.292300397619336,
+    "text": "as our example Begin with a checkout rule an"
+  },
+  {
+    "start": 15.30473061643628,
+    "end": 19.293585997686026,
+    "text": "eligible member receives a ten-percent discount but an expired"
+  },
+  {
+    "start": 19.30601621650297,
+    "end": 23.431524396750333,
+    "text": "coupon must be rejected There are several questions hidden"
+  },
+  {
+    "start": 23.44399135771594,
+    "end": 28.84942453392143,
+    "text": "inside that sentence We need to clarify eligibility calculate"
+  },
+  {
+    "start": 28.86185475273837,
+    "end": 32.80099100834647,
+    "text": "the amount investigate limits and observe the user journey"
+  },
+  {
+    "start": 33.670847380865766,
+    "end": 35.98214023634858,
+    "text": "T D D B D D A T D"
+  },
+  {
+    "start": 35.994569580352454,
+    "end": 39.12599880789985,
+    "text": "D and exploratory testing can help but they work"
+  },
+  {
+    "start": 39.138429026716786,
+    "end": 43.574642813043134,
+    "text": "at different points and with different intentions Test design"
+  },
+  {
+    "start": 43.58703628971141,
+    "end": 48.76880863445294,
+    "text": "techniques help choose examples systematically The objective is not"
+  },
+  {
+    "start": 48.78123885326988,
+    "end": 52.5215747150479,
+    "text": "to use every method on every story It is"
+  },
+  {
+    "start": 52.534004059051775,
+    "end": 55.52874462026596,
+    "text": "to choose methods that give useful evidence about the"
+  },
+  {
+    "start": 55.54117396426984,
+    "end": 57.094478042520514,
+    "text": "most important risks"
+  },
+  {
+    "start": 58.70411429377165,
+    "end": 62.269061975767464,
+    "text": "Write a failing test for an eligible ten-percent discount"
+  },
+  {
+    "start": 62.51752254627951,
+    "end": 67.05732937943155,
+    "text": "implement enough code to pass then refactor safely The"
+  },
+  {
+    "start": 67.0697548127669,
+    "end": 73.14390284500645,
+    "text": "Red Green Refactor loop encourages small verified changes For"
+  },
+  {
+    "start": 73.15632827834179,
+    "end": 76.07540265263677,
+    "text": "a T D D demonstration write a small test"
+  },
+  {
+    "start": 76.08779135796874,
+    "end": 79.15592808295061,
+    "text": "saying that a purchase of one thousand rupees produces"
+  },
+  {
+    "start": 79.16835264180969,
+    "end": 83.71460873746072,
+    "text": "a one-hundred-rupee discount for an eligible member Confirm the"
+  },
+  {
+    "start": 83.72707002432318,
+    "end": 87.19265621449722,
+    "text": "test fails because the function has not implemented that"
+  },
+  {
+    "start": 87.2050807733563,
+    "end": 92.04949742390824,
+    "text": "behavior Add the smallest implementation that makes it pass"
+  },
+  {
+    "start": 92.91898218440295,
+    "end": 97.30382482651478,
+    "text": "Refactor the design while keeping the test green Next"
+  },
+  {
+    "start": 97.47769956691644,
+    "end": 102.86862715887116,
+    "text": "add an ineligible-customer case expecting zero These examples should"
+  },
+  {
+    "start": 102.88105171773024,
+    "end": 106.99258379713561,
+    "text": "guide the code in small steps Writing all production"
+  },
+  {
+    "start": 107.00500923047096,
+    "end": 109.96135815581943,
+    "text": "code first and adding tests afterward can still be"
+  },
+  {
+    "start": 109.97378358915478,
+    "end": 112.86797211772823,
+    "text": "useful but it does not provide the same design"
+  },
+  {
+    "start": 112.88039667658731,
+    "end": 115.61313502361817,
+    "text": "feedback loop as test-driven development"
+  },
+  {
+    "start": 117.23744943480398,
+    "end": 122.41088454028204,
+    "text": "Describe behavior collaboratively using Given When and Then Given"
+  },
+  {
+    "start": 122.42331023047333,
+    "end": 125.05673977330726,
+    "text": "an eligible coupon when it is applied to a"
+  },
+  {
+    "start": 125.06912873473593,
+    "end": 130.38565385240634,
+    "text": "qualifying order then the specified discount is calculated B"
+  },
+  {
+    "start": 130.3980786681033,
+    "end": 133.95074868577748,
+    "text": "D D is about shared understanding not just automation"
+  },
+  {
+    "start": 133.96313764720617,
+    "end": 138.67101382414654,
+    "text": "syntax For B D D gather product development and"
+  },
+  {
+    "start": 138.68343951433783,
+    "end": 143.65216948484937,
+    "text": "testing perspectives before choosing automation syntax Ask how a"
+  },
+  {
+    "start": 143.66455932077238,
+    "end": 146.70790808924994,
+    "text": "customer knows that a coupon was accepted and how"
+  },
+  {
+    "start": 146.72033377944123,
+    "end": 151.32880968181735,
+    "text": "the final total should change Express an example given"
+  },
+  {
+    "start": 151.34123449751428,
+    "end": 154.5212238823674,
+    "text": "an eligible member with a qualifying basket when a"
+  },
+  {
+    "start": 154.53364957255872,
+    "end": 158.16079677587805,
+    "text": "valid coupon is applied then the agreed discount appears"
+  },
+  {
+    "start": 158.173221591575,
+    "end": 162.07368500741939,
+    "text": "and the total is updated Now discuss an expired"
+  },
+  {
+    "start": 162.08611069761068,
+    "end": 166.21011585667839,
+    "text": "coupon and a basket below the minimum Given When"
+  },
+  {
+    "start": 166.2225415468697,
+    "end": 169.39010524153153,
+    "text": "and Then can make examples readable but the format"
+  },
+  {
+    "start": 169.40253093172282,
+    "end": 172.79367397286492,
+    "text": "is not the purpose The purpose is a shared"
+  },
+  {
+    "start": 172.80609966305622,
+    "end": 177.9487455715285,
+    "text": "understanding of observable behavior including situations where assumptions differ"
+  },
+  {
+    "start": 179.5707793514859,
+    "end": 184.62625140146943,
+    "text": "Define acceptance examples with business development and testing participants"
+  },
+  {
+    "start": 184.6386766061887,
+    "end": 190.76835040898112,
+    "text": "before implementation For refunds clarify eligible and ineligible cases"
+  },
+  {
+    "start": 190.94222282471455,
+    "end": 194.8921953175322,
+    "text": "timing and expected outcomes A T D D and"
+  },
+  {
+    "start": 194.90462052225152,
+    "end": 198.50681320519507,
+    "text": "B D D overlap but are not identical A"
+  },
+  {
+    "start": 198.51923840991438,
+    "end": 202.90396364780048,
+    "text": "T D D also brings acceptance examples forward For"
+  },
+  {
+    "start": 202.9163879780596,
+    "end": 206.46888246550654,
+    "text": "a refund feature agree that an eligible cancelled purchase"
+  },
+  {
+    "start": 206.48130767022582,
+    "end": 209.7978063417234,
+    "text": "returns the correct amount and changes the order state"
+  },
+  {
+    "start": 210.66727510453265,
+    "end": 214.04589805070634,
+    "text": "Include an ineligible refund a partial refund and a"
+  },
+  {
+    "start": 214.05828652809802,
+    "end": 217.47414573772141,
+    "text": "delayed provider confirmation if those apply to the product"
+  },
+  {
+    "start": 218.33122689759918,
+    "end": 221.7470861072226,
+    "text": "The team can use these examples to guide implementation"
+  },
+  {
+    "start": 221.75951131194188,
+    "end": 225.5604250711371,
+    "text": "and later verification B D D and A T"
+  },
+  {
+    "start": 225.5728502758564,
+    "end": 229.63464436438665,
+    "text": "D D overlap in collaborative discovery and examples their"
+  },
+  {
+    "start": 229.6470328417783,
+    "end": 232.6902635810094,
+    "text": "labels do not define a rigid boundary for every"
+  },
+  {
+    "start": 232.7026879112685,
+    "end": 237.37307043327297,
+    "text": "team What matters is that acceptance expectations are clear"
+  },
+  {
+    "start": 237.3855314908597,
+    "end": 240.3045163041191,
+    "text": "before code is judged complete and that the checks"
+  },
+  {
+    "start": 240.31694063437823,
+    "end": 242.30437001194008,
+    "text": "reflect real business outcomes"
+  },
+  {
+    "start": 243.93744244414253,
+    "end": 248.7567234500019,
+    "text": "Investigate checkout by changing quantities applying coupons and navigating"
+  },
+  {
+    "start": 248.7691472724657,
+    "end": 254.87372202974035,
+    "text": "backward Adapt based on observations Use charters notes and"
+  },
+  {
+    "start": 254.88614672662857,
+    "end": 260.6866412588221,
+    "text": "debriefs to keep exploration purposeful Exploratory testing adds responsive"
+  },
+  {
+    "start": 260.6990659557103,
+    "end": 266.0897098823879,
+    "text": "investigation Set a charter investigate whether coupon changes can"
+  },
+  {
+    "start": 266.1020978534496,
+    "end": 271.020771187868,
+    "text": "leave checkout totals inconsistent Begin with a normal purchase"
+  },
+  {
+    "start": 271.1574008812651,
+    "end": 275.72823516828015,
+    "text": "change quantity apply a coupon navigate backward and return"
+  },
+  {
+    "start": 276.5852812983564,
+    "end": 281.37967705903725,
+    "text": "Observe what changes and follow surprising behavior Record the"
+  },
+  {
+    "start": 281.3921376073275,
+    "end": 285.3046771932556,
+    "text": "data actions and findings so another person can understand"
+  },
+  {
+    "start": 285.31710101571935,
+    "end": 289.9873293801423,
+    "text": "the investigation A timebox helps focus the session but"
+  },
+  {
+    "start": 289.9997532026061,
+    "end": 294.9680877243263,
+    "text": "curiosity should still respond to evidence Exploration is not"
+  },
+  {
+    "start": 294.98047482096354,
+    "end": 300.04816581984073,
+    "text": "random clicking It combines learning test design and execution"
+  },
+  {
+    "start": 300.06058964230454,
+    "end": 302.94221866319447,
+    "text": "while the tester updates the next question based on"
+  },
+  {
+    "start": 302.9546433600827,
+    "end": 304.7432418291912,
+    "text": "what the product actually does"
+  },
+  {
+    "start": 306.37079445167825,
+    "end": 312.3648687301071,
+    "text": "Equivalence partitioning groups inputs with similar behavior Boundary analysis"
+  },
+  {
+    "start": 312.3772960804127,
+    "end": 317.59515293353047,
+    "text": "checks values around limits Decision tables cover combinations of"
+  },
+  {
+    "start": 317.6075435501664,
+    "end": 322.8254371369539,
+    "text": "rules such as membership and coupon eligibility Use equivalence"
+  },
+  {
+    "start": 322.8378277535898,
+    "end": 326.29155799063227,
+    "text": "partitioning and boundaries for a coupon that accepts whole-number"
+  },
+  {
+    "start": 326.3039844663267,
+    "end": 331.00006403040004,
+    "text": "quantities from one through ten Valid quantities form one"
+  },
+  {
+    "start": 331.0124537724248,
+    "end": 335.5221676870841,
+    "text": "partition zero and negative values are invalid values above"
+  },
+  {
+    "start": 335.5345950373897,
+    "end": 341.00091405933523,
+    "text": "ten are invalid Representative examples can reduce redundant checks"
+  },
+  {
+    "start": 341.8581432201245,
+    "end": 346.2933323904532,
+    "text": "Boundary analysis gives special attention to zero one ten"
+  },
+  {
+    "start": 346.30575974075884,
+    "end": 350.2688407911513,
+    "text": "and eleven Other values may be needed depending on"
+  },
+  {
+    "start": 350.28123140778723,
+    "end": 354.05798441704644,
+    "text": "the input type and risks If the input permits"
+  },
+  {
+    "start": 354.0704117673521,
+    "end": 359.8597544361256,
+    "text": "decimals or text those introduce additional partitions The specification"
+  },
+  {
+    "start": 359.87214505276154,
+    "end": 364.19549419261796,
+    "text": "must define the expected result A technique helps choose"
+  },
+  {
+    "start": 364.20795740198207,
+    "end": 367.68650385674374,
+    "text": "inputs but it cannot resolve an unclear rule about"
+  },
+  {
+    "start": 367.6989312070493,
+    "end": 369.88545916567205,
+    "text": "whether a particular input is allowed"
+  },
+  {
+    "start": 371.5041257713174,
+    "end": 374.3490602471322,
+    "text": "Use T D D for calculations B D D"
+  },
+  {
+    "start": 374.361450578488,
+    "end": 377.2312383080714,
+    "text": "for shared renewal behavior A T D D for"
+  },
+  {
+    "start": 377.2436295140183,
+    "end": 381.34327416992795,
+    "text": "refund acceptance boundary tests for limits and exploration for"
+  },
+  {
+    "start": 381.35570123410776,
+    "end": 386.6539370610221,
+    "text": "user journeys Select methods based on risk Build a"
+  },
+  {
+    "start": 386.66636412520194,
+    "end": 389.74732885969274,
+    "text": "decision table for two conditions the customer is a"
+  },
+  {
+    "start": 389.7597191910486,
+    "end": 393.4245469147306,
+    "text": "member and the coupon is valid There are four"
+  },
+  {
+    "start": 393.43697397891043,
+    "end": 397.46209648092935,
+    "text": "combinations Agree on the outcome for a member with"
+  },
+  {
+    "start": 397.47452354510915,
+    "end": 400.65482782902643,
+    "text": "a valid coupon a member with an invalid coupon"
+  },
+  {
+    "start": 400.8039097442229,
+    "end": 403.93454425342696,
+    "text": "a nonmember with a valid coupon and a nonmember"
+  },
+  {
+    "start": 403.94697131760677,
+    "end": 408.45661725939044,
+    "text": "with an invalid coupon Maybe membership is required or"
+  },
+  {
+    "start": 408.4690075907463,
+    "end": 411.82328290186155,
+    "text": "maybe the coupon is available to anyone the product"
+  },
+  {
+    "start": 411.8357090914503,
+    "end": 417.6249184670974,
+    "text": "rule decides A table makes missing combinations visible Add"
+  },
+  {
+    "start": 417.63730879845326,
+    "end": 420.9791211871558,
+    "text": "columns only when they affect the decision because many"
+  },
+  {
+    "start": 420.9915841095685,
+    "end": 424.6191332644842,
+    "text": "independent conditions can produce more combinations than a team"
+  },
+  {
+    "start": 424.631559454073,
+    "end": 426.8677427032861,
+    "text": "can practically test through the interface"
+  },
+  {
+    "start": 428.4707987476336,
+    "end": 432.0240803289282,
+    "text": "For your exercise design checks for a discount feature"
+  },
+  {
+    "start": 432.0365082896461,
+    "end": 435.89391498835005,
+    "text": "with a minimum spend of five hundred rupees State"
+  },
+  {
+    "start": 435.906342949068,
+    "end": 440.04356637723896,
+    "text": "whether the threshold is inclusive then choose values immediately"
+  },
+  {
+    "start": 440.05599346330274,
+    "end": 443.95713286915685,
+    "text": "below at and above it Add an expired coupon"
+  },
+  {
+    "start": 443.96956082987475,
+    "end": 449.3616208187709,
+    "text": "example and one combination of membership and eligibility Finally"
+  },
+  {
+    "start": 449.4858584425513,
+    "end": 453.00185876565456,
+    "text": "write a short exploratory charter about changing the basket"
+  },
+  {
+    "start": 453.01428585171834,
+    "end": 457.67331307248435,
+    "text": "after applying a coupon Explain which method supports each"
+  },
+  {
+    "start": 457.68574103320225,
+    "end": 463.7859437572812,
+    "text": "part Boundary analysis addresses the threshold shared examples clarify"
+  },
+  {
+    "start": 463.79837084334497,
+    "end": 470.17193884793215,
+    "text": "behavior and exploration investigates interactions The strongest plan combines"
+  },
+  {
+    "start": 470.18436680865005,
+    "end": 473.92398645787824,
+    "text": "these views while avoiding multiple expensive checks that all"
+  },
+  {
+    "start": 473.9364144185962,
+    "end": 475.56396297600844,
+    "text": "prove the same narrow rule"
+  },
+  {
+    "start": 477.17080129153106,
+    "end": 481.8856146320122,
+    "text": "Work through a boundary example numerically The fictional coupon"
+  },
+  {
+    "start": 481.89804295419253,
+    "end": 485.06627759692645,
+    "text": "applies when the qualifying subtotal is at least five"
+  },
+  {
+    "start": 485.07870591910677,
+    "end": 489.57634506617865,
+    "text": "hundred rupees Test four hundred and ninety-nine five hundred"
+  },
+  {
+    "start": 489.5887725136794,
+    "end": 491.94938663394703,
+    "text": "and five hundred and one when the rule operates"
+  },
+  {
+    "start": 491.96181495612734,
+    "end": 496.86949601911414,
+    "text": "on whole rupees If the application supports paise values"
+  },
+  {
+    "start": 496.881887604752,
+    "end": 500.8080321052696,
+    "text": "immediately around the boundary need that finer precision instead"
+  },
+  {
+    "start": 501.6528999830548,
+    "end": 505.47962315420733,
+    "text": "Confirm whether the subtotal is calculated before or after"
+  },
+  {
+    "start": 505.49205147638764,
+    "end": 510.72270710034013,
+    "text": "other discounts and whether tax contributes Without those decisions"
+  },
+  {
+    "start": 510.87180410720447,
+    "end": 513.8039845977521,
+    "text": "two tests with the same apparent basket value may"
+  },
+  {
+    "start": 513.8164129199324,
+    "end": 519.5813167097998,
+    "text": "legitimately expect different results Boundary analysis is effective only"
+  },
+  {
+    "start": 519.5937450319801,
+    "end": 522.7620155365769,
+    "text": "when the unit precision and rule being bounded are"
+  },
+  {
+    "start": 522.7744079968944,
+    "end": 523.5074620849971,
+    "text": "explicit"
+  },
+  {
+    "start": 525.1374823446328,
+    "end": 529.7784924629237,
+    "text": "Add an interaction example A customer applies a coupon"
+  },
+  {
+    "start": 529.7909595718573,
+    "end": 532.9845384304379,
+    "text": "to a qualifying basket then removes an item so"
+  },
+  {
+    "start": 532.9969687967866,
+    "end": 536.8243213744703,
+    "text": "the basket falls below the minimum The total should"
+  },
+  {
+    "start": 536.8367508659957,
+    "end": 539.6575823260946,
+    "text": "be recalculated according to the agreed rule and the"
+  },
+  {
+    "start": 539.6699759498587,
+    "end": 543.9446913674082,
+    "text": "customer should understand the change A focused rule check"
+  },
+  {
+    "start": 543.957121733757,
+    "end": 547.2004203080861,
+    "text": "can verify the arithmetic while a browser journey can"
+  },
+  {
+    "start": 547.2128497996115,
+    "end": 552.084048712041,
+    "text": "verify the integration and message An exploratory session can"
+  },
+  {
+    "start": 552.0964790783897,
+    "end": 556.2717559392655,
+    "text": "investigate other sequences such as changing quantity while a"
+  },
+  {
+    "start": 556.2841854307909,
+    "end": 561.0559457865465,
+    "text": "request is still pending Avoid writing every variation as"
+  },
+  {
+    "start": 561.0683761528954,
+    "end": 565.9022489733403,
+    "text": "a slow end-to-end test automatically Choose the least expensive"
+  },
+  {
+    "start": 565.9146793396892,
+    "end": 569.5804808960098,
+    "text": "layer that provides useful evidence and retain a smaller"
+  },
+  {
+    "start": 569.5929480049434,
+    "end": 572.8362465792726,
+    "text": "set of integrated journeys for risks that depend on"
+  },
+  {
+    "start": 572.848676070798,
+    "end": 573.7309713841807,
+    "text": "interactions"
+  },
+  {
+    "start": 575.3374640804598,
+    "end": 580.6981008369253,
+    "text": "Different techniques answer different quality questions Knowledge check which"
+  },
+  {
+    "start": 580.710527733477,
+    "end": 584.6737438793103,
+    "text": "technique targets values immediately above and below an allowed"
+  },
+  {
+    "start": 584.6861716505028,
+    "end": 588.4630525700431,
+    "text": "limit Subscribe to Tech at sixty for the next"
+  },
+  {
+    "start": 588.4754794665948,
+    "end": 593.4947150538793,
+    "text": "episode in this Agile Testing Masterclass Practice the example"
+  },
+  {
+    "start": 593.5071428250718,
+    "end": 596.762191174569,
+    "text": "with synthetic data and share the most important risk"
+  },
+  {
+    "start": 596.7746180711207,
+    "end": 598.737566557112,
+    "text": "you identified in the comments"
+  }
+]

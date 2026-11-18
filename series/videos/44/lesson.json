@@ -1,0 +1,16 @@
+{
+  "videoNumber": 44,
+  "phase": "Phase 4 — JavaScript for Beginners",
+  "topic": "JavaScript Arrays",
+  "description": "Store and access multiple values.",
+  "publishLocal": "2026-11-10T11:00:00+05:30",
+  "publishAt": "2026-11-10T05:30:00Z",
+  "status": "planned",
+  "definition": "An array stores an ordered collection of values.",
+  "code": "const skills = [\"HTML\", \"CSS\"];\nskills.push(\"JavaScript\");\nconsole.log(skills[0]);",
+  "preview": "<p>0 → HTML</p><p>1 → CSS</p><p>2 → JavaScript</p>",
+  "rule": "Array positions start at zero, so index zero gives the first item.",
+  "tip": "Push appends an item, and length reports the number of items.",
+  "caution": "An array with three items has a last index of two.",
+  "exercise": "Create an array of three skills and read its first item."
+}

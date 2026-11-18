@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "H T M L Input Types. Let’s make it simple.",
+    "idea": "Input types tell a browser what kind of value to collect. Start by understanding the role it plays in a page.",
+    "code": "Email, password, and number types offer different input behavior. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "An email field can participate in browser validation. Keep this detail in mind when writing your own example.",
+    "caution": "Masking a password field does not encrypt or securely store its value. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Try three input types and compare their behavior. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

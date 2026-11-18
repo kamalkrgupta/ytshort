@@ -1,0 +1,19 @@
+AI and Python for Beginners: Variables, Strings and Functions | Ep 42
+
+AI and Python for Beginners: Variables, Strings and Functions. Learn with a simple example and a beginner exercise.
+
+AI for Beginners — Episode 42 of 50
+
+What you will learn: Learn variables, strings and a simple function.
+Example: a Python program printing a welcome message.
+Try it: type and run a five-line example.
+Remember: test code and never run unknown scripts blindly.
+
+Follow the series in episode order and practice with sample data. Share your question or exercise result in the comments.
+Subscribe to @Techat60 for practical AI tutorials.
+
+#AIForBeginners #ArtificialIntelligence #LearnAI
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk
+
+Tags: ai and python for absolute beginners, AI for beginners, artificial intelligence tutorial, learn AI, AI tutorial English, Techat60

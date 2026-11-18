@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Fonts and Text Styling. Let’s make it simple.",
+    "idea": "Text properties control the presentation of written content. Start by understanding the role it plays in a page.",
+    "code": "Font size, weight, and line height affect readability.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Relative units can help text scale with user preferences. Keep this detail in mind when writing your own example.",
+    "caution": "Use real heading elements for structure, even when styling changes their size.",
+    "try": "Give a heading bold weight and a paragraph comfortable line spacing. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

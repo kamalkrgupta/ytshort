@@ -1,0 +1,16 @@
+{
+  "videoNumber": 35,
+  "phase": "Phase 3 — Build Beautiful Websites with CSS",
+  "topic": "CSS Media Queries",
+  "description": "Change layouts based on screen size.",
+  "publishLocal": "2026-11-05T16:00:00+05:30",
+  "publishAt": "2026-11-05T10:30:00Z",
+  "status": "planned",
+  "definition": "Media queries apply styles when specified conditions match.",
+  "code": ".cards { display: block; }\n@media (min-width: 700px) {\n .cards { display: flex; }\n}",
+  "preview": "<div style=\"display:flex;gap:12px\"><div style=\"padding:25px;background:#d9e8ff\">Wide</div><div style=\"padding:25px;background:#ffd6a5\">Layout</div></div>",
+  "rule": "A minimum width query can add a wider layout when space is available.",
+  "tip": "Write the narrow layout first, then add larger-screen adjustments.",
+  "caution": "Choose breakpoints where the content needs them, rather than by device names.",
+  "exercise": "Stack two cards on mobile and place them together on wider screens."
+}

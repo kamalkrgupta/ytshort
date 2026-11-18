@@ -1,0 +1,12 @@
+{
+  "title": "Build a JavaScript To-Do List: Add and Remove Tasks",
+  "description": "Type a task, click Add, and put it in a list. Here is the basic idea. An input becomes a new list item. Create the item, set text, append it.\n\nTry it: Add a task and a remove button.\n\nReject empty input; use textContent.\n\nFind the complete Web Development for Beginners playlist on @Techat60. Subscribe for practical HTML, CSS and JavaScript projects.\n\nWeb Development in 60 Seconds \u2022 Lesson 50\n\nReference: https://developer.mozilla.org/en-US/docs/Learn_web_development\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "build a javascript to-do list: add and remove tasks",
+    "web development for beginners",
+    "beginner coding projects",
+    "Tech at 60"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-18T10:30:00+00:00"
+}

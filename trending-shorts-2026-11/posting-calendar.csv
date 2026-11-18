@@ -1,0 +1,21 @@
+number,title,publishLocal,publishAt,status,url
+1,Satellite Messaging: How a Phone Connects Beyond Cell Towers,2026-11-17T20:00:00+05:30,2026-11-17T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=LaHg-DLtkGk
+2,CPU vs GPU vs NPU: What Does an AI Chip Do?,2026-11-18T20:00:00+05:30,2026-11-18T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=Tk7OJdGctAw
+3,Wi-Fi 7 Explained: Why Multiple Links Matter,2026-11-19T20:00:00+05:30,2026-11-19T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=9_F2twaF3wU
+4,WebGPU Explained: How AI Can Run Inside a Browser,2026-11-20T20:00:00+05:30,2026-11-20T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=OITndaBo7DA
+5,"Auracast Explained: One Audio Broadcast, Many Listeners",2026-11-21T20:00:00+05:30,2026-11-21T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=33CoAipp1IY
+6,AI Agents vs Chatbots: What Actually Changes?,2026-11-22T20:00:00+05:30,2026-11-22T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=xSDwH6K06gs
+7,"USB-C Explained: Same Plug, Different Capabilities",2026-11-23T20:00:00+05:30,2026-11-23T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=P16SZw6Mnos
+8,Prompt Injection: When a Webpage Tries to Boss an AI Around,2026-11-24T20:00:00+05:30,2026-11-24T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=iq6X3rK4MnQ
+9,AI Watermarks Explained: What They Can and Cannot Prove,2026-11-25T20:00:00+05:30,2026-11-25T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=KezWw164_cI
+10,Semantic Search: Finding Meaning Instead of Exact Words,2026-11-26T20:00:00+05:30,2026-11-26T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=8L9U4DgDQNM
+11,Small Language Models: Why Smaller Can Be Useful,2026-11-27T20:00:00+05:30,2026-11-27T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=cgF6ZsE0-TA
+12,Local AI vs Cloud AI: Where Does Your Prompt Go?,2026-11-28T20:00:00+05:30,2026-11-28T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=ToFx7CqzB5M
+13,Matter Explained: A Common Language for Smart Homes,2026-11-29T20:00:00+05:30,2026-11-29T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=G0-bd_osQYU
+14,Passkeys Explained: Sign In Without Typing a Password,2026-11-30T20:00:00+05:30,2026-11-30T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=Vb4NBi7S96U
+15,Post-Quantum Encryption: Why Prepare Before Quantum Computers?,2026-12-01T20:00:00+05:30,2026-12-01T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=GbqpbH7PS2U
+16,Vibe Coding: The Part You Still Need to Check,2026-12-02T20:00:00+05:30,2026-12-02T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=PsnmvWSmTHc
+17,AI Glasses vs AR Glasses: Do They All Have a Screen?,2026-12-03T20:00:00+05:30,2026-12-03T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=SaNjutTSq8A
+18,AI World Models: Predicting What Happens Next,2026-12-04T20:00:00+05:30,2026-12-04T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=dmXC41kFCYs
+19,MCP Explained: How AI Apps Connect to Tools,2026-12-05T20:00:00+05:30,2026-12-05T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=2SR116GfQRM
+20,Digital Twins Explained: Test a Change Before Making It,2026-12-06T20:00:00+05:30,2026-12-06T14:30:00+00:00,scheduled,https://www.youtube.com/watch?v=Vodz47Dd5Ro

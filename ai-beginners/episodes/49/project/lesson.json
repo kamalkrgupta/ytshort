@@ -1,0 +1,105 @@
+{
+  "episode": 49,
+  "topic": "Capstone: AI Content Production",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Hook and promise",
+      "text": "Have you ever wondered how to make technology work for you instead of spending hours figuring everything out? Welcome to episode 49 of AI for Beginners. Today, we’re looking at capstone: ai content production. By the end, you’ll understand one practical idea, watch a realistic example, and try a small exercise yourself. You don’t need a technical background or expensive software. Bring your curiosity. We’ll work through it together. Here’s the example we’ll use: a three-minute tutorial about secure passwords. We’ll use that situation to make the topic concrete. Watch how we break the task into small steps, because the same thinking will help you use many different AI tools later in this course.",
+      "direction": "Presenter on right; large title “Capstone: AI Content Production” on left; animated question mark and simple example icon.",
+      "cards": [
+        "One practical AI skill",
+        "Capstone: AI Content Production",
+        "Try a beginner exercise"
+      ],
+      "summary": "Learn one practical idea, see an example, and try it yourself.",
+      "start": 0,
+      "duration": 61.0,
+      "speechDuration": 55.416,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-02",
+      "title": "Explain the concept",
+      "text": "Let’s start with the main idea. plan a full educational video from idea to upload.\n\nThink of AI as a tool that processes information and returns an output based on its training, instructions, and any relevant information it can access. It can save time on drafts and patterns, but it doesn’t automatically know what’s correct for your situation. The most useful habit is to define what you want before touching the tool.\n\nAsk yourself three questions: what’s my goal, what information does the tool need, and how will I check the result? Those questions work whether you’re writing a prompt, building a workflow, or reviewing a generated answer.",
+      "direction": "Full-width explainer diagram: INPUT → AI TOOL → OUTPUT → HUMAN CHECK. Highlight “plan a full educational video from idea to upload”.",
+      "cards": [
+        "Plan a full educational video from idea to upload.",
+        "Inputs shape the response",
+        "Human review remains essential"
+      ],
+      "summary": "Plan a full educational video from idea to upload.",
+      "start": 61.0,
+      "duration": 52.233333,
+      "speechDuration": 46.656,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-03",
+      "title": "On-screen demonstration",
+      "text": "Let’s try it with an example. Our example is a three-minute tutorial about secure passwords.\n\nStart by writing down the desired result in one sentence. Next, identify the input: what would a person need to know to do this task correctly? Then write a simple instruction with that context and a clear format. On screen, I am showing a sample request, followed by a possible output. Notice that we’re not judging the result by how impressive it sounds. We’re checking whether it actually meets the task. If the output is too broad, ask for a more specific version. If a fact matters, verify it from a reliable source.\n\nPause the video here if you’d like to copy the structure into your own notes.",
+      "direction": "Screen capture or mock interface showing: a three-minute tutorial about secure passwords. Zoom to prompt/input and result; blur account details.",
+      "cards": [
+        "A three-minute tutorial about secure passwords",
+        "Define input and desired output",
+        "Compare the response with your goal"
+      ],
+      "summary": "A three-minute tutorial about secure passwords",
+      "start": 113.233333,
+      "duration": 60.166667,
+      "speechDuration": 54.6,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-04",
+      "title": "Guided beginner exercise",
+      "text": "Your turn. Try this exercise: produce a script, shot list and description. Begin with a very small example, not a complex project. Give yourself thirty seconds to decide what success would look like. Then complete the task once and inspect the result. What’s useful? What’s missing? What would you change? Make one improvement and compare the first and second versions. This simple before-and-after comparison teaches you more than copying a complicated prompt from the internet. If your chosen tool is unavailable, do the exercise on paper: sketch the input, the steps, and the output. The objective is to practice the underlying thinking, not to depend on one particular app.",
+      "direction": "Split screen: exercise instruction “produce a script, shot list and description” on left; worked sample on right; 10-second pause card.",
+      "cards": [
+        "Produce a script, shot list and description",
+        "Make one improvement",
+        "Compare your two attempts"
+      ],
+      "summary": "Produce a script, shot list and description",
+      "start": 173.4,
+      "duration": 60.633333,
+      "speechDuration": 55.056,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-05",
+      "title": "Limitations, recap and CTA",
+      "text": "Before we finish, remember this important limitation: review accuracy, music rights and thumbnails. Responsible AI use means understanding the strengths of the tool and keeping yourself accountable for the final result. Today you learned that plan a full educational video from idea to upload, saw the example of a three-minute tutorial about secure passwords, and practiced a small hands-on task. Here’s your challenge: repeat the exercise with a different topic and write down one thing that improved. In the comments, share the part you found easiest or the question you still have. If this helped, share it with someone learning AI. And subscribe to Tech at sixty for the next lesson. We’re building practical AI skills one simple step at a time. Thanks for watching. See you in the next lesson.",
+      "direction": "Three-point recap animation; caution banner “review accuracy, music rights and thumbnails”; subscribe end screen with next-episode placeholder.",
+      "cards": [
+        "Plan a full educational video from idea to upload.",
+        "Review accuracy, music rights and thumbnails",
+        "Practice again with a new example"
+      ],
+      "summary": "Review accuracy, music rights and thumbnails",
+      "start": 234.033333,
+      "duration": 65.966667,
+      "speechDuration": 60.384,
+      "speed": 1.0
+    }
+  ],
+  "visual": {
+    "example": "A three-minute tutorial about secure passwords",
+    "question": "Produce a script, shot list and description?",
+    "steps": [
+      "Define your goal",
+      "Provide useful input",
+      "Review the output"
+    ],
+    "checks": [
+      "Check accuracy",
+      "Refine the response",
+      "Compare the result"
+    ],
+    "result": "Review accuracy, music rights and thumbnails"
+  },
+  "publishAt": "2026-11-20T14:00:00+05:30",
+  "plannedDate": "2026-11-20",
+  "status": "prepared",
+  "duration": 300
+}

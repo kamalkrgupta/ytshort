@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 27%
+Upload 35%
+Upload 44%
+Upload 53%
+Upload 62%
+Upload 71%
+Upload 80%
+Upload 89%
+Upload 97%
+Uploaded: https://www.youtube.com/watch?v=DW8w75cuN7A
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "9b7edb20faf8ecf33dead196e5a4c22f7fd663f196f90dd309177a07aed25387",
+  "title": "What Is an AI API? Requests and Responses Explained Simply | Ep 41",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:15:33Z",
+  "publishAt": "2026-11-16T14:00:00+05:30",
+  "videoId": "DW8w75cuN7A",
+  "url": "https://www.youtube.com/watch?v=DW8w75cuN7A",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-16T08:30:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "Imagine several people listening to the same television through their own earbuds. Auracast is designed for shared audio.",
+    "idea": "A compatible transmitter broadcasts an audio stream that nearby compatible receivers can join.",
+    "demo": "Instead of creating a separate one to one link for every listener, one broadcast serves many receivers.",
+    "compare": "A phone or another assistant can help you discover the broadcast and choose which stream to hear.",
+    "takeaway": "An ordinary Bluetooth label alone is not enough. Check Auracast support on both ends of the connection.",
+    "close": "Where would shared audio be useful? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

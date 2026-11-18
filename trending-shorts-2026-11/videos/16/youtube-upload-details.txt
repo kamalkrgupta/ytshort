@@ -1,0 +1,15 @@
+Vibe Coding: The Part You Still Need to Check
+
+AI can turn a description into a draft implementation. Ask for a small feature, then test normal and edge cases.
+
+Understand changes before running them on real data.
+
+What test would you run first?
+Subscribe to @Techat60 for clear, beginner-friendly tech explainers.
+
+Source checked November 16, 2026:
+https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/
+
+Original illustrative diagrams; not a product demonstration or benchmark.
+
+#Technology #TechExplained #Shorts

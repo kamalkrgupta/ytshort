@@ -1,0 +1,5 @@
+{
+  "http_status": 400,
+  "debug_type": "ProcessingFailedError",
+  "message": "Request processing failed"
+}

@@ -1,0 +1,19 @@
+Reusable AI Prompt Templates: Stop Starting from Scratch | Ep 13
+
+Reusable AI Prompt Templates: Stop Starting from Scratch. Learn with a simple example and a beginner exercise.
+
+AI for Beginners — Episode 13 of 50
+
+What you will learn: Create reusable templates with placeholders.
+Example: a weekly meeting-summary prompt.
+Try it: save a prompt with audience, input and desired format.
+Remember: templates still need real context and human review.
+
+Follow the series in episode order and practice with sample data. Share your question or exercise result in the comments.
+Subscribe to @Techat60 for practical AI tutorials.
+
+#AIForBeginners #ArtificialIntelligence #LearnAI
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk
+
+Tags: advanced prompt templates for beginners, AI for beginners, artificial intelligence tutorial, learn AI, AI tutorial English, Techat60, prompt engineering, AI prompts

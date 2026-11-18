@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "H T M L Comments. Let’s make it simple.",
+    "idea": "H T M L comments are notes that browsers do not display as page content. Start by understanding the role it plays in a page.",
+    "code": "A comment begins with an angle bracket, exclamation mark, and two hyphens.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "It ends with two hyphens and a closing angle bracket. Keep this detail in mind when writing your own example.",
+    "caution": "Comments remain visible in source code, so never put secrets there.",
+    "try": "Add a short comment explaining the next section of your page. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

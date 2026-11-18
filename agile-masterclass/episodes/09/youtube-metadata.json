@@ -1,0 +1,18 @@
+{
+  "title": "Agile Test Documentation: Test Cases, Bug Reports and Traceability",
+  "description": "Learn which testing documents help an Agile team: acceptance criteria, test cases, bug reports, exploratory charters and traceability. Follow a practical document example.\n\nTry answering: What information would another tester need to reproduce your bug report?\n\nNext lesson: https://www.youtube.com/watch?v=X0hokSm8f2U\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nAgile Testing Masterclass \u2014 Episode 9 of 12 | English | 10-minute lesson.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Stories and criteria\n\u2022 Test cases\n\u2022 Defect reports\n\u2022 Plans and charters\n\u2022 Traceability\n\u2022 Practical document set\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:58 Stories and criteria\n01:56 Test cases\n03:01 Defect reports\n04:07 Plans and charters\n05:07 Traceability\n06:06 Practical document set\n07:11 Worked example\n07:58 A closer look\n08:47 Verify the outcome\n09:37 Recap\n\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+  "tags": [
+    "agile testing",
+    "agile testing artifacts and documentation",
+    "software testing tutorial",
+    "agile testing for beginners",
+    "QA tutorial",
+    "manual testing",
+    "software quality assurance",
+    "Techat60",
+    "agile testing masterclass"
+  ],
+  "video": "video.mp4",
+  "thumbnail": "thumbnail.jpg",
+  "publishAt": "2026-10-27T18:00:00+05:30"
+}

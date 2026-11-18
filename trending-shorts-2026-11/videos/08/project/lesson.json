@@ -1,0 +1,39 @@
+{
+  "number": 8,
+  "slug": "prompt-injection",
+  "title": "Prompt Injection: When a Webpage Tries to Boss an AI Around",
+  "category": "SECURITY",
+  "source": "https://www.anthropic.com/research/prompt-injection-defenses",
+  "headline": "When a webpage\ntries to give orders.",
+  "meaning": "Untrusted content can contain instructions aimed at an AI.",
+  "example": "A page summary should not become permission to take actions.",
+  "comparison": "Reading a page is different from obeying it.",
+  "caution": "Prompt injection remains an unsolved security challenge.",
+  "question": "Should a page be allowed to give orders?",
+  "flow": [
+    "Your task",
+    "Untrusted page",
+    "Check authority"
+  ],
+  "left": [
+    "YOUR REQUEST",
+    "Summarize this page"
+  ],
+  "right": [
+    "PAGE CONTENT",
+    "May contain hostile instructions"
+  ],
+  "lines": [
+    "You ask an A I to summarize a webpage. The page contains instructions trying to redirect the assistant.",
+    "That is prompt injection: untrusted content attempts to influence how an A I follows your task.",
+    "The trick becomes more serious when an assistant can also use tools or access private information.",
+    "Text on a webpage is information to inspect. It should not automatically become an instruction to obey.",
+    "Defenses help, but the problem is not fully solved. Limit access and check important actions.",
+    "Should a page give orders? Subscribe to Tech at sixty for practical tech explained."
+  ],
+  "publishLocal": "2026-11-23T20:00:00+05:30",
+  "publishAt": "2026-11-23T14:30:00+00:00",
+  "status": "prepared",
+  "accent": "#8fc9ff",
+  "updatedAt": "2026-11-16T15:22:33.244474+05:30"
+}

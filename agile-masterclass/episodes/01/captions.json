@@ -1,0 +1,712 @@
+[
+  {
+    "start": 0.3324632931971752,
+    "end": 3.2608717236955744,
+    "text": "Imagine your team has spent three months developing a"
+  },
+  {
+    "start": 3.2725542984428184,
+    "end": 7.963580986447695,
+    "text": "mobile application The design looks perfect the developers are"
+  },
+  {
+    "start": 7.975298195778082,
+    "end": 11.875915043120967,
+    "text": "confident and the client is excited But one day"
+  },
+  {
+    "start": 11.887632252451354,
+    "end": 15.483684120497383,
+    "text": "before launch your testing team discovers that users cannot"
+  },
+  {
+    "start": 15.49540132982777,
+    "end": 20.32139321590967,
+    "text": "complete their payments The launch gets delayed development costs"
+  },
+  {
+    "start": 20.33307579065691,
+    "end": 25.48703079084743,
+    "text": "increase and customer confidence suffers Now imagine discovering the"
+  },
+  {
+    "start": 25.498748000177816,
+    "end": 29.44619740099324,
+    "text": "same issue during the first week of development That"
+  },
+  {
+    "start": 29.45794842027384,
+    "end": 33.639662018302595,
+    "text": "is exactly where Agile Testing makes a difference Welcome"
+  },
+  {
+    "start": 33.65137840300005,
+    "end": 37.36459741655235,
+    "text": "to this lesson We will explain what Agile Testing"
+  },
+  {
+    "start": 37.3762799912996,
+    "end": 40.45693627686328,
+    "text": "is how it differs from traditional testing and how"
+  },
+  {
+    "start": 40.468653486193666,
+    "end": 42.70595107516638,
+    "text": "software teams apply it in practice"
+  },
+  {
+    "start": 44.265822050037826,
+    "end": 47.14825167423234,
+    "text": "Agile Testing is an approach in which testing happens"
+  },
+  {
+    "start": 47.15997249598888,
+    "end": 52.29771292540633,
+    "text": "continuously throughout software development Rather than waiting for developers"
+  },
+  {
+    "start": 52.30939992678902,
+    "end": 55.96516209497534,
+    "text": "to finish an entire application testers collaborate with them"
+  },
+  {
+    "start": 55.976882091844715,
+    "end": 60.862928824417565,
+    "text": "from the beginning Consider an e-commerce website In the"
+  },
+  {
+    "start": 60.87464964617411,
+    "end": 65.47947914530667,
+    "text": "first sprint developers implement login while testers prepare scenarios"
+  },
+  {
+    "start": 65.49119996706321,
+    "end": 70.01402165870965,
+    "text": "for valid credentials incorrect passwords empty fields and security"
+  },
+  {
+    "start": 70.82251419330959,
+    "end": 73.28308332208265,
+    "text": "In the next sprint the team builds a shopping"
+  },
+  {
+    "start": 73.2948387891002,
+    "end": 76.48185799972606,
+    "text": "cart and testers verify both the new feature and"
+  },
+  {
+    "start": 76.49361346674362,
+    "end": 82.42245533461819,
+    "text": "existing login behavior This process continues throughout delivery The"
+  },
+  {
+    "start": 82.43420997674858,
+    "end": 86.04305751219638,
+    "text": "key idea is to identify problems early resolve them"
+  },
+  {
+    "start": 86.05481215432678,
+    "end": 90.41354976536616,
+    "text": "quickly and continuously improve the product Let us make"
+  },
+  {
+    "start": 90.42530440749654,
+    "end": 94.70203503593697,
+    "text": "that difference concrete Suppose a customer has one thousand"
+  },
+  {
+    "start": 94.71375585769351,
+    "end": 97.58446548501865,
+    "text": "rupees in a wallet and purchases an item costing"
+  },
+  {
+    "start": 97.5961863067752,
+    "end": 101.65033515627039,
+    "text": "three hundred rupees The expected remaining balance is seven"
+  },
+  {
+    "start": 101.66202050787874,
+    "end": 106.05595357967442,
+    "text": "hundred That arithmetic is simple but the workflow raises"
+  },
+  {
+    "start": 106.06767440143096,
+    "end": 110.07494161367433,
+    "text": "more questions What if the request is submitted twice"
+  },
+  {
+    "start": 110.88343414827423,
+    "end": 113.29715710994364,
+    "text": "What if the payment service accepts it but the"
+  },
+  {
+    "start": 113.30887793170018,
+    "end": 118.23008547976835,
+    "text": "browser loses the response A good testing conversation identifies"
+  },
+  {
+    "start": 118.24180630152486,
+    "end": 121.48746179153298,
+    "text": "those risks before the team commits to one implementation"
+  },
+  {
+    "start": 122.29592050575906,
+    "end": 126.24461990425505,
+    "text": "Early testing includes asking useful questions not just running"
+  },
+  {
+    "start": 126.25634072601159,
+    "end": 127.65067472574418,
+    "text": "a finished application"
+  },
+  {
+    "start": 129.23245812740254,
+    "end": 132.64086482358596,
+    "text": "In a typical Waterfall project work moves through sequential"
+  },
+  {
+    "start": 132.6525804743273,
+    "end": 138.67861960032263,
+    "text": "phases requirements design implementation and testing Major defects may"
+  },
+  {
+    "start": 138.69030226781302,
+    "end": 143.77363885227896,
+    "text": "remain undiscovered until late in delivery Agile works differently"
+  },
+  {
+    "start": 144.59354804880562,
+    "end": 148.28310232701813,
+    "text": "Development and testing take place together in short iterations"
+  },
+  {
+    "start": 148.41194315108459,
+    "end": 153.81154128655274,
+    "text": "commonly called sprints Testers collaborate with developers Product Owners"
+  },
+  {
+    "start": 153.82325776187537,
+    "end": 158.6723448242724,
+    "text": "and stakeholders throughout the process Frequent feedback allows teams"
+  },
+  {
+    "start": 158.68406129959502,
+    "end": 162.95924061985176,
+    "text": "to adjust priorities If a customer requests a discount"
+  },
+  {
+    "start": 162.9709562705931,
+    "end": 166.35596547312605,
+    "text": "feature the team can clarify it prioritize it and"
+  },
+  {
+    "start": 166.36768194844865,
+    "end": 170.25633797192478,
+    "text": "validate it in an upcoming sprint The objective is"
+  },
+  {
+    "start": 170.2680198148339,
+    "end": 172.9736771202293,
+    "text": "not merely to work faster but to validate that"
+  },
+  {
+    "start": 172.98539277097063,
+    "end": 175.14053900329492,
+    "text": "the team is building the right product at the"
+  },
+  {
+    "start": 175.15225547861752,
+    "end": 176.38211762424493,
+    "text": "right quality level"
+  },
+  {
+    "start": 177.932493859099,
+    "end": 182.2212118289106,
+    "text": "First continuous testing means that quality is evaluated throughout"
+  },
+  {
+    "start": 182.2329672038322,
+    "end": 188.1444078520239,
+    "text": "development Second shared responsibility means developers testers and other"
+  },
+  {
+    "start": 188.15609475704247,
+    "end": 193.12445900850582,
+    "text": "team members contribute to quality Third early feedback enables"
+  },
+  {
+    "start": 193.13621520836602,
+    "end": 196.7922052788884,
+    "text": "problems to be investigated before additional work depends on"
+  },
+  {
+    "start": 196.80389218390695,
+    "end": 201.92462919263485,
+    "text": "them Fourth customer collaboration ensures regular feedback on real"
+  },
+  {
+    "start": 201.93635074507424,
+    "end": 206.77581751675683,
+    "text": "business needs Fifth working software matters a feature is"
+  },
+  {
+    "start": 206.7875390691962,
+    "end": 210.79505609680413,
+    "text": "not complete merely because coding has finished It should"
+  },
+  {
+    "start": 210.80677764924351,
+    "end": 214.68539802200928,
+    "text": "satisfy agreed acceptance criteria and the Definition of Done"
+  },
+  {
+    "start": 215.50562786352177,
+    "end": 219.25535158144535,
+    "text": "Together these principles encourage teams to build quality into"
+  },
+  {
+    "start": 219.2670731338847,
+    "end": 222.06763570803284,
+    "text": "the product instead of treating testing as a final"
+  },
+  {
+    "start": 222.07935726047222,
+    "end": 226.29781768530498,
+    "text": "inspection Here is a small acceptance example you can"
+  },
+  {
+    "start": 226.3095045903235,
+    "end": 229.74286518354108,
+    "text": "use in a team discussion Given an account with"
+  },
+  {
+    "start": 229.7545859110419,
+    "end": 233.01213064211615,
+    "text": "a registered email address when the customer requests a"
+  },
+  {
+    "start": 233.0238521945555,
+    "end": 236.22286010815174,
+    "text": "password reset then a single-use link is sent and"
+  },
+  {
+    "start": 236.2345470131703,
+    "end": 240.55846263784366,
+    "text": "the account remains protected Now add two variations a"
+  },
+  {
+    "start": 240.57018419028302,
+    "end": 243.18324564714646,
+    "text": "link that has expired and a link that has"
+  },
+  {
+    "start": 243.19500102206806,
+    "end": 247.40170607197922,
+    "text": "already been used Agree on the expected outcomes before"
+  },
+  {
+    "start": 247.4134276244186,
+    "end": 252.05370719873656,
+    "text": "coding Notice how one short example reveals several design"
+  },
+  {
+    "start": 252.06542792623736,
+    "end": 256.34245981596894,
+    "text": "decisions Also consider whether the response could reveal which"
+  },
+  {
+    "start": 256.3541467209875,
+    "end": 261.1702066850894,
+    "text": "email addresses have accounts avoid exposing that information unnecessarily"
+  },
+  {
+    "start": 262.76581675746445,
+    "end": 267.2705450372693,
+    "text": "Consider a two-week Scrum sprint During Sprint Planning the"
+  },
+  {
+    "start": 267.2822651070041,
+    "end": 271.04323375274504,
+    "text": "team selects Product Backlog Items supporting a Sprint Goal"
+  },
+  {
+    "start": 271.8633598402065,
+    "end": 274.9213296855864,
+    "text": "A user story might say As a customer I"
+  },
+  {
+    "start": 274.9330497553212,
+    "end": 277.3349324229803,
+    "text": "want to reset my password so that I can"
+  },
+  {
+    "start": 277.34665166788085,
+    "end": 281.8808685966468,
+    "text": "regain access to my account Before development the team"
+  },
+  {
+    "start": 281.8925886663816,
+    "end": 286.4619979728874,
+    "text": "clarifies acceptance criteria What happens if the address is"
+  },
+  {
+    "start": 286.4737180426222,
+    "end": 291.6289312259808,
+    "text": "unregistered When does the reset link expire What happens"
+  },
+  {
+    "start": 291.6406512957156,
+    "end": 295.6359421520651,
+    "text": "if the link is reused During the sprint developers"
+  },
+  {
+    "start": 295.64766139696565,
+    "end": 299.8303958346531,
+    "text": "implement the functionality while testers prepare and execute checks"
+  },
+  {
+    "start": 300.6388364954179,
+    "end": 305.26680985789096,
+    "text": "The team resolves defects collaboratively At the Sprint Review"
+  },
+  {
+    "start": 305.3956902080958,
+    "end": 309.8244661012923,
+    "text": "stakeholders inspect the increment and provide feedback At the"
+  },
+  {
+    "start": 309.836219989231,
+    "end": 313.93695188115,
+    "text": "Retrospective the team identifies improvements to its process"
+  },
+  {
+    "start": 315.499159726524,
+    "end": 319.00277691714274,
+    "text": "The four Agile Testing quadrants help teams choose complementary"
+  },
+  {
+    "start": 319.0144983560179,
+    "end": 323.8829978690608,
+    "text": "kinds of testing Quadrant one focuses on technology-facing tests"
+  },
+  {
+    "start": 323.89471848300525,
+    "end": 328.96848795168285,
+    "text": "supporting development such as unit and component tests Quadrant"
+  },
+  {
+    "start": 328.980209390558,
+    "end": 332.99940820528485,
+    "text": "two includes business-facing examples and acceptance tests that guide"
+  },
+  {
+    "start": 333.01112964415995,
+    "end": 337.3935734490789,
+    "text": "development Quadrant three evaluates the product from a user"
+  },
+  {
+    "start": 337.40529488795397,
+    "end": 343.10009933394707,
+    "text": "and business perspective including exploratory and usability testing Quadrant"
+  },
+  {
+    "start": 343.11185541990733,
+    "end": 347.51770580563016,
+    "text": "four examines technical qualities such as performance security and"
+  },
+  {
+    "start": 347.52942724450526,
+    "end": 351.82985892410585,
+    "text": "reliability In a banking application a unit test can"
+  },
+  {
+    "start": 351.84158036298095,
+    "end": 355.38036022036385,
+    "text": "check interest calculations an acceptance test can check money"
+  },
+  {
+    "start": 355.39204701215385,
+    "end": 360.2315023686822,
+    "text": "transfers exploratory testing can reveal confusing interactions and load"
+  },
+  {
+    "start": 360.2432229826267,
+    "end": 364.2975506419632,
+    "text": "testing can examine heavy usage The quadrants are not"
+  },
+  {
+    "start": 364.30927208083835,
+    "end": 370.62514615123206,
+    "text": "sequential phases Try this classification exercise A calculation test"
+  },
+  {
+    "start": 370.63686759010716,
+    "end": 375.1013226954138,
+    "text": "runs without opening a browser A customer evaluates whether"
+  },
+  {
+    "start": 375.1130441342889,
+    "end": 379.7767208040815,
+    "text": "checkout instructions make sense A team measures response time"
+  },
+  {
+    "start": 379.788441418026,
+    "end": 385.03799039836997,
+    "text": "under concurrent traffic These activities investigate different risks so"
+  },
+  {
+    "start": 385.04971101231445,
+    "end": 389.27985200547187,
+    "text": "one cannot replace the others The calculation test gives"
+  },
+  {
+    "start": 389.2915387972618,
+    "end": 394.4707962662319,
+    "text": "precise fast feedback about a rule Customer observation explores"
+  },
+  {
+    "start": 394.48251770510706,
+    "end": 398.31421721915365,
+    "text": "whether the product supports a real task Load testing"
+  },
+  {
+    "start": 398.3259378330982,
+    "end": 403.32941661533255,
+    "text": "examines behavior under stress A balanced strategy chooses enough"
+  },
+  {
+    "start": 403.3411380542077,
+    "end": 406.7393018916191,
+    "text": "of each for the product's circumstances rather than treating"
+  },
+  {
+    "start": 406.7510233304942,
+    "end": 409.7038962302407,
+    "text": "the number of automated checks as a complete measure"
+  },
+  {
+    "start": 409.7156176691158,
+    "end": 410.4655818746129,
+    "text": "of quality"
+  },
+  {
+    "start": 412.0324970746846,
+    "end": 417.2293309968967,
+    "text": "Imagine a food delivery application Sprint one delivers registration"
+  },
+  {
+    "start": 417.2410530062386,
+    "end": 421.63543128322783,
+    "text": "and login The tester checks valid and invalid credentials"
+  },
+  {
+    "start": 421.82294053421987,
+    "end": 427.4008762927033,
+    "text": "recovery and security scenarios Sprint two introduces restaurant listings"
+  },
+  {
+    "start": 427.4125636532739,
+    "end": 431.8304189477768,
+    "text": "and search testers examine accuracy filters and empty results"
+  },
+  {
+    "start": 432.6389595772284,
+    "end": 436.09586172177075,
+    "text": "Sprint three adds the shopping cart and payment integration"
+  },
+  {
+    "start": 436.90443699999366,
+    "end": 441.3691093843801,
+    "text": "The team tests payment success payment failure duplicate transactions"
+  },
+  {
+    "start": 441.3808313937221,
+    "end": 446.6071926689052,
+    "text": "and order confirmation Importantly it also verifies that previously"
+  },
+  {
+    "start": 446.6189138532764,
+    "end": 452.63044186174074,
+    "text": "completed functionality still works This is regression testing Continuous"
+  },
+  {
+    "start": 452.64216304611193,
+    "end": 456.06390081257,
+    "text": "testing across sprints reduces the chance that major problems"
+  },
+  {
+    "start": 456.0756228219119,
+    "end": 460.1770325374568,
+    "text": "are discovered only before release Before you move on"
+  },
+  {
+    "start": 460.3762637977908,
+    "end": 463.0480346827941,
+    "text": "write a miniature test plan for a login feature"
+  },
+  {
+    "start": 463.8683303204175,
+    "end": 469.03611867257456,
+    "text": "Include one successful login one invalid-password attempt one session-expiry"
+  },
+  {
+    "start": 469.04780603314515,
+    "end": 473.5359216112447,
+    "text": "check and one access-control check after logout For every"
+  },
+  {
+    "start": 473.547678269358,
+    "end": 476.86395755033453,
+    "text": "check state both the input and the observable outcome"
+  },
+  {
+    "start": 477.67253200358675,
+    "end": 481.19972825552634,
+    "text": "Avoid saying only that login should work specify what"
+  },
+  {
+    "start": 481.2114502648683,
+    "end": 484.3636973123665,
+    "text": "a legitimate user can see and what an unauthenticated"
+  },
+  {
+    "start": 484.3754193217084,
+    "end": 488.4416993079404,
+    "text": "person must not see This exercise turns a general"
+  },
+  {
+    "start": 488.4533866685109,
+    "end": 492.58996158711085,
+    "text": "quality goal into a practical conversation Keep your plan"
+  },
+  {
+    "start": 492.75402846936055,
+    "end": 496.43360341800854,
+    "text": "because later lessons will add techniques artifacts and automation"
+  },
+  {
+    "start": 496.4452907785791,
+    "end": 497.605405891331,
+    "text": "to the same reasoning"
+  },
+  {
+    "start": 499.16580623901586,
+    "end": 503.28333450772556,
+    "text": "Tools can support fast feedback Jira can track user"
+  },
+  {
+    "start": 503.29508689678534,
+    "end": 507.8990337653779,
+    "text": "stories bugs and sprint progress Postman can validate A"
+  },
+  {
+    "start": 507.91075151581725,
+    "end": 512.1866970406782,
+    "text": "P I services Selenium and Playwright can automate browser"
+  },
+  {
+    "start": 512.1984147911174,
+    "end": 517.0014990883128,
+    "text": "testing Appium supports mobile automation and Jenkins or GitHub"
+  },
+  {
+    "start": 517.0132176634813,
+    "end": 522.1678080825278,
+    "text": "Actions can run tests in continuous integration pipelines Automation"
+  },
+  {
+    "start": 522.179492019076,
+    "end": 525.096524879174,
+    "text": "is useful for repetitive checks but it does not"
+  },
+  {
+    "start": 525.108207990993,
+    "end": 530.6376385910955,
+    "text": "replace human investigation Exploratory testing still depends on judgment"
+  },
+  {
+    "start": 530.6493563415349,
+    "end": 535.3704840134374,
+    "text": "and curiosity Choose tools based on risks technology and"
+  },
+  {
+    "start": 535.3822017638768,
+    "end": 539.4004186337507,
+    "text": "testing needs The goal is not to automate everything"
+  },
+  {
+    "start": 539.5644028110355,
+    "end": 543.3132087388328,
+    "text": "it is to obtain useful reliable feedback efficiently"
+  },
+  {
+    "start": 544.8657892097875,
+    "end": 549.7086627805355,
+    "text": "Agile Testing is continuous and collaborative Testing begins early"
+  },
+  {
+    "start": 549.7203789360209,
+    "end": 554.7918952311472,
+    "text": "and continues throughout development Scrum creates regular opportunities for"
+  },
+  {
+    "start": 554.8036113866326,
+    "end": 559.8516632129964,
+    "text": "planning inspection and improvement The testing quadrants help balance"
+  },
+  {
+    "start": 559.8633793684818,
+    "end": 564.1267258290715,
+    "text": "business and technical quality while automation makes repetitive checks"
+  },
+  {
+    "start": 564.138441159998,
+    "end": 568.3783569587345,
+    "text": "more efficient The most important takeaway is that quality"
+  },
+  {
+    "start": 568.3900722896611,
+    "end": 570.7208937773265,
+    "text": "is not added at the end it is built"
+  },
+  {
+    "start": 570.7325753013438,
+    "end": 574.5859783546431,
+    "text": "into every stage of delivery In the next episode"
+  },
+  {
+    "start": 574.8202223067088,
+    "end": 579.446649201765,
+    "text": "we will compare Agile methodologies in greater detail Knowledge"
+  },
+  {
+    "start": 579.4583653572504,
+    "end": 582.550460724278,
+    "text": "check why can identifying a defect during the first"
+  },
+  {
+    "start": 582.5621760552046,
+    "end": 585.4434597811372,
+    "text": "sprint be less costly than discovering it just before"
+  },
+  {
+    "start": 585.4551751120638,
+    "end": 589.0977318927999,
+    "text": "launch Subscribe to Tech at sixty for the next"
+  },
+  {
+    "start": 589.1094480482852,
+    "end": 593.841315395357,
+    "text": "episode in this Agile Testing Masterclass Practice the example"
+  },
+  {
+    "start": 593.8530315508424,
+    "end": 596.921695431458,
+    "text": "with synthetic data and share the most important risk"
+  },
+  {
+    "start": 596.9334107623847,
+    "end": 598.7839605766145,
+    "text": "you identified in the comments"
+  }
+]

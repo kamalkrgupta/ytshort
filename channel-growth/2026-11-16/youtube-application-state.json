@@ -1,0 +1,158 @@
+{
+  "videos": [
+    "n8KtvhK8ScQ",
+    "vgVn3gu5lhI",
+    "_3T2NZM_2Ac",
+    "B8q7YYhyiWs",
+    "Ka2cK0AVxJA",
+    "ubZHLFw_rP4",
+    "1nBnoc5tdqM",
+    "VzWitlOEaZ0",
+    "xM1t-tT5zY0",
+    "hPHKOypob18",
+    "V8hRbZE7KDU",
+    "5MiJQnO2NHI",
+    "67LGri4ql4o",
+    "sgVAvy3WLEo",
+    "4_Yu1Y5b5Os",
+    "Jf6FjiiKUaU",
+    "te8aPsCX-NA",
+    "-tLkerCNNbw",
+    "RsKD5c7vbag",
+    "vOGFMQIvMhg",
+    "cUOu4YeaJNk",
+    "1UbznXr-YkQ",
+    "MEt8xAd042s",
+    "72woOhZMsWM",
+    "9UUlB1US9Hg",
+    "wuVRGnMScOw",
+    "N8PoXt_1fPE",
+    "nt95kmBsRq4",
+    "1F3vAegKmUI",
+    "DW8w75cuN7A"
+  ],
+  "playlists": [
+    {
+      "id": "PLPHe_O2eqMt4",
+      "title": "HTML for Beginners | Build Your First Web Page"
+    },
+    {
+      "id": "PLWpjKZkR9a1k",
+      "title": "CSS for Beginners | Style a Responsive Website"
+    },
+    {
+      "id": "PLMSxG_d42tRs",
+      "title": "JavaScript for Beginners | Variables to DOM Manipulation"
+    }
+  ],
+  "complete": true,
+  "verifiedAt": "2026-11-16T08:54:23.579543+00:00",
+  "allReleaseSettingsVerified": 108,
+  "sections": [
+    {
+      "kind": "youtube#channelSection",
+      "etag": "hqddiwULeskZOaw7PEZf38lK6dE",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.__WLXNpu6u8",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 0
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLMhtfFnZHxpI"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "_SQp7XjTLS3BBQCRzTHa7gyihtI",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.nGzAI5pLbMY",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 1
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLEJDqf_3IqMU"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "zBrmREe24pkZgb3EC_cZ8ekQfS4",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.jNQXAC9IVRw",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 2
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLHH8ZgwKrWFk"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "MrqHdEhfRt5mn_8cVP_J99zFFiw",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.LeAltgu_pbM",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 3
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLXqX5lBoONpI"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "BRFW7wt9V2cf6uDtfIXDaDxXz5o",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.Zx4DA4xg9IM",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 4
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLPHe_O2eqMt4"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "l5DqMRB0pEv8UPYoKpFBrhUywPM",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.MykmTeTiooA",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 5
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLWpjKZkR9a1k"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "D7vc3sRJ89DzroRWda8fA6wl5xM",
+      "id": "UC7F3e0NsVP37sqroVmYxiFw.iJLXf_7B368",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "position": 6
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLMSxG_d42tRs"
+        ]
+      }
+    }
+  ]
+}

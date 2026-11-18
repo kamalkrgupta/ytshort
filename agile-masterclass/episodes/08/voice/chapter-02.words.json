@@ -1,0 +1,612 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 5113750,
+    "text": "Write"
+  },
+  {
+    "offset": 6255830,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 6965830,
+    "duration": 5397910,
+    "text": "failing"
+  },
+  {
+    "offset": 12505830,
+    "duration": 3835410,
+    "text": "test"
+  },
+  {
+    "offset": 16482910,
+    "duration": 1988750,
+    "text": "for"
+  },
+  {
+    "offset": 18613750,
+    "duration": 1704580,
+    "text": "an"
+  },
+  {
+    "offset": 20460410,
+    "duration": 6250000,
+    "text": "eligible"
+  },
+  {
+    "offset": 26852080,
+    "duration": 7670410,
+    "text": "ten-percent"
+  },
+  {
+    "offset": 34664580,
+    "duration": 7102080,
+    "text": "discount"
+  },
+  {
+    "offset": 44607910,
+    "duration": 6960410,
+    "text": "implement"
+  },
+  {
+    "offset": 51710410,
+    "duration": 4119160,
+    "text": "enough"
+  },
+  {
+    "offset": 55971660,
+    "duration": 2982910,
+    "text": "code"
+  },
+  {
+    "offset": 59096660,
+    "duration": 1278330,
+    "text": "to"
+  },
+  {
+    "offset": 60517080,
+    "duration": 5681660,
+    "text": "pass"
+  },
+  {
+    "offset": 67619160,
+    "duration": 2698750,
+    "text": "then"
+  },
+  {
+    "offset": 70460410,
+    "duration": 6676250,
+    "text": "refactor"
+  },
+  {
+    "offset": 77278330,
+    "duration": 7102080,
+    "text": "safely"
+  },
+  {
+    "offset": 94107910,
+    "duration": 2414580,
+    "text": "The"
+  },
+  {
+    "offset": 96664580,
+    "duration": 4545410,
+    "text": "Red"
+  },
+  {
+    "offset": 102488750,
+    "duration": 5681660,
+    "text": "Green"
+  },
+  {
+    "offset": 110017080,
+    "duration": 7102080,
+    "text": "Refactor"
+  },
+  {
+    "offset": 117261250,
+    "duration": 3409160,
+    "text": "loop"
+  },
+  {
+    "offset": 120812500,
+    "duration": 7812500,
+    "text": "encourages"
+  },
+  {
+    "offset": 128767080,
+    "duration": 5823750,
+    "text": "small"
+  },
+  {
+    "offset": 136721660,
+    "duration": 7954580,
+    "text": "verified"
+  },
+  {
+    "offset": 144818330,
+    "duration": 7812500,
+    "text": "changes"
+  },
+  {
+    "offset": 162431660,
+    "duration": 3693330,
+    "text": "For"
+  },
+  {
+    "offset": 166267080,
+    "duration": 1562500,
+    "text": "a"
+  },
+  {
+    "offset": 167971660,
+    "duration": 1988750,
+    "text": "T"
+  },
+  {
+    "offset": 170102080,
+    "duration": 1704580,
+    "text": "D"
+  },
+  {
+    "offset": 171948750,
+    "duration": 1704580,
+    "text": "D"
+  },
+  {
+    "offset": 173795410,
+    "duration": 10653330,
+    "text": "demonstration"
+  },
+  {
+    "offset": 185869160,
+    "duration": 3977080,
+    "text": "write"
+  },
+  {
+    "offset": 189988750,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 190698750,
+    "duration": 5113750,
+    "text": "small"
+  },
+  {
+    "offset": 195954580,
+    "duration": 3693330,
+    "text": "test"
+  },
+  {
+    "offset": 199789580,
+    "duration": 4971660,
+    "text": "saying"
+  },
+  {
+    "offset": 204903330,
+    "duration": 1846660,
+    "text": "that"
+  },
+  {
+    "offset": 206892080,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 207602080,
+    "duration": 5397910,
+    "text": "purchase"
+  },
+  {
+    "offset": 213142080,
+    "duration": 1704580,
+    "text": "of"
+  },
+  {
+    "offset": 214988750,
+    "duration": 3409160,
+    "text": "one"
+  },
+  {
+    "offset": 218539580,
+    "duration": 4829580,
+    "text": "thousand"
+  },
+  {
+    "offset": 223511250,
+    "duration": 4545410,
+    "text": "rupees"
+  },
+  {
+    "offset": 228198750,
+    "duration": 6676250,
+    "text": "produces"
+  },
+  {
+    "offset": 235017080,
+    "duration": 1278330,
+    "text": "a"
+  },
+  {
+    "offset": 236437500,
+    "duration": 9517080,
+    "text": "one-hundred-rupee"
+  },
+  {
+    "offset": 246096660,
+    "duration": 6960410,
+    "text": "discount"
+  },
+  {
+    "offset": 253198750,
+    "duration": 2556660,
+    "text": "for"
+  },
+  {
+    "offset": 255897910,
+    "duration": 1704580,
+    "text": "an"
+  },
+  {
+    "offset": 257744160,
+    "duration": 5681660,
+    "text": "eligible"
+  },
+  {
+    "offset": 263568330,
+    "duration": 5539580,
+    "text": "member"
+  },
+  {
+    "offset": 279193330,
+    "duration": 6676250,
+    "text": "Confirm"
+  },
+  {
+    "offset": 286011250,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 287147910,
+    "duration": 3977080,
+    "text": "test"
+  },
+  {
+    "offset": 291267080,
+    "duration": 5113750,
+    "text": "fails"
+  },
+  {
+    "offset": 296522910,
+    "duration": 4687500,
+    "text": "because"
+  },
+  {
+    "offset": 301352500,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 302630830,
+    "duration": 6250000,
+    "text": "function"
+  },
+  {
+    "offset": 309022910,
+    "duration": 3125000,
+    "text": "has"
+  },
+  {
+    "offset": 312290000,
+    "duration": 3409160,
+    "text": "not"
+  },
+  {
+    "offset": 315840830,
+    "duration": 7954580,
+    "text": "implemented"
+  },
+  {
+    "offset": 323937500,
+    "duration": 2840830,
+    "text": "that"
+  },
+  {
+    "offset": 326920410,
+    "duration": 8096660,
+    "text": "behavior"
+  },
+  {
+    "offset": 345102500,
+    "duration": 3835410,
+    "text": "Add"
+  },
+  {
+    "offset": 349079580,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 350357910,
+    "duration": 6818330,
+    "text": "smallest"
+  },
+  {
+    "offset": 357318330,
+    "duration": 10795410,
+    "text": "implementation"
+  },
+  {
+    "offset": 368255830,
+    "duration": 2556660,
+    "text": "that"
+  },
+  {
+    "offset": 370954580,
+    "duration": 3693330,
+    "text": "makes"
+  },
+  {
+    "offset": 374790000,
+    "duration": 1420410,
+    "text": "it"
+  },
+  {
+    "offset": 376352500,
+    "duration": 5965830,
+    "text": "pass"
+  },
+  {
+    "offset": 392261250,
+    "duration": 7670410,
+    "text": "Refactor"
+  },
+  {
+    "offset": 400073750,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 401210410,
+    "duration": 5539580,
+    "text": "design"
+  },
+  {
+    "offset": 406892080,
+    "duration": 2982910,
+    "text": "while"
+  },
+  {
+    "offset": 410017080,
+    "duration": 5113750,
+    "text": "keeping"
+  },
+  {
+    "offset": 415272910,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 416409160,
+    "duration": 3977080,
+    "text": "test"
+  },
+  {
+    "offset": 420528330,
+    "duration": 5397910,
+    "text": "green"
+  },
+  {
+    "offset": 435727500,
+    "duration": 6676250,
+    "text": "Next"
+  },
+  {
+    "offset": 444392080,
+    "duration": 2698750,
+    "text": "add"
+  },
+  {
+    "offset": 447232910,
+    "duration": 1562500,
+    "text": "an"
+  },
+  {
+    "offset": 448937500,
+    "duration": 13636250,
+    "text": "ineligible-customer"
+  },
+  {
+    "offset": 462715830,
+    "duration": 4261250,
+    "text": "case"
+  },
+  {
+    "offset": 467119160,
+    "duration": 7528330,
+    "text": "expecting"
+  },
+  {
+    "offset": 474790000,
+    "duration": 5255830,
+    "text": "zero"
+  },
+  {
+    "offset": 489846660,
+    "duration": 4687500,
+    "text": "These"
+  },
+  {
+    "offset": 494676250,
+    "duration": 8522910,
+    "text": "examples"
+  },
+  {
+    "offset": 503340830,
+    "duration": 2698750,
+    "text": "should"
+  },
+  {
+    "offset": 506181660,
+    "duration": 3551250,
+    "text": "guide"
+  },
+  {
+    "offset": 509875000,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 511011250,
+    "duration": 3835410,
+    "text": "code"
+  },
+  {
+    "offset": 514988750,
+    "duration": 1562500,
+    "text": "in"
+  },
+  {
+    "offset": 516693330,
+    "duration": 4687500,
+    "text": "small"
+  },
+  {
+    "offset": 521522910,
+    "duration": 6107910,
+    "text": "steps"
+  },
+  {
+    "offset": 537431660,
+    "duration": 6676250,
+    "text": "Writing"
+  },
+  {
+    "offset": 544250000,
+    "duration": 2698750,
+    "text": "all"
+  },
+  {
+    "offset": 547090830,
+    "duration": 6107910,
+    "text": "production"
+  },
+  {
+    "offset": 553340830,
+    "duration": 2840830,
+    "text": "code"
+  },
+  {
+    "offset": 556323750,
+    "duration": 5113750,
+    "text": "first"
+  },
+  {
+    "offset": 561579580,
+    "duration": 1704580,
+    "text": "and"
+  },
+  {
+    "offset": 563426250,
+    "duration": 3977080,
+    "text": "adding"
+  },
+  {
+    "offset": 567545410,
+    "duration": 4971660,
+    "text": "tests"
+  },
+  {
+    "offset": 572659160,
+    "duration": 6960410,
+    "text": "afterward"
+  },
+  {
+    "offset": 579761250,
+    "duration": 2130830,
+    "text": "can"
+  },
+  {
+    "offset": 582034160,
+    "duration": 3125000,
+    "text": "still"
+  },
+  {
+    "offset": 585301250,
+    "duration": 1846660,
+    "text": "be"
+  },
+  {
+    "offset": 587290000,
+    "duration": 6250000,
+    "text": "useful"
+  },
+  {
+    "offset": 595528330,
+    "duration": 2130830,
+    "text": "but"
+  },
+  {
+    "offset": 597801250,
+    "duration": 994160,
+    "text": "it"
+  },
+  {
+    "offset": 598937500,
+    "duration": 2982910,
+    "text": "does"
+  },
+  {
+    "offset": 602062500,
+    "duration": 3125000,
+    "text": "not"
+  },
+  {
+    "offset": 605329580,
+    "duration": 4971660,
+    "text": "provide"
+  },
+  {
+    "offset": 610443330,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 611579580,
+    "duration": 3977080,
+    "text": "same"
+  },
+  {
+    "offset": 615698750,
+    "duration": 4687500,
+    "text": "design"
+  },
+  {
+    "offset": 620528330,
+    "duration": 6534160,
+    "text": "feedback"
+  },
+  {
+    "offset": 627204580,
+    "duration": 3693330,
+    "text": "loop"
+  },
+  {
+    "offset": 631040000,
+    "duration": 2982910,
+    "text": "as"
+  },
+  {
+    "offset": 634165000,
+    "duration": 7954580,
+    "text": "test-driven"
+  },
+  {
+    "offset": 642261250,
+    "duration": 9517080,
+    "text": "development"
+  }
+]

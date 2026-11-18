@@ -1,0 +1,366 @@
+{
+  "verifiedAt": "2026-11-04T20:54:44.703715+05:30",
+  "status": "complete",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "uploaded": 50,
+  "public": 18,
+  "scheduled": 32,
+  "allProcessed": true,
+  "uniqueVideoIds": 50,
+  "playlistOrdered": true,
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk",
+  "dailyRelease": "Two episodes at 14:00 Asia/Kolkata",
+  "finalRelease": "2026-11-20T14:00:00+05:30",
+  "videos": [
+    {
+      "episode": 1,
+      "videoId": "z3Z_RcpRZrw",
+      "visibility": "public",
+      "expectedAt": "2026-10-27T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 2,
+      "videoId": "upGQIZplJPs",
+      "visibility": "public",
+      "expectedAt": "2026-10-27T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 3,
+      "videoId": "Zvoo_4O7aRI",
+      "visibility": "public",
+      "expectedAt": "2026-10-28T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 4,
+      "videoId": "zk1Z9Aieiys",
+      "visibility": "public",
+      "expectedAt": "2026-10-28T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 5,
+      "videoId": "QPEHgxu2Eto",
+      "visibility": "public",
+      "expectedAt": "2026-10-29T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 6,
+      "videoId": "d9z6XbshUDw",
+      "visibility": "public",
+      "expectedAt": "2026-10-29T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 7,
+      "videoId": "GBCI10KLqWg",
+      "visibility": "public",
+      "expectedAt": "2026-10-30T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 8,
+      "videoId": "ymDU3K5DOUo",
+      "visibility": "public",
+      "expectedAt": "2026-10-30T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 9,
+      "videoId": "B9SlsiY_zko",
+      "visibility": "public",
+      "expectedAt": "2026-10-31T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 10,
+      "videoId": "-vsK2rmDkfU",
+      "visibility": "public",
+      "expectedAt": "2026-10-31T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 11,
+      "videoId": "6RfLeN89OdU",
+      "visibility": "public",
+      "expectedAt": "2026-11-01T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 12,
+      "videoId": "EmlbxCoB6t0",
+      "visibility": "public",
+      "expectedAt": "2026-11-01T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 13,
+      "videoId": "k-IXYpwIKcM",
+      "visibility": "public",
+      "expectedAt": "2026-11-02T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 14,
+      "videoId": "9c9pYDNIw4w",
+      "visibility": "public",
+      "expectedAt": "2026-11-02T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 15,
+      "videoId": "w8UG5dTFgHY",
+      "visibility": "public",
+      "expectedAt": "2026-11-03T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 16,
+      "videoId": "a6QvaG0hMg0",
+      "visibility": "public",
+      "expectedAt": "2026-11-03T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 17,
+      "videoId": "yIR1wkNW6oQ",
+      "visibility": "public",
+      "expectedAt": "2026-11-04T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 18,
+      "videoId": "1nBnoc5tdqM",
+      "visibility": "public",
+      "expectedAt": "2026-11-04T14:00:00+05:30",
+      "actualPublishAt": null
+    },
+    {
+      "episode": 19,
+      "videoId": "VzWitlOEaZ0",
+      "visibility": "private",
+      "expectedAt": "2026-11-05T14:00:00+05:30",
+      "actualPublishAt": "2026-11-05T08:30:00Z"
+    },
+    {
+      "episode": 20,
+      "videoId": "xM1t-tT5zY0",
+      "visibility": "private",
+      "expectedAt": "2026-11-05T14:00:00+05:30",
+      "actualPublishAt": "2026-11-05T08:30:00Z"
+    },
+    {
+      "episode": 21,
+      "videoId": "hPHKOypob18",
+      "visibility": "private",
+      "expectedAt": "2026-11-06T14:00:00+05:30",
+      "actualPublishAt": "2026-11-06T08:30:00Z"
+    },
+    {
+      "episode": 22,
+      "videoId": "V8hRbZE7KDU",
+      "visibility": "private",
+      "expectedAt": "2026-11-06T14:00:00+05:30",
+      "actualPublishAt": "2026-11-06T08:30:00Z"
+    },
+    {
+      "episode": 23,
+      "videoId": "5MiJQnO2NHI",
+      "visibility": "private",
+      "expectedAt": "2026-11-07T14:00:00+05:30",
+      "actualPublishAt": "2026-11-07T08:30:00Z"
+    },
+    {
+      "episode": 24,
+      "videoId": "67LGri4ql4o",
+      "visibility": "private",
+      "expectedAt": "2026-11-07T14:00:00+05:30",
+      "actualPublishAt": "2026-11-07T08:30:00Z"
+    },
+    {
+      "episode": 25,
+      "videoId": "sgVAvy3WLEo",
+      "visibility": "private",
+      "expectedAt": "2026-11-08T14:00:00+05:30",
+      "actualPublishAt": "2026-11-08T08:30:00Z"
+    },
+    {
+      "episode": 26,
+      "videoId": "4_Yu1Y5b5Os",
+      "visibility": "private",
+      "expectedAt": "2026-11-08T14:00:00+05:30",
+      "actualPublishAt": "2026-11-08T08:30:00Z"
+    },
+    {
+      "episode": 27,
+      "videoId": "Jf6FjiiKUaU",
+      "visibility": "private",
+      "expectedAt": "2026-11-09T14:00:00+05:30",
+      "actualPublishAt": "2026-11-09T08:30:00Z"
+    },
+    {
+      "episode": 28,
+      "videoId": "te8aPsCX-NA",
+      "visibility": "private",
+      "expectedAt": "2026-11-09T14:00:00+05:30",
+      "actualPublishAt": "2026-11-09T08:30:00Z"
+    },
+    {
+      "episode": 29,
+      "videoId": "-tLkerCNNbw",
+      "visibility": "private",
+      "expectedAt": "2026-11-10T14:00:00+05:30",
+      "actualPublishAt": "2026-11-10T08:30:00Z"
+    },
+    {
+      "episode": 30,
+      "videoId": "RsKD5c7vbag",
+      "visibility": "private",
+      "expectedAt": "2026-11-10T14:00:00+05:30",
+      "actualPublishAt": "2026-11-10T08:30:00Z"
+    },
+    {
+      "episode": 31,
+      "videoId": "vOGFMQIvMhg",
+      "visibility": "private",
+      "expectedAt": "2026-11-11T14:00:00+05:30",
+      "actualPublishAt": "2026-11-11T08:30:00Z"
+    },
+    {
+      "episode": 32,
+      "videoId": "cUOu4YeaJNk",
+      "visibility": "private",
+      "expectedAt": "2026-11-11T14:00:00+05:30",
+      "actualPublishAt": "2026-11-11T08:30:00Z"
+    },
+    {
+      "episode": 33,
+      "videoId": "1UbznXr-YkQ",
+      "visibility": "private",
+      "expectedAt": "2026-11-12T14:00:00+05:30",
+      "actualPublishAt": "2026-11-12T08:30:00Z"
+    },
+    {
+      "episode": 34,
+      "videoId": "MEt8xAd042s",
+      "visibility": "private",
+      "expectedAt": "2026-11-12T14:00:00+05:30",
+      "actualPublishAt": "2026-11-12T08:30:00Z"
+    },
+    {
+      "episode": 35,
+      "videoId": "72woOhZMsWM",
+      "visibility": "private",
+      "expectedAt": "2026-11-13T14:00:00+05:30",
+      "actualPublishAt": "2026-11-13T08:30:00Z"
+    },
+    {
+      "episode": 36,
+      "videoId": "9UUlB1US9Hg",
+      "visibility": "private",
+      "expectedAt": "2026-11-13T14:00:00+05:30",
+      "actualPublishAt": "2026-11-13T08:30:00Z"
+    },
+    {
+      "episode": 37,
+      "videoId": "wuVRGnMScOw",
+      "visibility": "private",
+      "expectedAt": "2026-11-14T14:00:00+05:30",
+      "actualPublishAt": "2026-11-14T08:30:00Z"
+    },
+    {
+      "episode": 38,
+      "videoId": "N8PoXt_1fPE",
+      "visibility": "private",
+      "expectedAt": "2026-11-14T14:00:00+05:30",
+      "actualPublishAt": "2026-11-14T08:30:00Z"
+    },
+    {
+      "episode": 39,
+      "videoId": "nt95kmBsRq4",
+      "visibility": "private",
+      "expectedAt": "2026-11-15T14:00:00+05:30",
+      "actualPublishAt": "2026-11-15T08:30:00Z"
+    },
+    {
+      "episode": 40,
+      "videoId": "1F3vAegKmUI",
+      "visibility": "private",
+      "expectedAt": "2026-11-15T14:00:00+05:30",
+      "actualPublishAt": "2026-11-15T08:30:00Z"
+    },
+    {
+      "episode": 41,
+      "videoId": "DW8w75cuN7A",
+      "visibility": "private",
+      "expectedAt": "2026-11-16T14:00:00+05:30",
+      "actualPublishAt": "2026-11-16T08:30:00Z"
+    },
+    {
+      "episode": 42,
+      "videoId": "bFd7LIUEI30",
+      "visibility": "private",
+      "expectedAt": "2026-11-16T14:00:00+05:30",
+      "actualPublishAt": "2026-11-16T08:30:00Z"
+    },
+    {
+      "episode": 43,
+      "videoId": "wMlOdJV4yDI",
+      "visibility": "private",
+      "expectedAt": "2026-11-17T14:00:00+05:30",
+      "actualPublishAt": "2026-11-17T08:30:00Z"
+    },
+    {
+      "episode": 44,
+      "videoId": "JCva46HidWQ",
+      "visibility": "private",
+      "expectedAt": "2026-11-17T14:00:00+05:30",
+      "actualPublishAt": "2026-11-17T08:30:00Z"
+    },
+    {
+      "episode": 45,
+      "videoId": "mcH_IGUOPxw",
+      "visibility": "private",
+      "expectedAt": "2026-11-18T14:00:00+05:30",
+      "actualPublishAt": "2026-11-18T08:30:00Z"
+    },
+    {
+      "episode": 46,
+      "videoId": "4pph6YBvXfw",
+      "visibility": "private",
+      "expectedAt": "2026-11-18T14:00:00+05:30",
+      "actualPublishAt": "2026-11-18T08:30:00Z"
+    },
+    {
+      "episode": 47,
+      "videoId": "Oi1DNS5lVC0",
+      "visibility": "private",
+      "expectedAt": "2026-11-19T14:00:00+05:30",
+      "actualPublishAt": "2026-11-19T08:30:00Z"
+    },
+    {
+      "episode": 48,
+      "videoId": "R-es_JUW730",
+      "visibility": "private",
+      "expectedAt": "2026-11-19T14:00:00+05:30",
+      "actualPublishAt": "2026-11-19T08:30:00Z"
+    },
+    {
+      "episode": 49,
+      "videoId": "W_1KFovAZ9s",
+      "visibility": "private",
+      "expectedAt": "2026-11-20T14:00:00+05:30",
+      "actualPublishAt": "2026-11-20T08:30:00Z"
+    },
+    {
+      "episode": 50,
+      "videoId": "hyvLNnLsm1w",
+      "visibility": "private",
+      "expectedAt": "2026-11-20T14:00:00+05:30",
+      "actualPublishAt": "2026-11-20T08:30:00Z"
+    }
+  ]
+}

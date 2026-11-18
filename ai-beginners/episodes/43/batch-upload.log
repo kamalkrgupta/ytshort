@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 17%
+Upload 26%
+Upload 35%
+Upload 43%
+Upload 52%
+Upload 61%
+Upload 69%
+Upload 78%
+Upload 87%
+Upload 95%
+Uploaded: https://www.youtube.com/watch?v=wMlOdJV4yDI
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "184d67f29891bf6c7140e113011b0a0b3468e0677903632db5789d2187288308",
+  "title": "Build a Simple FAQ Chatbot: Questions, Answers and Limits | Ep 43",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:17:21Z",
+  "publishAt": "2026-11-17T14:00:00+05:30",
+  "videoId": "wMlOdJV4yDI",
+  "url": "https://www.youtube.com/watch?v=wMlOdJV4yDI",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-17T08:30:00Z"
+}

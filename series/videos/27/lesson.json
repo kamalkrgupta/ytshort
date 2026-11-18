@@ -1,0 +1,16 @@
+{
+  "videoNumber": 27,
+  "phase": "Phase 3 — Build Beautiful Websites with CSS",
+  "topic": "CSS Classes vs IDs",
+  "description": "Understand how to target HTML elements.",
+  "publishLocal": "2026-11-01T16:00:00+05:30",
+  "publishAt": "2026-11-01T10:30:00Z",
+  "status": "planned",
+  "definition": "Classes and identifiers let C S S select particular elements.",
+  "code": ".note { color: teal; }\n#intro { font-weight: 700; }",
+  "preview": "<p style=\"color:teal;font-weight:700\">Welcome!</p><p style=\"color:teal\">Another note.</p>",
+  "rule": "A dot selects a class; a hash selects an identifier.",
+  "tip": "Reuse a class to apply the same style to several elements.",
+  "caution": "Keep identifiers unique, and avoid unnecessary selector specificity.",
+  "exercise": "Style two elements with one shared class."
+}

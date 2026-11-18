@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "H T M L Line Breaks. Let’s make it simple.",
+    "idea": "Line breaks and thematic breaks have different meanings. Start by understanding the role it plays in a page.",
+    "code": "B R creates a line break; H R marks a thematic break. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "A line break suits addresses and lines of a poem. Keep this detail in mind when writing your own example.",
+    "caution": "Use C S S spacing instead of repeated break elements for layout. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Write a two-line address, then add a thematic break below it. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

@@ -1,0 +1,488 @@
+Waiting for verified render E02
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/02
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 9%
+Upload 13%
+Upload 17%
+Upload 22%
+Upload 26%
+Upload 30%
+Upload 35%
+Upload 39%
+Upload 43%
+Upload 48%
+Upload 52%
+Upload 56%
+Upload 61%
+Upload 65%
+Upload 69%
+Upload 74%
+Upload 78%
+Upload 83%
+Upload 87%
+Upload 91%
+Upload 96%
+Upload 100%
+Uploaded: https://www.youtube.com/watch?v=aVPTY_zbmlU
+Custom thumbnail unavailable: The authenticated user doesn't have permissions to upload and set custom video thumbnails.
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "45a1250c5d517a2a72a14aa4687bf9b7a1be5d28bf990288b50680ea692eb708",
+  "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:41:48Z",
+  "publishAt": null,
+  "videoId": "aVPTY_zbmlU",
+  "url": "https://www.youtube.com/watch?v=aVPTY_zbmlU",
+  "actualVisibility": "public",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "The authenticated user doesn't have permissions to upload and set custom video thumbnails.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null
+}
+CONFIRMED E02: published https://www.youtube.com/watch?v=aVPTY_zbmlU
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/03
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 9%
+Upload 13%
+Upload 18%
+Upload 22%
+Upload 26%
+Upload 31%
+Upload 35%
+Upload 40%
+Upload 44%
+Upload 48%
+Upload 53%
+Upload 57%
+Upload 62%
+Upload 66%
+Upload 70%
+Upload 75%
+Upload 79%
+Upload 84%
+Upload 88%
+Upload 92%
+Upload 97%
+Uploaded: https://www.youtube.com/watch?v=1oW6ocuUhWQ
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "ca78f6b4f1cbaa5f6588f2e64e94bb0d3a7742c3b13a1635b54bd6455e5ffb6f",
+  "title": "Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:43:00Z",
+  "publishAt": "2026-10-24T18:00:00+05:30",
+  "videoId": "1oW6ocuUhWQ",
+  "url": "https://www.youtube.com/watch?v=1oW6ocuUhWQ",
+  "actualVisibility": "private",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-24T12:30:00Z"
+}
+CONFIRMED E03: scheduled https://www.youtube.com/watch?v=1oW6ocuUhWQ
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/04
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 9%
+Upload 13%
+Upload 18%
+Upload 22%
+Upload 27%
+Upload 31%
+Upload 36%
+Upload 40%
+Upload 44%
+Upload 49%
+Upload 53%
+Upload 58%
+Upload 62%
+Upload 67%
+Upload 71%
+Upload 76%
+Upload 80%
+Upload 84%
+Upload 89%
+Upload 93%
+Upload 98%
+Uploaded: https://www.youtube.com/watch?v=4pedCCloISY
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "f98541f3191918424b581afda331a19b0e009a2cbe42ab7ee1083efcbbe726a4",
+  "title": "Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:44:35Z",
+  "publishAt": "2026-10-24T18:00:00+05:30",
+  "videoId": "4pedCCloISY",
+  "url": "https://www.youtube.com/watch?v=4pedCCloISY",
+  "actualVisibility": "private",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-24T12:30:00Z"
+}
+CONFIRMED E04: scheduled https://www.youtube.com/watch?v=4pedCCloISY
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/05
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 8%
+Upload 13%
+Upload 17%
+Upload 21%
+Upload 25%
+Upload 29%
+Upload 33%
+Upload 38%
+Upload 42%
+Upload 46%
+Upload 50%
+Upload 54%
+Upload 58%
+Upload 63%
+Upload 67%
+Upload 71%
+Upload 75%
+Upload 79%
+Upload 84%
+Upload 88%
+Upload 92%
+Upload 96%
+Uploaded: https://www.youtube.com/watch?v=Ng8wTrGTul4
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "80bf91a71b5b4dd0171d9f303dcc81c06c734961fdce7689d5088007af1a33e4",
+  "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:45:49Z",
+  "publishAt": "2026-10-25T18:00:00+05:30",
+  "videoId": "Ng8wTrGTul4",
+  "url": "https://www.youtube.com/watch?v=Ng8wTrGTul4",
+  "actualVisibility": "private",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-25T12:30:00Z"
+}
+CONFIRMED E05: scheduled https://www.youtube.com/watch?v=Ng8wTrGTul4
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/06
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 9%
+Upload 13%
+Upload 17%
+Upload 21%
+Upload 26%
+Upload 30%
+Upload 34%
+Upload 38%
+Upload 43%
+Upload 47%
+Upload 51%
+Upload 55%
+Upload 60%
+Upload 64%
+Upload 68%
+Upload 72%
+Upload 77%
+Upload 81%
+Upload 85%
+Upload 89%
+Upload 94%
+Upload 98%
+Uploaded: https://www.youtube.com/watch?v=HH9gdETVS-E
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "d33bb8019e22b183d5c45ca5c2f392656de2c925163552d4b43eed014448dad1",
+  "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:46:58Z",
+  "publishAt": "2026-10-25T18:00:00+05:30",
+  "videoId": "HH9gdETVS-E",
+  "url": "https://www.youtube.com/watch?v=HH9gdETVS-E",
+  "actualVisibility": "private",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-25T12:30:00Z"
+}
+CONFIRMED E06: scheduled https://www.youtube.com/watch?v=HH9gdETVS-E
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/07
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 9%
+Upload 13%
+Upload 17%
+Upload 22%
+Upload 26%
+Upload 31%
+Upload 35%
+Upload 39%
+Upload 44%
+Upload 48%
+Upload 52%
+Upload 57%
+Upload 61%
+Upload 65%
+Upload 70%
+Upload 74%
+Upload 79%
+Upload 83%
+Upload 87%
+Upload 92%
+Upload 96%
+Uploaded: https://www.youtube.com/watch?v=_LSyyLx-ex0
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "868148436b96e82bca9911c81cc6110f6017594d27895d6afb6ffdc424219d8b",
+  "title": "Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:47:56Z",
+  "publishAt": "2026-10-26T18:00:00+05:30",
+  "videoId": "_LSyyLx-ex0",
+  "url": "https://www.youtube.com/watch?v=_LSyyLx-ex0",
+  "actualVisibility": "private",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-26T12:30:00Z"
+}
+CONFIRMED E07: scheduled https://www.youtube.com/watch?v=_LSyyLx-ex0
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/08
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 9%
+Upload 13%
+Upload 18%
+Upload 22%
+Upload 26%
+Upload 31%
+Upload 35%
+Upload 39%
+Upload 44%
+Upload 48%
+Upload 53%
+Upload 57%
+Upload 61%
+Upload 66%
+Upload 70%
+Upload 75%
+Upload 79%
+Upload 83%
+Upload 88%
+Upload 92%
+Upload 97%
+Uploaded: https://www.youtube.com/watch?v=BxdkMvdx7G8
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "1d047cd53293d17343ae0244fa943ac560f61fc64d1d6493979047e9c2c1714a",
+  "title": "TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:49:08Z",
+  "publishAt": "2026-10-26T18:00:00+05:30",
+  "videoId": "BxdkMvdx7G8",
+  "url": "https://www.youtube.com/watch?v=BxdkMvdx7G8",
+  "actualVisibility": "private",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-26T12:30:00Z"
+}
+CONFIRMED E08: scheduled https://www.youtube.com/watch?v=BxdkMvdx7G8
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/09
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 9%
+Upload 13%
+Upload 17%
+Upload 22%
+Upload 26%
+Upload 30%
+Upload 35%
+Upload 39%
+Upload 43%
+Upload 48%
+Upload 52%
+Upload 56%
+Upload 61%
+Upload 65%
+Upload 69%
+Upload 74%
+Upload 78%
+Upload 82%
+Upload 87%
+Upload 91%
+Upload 95%
+Upload 100%
+Uploaded: https://www.youtube.com/watch?v=t3WpRYW0lGg
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "d3b16a3c583759b920ade3dcdcc259a2dd4ab7c34c7e70e607eb0eda6ace8053",
+  "title": "Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:49:30Z",
+  "publishAt": "2026-10-27T18:00:00+05:30",
+  "videoId": "t3WpRYW0lGg",
+  "url": "https://www.youtube.com/watch?v=t3WpRYW0lGg",
+  "actualVisibility": "private",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-27T12:30:00Z"
+}
+CONFIRMED E09: scheduled https://www.youtube.com/watch?v=t3WpRYW0lGg
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/10
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 9%
+Upload 13%
+Upload 18%
+Upload 22%
+Upload 26%
+Upload 31%
+Upload 35%
+Upload 40%
+Upload 44%
+Upload 48%
+Upload 53%
+Upload 57%
+Upload 61%
+Upload 66%
+Upload 70%
+Upload 75%
+Upload 79%
+Upload 83%
+Upload 88%
+Upload 92%
+Upload 97%
+Uploaded: https://www.youtube.com/watch?v=X0hokSm8f2U
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "ffeb7dc6818095f5c51a3894955f48a73cb168529bcbe80d49453b8573188c4d",
+  "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:49:51Z",
+  "publishAt": "2026-10-27T18:00:00+05:30",
+  "videoId": "X0hokSm8f2U",
+  "url": "https://www.youtube.com/watch?v=X0hokSm8f2U",
+  "actualVisibility": "private",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-27T12:30:00Z"
+}
+CONFIRMED E10: scheduled https://www.youtube.com/watch?v=X0hokSm8f2U
+Waiting for verified render E11
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/11
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+YouTube API request failed (HTTP 400). Check API enablement, permission, and quota. Existing upload state was retained.
+API reason: uploadLimitExceeded
+API message: The user has exceeded the number of videos they may upload.
+Traceback (most recent call last):
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/publish.py", line 61, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/publish.py", line 59, in main
+    publish(n)
+    ~~~~~~~^^^
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/publish.py", line 35, in publish
+    if result.returncode:raise RuntimeError('Upload or verification needs attention; retained existing receipt')
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Upload or verification needs attention; retained existing receipt

@@ -1,0 +1,46 @@
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-DGYA5Mcd.js                              357.94 kB │ gzip: 122.57 kB
+✓ built in 9.92s
+E2 captured 1/11: Introduction
+E2 captured 2/11: Scrum
+E2 captured 3/11: Kanban
+E2 captured 4/11: Extreme Programming
+E2 captured 5/11: Lean Software Development
+E2 captured 6/11: Choosing an approach
+E2 captured 7/11: Worked example
+E2 captured 8/11: Guided practice
+E2 captured 9/11: A closer look
+E2 captured 10/11: Verify the outcome
+E2 captured 11/11: Recap
+CAPTURE COMPLETE /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/02/frames/frames.ffconcat
+Traceback (most recent call last):
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/render.py", line 60, in <module>
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/render.py", line 58, in main
+    setup(n);run(['node','tools/capture-longform.mjs','--stills'],RENDERER);run(['node','tools/thumbnail.mjs'],RENDERER)
+     ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/render.py", line 35, in render
+    env=dict(os.environ,AGILE_EPISODE_DIR=str(dest))
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/render.py", line 8, in run
+    subprocess.run(list(map(str,args)),cwd=cwd,check=True,env=env)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.15/lib/python3.15/subprocess.py", line 692, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['node', 'tools/capture-longform.mjs']' died with <Signals.SIGTERM: 15>.

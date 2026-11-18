@@ -1,0 +1,15 @@
+Small Language Models: Why Smaller Can Be Useful
+
+Small models can focus on narrow tasks. Classify a message or transform a short piece of text.
+
+Test the model on the actual task.
+
+What small task would you automate?
+Subscribe to @Techat60 for clear, beginner-friendly tech explainers.
+
+Source checked November 16, 2026:
+https://developers.googleblog.com/own-your-ai-fine-tune-gemma-3-270m-for-on-device/
+
+Original illustrative diagrams; not a product demonstration or benchmark.
+
+#Technology #TechExplained #Shorts

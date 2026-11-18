@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Box Model. Let’s make it simple.",
+    "idea": "The box model describes the space occupied by an element. Start by understanding the role it plays in a page.",
+    "code": "From inside out, it has content, padding, border, and margin.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Padding is inside the border; margin is outside it. Keep this detail in mind when writing your own example.",
+    "caution": "With border box sizing, declared width includes padding and borders.",
+    "try": "Give a card padding, a border, and outside margin. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

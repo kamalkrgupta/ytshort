@@ -1,0 +1,20 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "868148436b96e82bca9911c81cc6110f6017594d27895d6afb6ffdc424219d8b",
+  "title": "Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:47:56Z",
+  "publishAt": "2026-10-26T18:00:00+05:30",
+  "videoId": "_LSyyLx-ex0",
+  "url": "https://www.youtube.com/watch?v=_LSyyLx-ex0",
+  "actualVisibility": "public",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null,
+  "remoteAuditedAt": "2026-10-23T15:56:57.584560+00:00"
+}

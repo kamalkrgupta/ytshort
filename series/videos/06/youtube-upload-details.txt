@@ -1,0 +1,20 @@
+How to Add Images in HTML | Web Development in 60 Seconds
+
+An image element embeds a picture in your page. Learn how to add images in html with a quick example for beginners.
+
+Source identifies the image file; alt provides a text alternative.
+Describe useful image content in the alternative text.
+
+Try it: Add a local image with a useful text description.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 6
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content
+
+#WebDevelopment #LearnToCode #Shorts
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU
+
+Tags: how to add images in html, web development for beginners, learn to code, coding shorts, html tutorial, TECH AT 60

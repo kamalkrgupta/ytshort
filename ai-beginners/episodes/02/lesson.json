@@ -1,0 +1,105 @@
+{
+  "episode": 2,
+  "topic": "AI in Everyday Life",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Hook and promise",
+      "text": "Have you ever wondered how to make technology work for you instead of spending hours figuring everything out? Welcome to episode 2 of AI for Beginners. Today, we’re looking at ai in everyday life. By the end, you’ll understand one practical idea, watch a realistic example, and try a small exercise yourself. You don’t need a technical background or expensive software. Bring your curiosity. We’ll work through it together. Here’s the example we’ll use: a video platform suggesting a tutorial. We’ll use that situation to make the topic concrete. Watch how we break the task into small steps, because the same thinking will help you use many different AI tools later in this course.",
+      "direction": "Presenter on right; large title “AI in Everyday Life” on left; animated question mark and simple example icon.",
+      "cards": [
+        "Recommendations choose likely matches",
+        "Maps estimate routes and travel time",
+        "Spam filters classify suspicious mail"
+      ],
+      "summary": "Learn one practical idea, see an example, and try it yourself.",
+      "start": 0,
+      "duration": 59.033333,
+      "speechDuration": 53.808,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-02",
+      "title": "Explain the concept",
+      "text": "Let’s start with the main idea. recommendations, maps, spam filters and cameras use AI.\n\nThink of AI as a tool that processes information and returns an output based on its training, instructions, and any relevant information it can access. It can save time on drafts and patterns, but it doesn’t automatically know what’s correct for your situation. The most useful habit is to define what you want before touching the tool.\n\nAsk yourself three questions: what’s my goal, what information does the tool need, and how will I check the result? Those questions work whether you’re writing a prompt, building a workflow, or reviewing a generated answer.",
+      "direction": "Full-width explainer diagram: INPUT → AI TOOL → OUTPUT → HUMAN CHECK. Highlight “recommendations, maps, spam filters and cameras use AI”.",
+      "cards": [
+        "Input: viewing or location signals",
+        "Output: a recommendation or estimate",
+        "Your needs may differ from the pattern"
+      ],
+      "summary": "Recommendations, maps, spam filters and cameras use ai.",
+      "start": 59.033333,
+      "duration": 53.2,
+      "speechDuration": 47.976,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-03",
+      "title": "On-screen demonstration",
+      "text": "Let’s try it with an example. Our example is a video platform suggesting a tutorial.\n\nStart by writing down the desired result in one sentence. Next, identify the input: what would a person need to know to do this task correctly? Then write a simple instruction with that context and a clear format. On screen, I am showing a sample request, followed by a possible output. Notice that we’re not judging the result by how impressive it sounds. We’re checking whether it actually meets the task. If the output is too broad, ask for a more specific version. If a fact matters, verify it from a reliable source.\n\nPause the video here if you’d like to copy the structure into your own notes.",
+      "direction": "Screen capture or mock interface showing: a video platform suggesting a tutorial. Zoom to prompt/input and result; blur account details.",
+      "cards": [
+        "Example: a suggested tutorial",
+        "Check the topic and source",
+        "Choose whether it fits your goal"
+      ],
+      "summary": "A video platform suggesting a tutorial",
+      "start": 112.233333,
+      "duration": 59.5,
+      "speechDuration": 54.264,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-04",
+      "title": "Guided beginner exercise",
+      "text": "Your turn. Try this exercise: identify three AI features on your phone. Begin with a very small example, not a complex project. Give yourself thirty seconds to decide what success would look like. Then complete the task once and inspect the result. What’s useful? What’s missing? What would you change? Make one improvement and compare the first and second versions. This simple before-and-after comparison teaches you more than copying a complicated prompt from the internet. If your chosen tool is unavailable, do the exercise on paper: sketch the input, the steps, and the output. The objective is to practice the underlying thinking, not to depend on one particular app.",
+      "direction": "Split screen: exercise instruction “identify three AI features on your phone” on left; worked sample on right; 10-second pause card.",
+      "cards": [
+        "Find three AI features on your phone",
+        "Name the input and likely output",
+        "Check one result for usefulness"
+      ],
+      "summary": "Identify three AI features on your phone",
+      "start": 171.733333,
+      "duration": 60.5,
+      "speechDuration": 55.272,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-05",
+      "title": "Limitations, recap and CTA",
+      "text": "Before we finish, remember this important limitation: recommendations optimize patterns rather than understanding your needs perfectly. Responsible AI use means understanding the strengths of the tool and keeping yourself accountable for the final result. Today you learned that recommendations, maps, spam filters and cameras use AI, saw the example of a video platform suggesting a tutorial, and practiced a small hands-on task. Here’s your challenge: repeat the exercise with a different topic and write down one thing that improved. In the comments, share the part you found easiest or the question you still have. If this helped, share it with someone learning AI. And subscribe to Tech at sixty for the next lesson. We’re building practical AI skills one simple step at a time. Thanks for watching. See you in the next lesson.",
+      "direction": "Three-point recap animation; caution banner “recommendations optimize patterns rather than understanding your needs perfectly”; subscribe end screen with next-episode placeholder.",
+      "cards": [
+        "Notice AI in everyday tools",
+        "Recommendations are predictions",
+        "Keep control of the final decision"
+      ],
+      "summary": "Recommendations optimize patterns rather than understanding your needs perfectly",
+      "start": 232.233333,
+      "duration": 67.766667,
+      "speechDuration": 62.52,
+      "speed": 1.0
+    }
+  ],
+  "visual": {
+    "example": "A video platform suggesting a tutorial",
+    "question": "Identify three AI features on your phone?",
+    "steps": [
+      "Define your goal",
+      "Provide useful input",
+      "Review the output"
+    ],
+    "checks": [
+      "Check accuracy",
+      "Refine the response",
+      "Compare the result"
+    ],
+    "result": "Recommendations optimize patterns rather than understanding your needs perfectly"
+  },
+  "publishAt": "2026-10-27T14:00:00+05:30",
+  "plannedDate": "2026-10-27",
+  "status": "prepared",
+  "duration": 300
+}

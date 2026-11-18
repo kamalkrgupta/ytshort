@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "ac7638966fcf56d2251b320fd4c03802beb957a616307d51675db9d43b331d00",
+  "title": "CSS Classes vs IDs | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-31T08:42:17Z",
+  "publishAt": "2026-11-01T10:30:00Z",
+  "videoId": "A9SjSOECb8s",
+  "url": "https://www.youtube.com/watch?v=A9SjSOECb8s",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-01T10:30:00Z"
+}

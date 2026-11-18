@@ -1,0 +1,11 @@
+{
+  "approved": true,
+  "reviewer": "Codex visual review",
+  "checks": [
+    "Full-scene stills checked for readable text and safe area",
+    "New Guy Neural voice confirmed in manifest",
+    "Measured voice fits every scene",
+    "Counter changes to 2 in preview; to-do add/remove checked at 1, 3 and 5 seconds"
+  ],
+  "note": "Timing checked by clip duration, not by ear."
+}

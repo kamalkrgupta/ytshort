@@ -1,0 +1,787 @@
+{
+  "videos": 20,
+  "clips": 120,
+  "allPassed": true,
+  "results": [
+    {
+      "number": 1,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "8f652cefd2cf514826b779f4edb7ca2ddd036b446eaa06c9f6fb0b847be75af9",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.81,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 8.5,
+          "sceneSeconds": 12.0
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 6.2,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 7.76,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 5.42,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 5.48,
+          "sceneSeconds": 9.0
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "e864fee076f7684cffee18ae03a75220049dbb687670f4954afe95acb67dc48e",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.37,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 6.78,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 7.21,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 8.17,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 7.32,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 7.94,
+          "sceneSeconds": 10.5
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "9fd2ed18c9273939c02c9fbf2a2c6193cd5aaad4eaea40587cd2b44daa9a9b86",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.96,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 8.43,
+          "sceneSeconds": 11.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 5.82,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 8.1,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 6.95,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 6.08,
+          "sceneSeconds": 9.0
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "d2cfc2b2253148d29cb119df28b8f14df4d2babf3728aad815f9a7b5301c32a3",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.66,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 6.98,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 5.7,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 5.52,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 6.79,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 7.66,
+          "sceneSeconds": 11.0
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "01ed0de9f13efd090c76ef0a31b1141cd1b0f8ac2209e7dcd89a34fa1054b14d",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.69,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 5.2,
+          "sceneSeconds": 8.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 6.25,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 8.27,
+          "sceneSeconds": 11.5
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 6.03,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 7.58,
+          "sceneSeconds": 11.0
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "1c6df67cff5a7c22605dbc9ec4bcf70980dac4d901482ed61ba12827155df24a",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.66,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 7.65,
+          "sceneSeconds": 11.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 5.68,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 7.23,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 5.6,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 5.6,
+          "sceneSeconds": 9.0
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "e6835128f0a29b5295a3be3c9d2a8f0c211f2ef150041928510dec441cc7b1b6",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 7.22,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 6.38,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 6,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 5.7,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 8.19,
+          "sceneSeconds": 11.5
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 6.49,
+          "sceneSeconds": 10.0
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "ad533750f7ecf5d86e12b34b3a24e7ad480025be3336a59d25db9340b6cf3573",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.28,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 7.84,
+          "sceneSeconds": 11.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 5.68,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 7.58,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 5.7,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 7.19,
+          "sceneSeconds": 10.5
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "e1672ea2a37824ab8c516fda9a7491768a7978de0c32bca568e0558b167d74ec",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.67,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 7.42,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 5.33,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 6.77,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 6.45,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 6.87,
+          "sceneSeconds": 10.5
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "918c5340e40fad8e89ed94900d639a0cf60aa911b6efad8868abd1220e74f131",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.58,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 8.38,
+          "sceneSeconds": 11.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 5.58,
+          "sceneSeconds": 8.5
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 7.44,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 7.87,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 6.84,
+          "sceneSeconds": 10.0
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "5ff218081fd90cb7a8d9601f2f851f2e9f6fc35e0c30f5fdf1b0e60720a83de8",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.7,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 8.86,
+          "sceneSeconds": 12.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 6.61,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 7.07,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 5.58,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 5.45,
+          "sceneSeconds": 9.0
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "7217c0b5c7023f95345265aa24518650ae22d2a625c960d9556aea29af4aaff0",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.58,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 6.51,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 5.03,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 4.91,
+          "sceneSeconds": 8.5
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 7.86,
+          "sceneSeconds": 12.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 6.72,
+          "sceneSeconds": 10.0
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "645dac454447063f1065772880f075cb910ef6ed73fba68e2fc3cf927a5e9aa0",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.53,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 8.91,
+          "sceneSeconds": 12.0
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 4.84,
+          "sceneSeconds": 8.0
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 6.83,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 7.36,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 7.82,
+          "sceneSeconds": 11.0
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "30dcda90e5e8447cd6e9310b32aebd16cccd3e4653770009a4380cbfd4387641",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 5.94,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 7.2,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 6.86,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 5.89,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 5.93,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 6.34,
+          "sceneSeconds": 10.0
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "25e2336e3952b53eafecd1e3ca79e21beb5237bbcd02a187fb0672401fb86407",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.55,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 6,
+          "sceneSeconds": 8.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 8.63,
+          "sceneSeconds": 11.5
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 8.65,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 5.97,
+          "sceneSeconds": 8.5
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 8.86,
+          "sceneSeconds": 11.5
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "20545abcddb0616fe91d4bfd705c2225442ecaa25d4cb9f4695ecc52d8c346bf",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.5,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 5.38,
+          "sceneSeconds": 8.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 7.65,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 8.25,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 7.88,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 7.18,
+          "sceneSeconds": 10.0
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "ee9bbf681a9b94c776ee20d129cb30d568984c6781725929bcf41aa8b559cd7c",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.85,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 8.05,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 5.66,
+          "sceneSeconds": 8.5
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 7.26,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 8.27,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 6.66,
+          "sceneSeconds": 9.5
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "3e99c3c588f0c2050ec13e56ef26b787c8bdb7d7e2d9ae6bf752fb1daf1b4a80",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.58,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 6.31,
+          "sceneSeconds": 9.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 8.91,
+          "sceneSeconds": 12.0
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 7.92,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 4.11,
+          "sceneSeconds": 7.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 9.4,
+          "sceneSeconds": 12.0
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "f4a54b1102b3e216d534b655d9dd9c50762e235e00b80844ed4f7e075853d9db",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.59,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 6.69,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 6.65,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 6.33,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 7.31,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 4.74,
+          "sceneSeconds": 8.0
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "voice": "en-US-GuyNeural",
+      "rate": "-15%",
+      "videoVerified": true,
+      "sha256": "4bae815d8fc4bc71f5c7b96342286b3fb27ab7f5a9aa0b93a3cc419856741c91",
+      "clips": [
+        {
+          "scene": "close",
+          "voiceSeconds": 6.05,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "compare",
+          "voiceSeconds": 7.48,
+          "sceneSeconds": 11.0
+        },
+        {
+          "scene": "demo",
+          "voiceSeconds": 5.58,
+          "sceneSeconds": 9.0
+        },
+        {
+          "scene": "hook",
+          "voiceSeconds": 7.52,
+          "sceneSeconds": 10.5
+        },
+        {
+          "scene": "idea",
+          "voiceSeconds": 6.43,
+          "sceneSeconds": 10.0
+        },
+        {
+          "scene": "takeaway",
+          "voiceSeconds": 7.69,
+          "sceneSeconds": 10.5
+        }
+      ]
+    }
+  ]
+}

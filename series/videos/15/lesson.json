@@ -1,0 +1,16 @@
+{
+  "videoNumber": 15,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "HTML Input Types",
+  "description": "Explore text, email, password, and number inputs.",
+  "publishLocal": "2026-10-26T16:00:00+05:30",
+  "publishAt": "2026-10-26T10:30:00Z",
+  "status": "planned",
+  "definition": "Input types tell a browser what kind of value to collect.",
+  "code": "<input type=\"email\">\n<input type=\"password\">\n<input type=\"number\">",
+  "preview": "<p><input placeholder=\"Email\"></p><p><input type=\"password\" value=\"example\"></p><p><input type=\"number\" value=\"3\"></p>",
+  "rule": "Email, password, and number types offer different input behavior.",
+  "tip": "An email field can participate in browser validation.",
+  "caution": "Masking a password field does not encrypt or securely store its value.",
+  "exercise": "Try three input types and compare their behavior."
+}

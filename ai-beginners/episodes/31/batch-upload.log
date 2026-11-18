@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 17%
+Upload 26%
+Upload 35%
+Upload 44%
+Upload 52%
+Upload 61%
+Upload 70%
+Upload 78%
+Upload 87%
+Upload 96%
+Uploaded: https://www.youtube.com/watch?v=vOGFMQIvMhg
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "9c8500598219d0f90ae429b8f10d9d8d97179cc59935b6cbd525b876087908dd",
+  "title": "AI Search vs Traditional Search: Answers, Sources and Verification | Ep 31",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:07:03Z",
+  "publishAt": "2026-11-11T14:00:00+05:30",
+  "videoId": "vOGFMQIvMhg",
+  "url": "https://www.youtube.com/watch?v=vOGFMQIvMhg",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-11T08:30:00Z"
+}

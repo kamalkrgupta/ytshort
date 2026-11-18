@@ -1,0 +1,18 @@
+Three Ways to Add CSS | Web Development in 60 Seconds
+
+You can add C S S inline, inside a document, or in a separate file. Learn three ways to add css with a quick example for beginners.
+
+Inline styles use an attribute; internal styles use a style element.
+An external stylesheet can be shared across several pages.
+
+Try it: Create a styles file and connect it to your HTML document.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 22
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: three ways to add css, web development for beginners, learn to code, coding shorts, css tutorial

@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 27%
+Upload 36%
+Upload 45%
+Upload 54%
+Upload 63%
+Upload 72%
+Upload 81%
+Upload 90%
+Upload 99%
+Uploaded: https://www.youtube.com/watch?v=9UUlB1US9Hg
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "9128c2b87f1b0ba953401877586b19e12d633119c0850db226f68b29208302d2",
+  "title": "No-Code AI Automation: Connect a Trigger, Action and Human Check | Ep 36",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:10:54Z",
+  "publishAt": "2026-11-13T14:00:00+05:30",
+  "videoId": "9UUlB1US9Hg",
+  "url": "https://www.youtube.com/watch?v=9UUlB1US9Hg",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-13T08:30:00Z"
+}

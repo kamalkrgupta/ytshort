@@ -1,0 +1,38 @@
+{
+  "number": 20,
+  "slug": "digital-twins",
+  "title": "Digital Twins Explained: Test a Change Before Making It",
+  "category": "FUTURE TECH",
+  "source": "https://www.nvidia.com/en-eu/glossary/digital-twin/",
+  "headline": "Test the change\nbefore the real world.",
+  "meaning": "A digital twin represents a real system.",
+  "example": "Try a factory-layout change in a connected simulation.",
+  "comparison": "A useful twin connects its model to relevant real-world data.",
+  "caution": "Simulation results depend on model and data quality.",
+  "question": "What would you test in a digital twin?",
+  "flow": [
+    "Real system",
+    "Data connection",
+    "Digital model"
+  ],
+  "left": [
+    "REAL SYSTEM",
+    "Machines and measurements"
+  ],
+  "right": [
+    "DIGITAL TWIN",
+    "Model and simulation"
+  ],
+  "lines": [
+    "What if you could test a factory change before moving a single machine? That is one use of digital twins.",
+    "A digital twin is a digital representation of a real object or system, connected to relevant data.",
+    "A team might simulate a different layout and inspect how people, machines, or materials move.",
+    "The point is not just a beautiful three dimensional picture. The connection to the real system makes it useful.",
+    "A simulation is only as dependable as its assumptions, model, and data. Check those before acting.",
+    "What would you test first? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-12-05T20:00:00+05:30",
+  "publishAt": "2026-12-05T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#8fc9ff"
+}

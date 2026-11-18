@@ -1,0 +1,16 @@
+{
+  "videoNumber": 12,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "HTML Line Breaks",
+  "description": "Use <br> and <hr> appropriately.",
+  "publishLocal": "2026-10-25T11:00:00+05:30",
+  "publishAt": "2026-10-25T05:30:00Z",
+  "status": "planned",
+  "definition": "Line breaks and thematic breaks have different meanings.",
+  "code": "<p>Line one<br>Line two</p>\n<hr>\n<p>A new section</p>",
+  "preview": "<p>Line one<br>Line two</p><hr><p>A new section</p>",
+  "rule": "B R creates a line break; H R marks a thematic break.",
+  "tip": "A line break suits addresses and lines of a poem.",
+  "caution": "Use C S S spacing instead of repeated break elements for layout.",
+  "exercise": "Write a two-line address, then add a thematic break below it."
+}

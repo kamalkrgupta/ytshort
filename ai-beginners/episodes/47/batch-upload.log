@@ -1,0 +1,28 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 28%
+Upload 37%
+Upload 46%
+Upload 55%
+Upload 65%
+Upload 74%
+Upload 83%
+Upload 92%
+Uploaded: https://www.youtube.com/watch?v=Oi1DNS5lVC0
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "7f32e4cce5dd0c6a59bfff8d90492fb0e4ba2458bc4fe16a4403c67c776ec80e",
+  "title": "Your First AI Project: Pick a Useful Goal and Keep It Small | Ep 47",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:20:44Z",
+  "publishAt": "2026-11-19T14:00:00+05:30",
+  "videoId": "Oi1DNS5lVC0",
+  "url": "https://www.youtube.com/watch?v=Oi1DNS5lVC0",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-19T08:30:00Z"
+}

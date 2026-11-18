@@ -1,0 +1,185 @@
+
+=== LESSON 2 What Are HTML Tags? ===
+
+scene                    voice   needs  scene is   status
+hook                     3.83s      5s        5s   ok
+idea                     6.44s    7.5s        8s   ok
+code                     6.90s      8s      8.5s   ok
+result                   8.56s    9.5s       10s   ok
+tip                      5.65s    6.5s        7s   ok
+caution                  7.72s    8.5s        9s   ok
+try                      5.91s      7s      7.5s   ok
+close                    3.93s      5s        5s   ok
+
+Speech 48.9s. Voiced scenes need at least 57s = 57s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 398 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-C7r9H7UK.css                               7.90 kB │ gzip:   2.55 kB
+dist/assets/index-DfnXsQeC.js                              338.22 kB │ gzip: 115.06 kB
+✓ built in 5.56s
+
+still 01.png  t=4.27s  hook
+still 02.png  t=11.80s  idea
+still 03.png  t=20.23s  code
+still 04.png  t=30.00s  result
+still 05.png  t=37.47s  tip
+still 06.png  t=46.17s  caution
+still 07.png  t=53.87s  try
+still 08.png  t=59.27s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)
+
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~72s left)
+  20%  (16s elapsed, ~63s left)
+  30%  (25s elapsed, ~57s left)
+  40%  (33s elapsed, ~49s left)
+  50%  (40s elapsed, ~40s left)
+  60%  (48s elapsed, ~32s left)
+  70%  (55s elapsed, ~24s left)
+  80%  (63s elapsed, ~16s left)
+  90%  (71s elapsed, ~8s left)
+  100%  (79s elapsed, ~0s left)
+
+Done in 79s -> ../videos/02/video.mp4 (4.3 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 23%
+Upload 46%
+Upload 69%
+Upload 92%
+Uploaded: https://www.youtube.com/watch?v=GjtwEy6C0BY
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "90a2885ab89ead2e910b60eb288c5c5224ef27015c511dff42eabc291ab4bbb5",
+  "title": "What Are HTML Tags? | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-19T12:02:50Z",
+  "publishAt": "2026-10-20T05:30:00Z",
+  "videoId": "GjtwEy6C0BY",
+  "url": "https://www.youtube.com/watch?v=GjtwEy6C0BY",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-20T05:30:00Z"
+}
+
+
+=== LESSON 3 HTML Headings Explained ===
+
+scene                    voice   needs  scene is   status
+hook                     3.99s      5s        5s   ok
+idea                     6.48s    7.5s      7.5s   ok
+code                     6.59s    7.5s        8s   ok
+result                   8.56s    9.5s       10s   ok
+tip                      7.12s      8s        8s   ok
+caution                  7.64s    8.5s        9s   ok
+try                      6.60s    7.5s      7.5s   ok
+close                    3.93s      5s        5s   ok
+
+Speech 50.9s. Voiced scenes need at least 58.5s = 58.5s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 398 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-C7r9H7UK.css                               7.90 kB │ gzip:   2.55 kB
+dist/assets/index-wi5EjM6N.js                              338.31 kB │ gzip: 115.10 kB
+✓ built in 5.46s
+
+still 01.png  t=4.27s  hook
+still 02.png  t=11.37s  idea
+still 03.png  t=19.30s  code
+still 04.png  t=29.00s  result
+still 05.png  t=37.30s  tip
+still 06.png  t=46.17s  caution
+still 07.png  t=53.87s  try
+still 08.png  t=59.27s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)
+
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~75s left)
+  20%  (16s elapsed, ~65s left)
+  30%  (24s elapsed, ~56s left)
+  40%  (99s elapsed, ~149s left)
+  50%  (107s elapsed, ~107s left)
+  60%  (115s elapsed, ~77s left)
+  70%  (123s elapsed, ~53s left)
+  80%  (131s elapsed, ~33s left)
+  90%  (139s elapsed, ~15s left)
+  100%  (147s elapsed, ~0s left)
+
+Done in 147s -> ../videos/03/video.mp4 (4.4 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 23%
+Upload 45%
+Upload 68%
+Upload 90%
+Uploaded: https://www.youtube.com/watch?v=iJj3UEqr3mM
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "29842b25ff58f270315f7d14f338f3e05272b8fa656648c32034f8c47c237fba",
+  "title": "HTML Headings Explained | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-19T12:06:10Z",
+  "publishAt": "2026-10-20T10:30:00Z",
+  "videoId": "iJj3UEqr3mM",
+  "url": "https://www.youtube.com/watch?v=iJj3UEqr3mM",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-20T10:30:00Z"
+}
+
+Selected production batch complete.

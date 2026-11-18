@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Display Property. Let’s make it simple.",
+    "idea": "Display controls how an element participates in layout. Start by understanding the role it plays in a page.",
+    "code": "Block elements normally start a new line; inline elements flow with text.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Inline block boxes flow inline while accepting width and height. Keep this detail in mind when writing your own example.",
+    "caution": "Display none removes an element from layout and the accessibility tree.",
+    "try": "Compare a block container with two inline block labels. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

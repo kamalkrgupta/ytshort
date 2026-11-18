@@ -1,0 +1,263 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,645
+Welcome to episode 26 of AI for Beginners Today
+
+4
+00:00:12,774 --> 00:00:17,233
+we’re looking at ai video generation basics By the
+
+5
+00:00:17,246 --> 00:00:21,331
+end you’ll understand one practical idea watch a realistic
+
+6
+00:00:21,344 --> 00:00:26,176
+example and try a small exercise yourself You don’t
+
+7
+00:00:26,189 --> 00:00:30,919
+need a technical background or expensive software Bring your
+
+8
+00:00:30,931 --> 00:00:36,666
+curiosity We’ll work through it together Here’s the example
+
+9
+00:00:36,679 --> 00:00:40,132
+we’ll use a five-second clip of a paper airplane
+
+10
+00:00:40,145 --> 00:00:44,205
+flying We’ll use that situation to make the topic
+
+11
+00:00:44,218 --> 00:00:48,290
+concrete Watch how we break the task into small
+
+12
+00:00:48,303 --> 00:00:51,370
+steps because the same thinking will help you use
+
+13
+00:00:51,382 --> 00:00:54,449
+many different AI tools later in this course
+
+14
+00:01:01,383 --> 00:01:05,985
+Let’s start with the main idea plan scenes motion
+
+15
+00:01:06,192 --> 00:01:10,135
+camera and duration Think of AI as a tool
+
+16
+00:01:10,148 --> 00:01:13,511
+that processes information and returns an output based on
+
+17
+00:01:13,524 --> 00:01:17,764
+its training instructions and any relevant information it can
+
+18
+00:01:17,777 --> 00:01:21,900
+access It can save time on drafts and patterns
+
+19
+00:01:22,081 --> 00:01:25,006
+but it doesn’t automatically know what’s correct for your
+
+20
+00:01:25,019 --> 00:01:29,233
+situation The most useful habit is to define what
+
+21
+00:01:29,246 --> 00:01:33,228
+you want before touching the tool Ask yourself three
+
+22
+00:01:33,241 --> 00:01:36,939
+questions what’s my goal what information does the tool
+
+23
+00:01:36,952 --> 00:01:40,663
+need and how will I check the result Those
+
+24
+00:01:40,676 --> 00:01:44,568
+questions work whether you’re writing a prompt building a workflow
+
+25
+00:01:44,710 --> 00:01:46,746
+or reviewing a generated answer
+
+26
+00:01:53,683 --> 00:01:57,783
+Let’s try it with an example Our example is
+
+27
+00:01:57,796 --> 00:02:02,267
+a five-second clip of a paper airplane flying Start
+
+28
+00:02:02,280 --> 00:02:05,618
+by writing down the desired result in one sentence
+
+29
+00:02:06,507 --> 00:02:10,231
+Next identify the input what would a person need
+
+30
+00:02:10,244 --> 00:02:13,878
+to know to do this task correctly Then write
+
+31
+00:02:13,891 --> 00:02:16,816
+a simple instruction with that context and a clear
+
+32
+00:02:16,829 --> 00:02:21,417
+format On screen I am showing a sample request
+
+33
+00:02:21,597 --> 00:02:25,824
+followed by a possible output Notice that we’re not
+
+34
+00:02:25,837 --> 00:02:29,935
+judging the result by how impressive it sounds We’re
+
+35
+00:02:29,948 --> 00:02:33,891
+checking whether it actually meets the task If the
+
+36
+00:02:33,904 --> 00:02:37,048
+output is too broad ask for a more specific
+
+37
+00:02:37,061 --> 00:02:41,095
+version If a fact matters verify it from a
+
+38
+00:02:41,108 --> 00:02:44,935
+reliable source Pause the video here if you’d like
+
+39
+00:02:44,948 --> 00:02:47,435
+to copy the structure into your own notes
+
+40
+00:02:54,350 --> 00:02:59,094
+Your turn Try this exercise write a two-shot video
+
+41
+00:02:59,107 --> 00:03:03,733
+storyboard Begin with a very small example not a
+
+42
+00:03:03,746 --> 00:03:08,681
+complex project Give yourself thirty seconds to decide what
+
+43
+00:03:08,694 --> 00:03:12,844
+success would look like Then complete the task once
+
+44
+00:03:12,857 --> 00:03:19,390
+and inspect the result What’s useful What’s missing What
+
+45
+00:03:19,403 --> 00:03:23,424
+would you change Make one improvement and compare the
+
+46
+00:03:23,437 --> 00:03:29,132
+first and second versions This simple before-and-after comparison teaches
+
+47
+00:03:29,145 --> 00:03:31,968
+you more than copying a complicated prompt from the
+
+48
+00:03:31,980 --> 00:03:36,207
+internet If your chosen tool is unavailable do the
+
+49
+00:03:36,220 --> 00:03:40,331
+exercise on paper sketch the input the steps and
+
+50
+00:03:40,344 --> 00:03:44,364
+the output The objective is to practice the underlying
+
+51
+00:03:44,377 --> 00:03:47,586
+thinking not to depend on one particular app
+
+52
+00:03:54,517 --> 00:03:59,040
+Before we finish remember this important limitation motion and
+
+53
+00:03:59,053 --> 00:04:04,570
+character consistency can be imperfect Responsible AI use means
+
+54
+00:04:04,583 --> 00:04:07,830
+understanding the strengths of the tool and keeping yourself
+
+55
+00:04:07,843 --> 00:04:11,954
+accountable for the final result Today you learned that
+
+56
+00:04:11,967 --> 00:04:16,297
+plan scenes motion camera and duration saw the example
+
+57
+00:04:16,309 --> 00:04:19,454
+of a five-second clip of a paper airplane flying
+
+58
+00:04:19,608 --> 00:04:24,222
+and practiced a small hands-on task Here’s your challenge
+
+59
+00:04:24,428 --> 00:04:27,431
+repeat the exercise with a different topic and write
+
+60
+00:04:27,443 --> 00:04:31,644
+down one thing that improved In the comments share
+
+61
+00:04:31,657 --> 00:04:34,273
+the part you found easiest or the question you
+
+62
+00:04:34,286 --> 00:04:38,217
+still have If this helped share it with someone
+
+63
+00:04:38,230 --> 00:04:42,547
+learning AI And subscribe to Tech at sixty for
+
+64
+00:04:42,559 --> 00:04:47,070
+the next lesson We’re building practical AI skills one
+
+65
+00:04:47,083 --> 00:04:52,083
+simple step at a time Thanks for watching See
+
+66
+00:04:52,096 --> 00:04:53,423
+you in the next lesson

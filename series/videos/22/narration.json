@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "Three Ways to Add C S S. Let’s make it simple.",
+    "idea": "You can add C S S inline, inside a document, or in a separate file. Start by understanding the role it plays in a page.",
+    "code": "Inline styles use an attribute; internal styles use a style element.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "An external stylesheet can be shared across several pages. Keep this detail in mind when writing your own example.",
+    "caution": "Keep larger projects organized with a separate stylesheet.",
+    "try": "Create a styles file and connect it to your H T M L document. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

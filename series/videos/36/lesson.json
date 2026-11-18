@@ -1,0 +1,16 @@
+{
+  "videoNumber": 36,
+  "phase": "Phase 3 — Build Beautiful Websites with CSS",
+  "topic": "CSS Animations",
+  "description": "Create movement using transitions and keyframes.",
+  "publishLocal": "2026-11-06T11:00:00+05:30",
+  "publishAt": "2026-11-06T05:30:00Z",
+  "status": "planned",
+  "definition": "Transitions and keyframes create changes over time.",
+  "code": "@keyframes rise {\n from { opacity: 0;\n        transform: translateY(20px); }\n to   { opacity: 1;\n        transform: translateY(0); }\n}",
+  "preview": "<div style=\"background:#d9e8ff;padding:50px 25px;border-radius:16px\">↑ Fade and rise</div>",
+  "rule": "A transition responds to a changed property; keyframes define an animation sequence.",
+  "tip": "Opacity and transform are useful properties for simple interface motion.",
+  "caution": "Respect reduced motion preferences and avoid unnecessary movement.",
+  "exercise": "Animate a card entrance with a short fade and upward movement."
+}

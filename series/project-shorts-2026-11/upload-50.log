@@ -1,0 +1,26 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 24%
+Upload 48%
+Upload 72%
+Upload 96%
+Uploaded: https://www.youtube.com/watch?v=auJz7roR0e8
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "5cde29ddc354772fc8617166706e0fae4ddd092ffcd04368ce84ed3bf53542a0",
+  "title": "Build a JavaScript To-Do List: Add and Remove Tasks",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-16T09:09:31Z",
+  "publishAt": "2026-11-18T10:30:00+00:00",
+  "videoId": "auJz7roR0e8",
+  "url": "https://www.youtube.com/watch?v=auJz7roR0e8",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-18T10:30:00Z"
+}

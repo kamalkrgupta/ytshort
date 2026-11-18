@@ -1,0 +1,26 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 26%
+Upload 52%
+Upload 78%
+Uploaded: https://www.youtube.com/watch?v=LaHg-DLtkGk
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "8f652cefd2cf514826b779f4edb7ca2ddd036b446eaa06c9f6fb0b847be75af9",
+  "title": "Satellite Messaging: How a Phone Connects Beyond Cell Towers",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:47:12Z",
+  "publishAt": "2026-11-17T14:30:00+00:00",
+  "videoId": "LaHg-DLtkGk",
+  "url": "https://www.youtube.com/watch?v=LaHg-DLtkGk",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-17T14:30:00Z"
+}

@@ -1,0 +1,12 @@
+{
+  "waiter": {
+    "status": "WAITING",
+    "publishAt": "2026-11-17T19:00:00+05:30",
+    "sha256": "e4de41a1e56da252e0270d4feda4ef58b40f28393ab8843bc81db76d7525d424",
+    "run_id": "44068142527",
+    "kind": "daily"
+  },
+  "published_today": false,
+  "pending_jobs": 0,
+  "scheduled_source": "011 - HTML Comments Web Development in 60 Seconds - PMmOSKNzM18.mp4"
+}

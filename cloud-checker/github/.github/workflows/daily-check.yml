@@ -1,0 +1,36 @@
+name: Daily YouTube readiness
+on:
+  schedule:
+    # 02:30 UTC = 08:00 Asia/Kolkata. GitHub may delay scheduled jobs.
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: daily-youtube-readiness
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install API client
+        run: python -m pip install --no-cache-dir -r checker/requirements.txt
+      - name: Check and repair release times
+        env:
+          YOUTUBE_OAUTH_JSON: ${{ secrets.YOUTUBE_OAUTH_JSON }}
+          YOUTUBE_SCHEDULE_JSON: ${{ secrets.YOUTUBE_SCHEDULE_JSON }}
+        run: |
+          python - <<'PY'
+          import os
+          for key in ('YOUTUBE_OAUTH_JSON', 'YOUTUBE_SCHEDULE_JSON'):
+              if not os.environ.get(key):
+                  raise SystemExit(f'Missing repository secret: {key}')
+          PY
+          python -u checker/check.py

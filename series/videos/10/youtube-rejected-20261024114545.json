@@ -1,0 +1,11 @@
+{
+  "state": "rejected",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "b1290709337a8501b482284abb876d1b911cad124ccad1f991ddffbe85993e9a",
+  "title": "HTML Div vs Span | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-24T06:14:48Z",
+  "publishAt": null,
+  "errorReason": "uploadLimitExceeded",
+  "rejectedBeforeUpload": true
+}

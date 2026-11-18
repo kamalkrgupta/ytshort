@@ -1,0 +1,13 @@
+{
+  "title": "JavaScript Functions: Parameters, Return and Your First Function",
+  "description": "Write a reusable JavaScript function, pass in two numbers and return their sum. Learn how parameters, arguments and return work together.\n\nTry answering: What should add(2, 3) return?\n\nContinue learning: open the JavaScript for Beginners playlist on @Techat60.\nSubscribe to TECH AT 60 for practical beginner coding lessons.\n\nParameters receive input, and return sends a result back to the caller.\nCall the function with an argument to run its instructions.\n\nTry it: Write a function that returns the sum of two numbers.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 41\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "javascript functions",
+    "web development for beginners",
+    "learn to code",
+    "coding shorts",
+    "javascript tutorial"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-08T10:30:00Z"
+}

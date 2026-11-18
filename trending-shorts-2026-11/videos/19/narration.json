@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "An A I model and your calendar are different systems. How does an app connect the two?",
+    "idea": "The Model Context Protocol, or M C P, standardizes how A I applications connect to tools and data sources.",
+    "demo": "A connected service can expose useful information or actions in a structured way the application understands.",
+    "compare": "Think of a common connection language. It does not magically give a model access to everything.",
+    "takeaway": "Permissions, server trust, and what data gets shared still need careful setup.",
+    "close": "Which tool would you connect first? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

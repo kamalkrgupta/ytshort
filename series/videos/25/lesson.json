@@ -1,0 +1,16 @@
+{
+  "videoNumber": 25,
+  "phase": "Phase 2 — Advanced HTML & CSS Basics",
+  "topic": "CSS Backgrounds",
+  "description": "Add colors, gradients, and background images.",
+  "publishLocal": "2026-10-31T16:00:00+05:30",
+  "publishAt": "2026-10-31T10:30:00Z",
+  "status": "planned",
+  "definition": "Background properties paint the area behind an element.",
+  "code": ".card {\n background: linear-gradient(\n   135deg, #ffd6a5, #caffbf\n );\n}",
+  "preview": "<div style=\"padding:70px 30px;background:linear-gradient(135deg,#ffd6a5,#caffbf);border-radius:20px\">Hello, gradient!</div>",
+  "rule": "Start with a solid color, or combine colors in a gradient.",
+  "tip": "A background image can be sized and positioned separately.",
+  "caution": "Keep foreground text readable across the entire background.",
+  "exercise": "Give a card a two-color gradient background."
+}

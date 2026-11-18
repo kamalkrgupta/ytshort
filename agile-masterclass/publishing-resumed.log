@@ -1,0 +1,39 @@
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/01
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Existing upload: https://www.youtube.com/watch?v=reA35oDRHj8
+Custom thumbnail unavailable: The authenticated user doesn't have permissions to upload and set custom video thumbnails.
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "50febb498d3c53046669a32399b52241875ecc6dba77fbf23bc21acb7e49a7e8",
+  "title": "Agile Testing Explained for Beginners | Real Examples | Episode 1",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:36:41Z",
+  "publishAt": null,
+  "videoId": "reA35oDRHj8",
+  "url": "https://www.youtube.com/watch?v=reA35oDRHj8",
+  "actualVisibility": "public",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "The authenticated user doesn't have permissions to upload and set custom video thumbnails.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null
+}
+CONFIRMED E01: published https://www.youtube.com/watch?v=reA35oDRHj8
+Waiting for verified render E02
+Traceback (most recent call last):
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/publish.py", line 59, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/publish.py", line 50, in main
+    if log.exists() and 'Traceback (most recent call last)' in log.read_text():raise RuntimeError(f'Render E{n:02d} failed; upload not attempted')
+                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Render E02 failed; upload not attempted

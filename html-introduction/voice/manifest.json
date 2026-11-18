@@ -1,0 +1,55 @@
+{
+  "clips": {
+    "hook": {
+      "file": "hook.wav",
+      "source": "edge-tts",
+      "hash": "92e84bd6f4da",
+      "duration": 4.22
+    },
+    "meaning": {
+      "file": "meaning.wav",
+      "source": "edge-tts",
+      "hash": "d1dd921e8bf5",
+      "duration": 6.31
+    },
+    "anatomy": {
+      "file": "anatomy.wav",
+      "source": "edge-tts",
+      "hash": "97ce324137a4",
+      "duration": 6.28
+    },
+    "content": {
+      "file": "content.wav",
+      "source": "edge-tts",
+      "hash": "e7f356c6b700",
+      "duration": 7.93
+    },
+    "links": {
+      "file": "links.wav",
+      "source": "edge-tts",
+      "hash": "2c78d9d64d05",
+      "duration": 6.22
+    },
+    "layers": {
+      "file": "layers.wav",
+      "source": "edge-tts",
+      "hash": "92db4db9a9f3",
+      "duration": 8.26
+    },
+    "practice": {
+      "file": "practice.wav",
+      "source": "edge-tts",
+      "hash": "ad48c281f991",
+      "duration": 6.18
+    },
+    "close": {
+      "file": "close.wav",
+      "source": "edge-tts",
+      "hash": "ec2305cce8ff",
+      "duration": 4.05
+    }
+  },
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+5%",
+  "leadIn": 0.35
+}

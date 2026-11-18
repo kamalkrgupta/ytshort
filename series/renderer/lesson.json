@@ -1,0 +1,16 @@
+{
+  "videoNumber": 47,
+  "phase": "Phase 5 — Real-World Beginner Projects",
+  "topic": "Build a Personal Profile Card",
+  "description": "Combine HTML and CSS into a simple profile design.",
+  "publishLocal": "2026-11-11T16:00:00+05:30",
+  "publishAt": "2026-11-11T10:30:00Z",
+  "status": "planned",
+  "definition": "A profile card combines meaningful content with a small reusable layout.",
+  "code": "<article class=\"card\">\n <h2>Alex</h2>\n <p>Learning web development</p>\n</article>",
+  "preview": "<article style=\"padding:35px;border:2px solid teal;border-radius:20px;text-align:center\"><div style=\"font-size:70px\">👋</div><h2>Alex</h2><p>Learning web development</p></article>",
+  "rule": "Start with an article, a heading, and a short introduction.",
+  "tip": "Add padding, a border, and consistent spacing in your stylesheet.",
+  "caution": "If you include a portrait, give it appropriate alternative text.",
+  "exercise": "Build a card with your name, a short bio, and one useful link."
+}

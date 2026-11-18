@@ -1,0 +1,16 @@
+{
+  "title": "RAG Explained for Beginners: Give AI Relevant Documents | Ep 45",
+  "description": "RAG Explained for Beginners: Give AI Relevant Documents. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 45 of 50\n\nWhat you will learn: Retrieve relevant documents before generating an answer.\nExample: answering a policy question from a company handbook.\nTry it: highlight source passages used for an answer.\nRemember: retrieval can still miss passages or misunderstand them.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+  "tags": [
+    "introduction to rag",
+    "AI for beginners",
+    "artificial intelligence tutorial",
+    "learn AI",
+    "AI tutorial English",
+    "Techat60",
+    "RAG",
+    "retrieval augmented generation"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-18T14:00:00+05:30"
+}

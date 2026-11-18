@@ -1,0 +1,32 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 26%
+Upload 51%
+Upload 77%
+Uploaded: https://www.youtube.com/watch?v=GbqpbH7PS2U
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "25e2336e3952b53eafecd1e3ca79e21beb5237bbcd02a187fb0672401fb86407",
+  "title": "Post-Quantum Encryption: Why Prepare Before Quantum Computers?",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:55:47Z",
+  "publishAt": "2026-12-01T14:30:00+00:00",
+  "videoId": "GbqpbH7PS2U",
+  "url": "https://www.youtube.com/watch?v=GbqpbH7PS2U",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-12-01T14:30:00Z"
+}

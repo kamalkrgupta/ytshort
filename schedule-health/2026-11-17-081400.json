@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-17",
+  "checkedAt": "2026-11-17T08:14:00.290254+05:30",
+  "state": "repairing_or_needs_attention",
+  "timezone": "Asia/Kolkata",
+  "lookaheadDays": 3,
+  "checks": [
+    {
+      "course": "AI",
+      "state": "producer_running",
+      "needsFollowup": true
+    },
+    {
+      "course": "AI",
+      "episode": 43,
+      "publishAt": "2026-11-17T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "wMlOdJV4yDI",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 44,
+      "publishAt": "2026-11-17T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "JCva46HidWQ",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 45,
+      "publishAt": "2026-11-18T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "mcH_IGUOPxw",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 46,
+      "publishAt": "2026-11-18T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "4pph6YBvXfw",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 47,
+      "publishAt": "2026-11-19T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "Oi1DNS5lVC0",
+      "needsFollowup": false
+    },
+    {
+      "course": "AI",
+      "episode": 48,
+      "publishAt": "2026-11-19T14:00:00+05:30",
+      "state": "ready",
+      "videoId": "R-es_JUW730",
+      "needsFollowup": false
+    }
+  ],
+  "repairs": [],
+  "finishedAt": "2026-11-17T08:14:15.487840+05:30"
+}

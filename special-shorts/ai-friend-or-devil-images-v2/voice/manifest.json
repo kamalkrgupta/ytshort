@@ -1,0 +1,55 @@
+{
+  "clips": {
+    "hook": {
+      "file": "hook.wav",
+      "source": "edge-tts",
+      "hash": "1f9a63ad3680",
+      "duration": 4.92
+    },
+    "friend": {
+      "file": "friend.wav",
+      "source": "edge-tts",
+      "hash": "ccc8fb024e33",
+      "duration": 7.39
+    },
+    "trap": {
+      "file": "trap.wav",
+      "source": "edge-tts",
+      "hash": "d203206179ed",
+      "duration": 7.95
+    },
+    "fake": {
+      "file": "fake.wav",
+      "source": "edge-tts",
+      "hash": "e98f885fb8cd",
+      "duration": 6.38
+    },
+    "privacy": {
+      "file": "privacy.wav",
+      "source": "edge-tts",
+      "hash": "f7082b9de21f",
+      "duration": 5.94
+    },
+    "rule": {
+      "file": "rule.wav",
+      "source": "edge-tts",
+      "hash": "d1cae746a703",
+      "duration": 6.19
+    },
+    "payoff": {
+      "file": "payoff.wav",
+      "source": "edge-tts",
+      "hash": "7b8665811c38",
+      "duration": 5.95
+    },
+    "close": {
+      "file": "close.wav",
+      "source": "edge-tts",
+      "hash": "3815ea659fe9",
+      "duration": 5
+    }
+  },
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-3%",
+  "leadIn": 0.25
+}

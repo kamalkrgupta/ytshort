@@ -1,0 +1,13 @@
+{
+  "title": "JavaScript Arrays | Web Development in 60 Seconds",
+  "description": "An array stores an ordered collection of values. Learn javascript arrays with a quick example for beginners.\n\nArray positions start at zero, so index zero gives the first item.\nPush appends an item, and length reports the number of items.\n\nTry it: Create an array of three skills and read its first item.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 44\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "javascript arrays",
+    "web development for beginners",
+    "learn to code",
+    "coding shorts",
+    "javascript tutorial"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-10T05:30:00Z"
+}

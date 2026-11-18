@@ -1,0 +1,12 @@
+{
+  "title": "Build a JavaScript Counter: Click to Add One",
+  "description": "One click, one number higher. Build this counter with JavaScript. State is the value; textContent shows it. Listen for a click, then update the value.\n\nTry it: Add a reset button that returns to zero.\n\nSelect elements after the HTML exists.\n\nFind the complete Web Development for Beginners playlist on @Techat60. Subscribe for practical HTML, CSS and JavaScript projects.\n\nWeb Development in 60 Seconds \u2022 Lesson 49\n\nReference: https://developer.mozilla.org/en-US/docs/Learn_web_development\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "build a javascript counter: click to add one",
+    "web development for beginners",
+    "beginner coding projects",
+    "Tech at 60"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-18T05:30:00+00:00"
+}

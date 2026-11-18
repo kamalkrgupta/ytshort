@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instagram Reels Cloud Publisher"
+  short_description: "Build a reliable daily Reels publisher on GitHub Actions"
+  default_prompt: "Use $instagram-reels-cloud-publisher to build and validate my own Instagram Reels automation that runs while my computer is off."

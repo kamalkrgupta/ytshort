@@ -1,0 +1,15 @@
+Build a JavaScript Counter: Click to Add One
+
+One click, one number higher. Build this counter with JavaScript. State is the value; textContent shows it. Listen for a click, then update the value.
+
+Try it: Add a reset button that returns to zero.
+
+Select elements after the HTML exists.
+
+Find the complete Web Development for Beginners playlist on @Techat60. Subscribe for practical HTML, CSS and JavaScript projects.
+
+Web Development in 60 Seconds • Lesson 49
+
+Reference: https://developer.mozilla.org/en-US/docs/Learn_web_development
+
+#WebDevelopment #LearnToCode #Shorts

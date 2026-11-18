@@ -1,0 +1,38 @@
+{
+  "number": 17,
+  "slug": "smart-glasses",
+  "title": "AI Glasses vs AR Glasses: Do They All Have a Screen?",
+  "category": "GADGETS",
+  "source": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/",
+  "headline": "AI glasses\ndo not all have screens.",
+  "meaning": "Audio, cameras and displays are different features.",
+  "example": "A voice assistant can respond without a visual overlay.",
+  "comparison": "An AI assistant is different from an AR display.",
+  "caution": "Check the exact model and recording indicators.",
+  "question": "Would you prefer audio or a display?",
+  "flow": [
+    "Microphone / camera",
+    "AI processing",
+    "Audio / display"
+  ],
+  "left": [
+    "AI FEATURES",
+    "Questions and assistance"
+  ],
+  "right": [
+    "AR DISPLAY",
+    "Visual overlays when supported"
+  ],
+  "lines": [
+    "When you hear A I glasses, do you imagine a screen floating in front of your eyes? Not every pair has one.",
+    "Glasses can combine microphones, speakers, cameras, and an assistant. The exact features depend on the model.",
+    "An audio focused pair may answer through speakers without showing a visual interface in the lens.",
+    "An augmented reality display is a separate capability. The labels A I and A R are not interchangeable.",
+    "Before choosing, check the specific hardware, phone connection, available features, and recording indicators.",
+    "Would you prefer audio or a display? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-12-02T20:00:00+05:30",
+  "publishAt": "2026-12-02T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#ffab73"
+}

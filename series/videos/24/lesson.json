@@ -1,0 +1,16 @@
+{
+  "videoNumber": 24,
+  "phase": "Phase 2 — Advanced HTML & CSS Basics",
+  "topic": "CSS Fonts and Text Styling",
+  "description": "Change font size, weight, spacing, and alignment.",
+  "publishLocal": "2026-10-31T11:00:00+05:30",
+  "publishAt": "2026-10-31T05:30:00Z",
+  "status": "planned",
+  "definition": "Text properties control the presentation of written content.",
+  "code": "h1 {\n font-size: 2rem;\n font-weight: 700;\n letter-spacing: .03em;\n text-align: center;\n}",
+  "preview": "<h2 style=\"text-align:center;letter-spacing:4px\">HELLO</h2><p style=\"line-height:1.6\">Readable text starts with good spacing.</p>",
+  "rule": "Font size, weight, and line height affect readability.",
+  "tip": "Relative units can help text scale with user preferences.",
+  "caution": "Use real heading elements for structure, even when styling changes their size.",
+  "exercise": "Give a heading bold weight and a paragraph comfortable line spacing."
+}

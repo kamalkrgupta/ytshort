@@ -1,0 +1,277 @@
+[
+  {
+    "lesson": 47,
+    "voice": "en-US-GuyNeural",
+    "rate": "-15%",
+    "clips": [
+      {
+        "scene": "caution",
+        "speech_seconds": 4.28,
+        "scene_seconds": 6.5,
+        "remaining_seconds": 1.97
+      },
+      {
+        "scene": "close",
+        "speech_seconds": 3.7,
+        "scene_seconds": 6.0,
+        "remaining_seconds": 2.05
+      },
+      {
+        "scene": "code",
+        "speech_seconds": 6.08,
+        "scene_seconds": 8.5,
+        "remaining_seconds": 2.17
+      },
+      {
+        "scene": "hook",
+        "speech_seconds": 4.66,
+        "scene_seconds": 7.0,
+        "remaining_seconds": 2.09
+      },
+      {
+        "scene": "idea",
+        "speech_seconds": 5.55,
+        "scene_seconds": 8.0,
+        "remaining_seconds": 2.2
+      },
+      {
+        "scene": "result",
+        "speech_seconds": 6.54,
+        "scene_seconds": 9.0,
+        "remaining_seconds": 2.21
+      },
+      {
+        "scene": "tip",
+        "speech_seconds": 5.63,
+        "scene_seconds": 8.0,
+        "remaining_seconds": 2.12
+      },
+      {
+        "scene": "try",
+        "speech_seconds": 4.38,
+        "scene_seconds": 7.0,
+        "remaining_seconds": 2.37
+      }
+    ]
+  },
+  {
+    "lesson": 48,
+    "voice": "en-US-GuyNeural",
+    "rate": "-15%",
+    "clips": [
+      {
+        "scene": "caution",
+        "speech_seconds": 7.61,
+        "scene_seconds": 9.5,
+        "remaining_seconds": 1.64
+      },
+      {
+        "scene": "close",
+        "speech_seconds": 3.61,
+        "scene_seconds": 5.5,
+        "remaining_seconds": 1.64
+      },
+      {
+        "scene": "code",
+        "speech_seconds": 5.5,
+        "scene_seconds": 7.5,
+        "remaining_seconds": 1.75
+      },
+      {
+        "scene": "hook",
+        "speech_seconds": 3.98,
+        "scene_seconds": 6.0,
+        "remaining_seconds": 1.77
+      },
+      {
+        "scene": "idea",
+        "speech_seconds": 5.95,
+        "scene_seconds": 8.0,
+        "remaining_seconds": 1.8
+      },
+      {
+        "scene": "result",
+        "speech_seconds": 6.4,
+        "scene_seconds": 9.0,
+        "remaining_seconds": 2.35
+      },
+      {
+        "scene": "tip",
+        "speech_seconds": 4.25,
+        "scene_seconds": 6.5,
+        "remaining_seconds": 2.0
+      },
+      {
+        "scene": "try",
+        "speech_seconds": 5.98,
+        "scene_seconds": 8.0,
+        "remaining_seconds": 1.77
+      }
+    ]
+  },
+  {
+    "lesson": 49,
+    "voice": "en-US-GuyNeural",
+    "rate": "-15%",
+    "clips": [
+      {
+        "scene": "caution",
+        "speech_seconds": 6.42,
+        "scene_seconds": 8.0,
+        "remaining_seconds": 1.33
+      },
+      {
+        "scene": "close",
+        "speech_seconds": 3.42,
+        "scene_seconds": 5.0,
+        "remaining_seconds": 1.33
+      },
+      {
+        "scene": "code",
+        "speech_seconds": 5.6,
+        "scene_seconds": 7.5,
+        "remaining_seconds": 1.65
+      },
+      {
+        "scene": "hook",
+        "speech_seconds": 5.35,
+        "scene_seconds": 7.0,
+        "remaining_seconds": 1.4
+      },
+      {
+        "scene": "idea",
+        "speech_seconds": 6.21,
+        "scene_seconds": 8.0,
+        "remaining_seconds": 1.54
+      },
+      {
+        "scene": "result",
+        "speech_seconds": 7.29,
+        "scene_seconds": 9.0,
+        "remaining_seconds": 1.46
+      },
+      {
+        "scene": "tip",
+        "speech_seconds": 6.88,
+        "scene_seconds": 9.0,
+        "remaining_seconds": 1.87
+      },
+      {
+        "scene": "try",
+        "speech_seconds": 5.02,
+        "scene_seconds": 6.5,
+        "remaining_seconds": 1.23
+      }
+    ]
+  },
+  {
+    "lesson": 50,
+    "voice": "en-US-GuyNeural",
+    "rate": "-15%",
+    "clips": [
+      {
+        "scene": "caution",
+        "speech_seconds": 7,
+        "scene_seconds": 8.5,
+        "remaining_seconds": 1.25
+      },
+      {
+        "scene": "close",
+        "speech_seconds": 3.46,
+        "scene_seconds": 5.0,
+        "remaining_seconds": 1.29
+      },
+      {
+        "scene": "code",
+        "speech_seconds": 6.82,
+        "scene_seconds": 8.5,
+        "remaining_seconds": 1.43
+      },
+      {
+        "scene": "hook",
+        "speech_seconds": 6.03,
+        "scene_seconds": 7.5,
+        "remaining_seconds": 1.22
+      },
+      {
+        "scene": "idea",
+        "speech_seconds": 6.69,
+        "scene_seconds": 8.0,
+        "remaining_seconds": 1.06
+      },
+      {
+        "scene": "result",
+        "speech_seconds": 4.41,
+        "scene_seconds": 6.5,
+        "remaining_seconds": 1.84
+      },
+      {
+        "scene": "tip",
+        "speech_seconds": 6.41,
+        "scene_seconds": 8.0,
+        "remaining_seconds": 1.34
+      },
+      {
+        "scene": "try",
+        "speech_seconds": 6.75,
+        "scene_seconds": 8.0,
+        "remaining_seconds": 1.0
+      }
+    ]
+  },
+  {
+    "lesson": 51,
+    "voice": "en-US-GuyNeural",
+    "rate": "-15%",
+    "clips": [
+      {
+        "scene": "caution",
+        "speech_seconds": 7.33,
+        "scene_seconds": 9.0,
+        "remaining_seconds": 1.42
+      },
+      {
+        "scene": "close",
+        "speech_seconds": 2.89,
+        "scene_seconds": 4.5,
+        "remaining_seconds": 1.36
+      },
+      {
+        "scene": "code",
+        "speech_seconds": 5.97,
+        "scene_seconds": 7.5,
+        "remaining_seconds": 1.28
+      },
+      {
+        "scene": "hook",
+        "speech_seconds": 6.02,
+        "scene_seconds": 7.5,
+        "remaining_seconds": 1.23
+      },
+      {
+        "scene": "idea",
+        "speech_seconds": 6.5,
+        "scene_seconds": 8.0,
+        "remaining_seconds": 1.25
+      },
+      {
+        "scene": "result",
+        "speech_seconds": 6.39,
+        "scene_seconds": 8.5,
+        "remaining_seconds": 1.86
+      },
+      {
+        "scene": "tip",
+        "speech_seconds": 5.94,
+        "scene_seconds": 7.5,
+        "remaining_seconds": 1.31
+      },
+      {
+        "scene": "try",
+        "speech_seconds": 6.07,
+        "scene_seconds": 7.5,
+        "remaining_seconds": 1.18
+      }
+    ]
+  }
+]

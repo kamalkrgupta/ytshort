@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "JavaScript Functions. Let’s make it simple.",
+    "idea": "A function groups instructions into a reusable operation. Start by understanding the role it plays in a page.",
+    "code": "Parameters receive input, and return sends a result back to the caller. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "Call the function with an argument to run its instructions. Keep this detail in mind when writing your own example.",
+    "caution": "Returning a value and displaying a value are different actions. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Write a function that returns the sum of two numbers. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

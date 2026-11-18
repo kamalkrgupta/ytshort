@@ -1,0 +1,45 @@
+
+=== LESSON 11 HTML Comments ===
+
+scene                    voice   needs  scene is   status
+hook                     3.53s    4.5s        6s   ok
+idea                     8.14s      9s       10s   ok
+code                     4.47s    5.5s        7s   ok
+result                   5.04s      6s        7s   ok
+tip                      6.54s    7.5s      8.5s   ok
+caution                  3.85s      5s        8s   3.0s of silence after the voice
+try                      6.63s    7.5s      8.5s   ok
+close                    3.93s      5s        5s   ok
+
+Speech 42.1s. Voiced scenes need at least 50s = 50s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 398 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-C7r9H7UK.css                               7.90 kB │ gzip:   2.55 kB
+dist/assets/index-CcluJPOv.js                              338.40 kB │ gzip: 115.13 kB
+✓ built in 5.93s
+still 01.png  t=5.10s  hook
+still 02.png  t=14.50s  idea
+still 03.png  t=21.97s  code
+still 04.png  t=28.97s  result
+still 05.png  t=37.23s  tip
+still 06.png  t=45.30s  caution
+still 07.png  t=53.73s  try
+still 08.png  t=59.27s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)
+Selected production batch complete.

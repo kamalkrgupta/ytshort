@@ -1,0 +1,547 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 5681660,
+    "text": "Here"
+  },
+  {
+    "offset": 6823750,
+    "duration": 1704580,
+    "text": "is"
+  },
+  {
+    "offset": 8670410,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 9522910,
+    "duration": 4829580,
+    "text": "second"
+  },
+  {
+    "offset": 14494160,
+    "duration": 6960410,
+    "text": "numerical"
+  },
+  {
+    "offset": 21596660,
+    "duration": 7812500,
+    "text": "example"
+  },
+  {
+    "offset": 39278330,
+    "duration": 7528330,
+    "text": "Yesterday"
+  },
+  {
+    "offset": 46948750,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 48227080,
+    "duration": 3551250,
+    "text": "team"
+  },
+  {
+    "offset": 51920410,
+    "duration": 3835410,
+    "text": "planned"
+  },
+  {
+    "offset": 55897910,
+    "duration": 4261250,
+    "text": "forty"
+  },
+  {
+    "offset": 60301250,
+    "duration": 4545410,
+    "text": "checks"
+  },
+  {
+    "offset": 64988750,
+    "duration": 1704580,
+    "text": "and"
+  },
+  {
+    "offset": 66835410,
+    "duration": 3267080,
+    "text": "passed"
+  },
+  {
+    "offset": 70244160,
+    "duration": 7812500,
+    "text": "twenty-eight"
+  },
+  {
+    "offset": 88142080,
+    "duration": 4829580,
+    "text": "Today"
+  },
+  {
+    "offset": 93113750,
+    "duration": 1846660,
+    "text": "it"
+  },
+  {
+    "offset": 95102080,
+    "duration": 4829580,
+    "text": "removes"
+  },
+  {
+    "offset": 100073750,
+    "duration": 2982910,
+    "text": "ten"
+  },
+  {
+    "offset": 103198750,
+    "duration": 3835410,
+    "text": "checks"
+  },
+  {
+    "offset": 107176250,
+    "duration": 2272910,
+    "text": "from"
+  },
+  {
+    "offset": 109590830,
+    "duration": 4829580,
+    "text": "scope"
+  },
+  {
+    "offset": 114562500,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 116977080,
+    "duration": 5113750,
+    "text": "passes"
+  },
+  {
+    "offset": 122232910,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 123653330,
+    "duration": 3977080,
+    "text": "same"
+  },
+  {
+    "offset": 127772910,
+    "duration": 6107910,
+    "text": "twenty-eight"
+  },
+  {
+    "offset": 134022910,
+    "duration": 1278330,
+    "text": "of"
+  },
+  {
+    "offset": 135443330,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 136579580,
+    "duration": 5965830,
+    "text": "remaining"
+  },
+  {
+    "offset": 142687500,
+    "duration": 5397910,
+    "text": "thirty"
+  },
+  {
+    "offset": 158028330,
+    "duration": 2130830,
+    "text": "The"
+  },
+  {
+    "offset": 160301250,
+    "duration": 6250000,
+    "text": "displayed"
+  },
+  {
+    "offset": 166693330,
+    "duration": 4119160,
+    "text": "pass"
+  },
+  {
+    "offset": 170954580,
+    "duration": 3409160,
+    "text": "rate"
+  },
+  {
+    "offset": 174505830,
+    "duration": 5397910,
+    "text": "rises"
+  },
+  {
+    "offset": 180045410,
+    "duration": 9801250,
+    "text": "dramatically"
+  },
+  {
+    "offset": 193113750,
+    "duration": 2556660,
+    "text": "but"
+  },
+  {
+    "offset": 195812500,
+    "duration": 2414580,
+    "text": "no"
+  },
+  {
+    "offset": 198369160,
+    "duration": 6392080,
+    "text": "additional"
+  },
+  {
+    "offset": 204903330,
+    "duration": 7102080,
+    "text": "behavior"
+  },
+  {
+    "offset": 212147910,
+    "duration": 2556660,
+    "text": "was"
+  },
+  {
+    "offset": 214846660,
+    "duration": 5823750,
+    "text": "tested"
+  },
+  {
+    "offset": 230329580,
+    "duration": 4261250,
+    "text": "That"
+  },
+  {
+    "offset": 234732910,
+    "duration": 4687500,
+    "text": "change"
+  },
+  {
+    "offset": 239562500,
+    "duration": 1846660,
+    "text": "may"
+  },
+  {
+    "offset": 241551250,
+    "duration": 1562500,
+    "text": "be"
+  },
+  {
+    "offset": 243255830,
+    "duration": 7528330,
+    "text": "legitimate"
+  },
+  {
+    "offset": 250926250,
+    "duration": 1420410,
+    "text": "if"
+  },
+  {
+    "offset": 252488750,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 253767080,
+    "duration": 4545410,
+    "text": "release"
+  },
+  {
+    "offset": 258454580,
+    "duration": 3693330,
+    "text": "scope"
+  },
+  {
+    "offset": 262290000,
+    "duration": 5965830,
+    "text": "changed"
+  },
+  {
+    "offset": 271096660,
+    "duration": 3835410,
+    "text": "yet"
+  },
+  {
+    "offset": 275073750,
+    "duration": 1420410,
+    "text": "the"
+  },
+  {
+    "offset": 276636250,
+    "duration": 5255830,
+    "text": "report"
+  },
+  {
+    "offset": 282034160,
+    "duration": 3693330,
+    "text": "must"
+  },
+  {
+    "offset": 285869160,
+    "duration": 5823750,
+    "text": "explain"
+  },
+  {
+    "offset": 291835410,
+    "duration": 3125000,
+    "text": "it"
+  },
+  {
+    "offset": 304761250,
+    "duration": 6960410,
+    "text": "Record"
+  },
+  {
+    "offset": 311863750,
+    "duration": 2414580,
+    "text": "which"
+  },
+  {
+    "offset": 314420410,
+    "duration": 6534160,
+    "text": "feature"
+  },
+  {
+    "offset": 321096660,
+    "duration": 1846660,
+    "text": "or"
+  },
+  {
+    "offset": 323085410,
+    "duration": 3551250,
+    "text": "risk"
+  },
+  {
+    "offset": 326778330,
+    "duration": 4261250,
+    "text": "moved"
+  },
+  {
+    "offset": 331181660,
+    "duration": 2556660,
+    "text": "out"
+  },
+  {
+    "offset": 333880830,
+    "duration": 1562500,
+    "text": "of"
+  },
+  {
+    "offset": 335585410,
+    "duration": 4971660,
+    "text": "scope"
+  },
+  {
+    "offset": 340698750,
+    "duration": 2414580,
+    "text": "and"
+  },
+  {
+    "offset": 343255830,
+    "duration": 1704580,
+    "text": "who"
+  },
+  {
+    "offset": 345102500,
+    "duration": 3551250,
+    "text": "made"
+  },
+  {
+    "offset": 348795410,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 349931660,
+    "duration": 6960410,
+    "text": "decision"
+  },
+  {
+    "offset": 366835410,
+    "duration": 6960410,
+    "text": "Otherwise"
+  },
+  {
+    "offset": 373937500,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 374790000,
+    "duration": 3977080,
+    "text": "chart"
+  },
+  {
+    "offset": 378909160,
+    "duration": 2130830,
+    "text": "can"
+  },
+  {
+    "offset": 381181660,
+    "duration": 6107910,
+    "text": "suggest"
+  },
+  {
+    "offset": 387431660,
+    "duration": 6250000,
+    "text": "improved"
+  },
+  {
+    "offset": 393823750,
+    "duration": 4971660,
+    "text": "product"
+  },
+  {
+    "offset": 398937500,
+    "duration": 6676250,
+    "text": "quality"
+  },
+  {
+    "offset": 405755830,
+    "duration": 3551250,
+    "text": "when"
+  },
+  {
+    "offset": 409448750,
+    "duration": 4261250,
+    "text": "only"
+  },
+  {
+    "offset": 413852500,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 415130830,
+    "duration": 8806660,
+    "text": "denominator"
+  },
+  {
+    "offset": 424079580,
+    "duration": 6107910,
+    "text": "changed"
+  },
+  {
+    "offset": 439988750,
+    "duration": 1846660,
+    "text": "A"
+  },
+  {
+    "offset": 441977500,
+    "duration": 6250000,
+    "text": "useful"
+  },
+  {
+    "offset": 448369160,
+    "duration": 7528330,
+    "text": "dashboard"
+  },
+  {
+    "offset": 456040000,
+    "duration": 6107910,
+    "text": "preserves"
+  },
+  {
+    "offset": 462290000,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 463710410,
+    "duration": 8664580,
+    "text": "relationship"
+  },
+  {
+    "offset": 472517080,
+    "duration": 4261250,
+    "text": "between"
+  },
+  {
+    "offset": 476920410,
+    "duration": 5113750,
+    "text": "scope"
+  },
+  {
+    "offset": 483880830,
+    "duration": 9232910,
+    "text": "execution"
+  },
+  {
+    "offset": 493255830,
+    "duration": 2840830,
+    "text": "and"
+  },
+  {
+    "offset": 496238750,
+    "duration": 3125000,
+    "text": "risk"
+  },
+  {
+    "offset": 499505830,
+    "duration": 2982910,
+    "text": "so"
+  },
+  {
+    "offset": 502630830,
+    "duration": 6250000,
+    "text": "readers"
+  },
+  {
+    "offset": 509022910,
+    "duration": 2130830,
+    "text": "can"
+  },
+  {
+    "offset": 511295410,
+    "duration": 5823750,
+    "text": "interpret"
+  },
+  {
+    "offset": 517261250,
+    "duration": 6250000,
+    "text": "movement"
+  },
+  {
+    "offset": 523653330,
+    "duration": 3977080,
+    "text": "rather"
+  },
+  {
+    "offset": 527772910,
+    "duration": 2698750,
+    "text": "than"
+  },
+  {
+    "offset": 530613750,
+    "duration": 5823750,
+    "text": "simply"
+  },
+  {
+    "offset": 536579580,
+    "duration": 6250000,
+    "text": "admire"
+  },
+  {
+    "offset": 542971660,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 543823750,
+    "duration": 4261250,
+    "text": "higher"
+  },
+  {
+    "offset": 548227500,
+    "duration": 8664580,
+    "text": "percentage"
+  }
+]

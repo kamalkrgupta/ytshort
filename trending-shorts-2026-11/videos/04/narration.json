@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "An A I tool in a browser does not always need to send every calculation to a remote server.",
+    "idea": "Web G P U lets supported web applications use graphics hardware for computation, as well as graphics.",
+    "demo": "That can help a suitable model process data directly on your device, inside a browser tab.",
+    "compare": "Local processing can reduce network dependence, but it still uses your device memory, power, and compute.",
+    "takeaway": "Not every browser, model, or feature supports the same setup. A model download may be needed first.",
+    "close": "Which task would you run locally? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

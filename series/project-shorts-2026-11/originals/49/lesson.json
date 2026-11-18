@@ -1,0 +1,22 @@
+{
+  "videoNumber": 49,
+  "phase": "Phase 5 \u2014 Real-World Beginner Projects",
+  "topic": "Build a JavaScript Counter",
+  "description": "Make interactive plus, minus, and reset buttons.",
+  "publishLocal": "2026-11-18T11:00:00+05:30",
+  "publishAt": "2026-11-18T05:30:00+00:00",
+  "status": "planned",
+  "definition": "A counter connects application state to visible output.",
+  "code": "const button =\n  document.querySelector(\"button\");\nconst output =\n  document.querySelector(\"output\");\nlet count = 0;",
+  "preview": "<div style=\"text-align:center\"><h1>1</h1><button>\u2212</button> <button>Reset</button> <button>+</button></div>",
+  "rule": "Listen for a click, then update the value.",
+  "tip": "Update the screen after changing count.",
+  "caution": "Select elements after the HTML exists.",
+  "exercise": "Add a reset button that returns to zero.",
+  "title": "Build a JavaScript Counter: Click to Add One",
+  "shortTitle": "One click.\nOne number higher.",
+  "hook": "Click +1 and watch the number",
+  "idea": "State is the value; textContent shows it.",
+  "closing": "Can you add a reset button?",
+  "code2": "button.addEventListener(\"click\", () => {\n  count++;\n  output.textContent = count;\n});"
+}

@@ -1,0 +1,32 @@
+{
+  "status": "published_and_schedule_repaired",
+  "media": {
+    "id": "18154955380544884",
+    "caption": "Make your HTML text easier to read.\n\nThe HTML p element groups text into paragraphs. Separate ideas into clear paragraphs instead of one long block.\n\nWhat would you write in your first paragraph?\nShare this with a friend learning to build websites.\nFollow @tech_at_60 for the next beginner lesson.\n\nLesson 004 \u00b7 TECH AT 60\n\n#HTML #LearnHTML #WebDevelopment #CodingForBeginners",
+    "media_product_type": "REELS",
+    "media_type": "VIDEO",
+    "permalink": "https://www.instagram.com/reel/DfTwaUHCY5H/",
+    "timestamp": "2026-11-04T05:57:18+0000"
+  },
+  "job": {
+    "status": "PUBLISHED",
+    "container_id": "18147808954565648",
+    "media_id": "18154955380544884",
+    "sha256": "988cc56e6a2dedae882c497621ffe4a44c9e432495acf92737671d23954b7545",
+    "permalink": "https://www.instagram.com/reel/DfTwaUHCY5H/",
+    "published_at": "2026-11-04T05:57:18+00:00"
+  },
+  "cloud_run": "https://github.com/kamalkrgupta/techat60-instagram-publisher/actions/runs/41782230862",
+  "source_commit": "bd3b97e44455c95426256b6ee2eb8a17d22dcf3b",
+  "source_videos": 30,
+  "confirmed_posts_today": 1,
+  "next_regular_slot_IST": "2026-11-05T19:00:00+05:30",
+  "tests_passed": 79,
+  "youtube_changed": false,
+  "final_cloud_check": "https://github.com/kamalkrgupta/techat60-instagram-publisher/actions/runs/41782575841",
+  "final_cloud_check_result": "success",
+  "cloud_upload_transport": "hosted source",
+  "schedule_timezone": "Asia/Kolkata",
+  "mac_online_backup_trigger": true,
+  "remaining_numbered_videos": 26
+}

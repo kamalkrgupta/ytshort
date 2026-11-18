@@ -1,0 +1,16 @@
+{
+  "videoNumber": 19,
+  "phase": "Phase 2 — Advanced HTML & CSS Basics",
+  "topic": "HTML Audio & Video",
+  "description": "Embed audio and video on your website.",
+  "publishLocal": "2026-10-28T16:00:00+05:30",
+  "publishAt": "2026-10-28T10:30:00Z",
+  "status": "planned",
+  "definition": "HTML can embed sound and video with native playback controls.",
+  "code": "<video controls\n       src=\"lesson.mp4\">\n Your browser needs video support.\n</video>",
+  "preview": "<div style=\"background:#14213b;color:white;padding:50px;text-align:center\">▶<p>lesson.mp4</p></div>",
+  "rule": "Use audio for sound and video for moving pictures.",
+  "tip": "The controls attribute adds the browser playback interface.",
+  "caution": "Add captions for spoken video content, and avoid relying on autoplay.",
+  "exercise": "Embed a local video and show its playback controls."
+}

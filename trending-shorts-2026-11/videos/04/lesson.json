@@ -1,0 +1,40 @@
+{
+  "number": 4,
+  "slug": "webgpu",
+  "title": "WebGPU Explained: How AI Can Run Inside a Browser",
+  "category": "WEB TECH",
+  "source": "https://developer.chrome.com/blog/io24-webassembly-webgpu-1",
+  "headline": "AI inside\na browser tab?",
+  "meaning": "WebGPU exposes GPU computation to web applications.",
+  "example": "A supported model can process data on your device.",
+  "comparison": "A webpage can use local hardware, not only a cloud server.",
+  "caution": "Support, model downloads and app design still matter.",
+  "question": "Which browser task would you run locally?",
+  "flow": [
+    "Browser app",
+    "WebGPU",
+    "Your GPU"
+  ],
+  "left": [
+    "CLOUD REQUEST",
+    "Remote model server"
+  ],
+  "right": [
+    "WEB INFERENCE",
+    "Processing on your device"
+  ],
+  "lines": [
+    "An A I tool in a browser does not always need to send every calculation to a remote server.",
+    "Web G P U lets supported web applications use graphics hardware for computation, as well as graphics.",
+    "That can help a suitable model process data directly on your device, inside a browser tab.",
+    "Local processing can reduce network dependence, but it still uses your device memory, power, and compute.",
+    "Not every browser, model, or feature supports the same setup. A model download may be needed first.",
+    "Which task would you run locally? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-19T20:00:00+05:30",
+  "publishAt": "2026-11-19T14:30:00+00:00",
+  "status": "needs_attention",
+  "accent": "#8fc9ff",
+  "updatedAt": "2026-11-16T15:21:55.324951+05:30",
+  "error": "AssertionError: "
+}

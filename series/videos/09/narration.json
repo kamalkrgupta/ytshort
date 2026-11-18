@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "H T M L Attributes. Let’s make it simple.",
+    "idea": "Attributes provide additional information about an element. Start by understanding the role it plays in a page.",
+    "code": "Write attributes inside the opening tag, commonly as name and value. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "An I D identifies one element; a class can group several. Keep this detail in mind when writing your own example.",
+    "caution": "Keep each I D unique within the document. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Give two paragraphs the same class and different identifiers. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

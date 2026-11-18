@@ -1,0 +1,134 @@
+{
+  "account": {
+    "id": "17841416969437440",
+    "biography": "\ud83d\ude80 AI Tools, Tech Tips & Tutorials\n\ud83d\udca1 Technology in 60 Seconds\n\ud83c\udfaf Quick Tips | AI | Productivity\n\ud83d\udc47 Watch More on https://www.youtube.com/@Techat60",
+    "followers_count": 8,
+    "follows_count": 0,
+    "media_count": 11,
+    "name": "TechAt60",
+    "username": "tech_at_60"
+  },
+  "media": [
+    {
+      "id": "18417850885082476",
+      "caption": "Div or span? Start with how they behave by default.\n\nIn HTML, div is a general-purpose block container and span is an inline container. Choose meaningful semantic elements when they fit.\n\nWhere would you use an inline span?\nTry one small example before the next lesson.\nFollow @tech_at_60 for the next beginner lesson.\n\nLesson 010 \u00b7 TECH AT 60\n\n#HTML #LearnHTML #WebDevelopment #CodingForBeginners",
+      "comments_count": 0,
+      "like_count": 2,
+      "media_product_type": "REELS",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfmmqxfiS-H/",
+      "timestamp": "2026-11-11T13:37:47+0000",
+      "insights_error": "Meta request failed (HTTP 400, code 10, subcode None). No secrets logged."
+    },
+    {
+      "id": "18112040414188244",
+      "caption": "HTML tags tell you what. Attributes add the details.\n\nHTML attributes configure elements: href gives a link its destination, while src identifies an image source.\n\nWhich attribute have you used: href or src?\nShare this with a friend learning to build websites.\nFollow @tech_at_60 for the next beginner lesson.\n\nLesson 009 \u00b7 TECH AT 60\n\n#HTML #HTMLAttributes #WebDevelopment #CodingForBeginners",
+      "comments_count": 0,
+      "like_count": 4,
+      "media_product_type": "REELS",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfhalriD4rA/",
+      "timestamp": "2026-11-09T13:30:11+0000",
+      "insights_error": "Meta request failed (HTTP 400, code 10, subcode None). No secrets logged."
+    },
+    {
+      "id": "18181879522450242",
+      "caption": "A button and a link have different jobs.\n\nAn HTML button triggers an action. A link navigates somewhere. In forms, set the button type deliberately.\n\nWhat action should the first button on your site perform?\nTry one small example before the next lesson.\nFollow @tech_at_60 for the next beginner lesson.\n\nLesson 008 \u00b7 TECH AT 60\n\n#HTML #LearnHTML #WebDevelopment #CodingForBeginners",
+      "comments_count": 0,
+      "like_count": 4,
+      "media_product_type": "REELS",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfhE_Q8Dh93/",
+      "timestamp": "2026-11-09T10:07:15+0000",
+      "insights_error": "Meta request failed (HTTP 400, code 10, subcode None). No secrets logged."
+    },
+    {
+      "id": "18132907792885987",
+      "caption": "Turn related items into a clear HTML list.\n\nUse ul for an unordered list and ol when sequence matters. Each item goes inside an li element.\n\nWould a recipe use an ordered or unordered list for its steps?\nTry one small example before the next lesson.\nFollow @tech_at_60 for the next beginner lesson.\n\nLesson 007 \u00b7 TECH AT 60\n\n#HTML #LearnHTML #WebDevelopment #CodingForBeginners",
+      "comments_count": 0,
+      "like_count": 2,
+      "media_product_type": "REELS",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfhE3PtEoL0/",
+      "timestamp": "2026-11-09T10:06:10+0000",
+      "insights_error": "Meta request failed (HTTP 400, code 10, subcode None). No secrets logged."
+    },
+    {
+      "id": "17900263200655508",
+      "caption": "An HTML image needs more than a filename.\n\nThe img element uses src to locate an image. Use alt text that fits its purpose; decorative images can use an empty alt value.\n\nHow would you describe an important image without seeing it?\nShare this with a friend learning to build websites.\nFollow @tech_at_60 for the next beginner lesson.\n\nLesson 006 \u00b7 TECH AT 60\n\n#HTML #LearnHTML #WebDevelopment #CodingForBeginners",
+      "comments_count": 0,
+      "like_count": 3,
+      "media_product_type": "REELS",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfhEvWfAr8d/",
+      "timestamp": "2026-11-09T10:05:05+0000",
+      "insights_error": "Meta request failed (HTTP 400, code 10, subcode None). No secrets logged."
+    },
+    {
+      "id": "18077627303729920",
+      "caption": "Make any text clickable with HTML.\n\nUse the <a> element and its href attribute to link to another page. Choose descriptive link text so people know where the link will take them.\n\nWhere would the first link on your website go? Tell us in the comments.\nSave this for your next coding practice. Follow @tech_at_60 for beginner web lessons.\n\nLesson 005 \u00b7 TECH AT 60\n\n#HTML #HTMLLinks #WebDevelopment #CodingForBeginners",
+      "comments_count": 0,
+      "like_count": 4,
+      "media_product_type": "REELS",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfXHaf3nMxX/",
+      "timestamp": "2026-11-05T13:30:10+0000",
+      "insights_error": "Meta request failed (HTTP 400, code 10, subcode None). No secrets logged."
+    },
+    {
+      "id": "18154955380544884",
+      "caption": "Make your HTML text easier to read.\n\nThe HTML p element groups text into paragraphs. Separate ideas into clear paragraphs instead of one long block.\n\nWhat would you write in your first paragraph?\nShare this with a friend learning to build websites.\nFollow @tech_at_60 for the next beginner lesson.\n\nLesson 004 \u00b7 TECH AT 60\n\n#HTML #LearnHTML #WebDevelopment #CodingForBeginners",
+      "comments_count": 0,
+      "like_count": 6,
+      "media_product_type": "REELS",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfTwaUHCY5H/",
+      "timestamp": "2026-11-04T05:57:18+0000",
+      "insights_error": "Meta request failed (HTTP 400, code 10, subcode None). No secrets logged."
+    },
+    {
+      "id": "18172397932461758",
+      "caption": "AI: friend or devil? It depends on what you trust it with.\n\nUse it to learn, practise and get a first draft. Check important claims, verify unexpected requests independently, and pause before sharing private information.\n\nWhere would you draw the line? Tell us in the comments. Follow @tech_at_60 for more beginner-friendly tech lessons.\n\nSpecial \u00b7 AI Friend or Devil \u00b7 TECH AT 60\n\n#ArtificialIntelligence #AIAwareness #AISafety #TechAt60 #TechForBeginners",
+      "comments_count": 0,
+      "like_count": 13,
+      "media_product_type": "REELS",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfO6lLPjrbC/",
+      "timestamp": "2026-11-02T08:49:42+0000",
+      "insights_error": "Meta request failed (HTTP 400, code 10, subcode None). No secrets logged."
+    },
+    {
+      "id": "17997148182013017",
+      "caption": "HTML headings are more than big text.\n\nHTML headings describe content hierarchy. Use heading levels for structure and CSS to control their appearance.\n\nWhat would the main heading of your first site say?\nShare this with a friend learning to build websites.\nFollow @tech_at_60 for the next beginner lesson.\n\nLesson 003 \u00b7 TECH AT 60\n\n#HTML #HTMLHeadings #WebDevelopment #CodingForBeginners",
+      "comments_count": 0,
+      "like_count": 2,
+      "media_product_type": "REELS",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfOnqSWmyru/",
+      "timestamp": "2026-11-02T06:04:28+0000",
+      "insights_error": "Meta request failed (HTTP 400, code 10, subcode None). No secrets logged."
+    },
+    {
+      "id": "18131000626819390",
+      "caption": "What gives a web page its structure?\n\nHTML tags describe the role of page content. Many elements have an opening tag, content and a closing tag; void elements such as img work differently.\n\nWhich HTML tag would you like explained next?\nSave this for your next practice session.\nFollow @tech_at_60 for the next beginner lesson.\n\nLesson 002 \u00b7 TECH AT 60\n\n#HTML #HTMLTags #WebDevelopment #CodingForBeginners",
+      "comments_count": 0,
+      "like_count": 3,
+      "media_product_type": "REELS",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfJuR6zlpSE/",
+      "timestamp": "2026-10-31T08:26:06+0000",
+      "insights_error": "Meta request failed (HTTP 400, code 10, subcode None). No secrets logged."
+    },
+    {
+      "id": "17984733683898502",
+      "caption": "\ud83d\ude80 Learn HTML in just 60 seconds!\n\nWant to build your first website? Start with HTML \u2014 the foundation of web development.\n\n\ud83d\udcbb Perfect for beginners learning to code.\n\ud83d\udcac Comment HTML if you're starting your coding journey!\n\ud83d\udccc Save this Reel and share it with a friend.\n\nFollow @tech_at_60 for quick tech tutorials!\n\n#HTML #LearnHTML #WebDevelopment #CodingForBeginners #TechAt60",
+      "comments_count": 0,
+      "like_count": 5,
+      "media_product_type": "REELS",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DfEp75lDMMK/",
+      "timestamp": "2026-10-29T09:13:48+0000",
+      "insights_error": "Meta request failed (HTTP 400, code 10, subcode None). No secrets logged."
+    }
+  ]
+}

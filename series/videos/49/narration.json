@@ -1,0 +1,16 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "One click, one number higher. Build this counter with JavaScript.",
+    "idea": "The page needs a button and an output element. Start the displayed number at zero.",
+    "code": "Select both elements after the page exists, and store zero in a variable called count.",
+    "result": "Add a click listener. Each click increases count, then text content updates the number on screen.",
+    "tip": "Watch the value change from zero to one, then two. The variable and display stay in sync.",
+    "caution": "Changing the variable alone will not update the page. You must update the output too.",
+    "try": "Your challenge: add a reset button that sets both the value and display back to zero.",
+    "close": "Subscribe to Tech at sixty for the next coding project."
+  }
+}

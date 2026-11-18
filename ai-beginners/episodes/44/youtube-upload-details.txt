@@ -1,0 +1,19 @@
+What Are AI Agents? Planning, Tools and Human Oversight | Ep 44
+
+What Are AI Agents? Planning, Tools and Human Oversight. Learn with a simple example and a beginner exercise.
+
+AI for Beginners — Episode 44 of 50
+
+What you will learn: Understand systems that plan steps and use tools.
+Example: an assistant preparing a draft travel checklist.
+Try it: draw a plan-act-check loop.
+Remember: agent actions need limits, approvals and monitoring.
+
+Follow the series in episode order and practice with sample data. Share your question or exercise result in the comments.
+Subscribe to @Techat60 for practical AI tutorials.
+
+#AIForBeginners #ArtificialIntelligence #LearnAI
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk
+
+Tags: what are ai agents?, AI for beginners, artificial intelligence tutorial, learn AI, AI tutorial English, Techat60, AI agents, agentic AI

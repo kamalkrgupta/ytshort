@@ -1,0 +1,25 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 28%
+Upload 56%
+Upload 84%
+Uploaded: https://www.youtube.com/watch?v=xSDwH6K06gs
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "1c6df67cff5a7c22605dbc9ec4bcf70980dac4d901482ed61ba12827155df24a",
+  "title": "AI Agents vs Chatbots: What Actually Changes?",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:50:28Z",
+  "publishAt": "2026-11-22T14:30:00+00:00",
+  "videoId": "xSDwH6K06gs",
+  "url": "https://www.youtube.com/watch?v=xSDwH6K06gs",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-22T14:30:00Z"
+}

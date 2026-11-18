@@ -1,0 +1,331 @@
+{
+  "checkedAt": "2026-10-31T15:11:40.466476+05:30",
+  "agile": [
+    {
+      "episode": 1,
+      "title": "Agile Testing Explained for Beginners | Real Examples | Episode 1",
+      "intended": null,
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-23T15:38:27Z",
+      "url": "https://youtu.be/reA35oDRHj8"
+    },
+    {
+      "episode": 2,
+      "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+      "intended": null,
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-23T15:42:53Z",
+      "url": "https://youtu.be/aVPTY_zbmlU"
+    },
+    {
+      "episode": 3,
+      "title": "Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3",
+      "intended": "2026-10-24T18:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-24T12:30:14Z",
+      "url": "https://youtu.be/1oW6ocuUhWQ"
+    },
+    {
+      "episode": 4,
+      "title": "Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4",
+      "intended": "2026-10-24T18:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-24T12:30:26Z",
+      "url": "https://youtu.be/4pedCCloISY"
+    },
+    {
+      "episode": 5,
+      "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+      "intended": "2026-10-25T18:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-25T12:30:32Z",
+      "url": "https://youtu.be/Ng8wTrGTul4"
+    },
+    {
+      "episode": 6,
+      "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+      "intended": "2026-10-25T18:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-25T12:30:01Z",
+      "url": "https://youtu.be/HH9gdETVS-E"
+    },
+    {
+      "episode": 7,
+      "title": "Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7",
+      "intended": "2026-10-26T18:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-26T12:30:15Z",
+      "url": "https://youtu.be/_LSyyLx-ex0"
+    },
+    {
+      "episode": 8,
+      "title": "TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8",
+      "intended": "2026-10-26T18:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-26T12:30:33Z",
+      "url": "https://youtu.be/BxdkMvdx7G8"
+    },
+    {
+      "episode": 9,
+      "title": "Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9",
+      "intended": "2026-10-27T18:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-27T12:30:15Z",
+      "url": "https://youtu.be/t3WpRYW0lGg"
+    },
+    {
+      "episode": 10,
+      "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+      "intended": "2026-10-27T18:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-27T12:30:28Z",
+      "url": "https://youtu.be/X0hokSm8f2U"
+    },
+    {
+      "episode": 11,
+      "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+      "intended": "2026-10-28T18:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-28T12:30:38Z",
+      "url": "https://youtu.be/bQb0NnHMJt0"
+    },
+    {
+      "episode": 12,
+      "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+      "intended": "2026-10-28T18:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-28T12:30:34Z",
+      "url": "https://youtu.be/ETNKUsval9c"
+    }
+  ],
+  "shorts": [
+    {
+      "episode": 2,
+      "title": "What Are HTML Tags? | Web Development in 60 Seconds",
+      "intended": "2026-10-20T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-20T05:30:05Z",
+      "url": "https://youtu.be/GjtwEy6C0BY"
+    },
+    {
+      "episode": 3,
+      "title": "HTML Headings Explained | Web Development in 60 Seconds",
+      "intended": "2026-10-20T16:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-20T10:30:18Z",
+      "url": "https://youtu.be/iJj3UEqr3mM"
+    },
+    {
+      "episode": 4,
+      "title": "HTML Paragraphs | Web Development in 60 Seconds",
+      "intended": "2026-10-21T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-21T05:30:06Z",
+      "url": "https://youtu.be/XpPqAg6oUPQ"
+    },
+    {
+      "episode": 5,
+      "title": "How to Add Links in HTML | Web Development in 60 Seconds",
+      "intended": "2026-10-21T16:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-21T10:30:22Z",
+      "url": "https://youtu.be/NwK_T8Qxams"
+    },
+    {
+      "episode": 6,
+      "title": "How to Add Images in HTML | Web Development in 60 Seconds",
+      "intended": "2026-10-22T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-22T05:30:19Z",
+      "url": "https://youtu.be/UdFrS1p0n2Q"
+    },
+    {
+      "episode": 7,
+      "title": "HTML Lists Explained | Web Development in 60 Seconds",
+      "intended": "2026-10-22T16:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-22T10:30:07Z",
+      "url": "https://youtu.be/ZCMbUuFgbHw"
+    },
+    {
+      "episode": 8,
+      "title": "HTML Buttons | Web Development in 60 Seconds",
+      "intended": "2026-10-23T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-23T05:30:28Z",
+      "url": "https://youtu.be/emkJjvrZTeE"
+    },
+    {
+      "episode": 9,
+      "title": "HTML Attributes | Web Development in 60 Seconds",
+      "intended": "2026-10-23T16:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-23T10:30:31Z",
+      "url": "https://youtu.be/5gQr8gC3yno"
+    },
+    {
+      "episode": 10,
+      "title": "HTML Div vs Span | Web Development in 60 Seconds",
+      "intended": "2026-10-24T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-24T16:45:35Z",
+      "url": "https://youtu.be/uX0pUdeNRhs"
+    },
+    {
+      "episode": 11,
+      "title": "HTML Comments | Web Development in 60 Seconds",
+      "intended": "2026-10-24T16:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-24T16:46:13Z",
+      "url": "https://youtu.be/PMmOSKNzM18"
+    },
+    {
+      "episode": 12,
+      "title": "HTML Line Breaks | Web Development in 60 Seconds",
+      "intended": "2026-10-25T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-25T06:20:04Z",
+      "url": "https://youtu.be/s8vTrnbddoo"
+    },
+    {
+      "episode": 13,
+      "title": "HTML Tables | Web Development in 60 Seconds",
+      "intended": "2026-10-25T16:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-25T10:30:00Z",
+      "url": "https://youtu.be/yP-l14vRQME"
+    },
+    {
+      "episode": 14,
+      "title": "HTML Forms Introduction | Web Development in 60 Seconds",
+      "intended": "2026-10-26T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-26T05:30:06Z",
+      "url": "https://youtu.be/PZeEmk-S7_w"
+    },
+    {
+      "episode": 15,
+      "title": "HTML Input Types | Web Development in 60 Seconds",
+      "intended": "2026-10-26T16:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-26T10:30:07Z",
+      "url": "https://youtu.be/MEEDwR24JOw"
+    },
+    {
+      "episode": 16,
+      "title": "HTML Checkboxes & Radio Buttons | Web Development in 60 Seconds",
+      "intended": "2026-10-27T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-27T05:30:12Z",
+      "url": "https://youtu.be/LYJz6pp8g9Y"
+    },
+    {
+      "episode": 17,
+      "title": "HTML Dropdown Menus | Web Development in 60 Seconds",
+      "intended": "2026-10-27T16:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-27T10:30:21Z",
+      "url": "https://youtu.be/TgIcPIs9y34"
+    },
+    {
+      "episode": 18,
+      "title": "Semantic HTML | Web Development in 60 Seconds",
+      "intended": "2026-10-28T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-28T06:32:58Z",
+      "url": "https://youtu.be/oBrUM1-EbwI"
+    },
+    {
+      "episode": 19,
+      "title": "HTML Audio & Video | Web Development in 60 Seconds",
+      "intended": "2026-10-28T16:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-28T10:30:06Z",
+      "url": "https://youtu.be/OKr0Qgf5Eec"
+    },
+    {
+      "episode": 20,
+      "title": "HTML Meta Tags | Web Development in 60 Seconds",
+      "intended": "2026-10-29T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-29T05:30:12Z",
+      "url": "https://youtu.be/3OFT8MUb6Gw"
+    },
+    {
+      "episode": 21,
+      "title": "What Is CSS? | Web Development in 60 Seconds",
+      "intended": "2026-10-29T16:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-29T10:30:35Z",
+      "url": "https://youtu.be/M7XIh0LLmWw"
+    },
+    {
+      "episode": 22,
+      "title": "Three Ways to Add CSS | Web Development in 60 Seconds",
+      "intended": "2026-10-30T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-30T05:30:04Z",
+      "url": "https://youtu.be/XI8c12LzDI8"
+    },
+    {
+      "episode": 23,
+      "title": "CSS Colors Explained | Web Development in 60 Seconds",
+      "intended": "2026-10-30T16:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-30T10:30:36Z",
+      "url": "https://youtu.be/BeC8jK5dAHU"
+    },
+    {
+      "episode": 24,
+      "title": "CSS Fonts and Text Styling | Web Development in 60 Seconds",
+      "intended": "2026-10-31T11:00:00+05:30",
+      "privacy": "public",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-31T08:35:45Z",
+      "url": "https://youtu.be/PwX52X07J0k"
+    },
+    {
+      "episode": 25,
+      "title": "CSS Backgrounds | Web Development in 60 Seconds",
+      "intended": "2026-10-31T16:00:00+05:30",
+      "privacy": "private",
+      "processing": "succeeded",
+      "publishedAt": "2026-10-31T08:37:26Z",
+      "url": "https://youtu.be/_k9pL5fcolg"
+    }
+  ]
+}

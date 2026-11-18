@@ -1,0 +1,15 @@
+CPU vs GPU vs NPU: What Does an AI Chip Do?
+
+An NPU specializes in neural-network workloads. Run supported AI operations efficiently on the device.
+
+App support and the full system matter, too.
+
+Which chip does your app actually use?
+Subscribe to @Techat60 for clear, beginner-friendly tech explainers.
+
+Source checked November 16, 2026:
+https://www.qualcomm.com/artificial-intelligence/what-is-ai-faq
+
+Original illustrative diagrams; not a product demonstration or benchmark.
+
+#Technology #TechExplained #Shorts

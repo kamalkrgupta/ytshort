@@ -1,0 +1,263 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,529
+Welcome to episode 42 of AI for Beginners Today
+
+4
+00:00:12,684 --> 00:00:16,370
+we’re looking at ai and python for absolute beginners
+
+5
+00:00:17,259 --> 00:00:21,228
+By the end you’ll understand one practical idea watch
+
+6
+00:00:21,241 --> 00:00:25,236
+a realistic example and try a small exercise yourself
+
+7
+00:00:26,112 --> 00:00:30,042
+You don’t need a technical background or expensive software
+
+8
+00:00:30,931 --> 00:00:36,408
+Bring your curiosity We’ll work through it together Here’s
+
+9
+00:00:36,421 --> 00:00:39,862
+the example we’ll use a Python program printing a
+
+10
+00:00:39,875 --> 00:00:43,960
+welcome message We’ll use that situation to make the
+
+11
+00:00:43,973 --> 00:00:47,993
+topic concrete Watch how we break the task into
+
+12
+00:00:48,006 --> 00:00:51,215
+small steps because the same thinking will help you
+
+13
+00:00:51,228 --> 00:00:54,617
+use many different AI tools later in this course
+
+14
+00:01:01,650 --> 00:01:06,548
+Let’s start with the main idea learn variables strings
+
+15
+00:01:06,561 --> 00:01:10,131
+and a simple function Think of AI as a
+
+16
+00:01:10,144 --> 00:01:13,700
+tool that processes information and returns an output based
+
+17
+00:01:13,713 --> 00:01:17,889
+on its training instructions and any relevant information it
+
+18
+00:01:17,902 --> 00:01:21,600
+can access It can save time on drafts and
+
+19
+00:01:21,613 --> 00:01:25,182
+patterns but it doesn’t automatically know what’s correct for
+
+20
+00:01:25,195 --> 00:01:29,345
+your situation The most useful habit is to define
+
+21
+00:01:29,358 --> 00:01:33,275
+what you want before touching the tool Ask yourself
+
+22
+00:01:33,288 --> 00:01:36,974
+three questions what’s my goal what information does the
+
+23
+00:01:36,987 --> 00:01:39,641
+tool need and how will I check the result
+
+24
+00:01:40,543 --> 00:01:44,203
+Those questions work whether you’re writing a prompt building a
+
+25
+00:01:44,216 --> 00:01:47,090
+workflow or reviewing a generated answer
+
+26
+00:01:54,150 --> 00:01:58,224
+Let’s try it with an example Our example is
+
+27
+00:01:58,237 --> 00:02:02,502
+a Python program printing a welcome message Start by
+
+28
+00:02:02,515 --> 00:02:07,154
+writing down the desired result in one sentence Next
+
+29
+00:02:07,309 --> 00:02:10,402
+identify the input what would a person need to
+
+30
+00:02:10,414 --> 00:02:13,984
+know to do this task correctly Then write a
+
+31
+00:02:13,997 --> 00:02:17,515
+simple instruction with that context and a clear format
+
+32
+00:02:18,417 --> 00:02:22,167
+On screen I am showing a sample request followed
+
+33
+00:02:22,180 --> 00:02:26,316
+by a possible output Notice that we’re not judging
+
+34
+00:02:26,329 --> 00:02:30,453
+the result by how impressive it sounds We’re checking
+
+35
+00:02:30,466 --> 00:02:34,409
+whether it actually meets the task If the output
+
+36
+00:02:34,422 --> 00:02:37,631
+is too broad ask for a more specific version
+
+37
+00:02:38,520 --> 00:02:41,703
+If a fact matters verify it from a reliable
+
+38
+00:02:41,716 --> 00:02:45,105
+source Pause the video here if you’d like to
+
+39
+00:02:45,118 --> 00:02:47,476
+copy the structure into your own notes
+
+40
+00:02:54,517 --> 00:02:58,784
+Your turn Try this exercise type and run a
+
+41
+00:02:58,797 --> 00:03:03,887
+five-line example Begin with a very small example not
+
+42
+00:03:03,900 --> 00:03:08,642
+a complex project Give yourself thirty seconds to decide
+
+43
+00:03:08,655 --> 00:03:12,585
+what success would look like Then complete the task
+
+44
+00:03:12,598 --> 00:03:18,345
+once and inspect the result What’s useful What’s missing
+
+45
+00:03:19,235 --> 00:03:23,526
+What would you change Make one improvement and compare
+
+46
+00:03:23,539 --> 00:03:28,822
+the first and second versions This simple before-and-after comparison
+
+47
+00:03:28,835 --> 00:03:32,044
+teaches you more than copying a complicated prompt from
+
+48
+00:03:32,057 --> 00:03:36,258
+the internet If your chosen tool is unavailable do
+
+49
+00:03:36,271 --> 00:03:40,163
+the exercise on paper sketch the input the steps
+
+50
+00:03:40,291 --> 00:03:44,003
+and the output The objective is to practice the
+
+51
+00:03:44,016 --> 00:03:47,804
+underlying thinking not to depend on one particular app
+
+52
+00:03:54,883 --> 00:03:59,213
+Before we finish remember this important limitation test code
+
+53
+00:03:59,226 --> 00:04:04,356
+and never run unknown scripts blindly Responsible AI use
+
+54
+00:04:04,369 --> 00:04:07,501
+means understanding the strengths of the tool and keeping
+
+55
+00:04:07,514 --> 00:04:11,934
+yourself accountable for the final result Today you learned
+
+56
+00:04:11,947 --> 00:04:15,684
+that learn variables strings and a simple function saw
+
+57
+00:04:15,697 --> 00:04:18,725
+the example of a Python program printing a welcome
+
+58
+00:04:18,738 --> 00:04:23,480
+message and practiced a small hands-on task Here’s your
+
+59
+00:04:23,493 --> 00:04:27,011
+challenge repeat the exercise with a different topic and
+
+60
+00:04:27,024 --> 00:04:31,058
+write down one thing that improved In the comments
+
+61
+00:04:31,186 --> 00:04:34,009
+share the part you found easiest or the question
+
+62
+00:04:34,021 --> 00:04:37,604
+you still have If this helped share it with
+
+63
+00:04:37,617 --> 00:04:42,230
+someone learning AI And subscribe to Tech at sixty
+
+64
+00:04:42,243 --> 00:04:46,625
+for the next lesson We’re building practical AI skills
+
+65
+00:04:46,637 --> 00:04:50,722
+one simple step at a time Thanks for watching
+
+66
+00:04:51,612 --> 00:04:53,300
+See you in the next lesson

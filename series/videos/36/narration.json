@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Animations. Let’s make it simple.",
+    "idea": "Transitions and keyframes create changes over time. Start by understanding the role it plays in a page.",
+    "code": "A transition responds to a changed property; keyframes define an animation sequence.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Opacity and transform are useful properties for simple interface motion. Keep this detail in mind when writing your own example.",
+    "caution": "Respect reduced motion preferences and avoid unnecessary movement.",
+    "try": "Animate a card entrance with a short fade and upward movement. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

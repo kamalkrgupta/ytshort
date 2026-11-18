@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+5%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "How does code become a web page? Meet H T M L.",
+    "meaning": "H T M L means Hypertext Markup Language. It gives web content structure and meaning.",
+    "anatomy": "Most elements wrap content in an opening tag and a closing tag. The slash marks the end.",
+    "content": "H one marks a main heading. P marks a paragraph. The browser displays your content, without the tags.",
+    "links": "An A element creates a link. Its H ref attribute tells the browser where that link goes.",
+    "layers": "H T M L structures content. C S S controls appearance. JavaScript adds interactivity.",
+    "practice": "Write a heading and paragraph. Save as index dot H T M L. Open it in your browser.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "channelUrl": "https://www.youtube.com/@Techat60",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "connection": "youtube-data-api-oauth",
+  "privacyStatus": "public",
+  "madeForKids": false,
+  "publishAt": null,
+  "timezone": "Asia/Kolkata",
+  "defaultLanguage": "en",
+  "additionalTags": [],
+  "playlistId": "PLEJDqf_3IqMU",
+  "descriptionSuffix": "Like, share, and subscribe for more beginner web development lessons.",
+  "revisionPublishing": "ask",
+  "publishMode": "scheduled",
+  "dailySchedule": {
+    "times": [
+      "11:00",
+      "16:00"
+    ],
+    "timezone": "Asia/Kolkata",
+    "videosPerDay": 2,
+    "startDate": "2026-10-20"
+  },
+  "scheduleStatus": "scheduled",
+  "queueFile": "series/queue.json"
+}

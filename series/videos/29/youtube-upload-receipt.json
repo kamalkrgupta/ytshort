@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "f22e1f4c77fbfc9b727884adef1eaec8452a1a5e13e0f009498ac58b173b9ee6",
+  "title": "CSS Flexbox in 60 Seconds | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-31T08:46:39Z",
+  "publishAt": "2026-11-02T10:30:00Z",
+  "videoId": "c_JdeG3Iq3o",
+  "url": "https://www.youtube.com/watch?v=c_JdeG3Iq3o",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-02T10:30:00Z"
+}

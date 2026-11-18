@@ -1,0 +1,223 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,375
+Welcome to episode 19 of AI for Beginners Today
+
+4
+00:00:12,555 --> 00:00:16,769
+we’re looking at ai for presentations By the end
+
+5
+00:00:17,027 --> 00:00:21,176
+you’ll understand one practical idea watch a realistic example
+
+6
+00:00:21,305 --> 00:00:25,596
+and try a small exercise yourself You don’t need
+
+7
+00:00:25,609 --> 00:00:30,944
+a technical background or expensive software Bring your curiosity
+
+8
+00:00:31,846 --> 00:00:35,957
+We’ll work through it together Here’s the example we’ll
+
+9
+00:00:35,970 --> 00:00:41,370
+use a six-slide presentation about recycling We’ll use that
+
+10
+00:00:41,382 --> 00:00:45,480
+situation to make the topic concrete Watch how we
+
+11
+00:00:45,493 --> 00:00:48,754
+break the task into small steps because the same
+
+12
+00:00:48,766 --> 00:00:51,898
+thinking will help you use many different AI tools
+
+13
+00:00:51,911 --> 00:00:53,290
+later in this course
+
+14
+00:01:09,917 --> 00:01:14,016
+Let’s start with the main idea outline a slide
+
+15
+00:01:14,029 --> 00:01:18,024
+deck around one key message Think of AI as
+
+16
+00:01:18,037 --> 00:01:21,220
+a tool that processes information and returns an output
+
+17
+00:01:21,233 --> 00:01:25,678
+based on its training instructions and any relevant information
+
+18
+00:01:25,691 --> 00:01:29,364
+it can access It can save time on drafts
+
+19
+00:01:29,377 --> 00:01:32,959
+and patterns but it doesn’t automatically know what’s correct
+
+20
+00:01:32,972 --> 00:01:36,774
+for your situation The most useful habit is to
+
+21
+00:01:36,787 --> 00:01:40,704
+define what you want before touching the tool Ask
+
+22
+00:01:40,717 --> 00:01:44,815
+yourself three questions what’s my goal what information does
+
+23
+00:01:44,828 --> 00:01:46,993
+the tool need and how will I check the
+
+24
+00:01:47,006 --> 00:01:51,452
+result Those questions work whether you’re writing a prompt
+
+25
+00:01:51,619 --> 00:01:55,047
+building a workflow or reviewing a generated answer
+
+26
+00:02:11,717 --> 00:02:15,765
+Let’s try it with an example Our example is
+
+27
+00:02:15,777 --> 00:02:20,984
+a six-slide presentation about recycling Start by writing down
+
+28
+00:02:20,997 --> 00:02:26,035
+the desired result in one sentence Next identify the
+
+29
+00:02:26,048 --> 00:02:28,484
+input what would a person need to know to
+
+30
+00:02:28,497 --> 00:02:32,865
+do this task correctly Then write a simple instruction
+
+31
+00:02:32,878 --> 00:02:36,950
+with that context and a clear format On screen
+
+32
+00:02:37,092 --> 00:02:40,198
+I am showing a sample request followed by a
+
+33
+00:02:40,210 --> 00:02:44,618
+possible output Notice that we’re not judging the result
+
+34
+00:02:44,631 --> 00:02:48,793
+by how impressive it sounds We’re checking whether it
+
+35
+00:02:48,806 --> 00:02:52,569
+actually meets the task If the output is too
+
+36
+00:02:52,582 --> 00:02:56,538
+broad ask for a more specific version If a
+
+37
+00:02:56,551 --> 00:03:01,151
+fact matters verify it from a reliable source Pause
+
+38
+00:03:01,164 --> 00:03:03,303
+the video here if you’d like to copy the
+
+39
+00:03:03,316 --> 00:03:05,172
+structure into your own notes
+
+40
+00:03:21,817 --> 00:03:26,960
+Your turn Try this exercise generate slide titles and
+
+41
+00:03:26,973 --> 00:03:31,728
+speaker notes Begin with a very small example not
+
+42
+00:03:31,741 --> 00:03:36,483
+a complex project Give yourself thirty seconds to decide
+
+43
+00:03:36,496 --> 00:03:40,426
+what success would look like Then complete the task
+
+44
+00:03:40,439 --> 00:03:46,187
+once and inspect the result What’s useful What’s missing
+
+45
+00:03:47,076 --> 00:03:51,367
+What would you change Make one improvement and compare
+
+46
+00:03:51,380 --> 00:03:56,664
+the first and second versions This simple before-and-after comparison
+
+47
+00:03:56,676 --> 00:03:59,885
+teaches you more than copying a complicated prompt from
+
+48
+00:04:09,983 --> 00:04:14,751
+Before we finish remember this important limitation verify facts
+
+49
+00:04:14,764 --> 00:04:20,359
+and use licensed visuals Responsible AI use means understanding
+
+50
+00:04:20,371 --> 00:04:23,645
+the strengths of the tool and keeping yourself accountable
+
+51
+00:04:23,658 --> 00:04:27,472
+for the final result Today you learned that outline
+
+52
+00:04:27,485 --> 00:04:30,333
+a slide deck around one key message saw the
+
+53
+00:04:30,346 --> 00:04:34,882
+example of a six-slide presentation about recycling and practiced
+
+54
+00:04:34,895 --> 00:04:39,495
+a small hands-on task Here’s your challenge repeat the
+
+55
+00:04:39,508 --> 00:04:42,588
+exercise with a different topic and write down one
+
+56
+00:04:42,601 --> 00:04:42,884
+thing

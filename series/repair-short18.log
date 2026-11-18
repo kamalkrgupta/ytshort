@@ -1,0 +1,61 @@
+Hidden stuck upload; uploading verified replacement.
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 22%
+Upload 45%
+Upload 67%
+Upload 90%
+Uploaded: https://www.youtube.com/watch?v=oBrUM1-EbwI
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "42239eb57a706675c86245109cc5cfd052ce9ec2dd62a7b04ef98d97e0cada1a",
+  "title": "Semantic HTML | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-28T06:32:11Z",
+  "publishAt": null,
+  "videoId": "oBrUM1-EbwI",
+  "url": "https://www.youtube.com/watch?v=oBrUM1-EbwI",
+  "actualVisibility": "public",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null
+}
+{
+  "playlistId": "PLEJDqf_3IqMU",
+  "url": "https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+  "title": "Web Development for Beginners | HTML, CSS & JavaScript | TECH AT 60",
+  "privacyStatus": "public",
+  "episodesAdded": [
+    18
+  ],
+  "orderedVideoIds": [
+    "Vi_gc4jOFAw",
+    "GjtwEy6C0BY",
+    "iJj3UEqr3mM",
+    "XpPqAg6oUPQ",
+    "NwK_T8Qxams",
+    "UdFrS1p0n2Q",
+    "ZCMbUuFgbHw",
+    "emkJjvrZTeE",
+    "5gQr8gC3yno",
+    "uX0pUdeNRhs",
+    "PMmOSKNzM18",
+    "s8vTrnbddoo",
+    "yP-l14vRQME",
+    "PZeEmk-S7_w",
+    "MEEDwR24JOw",
+    "LYJz6pp8g9Y",
+    "TgIcPIs9y34",
+    "oBrUM1-EbwI"
+  ]
+}
+REPAIRED https://www.youtube.com/watch?v=oBrUM1-EbwI

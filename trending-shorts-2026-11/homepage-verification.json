@@ -1,0 +1,18 @@
+{
+  "topicSections": 1,
+  "section": {
+    "kind": "youtube#channelSection",
+    "etag": "p7HfsvJgmvKjSnh4hw0Uin71kBs",
+    "id": "UC7F3e0NsVP37sqroVmYxiFw.UgY69lf0UCE",
+    "snippet": {
+      "type": "singleplaylist",
+      "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+      "position": 7
+    },
+    "contentDetails": {
+      "playlists": [
+        "PLcuUzq1UFe64"
+      ]
+    }
+  }
+}

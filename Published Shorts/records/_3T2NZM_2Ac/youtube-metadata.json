@@ -1,0 +1,13 @@
+{
+  "title": "JavaScript For Loops: Print 1 to 5 with One Loop",
+  "description": "Repeat an instruction with a JavaScript for loop. Learn the counter, condition and update by printing the numbers from one through five.\n\nTry answering: Which part of a for loop changes the counter?\n\nContinue learning: open the JavaScript for Beginners playlist on @Techat60.\nSubscribe to TECH AT 60 for practical beginner coding lessons.\n\nA for loop can initialize a counter, check a condition, and update it.\nEach pass through the loop is called an iteration.\n\nTry it: Print the numbers from one through five with a loop.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 43\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "javascript loops",
+    "web development for beginners",
+    "learn to code",
+    "coding shorts",
+    "javascript tutorial"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-09T10:30:00Z"
+}

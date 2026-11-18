@@ -1,0 +1,13 @@
+{
+  "title": "CSS Box Model: Content, Padding, Border and Margin",
+  "description": "Understand the CSS box model with a visual example of content, padding, border and margin.\n\nWhich adds space inside the border: padding or margin?\n\nNext lesson: https://www.youtube.com/watch?v=_k9pL5fcolg\nFull beginner course: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU\n\nFrom inside out, it has content, padding, border, and margin.\nPadding is inside the border; margin is outside it.\n\nTry it: Give a card padding, a border, and outside margin.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 26\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "coding shorts",
+    "css box model",
+    "css tutorial",
+    "learn to code",
+    "web development for beginners"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-01T05:30:00Z"
+}

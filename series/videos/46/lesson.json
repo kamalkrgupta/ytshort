@@ -1,0 +1,16 @@
+{
+  "videoNumber": 46,
+  "phase": "Phase 4 — JavaScript for Beginners",
+  "topic": "JavaScript DOM Manipulation",
+  "description": "Change HTML content with JavaScript.",
+  "publishLocal": "2026-11-11T11:00:00+05:30",
+  "publishAt": "2026-11-11T05:30:00Z",
+  "status": "planned",
+  "definition": "The document object model represents a page as objects JavaScript can change.",
+  "code": "const heading =\n document.querySelector(\"h1\");\nheading.textContent = \"Hello, DOM!\";",
+  "preview": "<h1>Hello, DOM!</h1>",
+  "rule": "Select an element, then change its text content.",
+  "tip": "Event listeners can trigger these updates when a user takes an action.",
+  "caution": "Ensure the element exists before using it, and prefer text content for plain text.",
+  "exercise": "Change a heading when someone presses a button."
+}

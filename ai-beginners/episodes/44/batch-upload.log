@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 27%
+Upload 36%
+Upload 45%
+Upload 54%
+Upload 63%
+Upload 72%
+Upload 81%
+Upload 91%
+Upload 100%
+Uploaded: https://www.youtube.com/watch?v=JCva46HidWQ
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "5c0c0a4e8a71408e739fc2236a8a98a28459daadfd4bbf88b085d692f3f3d7eb",
+  "title": "What Are AI Agents? Planning, Tools and Human Oversight | Ep 44",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:18:34Z",
+  "publishAt": "2026-11-17T14:00:00+05:30",
+  "videoId": "JCva46HidWQ",
+  "url": "https://www.youtube.com/watch?v=JCva46HidWQ",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-17T08:30:00Z"
+}

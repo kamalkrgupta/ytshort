@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "channelUrl": "https://www.youtube.com/@Techat60",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "connection": "youtube-data-api-oauth",
+  "privacyStatus": "public",
+  "madeForKids": false,
+  "publishAt": null,
+  "timezone": "Asia/Kolkata",
+  "defaultLanguage": "en",
+  "additionalTags": [],
+  "descriptionSuffix": "Subscribe to TECH AT 60 for clear tech explainers.",
+  "revisionPublishing": "ask",
+  "publishMode": "scheduled",
+  "dailySchedule": {
+    "times": [
+      "20:00"
+    ],
+    "timezone": "Asia/Kolkata",
+    "videosPerDay": 1,
+    "startDate": "2026-11-17"
+  },
+  "scheduleStatus": "scheduled",
+  "queueFile": "/Users/impulsiveweb/Documents/YT Short/trending-shorts-2026-11/queue.json",
+  "playlistId": "PLcuUzq1UFe64"
+}

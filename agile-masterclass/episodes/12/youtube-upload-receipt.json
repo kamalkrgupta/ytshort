@@ -1,0 +1,19 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "d76768afa5c435b4f7be517e5e60a5d8607f9c279056d1add3242c6ba0c48807",
+  "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-24T16:45:27Z",
+  "publishAt": "2026-10-28T18:00:00+05:30",
+  "videoId": "ETNKUsval9c",
+  "url": "https://www.youtube.com/watch?v=ETNKUsval9c",
+  "actualVisibility": "public",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "uploaded",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null
+}

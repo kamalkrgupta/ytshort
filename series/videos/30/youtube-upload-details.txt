@@ -1,0 +1,18 @@
+CSS Grid Explained | Web Development in 60 Seconds
+
+Grid arranges items in rows and columns. Learn css grid explained with a quick example for beginners.
+
+Define columns on the parent and place items inside it.
+A fractional unit shares available space between grid tracks.
+
+Try it: Create a two-column gallery with four cards.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 30
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: css grid explained, web development for beginners, learn to code, coding shorts, css tutorial

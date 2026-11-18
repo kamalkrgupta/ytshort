@@ -1,0 +1,12 @@
+{
+  "title": "WebGPU Explained: How AI Can Run Inside a Browser",
+  "description": "WebGPU exposes GPU computation to web applications. A supported model can process data on your device.\n\nSupport, model downloads and app design still matter.\n\nWhich browser task would you run locally?\nSubscribe to @Techat60 for clear, beginner-friendly tech explainers.\n\nSource checked November 16, 2026:\nhttps://developer.chrome.com/blog/io24-webassembly-webgpu-1\n\nOriginal illustrative diagrams; not a product demonstration or benchmark.\n\n#Technology #TechExplained #Shorts",
+  "tags": [
+    "webgpu",
+    "technology explained",
+    "tech for beginners",
+    "TECH AT 60"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-20T14:30:00+00:00"
+}

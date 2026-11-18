@@ -1,0 +1,697 @@
+[
+  {
+    "start": 0.3403559263570905,
+    "end": 4.9095042278381404,
+    "text": "Kanban supports teams that receive work continuously including support"
+  },
+  {
+    "start": 4.922341997854956,
+    "end": 9.895494235060147,
+    "text": "and maintenance operations It makes flow visible and supports"
+  },
+  {
+    "start": 9.908332908636227,
+    "end": 16.08178863207649,
+    "text": "delivery predictability Picture a support team receiving authentication failures"
+  },
+  {
+    "start": 16.22296976700944,
+    "end": 20.33006045008192,
+    "text": "dashboard requests and small mobile fixes throughout the day"
+  },
+  {
+    "start": 21.228500146865436,
+    "end": 25.386942813564435,
+    "text": "Work arrives continuously so the team needs visibility into"
+  },
+  {
+    "start": 25.399743537651446,
+    "end": 28.223366236310525,
+    "text": "what is active what is waiting and what is"
+  },
+  {
+    "start": 28.236204006327338,
+    "end": 32.53582871151856,
+    "text": "becoming old Kanban helps the team define and improve"
+  },
+  {
+    "start": 32.54866648153538,
+    "end": 35.988365703552795,
+    "text": "that flow A board is part of the approach"
+  },
+  {
+    "start": 36.18086177618247,
+    "end": 40.53183846500021,
+    "text": "but the board alone cannot solve capacity problems The"
+  },
+  {
+    "start": 40.54463918908722,
+    "end": 45.023958339261846,
+    "text": "team also needs explicit policies limits and regular inspection"
+  },
+  {
+    "start": 45.90952231653947,
+    "end": 49.13101197640452,
+    "text": "We will follow five fictional requests and show how"
+  },
+  {
+    "start": 49.14385064998059,
+    "end": 53.27661777664597,
+    "text": "testing contributes to finishing valuable work rather than becoming"
+  },
+  {
+    "start": 53.289455546662786,
+    "end": 55.22747722211443,
+    "text": "an invisible queue near the end"
+  },
+  {
+    "start": 56.87368634043083,
+    "end": 62.04590628346408,
+    "text": "Represent requests as cards moving through Backlog Ready Development"
+  },
+  {
+    "start": 62.23839613684473,
+    "end": 66.82637094773378,
+    "text": "Testing and Done The board exposes current status and"
+  },
+  {
+    "start": 66.83920830298219,
+    "end": 73.08949051021044,
+    "text": "queues Define the workflow before drawing columns Backlog contains"
+  },
+  {
+    "start": 73.10232876898891,
+    "end": 77.09374785051675,
+    "text": "possible work Ready contains requests that meet the team's"
+  },
+  {
+    "start": 77.10658520576516,
+    "end": 82.98468801674761,
+    "text": "entry policy Development contains active implementation Testing contains active"
+  },
+  {
+    "start": 82.99752627552608,
+    "end": 86.77078079317644,
+    "text": "or queued verification and Done meets the agreed completion"
+  },
+  {
+    "start": 86.78361814842485,
+    "end": 92.12265233081186,
+    "text": "policy These are illustrative choices not required Kanban column"
+  },
+  {
+    "start": 92.13549058959035,
+    "end": 96.43497547705766,
+    "text": "names Make the start and finish points explicit because"
+  },
+  {
+    "start": 96.44777578757316,
+    "end": 100.88843815216038,
+    "text": "metrics depend on them A blocked item should remain"
+  },
+  {
+    "start": 100.9012755074088,
+    "end": 103.99432277113684,
+    "text": "visible in the system with its blocker rather than"
+  },
+  {
+    "start": 104.00716012638526,
+    "end": 107.98577980092766,
+    "text": "being moved somewhere that hides its age The board"
+  },
+  {
+    "start": 107.99861715617607,
+    "end": 111.92588560266468,
+    "text": "should represent how work actually flows including waiting that"
+  },
+  {
+    "start": 111.93872386144315,
+    "end": 113.92799529868634,
+    "text": "the team may otherwise overlook"
+  },
+  {
+    "start": 115.57369211735596,
+    "end": 120.34166130258042,
+    "text": "Limit active work to reduce context switching If Testing"
+  },
+  {
+    "start": 120.35449947861436,
+    "end": 123.48625903145988,
+    "text": "has three items and its limit is three finish"
+  },
+  {
+    "start": 123.49909811108165,
+    "end": 128.23521672852598,
+    "text": "or unblock existing work before pulling more Adjust limits"
+  },
+  {
+    "start": 128.24805490455992,
+    "end": 132.54777673868858,
+    "text": "to actual capacity Suppose Testing has a limit of"
+  },
+  {
+    "start": 132.56061581831037,
+    "end": 137.06575389050903,
+    "text": "three items and already contains three Two depend on"
+  },
+  {
+    "start": 137.0785550194415,
+    "end": 140.7878960520502,
+    "text": "an unavailable environment while the third needs a small"
+  },
+  {
+    "start": 140.80073513167196,
+    "end": 146.10159524566984,
+    "text": "fix Starting several more features increases active work without"
+  },
+  {
+    "start": 146.11443342170378,
+    "end": 150.24733125441853,
+    "text": "increasing finished value The team might help restore the"
+  },
+  {
+    "start": 150.2601703340403,
+    "end": 154.07218063140687,
+    "text": "environment and pair on the small fix When an"
+  },
+  {
+    "start": 154.08501971102862,
+    "end": 158.92384464033228,
+    "text": "item finishes capacity becomes available to pull more A"
+  },
+  {
+    "start": 158.93668371995403,
+    "end": 162.41497011311418,
+    "text": "limit is a policy that encourages this discussion it"
+  },
+  {
+    "start": 162.42780828914812,
+    "end": 165.50821423427007,
+    "text": "is not a magic number copied from another team"
+  },
+  {
+    "start": 166.39384416975963,
+    "end": 170.44971023550724,
+    "text": "Review whether the chosen limits support collaboration and manageable"
+  },
+  {
+    "start": 170.46254931512902,
+    "end": 174.98048761267233,
+    "text": "flow then adjust through explicit experiments rather than quietly"
+  },
+  {
+    "start": 174.9933266922941,
+    "end": 175.9174711558855,
+    "text": "ignoring them"
+  },
+  {
+    "start": 177.57367277625988,
+    "end": 180.7561045985599,
+    "text": "Lead time is measured from a defined request or"
+  },
+  {
+    "start": 180.7689029874393,
+    "end": 184.6057690920044,
+    "text": "commitment point to completion cycle time is measured from"
+  },
+  {
+    "start": 184.61860542344985,
+    "end": 188.6797771376461,
+    "text": "the start of work to completion Agree on boundaries"
+  },
+  {
+    "start": 188.69261346909155,
+    "end": 194.24897794545956,
+    "text": "before comparing results Use timestamps to explain flow measures"
+  },
+  {
+    "start": 195.13441831383767,
+    "end": 199.5872494556865,
+    "text": "A request arrives Monday becomes active Wednesday and finishes"
+  },
+  {
+    "start": 199.6000848837375,
+    "end": 204.68167854835497,
+    "text": "Friday If the team measures request-to-finish time that includes"
+  },
+  {
+    "start": 204.69451397640597,
+    "end": 209.49375893931202,
+    "text": "the waiting before Wednesday If its cycle-time boundary starts"
+  },
+  {
+    "start": 209.50663321332348,
+    "end": 213.18950760687045,
+    "text": "when work becomes active the earlier waiting is outside"
+  },
+  {
+    "start": 213.2023068991443,
+    "end": 217.73211357012752,
+    "text": "that measure State whether you use elapsed calendar time"
+  },
+  {
+    "start": 217.74494990157297,
+    "end": 222.23625028840317,
+    "text": "or working time The current Kanban Guide emphasizes work"
+  },
+  {
+    "start": 222.2490866198486,
+    "end": 226.12445991196117,
+    "text": "in progress throughput work item age and cycle time"
+  },
+  {
+    "start": 226.13729624340658,
+    "end": 230.03830335244953,
+    "text": "as flow metrics Lead time is also used in"
+  },
+  {
+    "start": 230.05113968389497,
+    "end": 235.0813898295196,
+    "text": "practice with boundaries that must be defined Unlabelled numbers"
+  },
+  {
+    "start": 235.09422616096504,
+    "end": 238.36647165063374,
+    "text": "from different workflows should not be compared as though"
+  },
+  {
+    "start": 238.37930707868475,
+    "end": 240.0346644460098,
+    "text": "they describe the same thing"
+  },
+  {
+    "start": 241.7070225267432,
+    "end": 246.032319599145,
+    "text": "A growing Testing queue may indicate environment issues oversized"
+  },
+  {
+    "start": 246.04512031384206,
+    "end": 252.27609747062155,
+    "text": "stories weak upstream tests or capacity constraints Improve overall"
+  },
+  {
+    "start": 252.28893613477982,
+    "end": 256.729699864332,
+    "text": "flow before assuming headcount is the only solution A"
+  },
+  {
+    "start": 256.7425385284903,
+    "end": 260.1180825666628,
+    "text": "constantly full Testing column is a signal not a"
+  },
+  {
+    "start": 260.1308832813598,
+    "end": 265.6882954507301,
+    "text": "diagnosis The cause could be unstable environments large batches"
+  },
+  {
+    "start": 265.86799066745726,
+    "end": 270.9889840326579,
+    "text": "missing acceptance criteria poor testability or a capacity mismatch"
+  },
+  {
+    "start": 271.87458530979154,
+    "end": 275.68647315676975,
+    "text": "Examine individual items and their waiting time before proposing"
+  },
+  {
+    "start": 275.6993109173694,
+    "end": 279.4855223395897,
+    "text": "a solution If every item waits for the same"
+  },
+  {
+    "start": 279.49836100374796,
+    "end": 283.5669335851488,
+    "text": "shared account creating isolated data may help more than"
+  },
+  {
+    "start": 283.57977224930704,
+    "end": 288.675127139211,
+    "text": "adding another dashboard If large changes arrive in batches"
+  },
+  {
+    "start": 288.8419845953385,
+    "end": 292.4100245649352,
+    "text": "smaller slices and earlier checks may reduce the queue"
+  },
+  {
+    "start": 293.29558789260756,
+    "end": 296.2219124119134,
+    "text": "The objective is better flow through the whole system"
+  },
+  {
+    "start": 296.3502556826833,
+    "end": 299.7385624860916,
+    "text": "so moving a bottleneck to another column without improving"
+  },
+  {
+    "start": 299.7514381961525,
+    "end": 302.42104003157453,
+    "text": "completion does not establish success"
+  },
+  {
+    "start": 304.07368578255677,
+    "end": 309.43836155167264,
+    "text": "Differentiate critical incidents standard enhancements and fixed-date commitments with"
+  },
+  {
+    "start": 309.4511997311828,
+    "end": 316.1439444668459,
+    "text": "clear policies Too many urgent tickets undermine prioritization Classes"
+  },
+  {
+    "start": 316.1567817428316,
+    "end": 319.5963485961768,
+    "text": "of service make tradeoffs explicit when the team chooses"
+  },
+  {
+    "start": 319.609186775687,
+    "end": 324.3834851851852,
+    "text": "to use them A production authentication outage may qualify"
+  },
+  {
+    "start": 324.3963233646954,
+    "end": 329.0551206242533,
+    "text": "for expedited handling under an agreed policy A normal"
+  },
+  {
+    "start": 329.0679588037635,
+    "end": 334.9973382840502,
+    "text": "dashboard enhancement follows standard capacity A contractual deadline may"
+  },
+  {
+    "start": 335.01017556003586,
+    "end": 340.55454066606933,
+    "text": "require a fixed-date policy These are complementary practices not"
+  },
+  {
+    "start": 340.5673408975508,
+    "end": 345.45717750149345,
+    "text": "mandatory labels for every Kanban system Too many expedited"
+  },
+  {
+    "start": 345.4700156810036,
+    "end": 350.6934778001792,
+    "text": "items undermine predictability because ordinary work is repeatedly interrupted"
+  },
+  {
+    "start": 351.5918829226404,
+    "end": 355.17262547789727,
+    "text": "Define who can invoke an urgent policy what evidence"
+  },
+  {
+    "start": 355.1854636574074,
+    "end": 360.0880995893071,
+    "text": "is needed and how interrupted work remains visible Priority"
+  },
+  {
+    "start": 360.10093776881723,
+    "end": 364.5415727150538,
+    "text": "should reflect consequences and commitments rather than whoever asks"
+  },
+  {
+    "start": 364.5543729465353,
+    "end": 365.5682774118877,
+    "text": "most loudly"
+  },
+  {
+    "start": 367.2403487643442,
+    "end": 371.0390996041887,
+    "text": "A team supporting a website dashboard and mobile app"
+  },
+  {
+    "start": 371.0519372601144,
+    "end": 376.94873638697965,
+    "text": "receives five requests A production authentication issue receives expedited"
+  },
+  {
+    "start": 376.9615740429053,
+    "end": 381.4661755076764,
+    "text": "attention while other items follow available capacity and testing"
+  },
+  {
+    "start": 381.4790122601144,
+    "end": 386.3557756445091,
+    "text": "checks Walk through the five requests One is an"
+  },
+  {
+    "start": 386.3686123969471,
+    "end": 390.6550586388204,
+    "text": "active production login failure two are routine dashboard improvements"
+  },
+  {
+    "start": 390.7705550782321,
+    "end": 393.31161407541225,
+    "text": "one is a mobile display defect and one is"
+  },
+  {
+    "start": 393.3244508278503,
+    "end": 397.3541936430306,
+    "text": "a reporting change with a future commitment Assess the"
+  },
+  {
+    "start": 397.3670312989563,
+    "end": 401.64063988490386,
+    "text": "login incident first because customers cannot access the service"
+  },
+  {
+    "start": 402.4876604541182,
+    "end": 406.1324045972369,
+    "text": "Apply the agreed urgent policy and make the interruption"
+  },
+  {
+    "start": 406.14524134967496,
+    "end": 410.5343463750343,
+    "text": "visible Keep the other items ordered according to value"
+  },
+  {
+    "start": 410.67551722280973,
+    "end": 415.34696213674465,
+    "text": "risk and capacity After the incident fix verify the"
+  },
+  {
+    "start": 415.3597988891827,
+    "end": 419.0815274074238,
+    "text": "important login journeys and capture a regression check where"
+  },
+  {
+    "start": 419.0943650633494,
+    "end": 422.9188282580387,
+    "text": "useful Then inspect the cause so that the team"
+  },
+  {
+    "start": 422.9316279674833,
+    "end": 426.40956570443154,
+    "text": "learns from the interruption instead of simply celebrating a"
+  },
+  {
+    "start": 426.42240336035724,
+    "end": 427.75708048163165,
+    "text": "fast ticket closure"
+  },
+  {
+    "start": 429.407009537905,
+    "end": 432.9616997759415,
+    "text": "For your exercise investigate a Testing queue that has"
+  },
+  {
+    "start": 432.97453659451577,
+    "end": 437.1513504296169,
+    "text": "remained full for a week Record each item's age"
+  },
+  {
+    "start": 437.2925111659267,
+    "end": 440.0259097198241,
+    "text": "its blocker and the work needed to finish it"
+  },
+  {
+    "start": 440.89850983082556,
+    "end": 444.2864045428384,
+    "text": "Choose one action that could reduce waiting across several"
+  },
+  {
+    "start": 444.2992034174067,
+    "end": 448.405700685537,
+    "text": "items such as restoring a shared dependency or preparing"
+  },
+  {
+    "start": 448.4185375041112,
+    "end": 453.1153495477718,
+    "text": "independent test accounts Decide how you will observe whether"
+  },
+  {
+    "start": 453.12818636634603,
+    "end": 457.8378352285809,
+    "text": "the action improves completion Do not assume the busiest-looking"
+  },
+  {
+    "start": 457.8506341031492,
+    "end": 461.35397977717486,
+    "text": "column is the only problem it may reflect issues"
+  },
+  {
+    "start": 461.3668165957491,
+    "end": 467.00040922956754,
+    "text": "upstream A strong Kanban discussion connects visible work explicit"
+  },
+  {
+    "start": 467.0132460481418,
+    "end": 470.7732404610673,
+    "text": "policies and evidence about flow to a practical experiment"
+  },
+  {
+    "start": 470.78611432021876,
+    "end": 472.36451720934065,
+    "text": "that the team can inspect"
+  },
+  {
+    "start": 474.0070465686275,
+    "end": 478.0125328890932,
+    "text": "Work item age is especially useful before work finishes"
+  },
+  {
+    "start": 478.9173486825981,
+    "end": 483.03837034313733,
+    "text": "Suppose three testing items are active one started today"
+  },
+  {
+    "start": 483.1795898437501,
+    "end": 486.0938138633579,
+    "text": "one three days ago and one nine days ago"
+  },
+  {
+    "start": 486.97964987745104,
+    "end": 491.0107814950981,
+    "text": "A completed-item average will not explain the oldest item's"
+  },
+  {
+    "start": 491.0236235753677,
+    "end": 495.3757538756128,
+    "text": "current risk because it has not finished yet Inspect"
+  },
+  {
+    "start": 495.38855890012263,
+    "end": 498.85485318627457,
+    "text": "why it is aging Perhaps it depends on a"
+  },
+  {
+    "start": 498.8676952665442,
+    "end": 502.5008543504903,
+    "text": "supplier response or contains a much larger scope than"
+  },
+  {
+    "start": 502.5136955269609,
+    "end": 506.90431320465694,
+    "text": "the others Make the blocker and next action visible"
+  },
+  {
+    "start": 507.7901501225491,
+    "end": 512.2963031403187,
+    "text": "Historical cycle-time data can help the team discuss expectations"
+  },
+  {
+    "start": 512.5530579810049,
+    "end": 514.9922596966912,
+    "text": "but it should not be treated as a guarantee"
+  },
+  {
+    "start": 515.0051017769608,
+    "end": 519.8964241115197,
+    "text": "for every request Different work types and changed conditions"
+  },
+  {
+    "start": 519.9092661917892,
+    "end": 523.1572939185049,
+    "text": "can alter what a reasonable expectation looks like"
+  },
+  {
+    "start": 524.8070313623939,
+    "end": 529.145553360128,
+    "text": "Avoid maximizing individual utilization at the expense of flow"
+  },
+  {
+    "start": 530.0374149537837,
+    "end": 534.0165104706158,
+    "text": "If developers begin more features whenever testing waits the"
+  },
+  {
+    "start": 534.0293503902317,
+    "end": 537.892967958747,
+    "text": "board may show impressive activity while customers receive few"
+  },
+  {
+    "start": 537.9058078783629,
+    "end": 542.4882015986909,
+    "text": "completed changes Helping finish an older item can be"
+  },
+  {
+    "start": 542.5010406146598,
+    "end": 547.3787009782766,
+    "text": "more valuable than starting another That might mean clarifying"
+  },
+  {
+    "start": 547.3915408978925,
+    "end": 551.7557409275644,
+    "text": "a rule reducing a change's scope improving testability or"
+  },
+  {
+    "start": 551.7685808471803,
+    "end": 557.4933722800677,
+    "text": "investigating a failing integration together Measure whether completed throughput"
+  },
+  {
+    "start": 557.5062112960366,
+    "end": 561.472505750072,
+    "text": "and waiting improve under the experiment A work in"
+  },
+  {
+    "start": 561.4853456696878,
+    "end": 566.4656820151777,
+    "text": "progress limit should encourage this system-level conversation It should"
+  },
+  {
+    "start": 566.4785219347935,
+    "end": 569.3024186762697,
+    "text": "not become a rigid excuse to leave a colleague"
+  },
+  {
+    "start": 569.3152585958856,
+    "end": 572.8322896031146,
+    "text": "blocked while everyone else starts work that will soon"
+  },
+  {
+    "start": 572.8451295227305,
+    "end": 574.0645251852252,
+    "text": "join the same queue"
+  },
+  {
+    "start": 575.7071015585722,
+    "end": 580.851640506536,
+    "text": "Kanban improves transparency and flow Knowledge check what should"
+  },
+  {
+    "start": 580.8644524176722,
+    "end": 584.6668245261438,
+    "text": "be investigated when the Testing column is consistently full"
+  },
+  {
+    "start": 585.5403505209905,
+    "end": 588.687597802916,
+    "text": "Subscribe to Tech at sixty for the next episode"
+  },
+  {
+    "start": 588.7004476967069,
+    "end": 593.4534035627199,
+    "text": "in this Agile Testing Masterclass Practice the example with"
+  },
+  {
+    "start": 593.4662534565108,
+    "end": 596.8318630197335,
+    "text": "synthetic data and share the most important risk you"
+  },
+  {
+    "start": 596.8447120091755,
+    "end": 598.7073687298894,
+    "text": "identified in the comments"
+  }
+]

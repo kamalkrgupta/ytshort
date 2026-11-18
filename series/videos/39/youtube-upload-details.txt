@@ -1,0 +1,18 @@
+JavaScript Data Types | Web Development in 60 Seconds
+
+JavaScript values have different types with different behavior. Learn javascript data types with a quick example for beginners.
+
+Text is a string, a numeric value is a number, and true is a boolean.
+The type of operator can help inspect the type of a value.
+
+Try it: Create a string, a number, and a boolean.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 39
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: javascript data types, web development for beginners, learn to code, coding shorts, javascript tutorial

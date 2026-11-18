@@ -1,0 +1,40 @@
+{
+  "number": 6,
+  "slug": "agents",
+  "title": "AI Agents vs Chatbots: What Actually Changes?",
+  "category": "AI",
+  "source": "https://www.anthropic.com/research/trustworthy-agents",
+  "headline": "An answer.\nOr an action?",
+  "meaning": "Agents use tools in a feedback loop.",
+  "example": "Draft a plan, use a tool, inspect the result.",
+  "comparison": "The key difference is tool use and a decision loop.",
+  "caution": "Give tools only the permissions the task needs.",
+  "question": "Which task would you delegate?",
+  "flow": [
+    "Plan",
+    "Use a tool",
+    "Check result"
+  ],
+  "left": [
+    "CHATBOT",
+    "Responds in a conversation"
+  ],
+  "right": [
+    "AGENT",
+    "Acts, observes, adjusts"
+  ],
+  "lines": [
+    "A chatbot can explain how to organize files. An agent may actually organize them using tools.",
+    "An agent can plan a step, take an action, inspect the result, and decide what comes next.",
+    "Imagine a helper that reads receipt details, sorts them, and checks whether anything is missing.",
+    "The difference is not a magic personality. It is the combination of a model, tools, and a control loop.",
+    "Permissions matter because a mistaken answer and a mistaken action have different consequences.",
+    "Which task would you delegate? Subscribe to Tech at sixty for practical tech explained."
+  ],
+  "publishLocal": "2026-11-21T20:00:00+05:30",
+  "publishAt": "2026-11-21T14:30:00+00:00",
+  "status": "needs_attention",
+  "accent": "#8ee4c8",
+  "updatedAt": "2026-11-16T15:22:07.804809+05:30",
+  "error": "AssertionError: "
+}

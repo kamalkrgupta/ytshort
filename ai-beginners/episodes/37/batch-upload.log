@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 27%
+Upload 36%
+Upload 45%
+Upload 54%
+Upload 63%
+Upload 72%
+Upload 81%
+Upload 90%
+Upload 99%
+Uploaded: https://www.youtube.com/watch?v=wuVRGnMScOw
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "b49d31feee85788c82c160c5facb095b8f33c2776c0160328f83921fe6588294",
+  "title": "Build an AI Workflow: Inputs, Outputs and Review Steps | Ep 37",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:12:05Z",
+  "publishAt": "2026-11-14T14:00:00+05:30",
+  "videoId": "wuVRGnMScOw",
+  "url": "https://www.youtube.com/watch?v=wuVRGnMScOw",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-14T08:30:00Z"
+}

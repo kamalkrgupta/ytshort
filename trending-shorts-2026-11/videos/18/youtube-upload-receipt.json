@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "3e99c3c588f0c2050ec13e56ef26b787c8bdb7d7e2d9ae6bf752fb1daf1b4a80",
+  "title": "AI World Models: Predicting What Happens Next",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:58:01Z",
+  "publishAt": "2026-12-04T14:30:00+00:00",
+  "videoId": "dmXC41kFCYs",
+  "url": "https://www.youtube.com/watch?v=dmXC41kFCYs",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-12-04T14:30:00Z"
+}

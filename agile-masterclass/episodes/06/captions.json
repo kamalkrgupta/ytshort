@@ -1,0 +1,677 @@
+[
+  {
+    "start": 0.337867970562355,
+    "end": 5.28644533312335,
+    "text": "The Agile Testing Quadrants help select complementary tests The"
+  },
+  {
+    "start": 5.2989296143808495,
+    "end": 10.753224052075835,
+    "text": "dimensions are business-facing versus technology-facing and supporting development versus"
+  },
+  {
+    "start": 10.76570921201304,
+    "end": 16.307358471322292,
+    "text": "critiquing the product They are not sequential stages Start"
+  },
+  {
+    "start": 16.3198436312595,
+    "end": 19.951902220322374,
+    "text": "with a delivery rule orders above a defined qualifying"
+  },
+  {
+    "start": 19.96438738025958,
+    "end": 24.070713340432768,
+    "text": "amount receive free shipping A developer can test the"
+  },
+  {
+    "start": 24.08319850036997,
+    "end": 28.364271886999042,
+    "text": "calculation a product specialist can clarify what counts toward"
+  },
+  {
+    "start": 28.376757046936245,
+    "end": 31.646799597282218,
+    "text": "the amount a customer can explore whether the message"
+  },
+  {
+    "start": 31.659320783087352,
+    "end": 35.453606491480684,
+    "text": "is understandable and an engineer can measure checkout under"
+  },
+  {
+    "start": 35.46609077273818,
+    "end": 40.88293148798096,
+    "text": "load These are complementary views of quality The quadrants"
+  },
+  {
+    "start": 40.89541664791817,
+    "end": 45.014226889348855,
+    "text": "organize the questions so a team notices gaps They"
+  },
+  {
+    "start": 45.02671204928606,
+    "end": 48.47157583518318,
+    "text": "do not prescribe a testing order or assign exclusive"
+  },
+  {
+    "start": 48.48402409057275,
+    "end": 52.93980799911007,
+    "text": "ownership to particular job titles Use the model as"
+  },
+  {
+    "start": 52.952330063594914,
+    "end": 55.98523892838573,
+    "text": "a conversation aid and adapt the examples to the"
+  },
+  {
+    "start": 55.99772408832294,
+    "end": 57.95732569269458,
+    "text": "risks of the feature you are building"
+  },
+  {
+    "start": 59.571197266785504,
+    "end": 64.60093123440285,
+    "text": "Technology-facing tests that support development include unit and component"
+  },
+  {
+    "start": 64.61337891785502,
+    "end": 69.41195693478907,
+    "text": "tests A shopping-cart unit test can verify a subtotal"
+  },
+  {
+    "start": 69.42444152109329,
+    "end": 74.84106938279858,
+    "text": "or discount calculation These automated checks offer fast focused"
+  },
+  {
+    "start": 74.85351706625075,
+    "end": 80.22020921865716,
+    "text": "technical feedback For quadrant one isolate a shipping calculation"
+  },
+  {
+    "start": 81.08138647504457,
+    "end": 84.05177259952467,
+    "text": "Suppose the agreed rule gives free delivery when the"
+  },
+  {
+    "start": 84.06425718582888,
+    "end": 88.34513387774808,
+    "text": "discounted subtotal is at least one thousand rupees A"
+  },
+  {
+    "start": 88.3576184640523,
+    "end": 91.83973907382651,
+    "text": "low-level test checks nine hundred and ninety-nine one thousand"
+  },
+  {
+    "start": 91.85222278149138,
+    "end": 95.6463341607249,
+    "text": "and one thousand and one Each test runs without"
+  },
+  {
+    "start": 95.65881786838978,
+    "end": 99.10348647653001,
+    "text": "opening a browser or contacting a real payment service"
+  },
+  {
+    "start": 99.96466373291742,
+    "end": 103.15968894013668,
+    "text": "When one fails the feedback points closely to the"
+  },
+  {
+    "start": 103.17217264780155,
+    "end": 108.70112049019608,
+    "text": "calculation Such tests support development by making small changes"
+  },
+  {
+    "start": 108.7136050765003,
+    "end": 112.70738636586454,
+    "text": "easier to evaluate They still cannot tell us whether"
+  },
+  {
+    "start": 112.71990697638147,
+    "end": 115.34081430555557,
+    "text": "the team chose the correct threshold or whether the"
+  },
+  {
+    "start": 115.3532988918598,
+    "end": 117.74960404114677,
+    "text": "customer understands the final total"
+  },
+  {
+    "start": 119.37121354224135,
+    "end": 125.43143274853801,
+    "text": "Business-facing tests that support development include acceptance examples For"
+  },
+  {
+    "start": 125.44391876861965,
+    "end": 129.63818452958918,
+    "text": "free delivery above a threshold clarify whether taxes and"
+  },
+  {
+    "start": 129.65070745935856,
+    "end": 133.83248720024642,
+    "text": "discounts count Agree on examples and use them to"
+  },
+  {
+    "start": 133.84497409913016,
+    "end": 137.9268999526463,
+    "text": "verify the business rule Quadrant two makes the business"
+  },
+  {
+    "start": 137.93938597272793,
+    "end": 142.99502366214278,
+    "text": "rule explicit Ask whether taxes gift cards and discount"
+  },
+  {
+    "start": 143.00751056102652,
+    "end": 148.5124736069734,
+    "text": "reductions affect eligibility Use a concrete example a basket"
+  },
+  {
+    "start": 148.52495962705507,
+    "end": 152.51955452296883,
+    "text": "worth eleven hundred receives a two-hundred-rupee discount leaving a"
+  },
+  {
+    "start": 152.53200451216483,
+    "end": 157.23809867064807,
+    "text": "qualifying subtotal of nine hundred Under our fictional rule"
+  },
+  {
+    "start": 157.3754123758689,
+    "end": 162.33116014702637,
+    "text": "free shipping does not apply Product development and testing"
+  },
+  {
+    "start": 162.3436470459101,
+    "end": 167.21199091889184,
+    "text": "participants should agree on that result before implementation The"
+  },
+  {
+    "start": 167.22447693897348,
+    "end": 170.90695033331494,
+    "text": "example can become an acceptance check but the conversation"
+  },
+  {
+    "start": 170.91943723219867,
+    "end": 176.59920807449703,
+    "text": "is valuable even before automation exists An executable scenario"
+  },
+  {
+    "start": 176.6116940945787,
+    "end": 180.23177254059544,
+    "text": "with an ambiguous expected result will simply automate an"
+  },
+  {
+    "start": 180.24422252979144,
+    "end": 182.1166940502133,
+    "text": "unresolved business question"
+  },
+  {
+    "start": 183.7378818836349,
+    "end": 188.15694858143604,
+    "text": "Business-facing tests that critique the product include exploratory and"
+  },
+  {
+    "start": 188.16943571828173,
+    "end": 193.03139107803074,
+    "text": "usability testing A checkout button may function correctly yet"
+  },
+  {
+    "start": 193.0438773360576,
+    "end": 198.09961137040278,
+    "text": "be difficult to find Realistic exploration reveals problems that"
+  },
+  {
+    "start": 198.11206247567617,
+    "end": 202.74332789088342,
+    "text": "predefined checks can miss In quadrant three explore the"
+  },
+  {
+    "start": 202.75581414891028,
+    "end": 207.6741967085036,
+    "text": "actual customer journey Add items until shipping becomes free"
+  },
+  {
+    "start": 207.82399928852888,
+    "end": 210.86991155453393,
+    "text": "then apply a coupon that lowers the subtotal below"
+  },
+  {
+    "start": 210.88239869137962,
+    "end": 215.32643790523446,
+    "text": "the threshold Does the page explain why shipping reappeared"
+  },
+  {
+    "start": 216.2002413224849,
+    "end": 221.31840840460205,
+    "text": "Does the total update consistently Try keyboard navigation and"
+  },
+  {
+    "start": 221.3308586310566,
+    "end": 225.6999794179315,
+    "text": "a smaller display You might find that every calculation"
+  },
+  {
+    "start": 225.71246655477717,
+    "end": 230.15650664745084,
+    "text": "is correct while the message leaves people confused Record"
+  },
+  {
+    "start": 230.1689929054777,
+    "end": 233.5644193320685,
+    "text": "the situation the user's difficulty and the effect on"
+  },
+  {
+    "start": 233.57690646891416,
+    "end": 239.09445980176102,
+    "text": "completing checkout Exploration critiques the product by following observations"
+  },
+  {
+    "start": 239.10698384899786,
+    "end": 242.0405171563047,
+    "text": "and questions that a predefined rule check may never"
+  },
+  {
+    "start": 242.0530042931504,
+    "end": 242.98923812171626,
+    "text": "have considered"
+  },
+  {
+    "start": 244.60454024869108,
+    "end": 249.73467290235055,
+    "text": "Technology-facing tests that critique the product include performance security"
+  },
+  {
+    "start": 249.89690950316316,
+    "end": 255.90676655486473,
+    "text": "reliability and scalability testing Evaluate behavior under heavy traffic"
+  },
+  {
+    "start": 256.1314672127236,
+    "end": 261.86071404000324,
+    "text": "unauthorized access attempts and system failures Quadrant four examines"
+  },
+  {
+    "start": 261.8731999972731,
+    "end": 266.41666664894194,
+    "text": "technical qualities A promotion may send many shoppers through"
+  },
+  {
+    "start": 266.4291526062118,
+    "end": 271.34706968054644,
+    "text": "the same calculation and checkout services at once Define"
+  },
+  {
+    "start": 271.3595556378163,
+    "end": 274.8795147428556,
+    "text": "a realistic load model and an agreed response-time target"
+  },
+  {
+    "start": 274.89196379322095,
+    "end": 280.0345824041503,
+    "text": "before judging the result Investigate errors resource use and"
+  },
+  {
+    "start": 280.0470674826843,
+    "end": 284.95250035722074,
+    "text": "recovery as well as average response time Security testing"
+  },
+  {
+    "start": 284.9649863144906,
+    "end": 288.59727685563917,
+    "text": "might check that one customer cannot modify another customer's"
+  },
+  {
+    "start": 288.60972590600454,
+    "end": 294.18918518283704,
+    "text": "basket Reliability testing might simulate a temporary dependency failure"
+  },
+  {
+    "start": 295.0754271644579,
+    "end": 300.90455813495305,
+    "text": "These activities require appropriate environments and authorization A single"
+  },
+  {
+    "start": 300.9170432134871,
+    "end": 303.5881804230748,
+    "text": "passing scan or load run is evidence about the"
+  },
+  {
+    "start": 303.60066638034465,
+    "end": 307.33280327906846,
+    "text": "tested conditions not proof that every technical risk is"
+  },
+  {
+    "start": 307.3452892363383,
+    "end": 308.0942278673102,
+    "text": "eliminated"
+  },
+  {
+    "start": 309.7045701581028,
+    "end": 314.3494636054842,
+    "text": "For payments quadrant one tests calculations quadrant two verifies"
+  },
+  {
+    "start": 314.36195293354746,
+    "end": 319.5562801218709,
+    "text": "business outcomes quadrant three explores interrupted payment journeys quadrant"
+  },
+  {
+    "start": 319.56873340950267,
+    "end": 324.83147852231554,
+    "text": "four checks concurrency resilience and security The quadrants work"
+  },
+  {
+    "start": 324.8439318099473,
+    "end": 329.4763359292655,
+    "text": "together Map a payment feature across all four views"
+  },
+  {
+    "start": 330.3254467370718,
+    "end": 334.88291312994073,
+    "text": "Quadrant one checks fee and total calculations Quadrant two"
+  },
+  {
+    "start": 334.8954033370389,
+    "end": 340.72651748188406,
+    "text": "uses examples of successful declined and refundable payments Quadrant"
+  },
+  {
+    "start": 340.7390076889822,
+    "end": 346.1580381772892,
+    "text": "three explores interrupted journeys confusing messages and unexpected navigation"
+  },
+  {
+    "start": 347.0320916007905,
+    "end": 351.9766621150362,
+    "text": "Quadrant four examines concurrent requests access control and resilience"
+  },
+  {
+    "start": 352.83822708950925,
+    "end": 356.0471800848155,
+    "text": "Some checks can reasonably fit more than one discussion"
+  },
+  {
+    "start": 356.0596702919137,
+    "end": 360.3674538496377,
+    "text": "because intent matters Do not spend a meeting arguing"
+  },
+  {
+    "start": 360.37994405673584,
+    "end": 364.0259602437418,
+    "text": "about the perfect quadrant label while a duplicate-charge risk"
+  },
+  {
+    "start": 364.0384135313735,
+    "end": 368.1838692276021,
+    "text": "remains untested The model succeeds when it helps the"
+  },
+  {
+    "start": 368.19635855566537,
+    "end": 371.3179214159256,
+    "text": "team ask a missing question and choose an effective"
+  },
+  {
+    "start": 371.33041162302374,
+    "end": 372.77884052412713,
+    "text": "way to investigate it"
+  },
+  {
+    "start": 374.40452486004364,
+    "end": 378.6786423442096,
+    "text": "Avoid treating the matrix as four equal budgets A"
+  },
+  {
+    "start": 378.6910892144653,
+    "end": 382.0980832304417,
+    "text": "simple internal tool and a public payment platform face"
+  },
+  {
+    "start": 382.1106030229979,
+    "end": 387.67660231847185,
+    "text": "different risks One feature may need extensive security investigation"
+  },
+  {
+    "start": 387.9261933885449,
+    "end": 393.30501783168467,
+    "text": "another may need more usability exploration Automation also crosses"
+  },
+  {
+    "start": 393.31750160238164,
+    "end": 398.5215980634429,
+    "text": "the model Unit tests are commonly automated acceptance checks"
+  },
+  {
+    "start": 398.53408183413984,
+    "end": 402.3653949022678,
+    "text": "may be automated and performance tools can automate technical"
+  },
+  {
+    "start": 402.37787779438275,
+    "end": 407.53204180840214,
+    "text": "experiments Human judgment remains necessary when deciding what the"
+  },
+  {
+    "start": 407.54452557909906,
+    "end": 412.1246461221416,
+    "text": "results mean and what to investigate next Describe the"
+  },
+  {
+    "start": 412.1371290142566,
+    "end": 416.40520624762786,
+    "text": "risk select an appropriate activity and identify the evidence"
+  },
+  {
+    "start": 416.417726918766,
+    "end": 419.98696602470585,
+    "text": "you want Then use the quadrant model to check"
+  },
+  {
+    "start": 419.9994489168208,
+    "end": 422.8198805478461,
+    "text": "whether an important perspective has been missed"
+  },
+  {
+    "start": 424.4378788970553,
+    "end": 428.03293075731375,
+    "text": "For your practice task take a password-reset feature and"
+  },
+  {
+    "start": 428.04541746979635,
+    "end": 432.7948315823606,
+    "text": "propose one activity for each quadrant A possible low-level"
+  },
+  {
+    "start": 432.80735520397997,
+    "end": 438.9239452574819,
+    "text": "check verifies token-expiry calculations A business example specifies what"
+  },
+  {
+    "start": 438.9363950608277,
+    "end": 443.46765069024116,
+    "text": "happens when an expired link is opened Exploratory testing"
+  },
+  {
+    "start": 443.48013740272376,
+    "end": 449.5093248627924,
+    "text": "investigates whether recovery messages are understandable and accessible Technical"
+  },
+  {
+    "start": 449.521811575275,
+    "end": 453.97818647529664,
+    "text": "investigation examines unauthorized token reuse and behavior under a"
+  },
+  {
+    "start": 453.99067318777924,
+    "end": 459.6703223348105,
+    "text": "controlled request spike Explain why each activity exists rather"
+  },
+  {
+    "start": 459.6828090472931,
+    "end": 463.76470999723784,
+    "text": "than only naming a category Finish by answering the"
+  },
+  {
+    "start": 463.77715980058366,
+    "end": 467.809116536965,
+    "text": "lesson question response times during a traffic spike belong"
+  },
+  {
+    "start": 467.8216032494476,
+    "end": 472.24048286046263,
+    "text": "naturally in the technology-facing critique represented by quadrant four"
+  },
+  {
+    "start": 473.8712151078485,
+    "end": 477.36652901627923,
+    "text": "Use a gap-finding exercise to test whether the quadrants"
+  },
+  {
+    "start": 477.37897922727484,
+    "end": 481.6042980356172,
+    "text": "are helping A team has hundreds of calculation checks"
+  },
+  {
+    "start": 481.6167851569581,
+    "end": 485.8360981248301,
+    "text": "and dozens of acceptance scenarios but customers still abandon"
+  },
+  {
+    "start": 485.84858524617096,
+    "end": 491.5784031238672,
+    "text": "checkout because discount messages are confusing Adding another calculation"
+  },
+  {
+    "start": 491.590890245208,
+    "end": 494.9488528494313,
+    "text": "check may be inexpensive yet it does not address"
+  },
+  {
+    "start": 494.9613390919544,
+    "end": 499.5052293329142,
+    "text": "the reported problem The missing evidence concerns people using"
+  },
+  {
+    "start": 499.51771645425504,
+    "end": 504.8480747564347,
+    "text": "the integrated product A purposeful exploratory or usability session"
+  },
+  {
+    "start": 504.860525846248,
+    "end": 507.96883039015773,
+    "text": "can investigate the message timing and effect on the"
+  },
+  {
+    "start": 507.98131751149856,
+    "end": 513.4614773288812,
+    "text": "customer's task Conversely a beautifully usable checkout can still"
+  },
+  {
+    "start": 513.4739284186945,
+    "end": 518.492197447945,
+    "text": "fail under a promotion's traffic The model encourages complementary"
+  },
+  {
+    "start": 518.5046836904681,
+    "end": 522.7614571435449,
+    "text": "investigation strong coverage of one perspective should not make"
+  },
+  {
+    "start": 522.7739433860681,
+    "end": 524.6089517482894,
+    "text": "another perspective invisible"
+  },
+  {
+    "start": 526.2378986346312,
+    "end": 528.8973439022772,
+    "text": "Do not confuse a quadrant with a tool or"
+  },
+  {
+    "start": 528.909833419272,
+    "end": 533.0111098763086,
+    "text": "an owner The same browser framework might automate an"
+  },
+  {
+    "start": 533.0235633548632,
+    "end": 537.2437227152385,
+    "text": "acceptance example supporting development or collect evidence for a"
+  },
+  {
+    "start": 537.2561753148068,
+    "end": 543.1119454365079,
+    "text": "technical experiment A developer can participate in exploratory testing"
+  },
+  {
+    "start": 543.2492870531191,
+    "end": 547.2321939348434,
+    "text": "and a tester can help design low-level checks Ask"
+  },
+  {
+    "start": 547.2446834518381,
+    "end": 550.6282675571115,
+    "text": "what question the activity answers and when its feedback"
+  },
+  {
+    "start": 550.6407570741062,
+    "end": 554.373957998625,
+    "text": "is useful For a new payment feature list the"
+  },
+  {
+    "start": 554.3864475156197,
+    "end": 558.1196484401385,
+    "text": "risks first choose activities second and use the matrix"
+  },
+  {
+    "start": 558.1321379571332,
+    "end": 562.1525107528827,
+    "text": "third to inspect balance If an activity crosses a"
+  },
+  {
+    "start": 562.1649633524509,
+    "end": 566.8844977098108,
+    "text": "boundary describe its purpose clearly and move on The"
+  },
+  {
+    "start": 566.8970232652458,
+    "end": 570.2806073705191,
+    "text": "useful outcome is a better plan not a perfectly"
+  },
+  {
+    "start": 570.2930968875138,
+    "end": 573.8390007644015,
+    "text": "categorized spreadsheet with unresolved customer risks"
+  },
+  {
+    "start": 575.4713811324414,
+    "end": 579.1484033825383,
+    "text": "Use the quadrants to balance business and technical risks"
+  },
+  {
+    "start": 580.017362080061,
+    "end": 583.9820074340702,
+    "text": "Knowledge check which quadrant addresses response times during a"
+  },
+  {
+    "start": 583.9945181458454,
+    "end": 587.9591265197789,
+    "text": "traffic spike Subscribe to Tech at sixty for the"
+  },
+  {
+    "start": 587.9716733311518,
+    "end": 592.8367905704624,
+    "text": "next episode in this Agile Testing Masterclass Practice the"
+  },
+  {
+    "start": 592.8493012822378,
+    "end": 596.4137693893009,
+    "text": "example with synthetic data and share the most important"
+  },
+  {
+    "start": 596.4262431210005,
+    "end": 598.7274824104372,
+    "text": "risk you identified in the comments"
+  }
+]

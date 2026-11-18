@@ -1,0 +1,15 @@
+Publish a Website for Free with GitHub Pages
+
+Publish a static website with GitHub Pages using the free public-repository option. Learn where to put index.html and how to choose a branch and source folder. The deployment flow and URL shown are illustrative.
+
+Try it: Open your published URL on a phone.
+
+Public files must not contain secrets.
+
+Find the complete Web Development for Beginners playlist on @Techat60. Subscribe for practical HTML, CSS and JavaScript projects.
+
+Web Development in 60 Seconds • Lesson 51
+
+Source: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+#WebDevelopment #LearnToCode #Shorts

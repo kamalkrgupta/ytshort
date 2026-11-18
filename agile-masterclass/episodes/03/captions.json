@@ -1,0 +1,752 @@
+[
+  {
+    "start": 0.3309377423285699,
+    "end": 4.325855543785312,
+    "text": "An Agile tester does more than discover bugs Testing"
+  },
+  {
+    "start": 4.337355987592778,
+    "end": 9.648895327905176,
+    "text": "expertise contributes to requirement analysis risk identification test design"
+  },
+  {
+    "start": 9.775360550293566,
+    "end": 14.742003126730921,
+    "text": "collaboration automation and improvement Follow a tester working on"
+  },
+  {
+    "start": 14.753503570538388,
+    "end": 19.26025142004542,
+    "text": "an online banking application Follow a fictional tester named"
+  },
+  {
+    "start": 19.27175186385289,
+    "end": 23.5140696341531,
+    "text": "Asha through a bank-transfer story The product request says"
+  },
+  {
+    "start": 23.525570077960566,
+    "end": 25.916908859532516,
+    "text": "that a customer can transfer money to a saved"
+  },
+  {
+    "start": 25.928409303339986,
+    "end": 30.734120938573174,
+    "text": "beneficiary Before creating test cases Asha asks what a"
+  },
+  {
+    "start": 30.745587388528865,
+    "end": 35.37880046042429,
+    "text": "successful transfer means Should the recipient see funds immediately"
+  },
+  {
+    "start": 36.18359195122965,
+    "end": 39.563652433671216,
+    "text": "Can a transfer be cancelled What happens when the"
+  },
+  {
+    "start": 39.575152877478686,
+    "end": 43.67953978481224,
+    "text": "source account is frozen These questions reveal risks that"
+  },
+  {
+    "start": 43.69103941924228,
+    "end": 47.66896029481002,
+    "text": "a short user story cannot express alone The tester"
+  },
+  {
+    "start": 47.68042755414314,
+    "end": 51.02602231776892,
+    "text": "contributes by helping the team make its assumptions visible"
+  },
+  {
+    "start": 51.81931336476682,
+    "end": 55.09587551858315,
+    "text": "This work is most useful before an implementation turns"
+  },
+  {
+    "start": 55.107409146864974,
+    "end": 57.87811041112774,
+    "text": "an unanswered question into accidental behavior"
+  },
+  {
+    "start": 59.43093010812207,
+    "end": 62.73021349104211,
+    "text": "For a money-transfer story ask What if funds are"
+  },
+  {
+    "start": 62.74171285010517,
+    "end": 67.44897859838002,
+    "text": "insufficient Can the transfer amount be negative What is"
+  },
+  {
+    "start": 67.46047795744308,
+    "end": 72.21974130018636,
+    "text": "the maximum limit What happens after a timeout Can"
+  },
+  {
+    "start": 72.23120666860402,
+    "end": 76.32370708305658,
+    "text": "the same transaction be processed twice These questions turn"
+  },
+  {
+    "start": 76.33520644211964,
+    "end": 80.72657527145836,
+    "text": "a vague requirement into testable acceptance criteria Build an"
+  },
+  {
+    "start": 80.73807382122034,
+    "end": 83.57753984602753,
+    "text": "example table for a transfer limit of ten thousand"
+  },
+  {
+    "start": 83.5890392050906,
+    "end": 87.16422708471715,
+    "text": "rupees A transfer of one rupee is a small"
+  },
+  {
+    "start": 87.17569326243589,
+    "end": 91.00378772994392,
+    "text": "valid example if the agreed minimum allows it Ten"
+  },
+  {
+    "start": 91.01528708900697,
+    "end": 94.69393116305031,
+    "text": "thousand is the maximum valid example Ten thousand and"
+  },
+  {
+    "start": 94.70543052211337,
+    "end": 97.26899285951512,
+    "text": "one should be rejected if the limit is inclusive"
+  },
+  {
+    "start": 98.06217509110115,
+    "end": 101.12005124520277,
+    "text": "Zero a negative amount and an amount greater than"
+  },
+  {
+    "start": 101.13155060426584,
+    "end": 105.45395969777483,
+    "text": "the balance require explicit outcomes The product team must"
+  },
+  {
+    "start": 105.4654590568379,
+    "end": 108.41987982582384,
+    "text": "agree on these rules a tester should not invent"
+  },
+  {
+    "start": 108.43134519424149,
+    "end": 112.54684351751911,
+    "text": "banking policy Once the rules are confirmed the table"
+  },
+  {
+    "start": 112.55834206728109,
+    "end": 116.37493879432822,
+    "text": "guides focused tests and gives developers concrete examples to"
+  },
+  {
+    "start": 116.38640416274586,
+    "end": 117.01867063244954,
+    "text": "discuss"
+  },
+  {
+    "start": 118.56425816383009,
+    "end": 121.8978214116767,
+    "text": "As developers build a transfer A P I testers"
+  },
+  {
+    "start": 121.90931921159368,
+    "end": 125.58772339339457,
+    "text": "review its contract and prepare positive negative and boundary"
+  },
+  {
+    "start": 125.59918801413104,
+    "end": 129.3750726282517,
+    "text": "scenarios They can verify the A P I before"
+  },
+  {
+    "start": 129.38657123741697,
+    "end": 134.5823168002802,
+    "text": "the interface exists This early feedback prevents misunderstandings from"
+  },
+  {
+    "start": 134.5938146001972,
+    "end": 139.55966566759201,
+    "text": "becoming expensive defects During development Asha can inspect a"
+  },
+  {
+    "start": 139.571163467509,
+    "end": 142.7437542795247,
+    "text": "fictional transfer A P I before the user interface"
+  },
+  {
+    "start": 142.75525207944168,
+    "end": 147.91653661248617,
+    "text": "exists The request includes the source account beneficiary amount"
+  },
+  {
+    "start": 147.92803522165144,
+    "end": 152.26162706236164,
+    "text": "and a unique request identifier A successful status code"
+  },
+  {
+    "start": 152.27312486227862,
+    "end": 155.7905897874291,
+    "text": "is only one piece of evidence She also checks"
+  },
+  {
+    "start": 155.80208839659437,
+    "end": 159.52645059888266,
+    "text": "the response content the source balance the recipient record"
+  },
+  {
+    "start": 159.53798319647677,
+    "end": 163.79112199845198,
+    "text": "and any transaction entry A response that says success"
+  },
+  {
+    "start": 163.80262060761729,
+    "end": 166.53845282620728,
+    "text": "while the balance remains wrong is still a failure"
+  },
+  {
+    "start": 167.34308194185002,
+    "end": 171.28587401887023,
+    "text": "When data is sensitive use synthetic accounts and sanitized"
+  },
+  {
+    "start": 171.2973726280355,
+    "end": 175.06772764848833,
+    "text": "evidence The goal is to verify the business outcome"
+  },
+  {
+    "start": 175.0792262576536,
+    "end": 178.53923455315137,
+    "text": "across the relevant components not merely to collect green"
+  },
+  {
+    "start": 178.55069917388786,
+    "end": 180.04507651580013,
+    "text": "HTTP responses"
+  },
+  {
+    "start": 181.59760360268328,
+    "end": 186.18480481322572,
+    "text": "Functional testing checks expected behavior integration testing checks component"
+  },
+  {
+    "start": 186.19630514246433,
+    "end": 191.00190172493785,
+    "text": "interactions regression testing checks previously working behavior and exploratory"
+  },
+  {
+    "start": 191.0134352383202,
+    "end": 196.59484634602615,
+    "text": "testing investigates surprises For a bank transfer investigate retries"
+  },
+  {
+    "start": 196.60634667526475,
+    "end": 200.3312999972333,
+    "text": "after a network timeout and document expected versus actual"
+  },
+  {
+    "start": 200.34276633295875,
+    "end": 205.9876789419246,
+    "text": "behavior Explore a timeout carefully Asha sends a transfer"
+  },
+  {
+    "start": 206.12564323368917,
+    "end": 209.89656226036027,
+    "text": "the network response disappears and the user selects Retry"
+  },
+  {
+    "start": 210.70134492436236,
+    "end": 213.66748128703136,
+    "text": "There are at least two possible realities the first"
+  },
+  {
+    "start": 213.67898161626994,
+    "end": 216.96704383257565,
+    "text": "transfer failed before processing or it succeeded but the"
+  },
+  {
+    "start": 216.97854416181428,
+    "end": 221.0024251070504,
+    "text": "response was lost Treating both as a new transaction"
+  },
+  {
+    "start": 221.0138914427759,
+    "end": 224.508915879431,
+    "text": "can debit the account twice The team should define"
+  },
+  {
+    "start": 224.5203830245258,
+    "end": 229.40651185833588,
+    "text": "safe retry behavior often using an idempotency mechanism The"
+  },
+  {
+    "start": 229.4180113782051,
+    "end": 233.5223234036078,
+    "text": "tester then checks repeated submissions delayed responses and recovery"
+  },
+  {
+    "start": 234.38457210155104,
+    "end": 237.0403484987401,
+    "text": "This is an example of investigation leading to a"
+  },
+  {
+    "start": 237.05181483446555,
+    "end": 241.68498174971054,
+    "text": "design conversation Reporting only that the spinner remained visible"
+  },
+  {
+    "start": 241.69651607246226,
+    "end": 244.09933055108624,
+    "text": "would miss the higher-impact financial risk"
+  },
+  {
+    "start": 245.63090244077787,
+    "end": 250.1701693067238,
+    "text": "In daily collaboration describe progress and blockers clearly yesterday"
+  },
+  {
+    "start": 250.18166473453394,
+    "end": 253.0776339421798,
+    "text": "I validated the transfer A P I today I"
+  },
+  {
+    "start": 253.0890961999892,
+    "end": 257.0652480990959,
+    "text": "am testing failure recovery the payment sandbox is unavailable"
+  },
+  {
+    "start": 257.86372201957295,
+    "end": 262.12717952051656,
+    "text": "The tester collaborates with developers product stakeholders and operations"
+  },
+  {
+    "start": 262.1386741393023,
+    "end": 267.4019175311837,
+    "text": "to remove obstacles Write a useful blocker update Instead"
+  },
+  {
+    "start": 267.4134121499694,
+    "end": 270.50472758209315,
+    "text": "of saying that testing is blocked Asha explains that"
+  },
+  {
+    "start": 270.5162230099033,
+    "end": 274.66476506591715,
+    "text": "transfer-failure scenarios cannot run because the sandbox cannot simulate"
+  },
+  {
+    "start": 274.6762604937273,
+    "end": 279.2500128340792,
+    "text": "service timeouts She identifies the affected checks the risk"
+  },
+  {
+    "start": 279.2615074528649,
+    "end": 283.1917140468295,
+    "text": "they leave unexamined and the help needed Meanwhile she"
+  },
+  {
+    "start": 283.2032094746396,
+    "end": 286.7771751150293,
+    "text": "can review acceptance examples validate other A P I"
+  },
+  {
+    "start": 286.7886365638143,
+    "end": 291.6152090315971,
+    "text": "behavior or prepare data This communicates progress without implying"
+  },
+  {
+    "start": 291.6267036503828,
+    "end": 295.7407618500395,
+    "text": "that untested behavior is safe A clear update helps"
+  },
+  {
+    "start": 295.75225646882524,
+    "end": 298.85503334973396,
+    "text": "the whole team make a decision restore the environment"
+  },
+  {
+    "start": 299.05041274421257,
+    "end": 303.39433419470504,
+    "text": "use a controlled substitute reduce scope or explicitly carry"
+  },
+  {
+    "start": 303.40582962251517,
+    "end": 304.7618556580035,
+    "text": "an unresolved risk"
+  },
+  {
+    "start": 306.2975918458781,
+    "end": 309.75758106238794,
+    "text": "Understanding S Q L A P I services version"
+  },
+  {
+    "start": 309.7691129004256,
+    "end": 314.1257199232751,
+    "text": "control browser automation and continuous integration and delivery helps"
+  },
+  {
+    "start": 314.1372185819892,
+    "end": 319.7408146393369,
+    "text": "testers verify behavior independently Postman can inspect responses S"
+  },
+  {
+    "start": 319.75231329805104,
+    "end": 322.9019876316084,
+    "text": "Q L can check persisted records and Playwright can"
+  },
+  {
+    "start": 322.91345311099906,
+    "end": 327.0861568548387,
+    "text": "automate critical web journeys Not every tester needs to"
+  },
+  {
+    "start": 327.09765551355287,
+    "end": 331.99457244343637,
+    "text": "specialize in every tool Technical knowledge makes investigation more"
+  },
+  {
+    "start": 332.00603711357525,
+    "end": 336.029300375224,
+    "text": "independent S Q L can help compare a transaction"
+  },
+  {
+    "start": 336.04083221326164,
+    "end": 339.1329825016801,
+    "text": "record with the displayed balance provided the tester has"
+  },
+  {
+    "start": 339.1444811603942,
+    "end": 343.9839072244623,
+    "text": "appropriate access and understands the schema Browser developer tools"
+  },
+  {
+    "start": 343.9954058831765,
+    "end": 348.7083531754032,
+    "text": "can reveal requests and responses Version control helps connect"
+  },
+  {
+    "start": 348.7198518341174,
+    "end": 352.4442648829525,
+    "text": "a failure with a code change Automation can repeat"
+  },
+  {
+    "start": 352.4557627324148,
+    "end": 356.37557529121864,
+    "text": "a reliable transfer check across builds But each tool"
+  },
+  {
+    "start": 356.38707394993276,
+    "end": 360.1574120379704,
+    "text": "answers only part of the question A query against"
+  },
+  {
+    "start": 360.16894387600803,
+    "end": 363.2151359459005,
+    "text": "one table cannot prove that the complete customer journey"
+  },
+  {
+    "start": 363.2266346046147,
+    "end": 366.28429053539423,
+    "text": "is correct just as a successful click cannot prove"
+  },
+  {
+    "start": 366.2957891941084,
+    "end": 368.0085706121191,
+    "text": "that the ledger is consistent"
+  },
+  {
+    "start": 369.56426433522364,
+    "end": 373.63934260790796,
+    "text": "Bug counts alone are a weak measure Preventing defects"
+  },
+  {
+    "start": 373.65080729363575,
+    "end": 377.18003994959037,
+    "text": "during refinement may be more valuable than reporting avoidable"
+  },
+  {
+    "start": 377.19153862633897,
+    "end": 382.5831279812539,
+    "text": "defects late Consider feedback speed important risk coverage escaped"
+  },
+  {
+    "start": 382.5946274673125,
+    "end": 386.94004846802136,
+    "text": "defects and reliability of checks Consider two testers with"
+  },
+  {
+    "start": 386.95154795407996,
+    "end": 391.4464549897605,
+    "text": "different visible results One reports twenty minor defects after"
+  },
+  {
+    "start": 391.4579544758191,
+    "end": 396.2861968848456,
+    "text": "development has finished Another helps prevent a duplicate-transfer defect"
+  },
+  {
+    "start": 396.2976963709042,
+    "end": 400.7006455556868,
+    "text": "during refinement and reports fewer bugs A simple bug-count"
+  },
+  {
+    "start": 400.7121110507246,
+    "end": 405.11502705379644,
+    "text": "ranking could reward the less valuable outcome Discuss feedback"
+  },
+  {
+    "start": 405.12656053087585,
+    "end": 409.989298970148,
+    "text": "speed important risks investigated escaped failures and the reliability"
+  },
+  {
+    "start": 410.00079845620667,
+    "end": 414.76008036783236,
+    "text": "of existing checks instead These measures still need interpretation"
+  },
+  {
+    "start": 415.56480483616883,
+    "end": 419.163030361925,
+    "text": "A low defect count could reflect prevention limited testing"
+  },
+  {
+    "start": 419.30095054741645,
+    "end": 424.2556816379174,
+    "text": "or low complexity The tester's responsibility includes explaining the"
+  },
+  {
+    "start": 424.267180314666,
+    "end": 427.18713687184936,
+    "text": "evidence and its limits so that stakeholders do not"
+  },
+  {
+    "start": 427.19863635790796,
+    "end": 430.3140412846565,
+    "text": "mistake a convenient number for an assurance of quality"
+  },
+  {
+    "start": 431.8642559341109,
+    "end": 434.51952796289896,
+    "text": "Your exercise is to prepare a short handover for"
+  },
+  {
+    "start": 434.5310262552435,
+    "end": 438.6631365574483,
+    "text": "the transfer feature State three agreed business rules two"
+  },
+  {
+    "start": 438.6746340405668,
+    "end": 443.11158625370877,
+    "text": "checks already completed and one unresolved risk Include a"
+  },
+  {
+    "start": 443.1230845460533,
+    "end": 448.23820214120366,
+    "text": "reproducible failure example using fictional account data Explain who"
+  },
+  {
+    "start": 448.24969962432215,
+    "end": 450.64059185178786,
+    "text": "can help resolve the risk and what evidence would"
+  },
+  {
+    "start": 450.65208933490635,
+    "end": 455.07757724319623,
+    "text": "support closing it A strong response might mention inclusive"
+  },
+  {
+    "start": 455.08904235727437,
+    "end": 460.4570430798547,
+    "text": "limits ownership validation a successful transfer a rejected insufficient-balance"
+  },
+  {
+    "start": 460.4685745504655,
+    "end": 464.8824970006522,
+    "text": "request and an untested timeout recovery path Notice how"
+  },
+  {
+    "start": 464.894029280489,
+    "end": 470.41146653302127,
+    "text": "this combines analysis execution and communication That combination is"
+  },
+  {
+    "start": 470.42296482536574,
+    "end": 472.77939697251634,
+    "text": "the practical role of a tester in an Agile"
+  },
+  {
+    "start": 472.7908612773685,
+    "end": 473.17018596851335,
+    "text": "team"
+  },
+  {
+    "start": 474.69757416289184,
+    "end": 478.43816315419883,
+    "text": "Let us improve a defect report together The first"
+  },
+  {
+    "start": 478.44965930033743,
+    "end": 482.31113703620434,
+    "text": "draft says Transfer does not work That leaves every"
+  },
+  {
+    "start": 482.32263318234294,
+    "end": 485.7933964828137,
+    "text": "reader guessing about the environment account state and action"
+  },
+  {
+    "start": 486.58639108019133,
+    "end": 489.9192402716715,
+    "text": "A better draft says Retrying a timed-out transfer debits"
+  },
+  {
+    "start": 489.9307024366617,
+    "end": 493.2635516281419,
+    "text": "the source account twice on the test build It"
+  },
+  {
+    "start": 493.27504777428055,
+    "end": 496.9181764047095,
+    "text": "uses a synthetic account with a one-thousand-rupee balance sends"
+  },
+  {
+    "start": 496.9296725508482,
+    "end": 500.6877246161404,
+    "text": "a three-hundred-rupee transfer interrupts the response and repeats the"
+  },
+  {
+    "start": 500.699220762279,
+    "end": 505.52609402478015,
+    "text": "request using the same operation identifier The expected final"
+  },
+  {
+    "start": 505.53759017091875,
+    "end": 508.5371336500244,
+    "text": "debit is three hundred the observed debit is six"
+  },
+  {
+    "start": 508.548629796163,
+    "end": 514.8810232758237,
+    "text": "hundred Attach sanitized transaction references and timestamps The exact"
+  },
+  {
+    "start": 514.8925194219623,
+    "end": 518.2368299693578,
+    "text": "numbers are illustrative but the reporting structure shows how"
+  },
+  {
+    "start": 518.2483261154964,
+    "end": 520.9950336688981,
+    "text": "a tester turns a vague complaint into evidence that"
+  },
+  {
+    "start": 521.0065298150369,
+    "end": 522.3971605784816,
+    "text": "supports investigation"
+  },
+  {
+    "start": 523.9309075540733,
+    "end": 526.4132856195868,
+    "text": "After the fix do more than repeat the one"
+  },
+  {
+    "start": 526.424781773945,
+    "end": 531.07332448416,
+    "text": "failing action mechanically Verify that the repeated operation no"
+  },
+  {
+    "start": 531.0847866573456,
+    "end": 534.5670477846671,
+    "text": "longer creates a second debit Then check that a"
+  },
+  {
+    "start": 534.5785099578527,
+    "end": 537.9343530319345,
+    "text": "genuinely new transfer with a new identifier can still"
+  },
+  {
+    "start": 537.9458483772173,
+    "end": 541.8418173370848,
+    "text": "succeed because an overly broad duplicate-prevention rule might reject"
+  },
+  {
+    "start": 541.8533126823676,
+    "end": 546.300902064228,
+    "text": "legitimate activity Include a failed first attempt followed by"
+  },
+  {
+    "start": 546.3124313906835,
+    "end": 549.300481669156,
+    "text": "a valid retry if that recovery path is supported"
+  },
+  {
+    "start": 550.093477642594,
+    "end": 553.4492859264276,
+    "text": "Discuss the intended state transitions with a developer and"
+  },
+  {
+    "start": 553.4607820807859,
+    "end": 558.4255730020609,
+    "text": "product specialist Retesting confirms the reported failure is addressed"
+  },
+  {
+    "start": 558.632426918334,
+    "end": 563.7580887565999,
+    "text": "regression investigation asks whether related behavior was harmed This"
+  },
+  {
+    "start": 563.7696180830553,
+    "end": 567.3667679371613,
+    "text": "distinction helps the tester choose meaningful follow-up work rather"
+  },
+  {
+    "start": 567.3782640915196,
+    "end": 569.6193022049117,
+    "text": "than stopping at a single green result"
+  },
+  {
+    "start": 571.1642179108992,
+    "end": 576.6845895209325,
+    "text": "Agile testers combine analysis communication and technical judgment Their"
+  },
+  {
+    "start": 576.6960824105589,
+    "end": 579.0973424982036,
+    "text": "goal is to help the whole team prevent defects"
+  },
+  {
+    "start": 579.1088353878299,
+    "end": 583.8194520795514,
+    "text": "and deliver reliable software Knowledge check name three questions"
+  },
+  {
+    "start": 583.8309109976552,
+    "end": 588.0819682115573,
+    "text": "to ask before building money transfers Subscribe to Tech"
+  },
+  {
+    "start": 588.0934611011837,
+    "end": 590.6440883116821,
+    "text": "at sixty for the next episode in this Agile"
+  },
+  {
+    "start": 590.655547229786,
+    "end": 595.4236259431019,
+    "text": "Testing Masterclass Practice the example with synthetic data and"
+  },
+  {
+    "start": 595.4351180238824,
+    "end": 598.192506435784,
+    "text": "share the most important risk you identified in the"
+  },
+  {
+    "start": 598.204033296933,
+    "end": 598.7899741183534,
+    "text": "comments"
+  }
+]

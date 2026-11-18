@@ -1,0 +1,16 @@
+{
+  "videoNumber": 28,
+  "phase": "Phase 3 — Build Beautiful Websites with CSS",
+  "topic": "CSS Display Property",
+  "description": "Learn block, inline, and inline-block.",
+  "publishLocal": "2026-11-02T11:00:00+05:30",
+  "publishAt": "2026-11-02T05:30:00Z",
+  "status": "planned",
+  "definition": "Display controls how an element participates in layout.",
+  "code": ".tag { display: inline-block; }\n.panel { display: block; }",
+  "preview": "<div style=\"background:#d9e8ff;padding:16px\">Block</div><span style=\"display:inline-block;padding:18px;background:#ffd6a5;margin-top:15px\">Inline block</span>",
+  "rule": "Block elements normally start a new line; inline elements flow with text.",
+  "tip": "Inline block boxes flow inline while accepting width and height.",
+  "caution": "Display none removes an element from layout and the accessibility tree.",
+  "exercise": "Compare a block container with two inline block labels."
+}

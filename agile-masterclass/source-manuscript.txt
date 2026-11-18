@@ -1,0 +1,383 @@
+AGILE TESTING MASTERCLASS
+Professional Training Course | Episodes 1–12
+English narration • 12 structured episodes • Approximately 10-minute production windows per episode
+A professional training manuscript with instructor narration, timestamps, visual directions, practical examples and knowledge checks for all twelve lessons.
+Course Overview
+Episode
+Topic
+Target
+2
+Agile Testing Methodologies
+~10 min
+3
+Role of a Tester in Agile
+~10 min
+4
+Agile Testing Activities and Tracking
+~10 min
+5
+Agile Testing Principles and Attributes
+~10 min
+6
+Four Agile Testing Quadrants
+~10 min
+7
+Agile Testing in Scrum
+~10 min
+8
+Agile Testing Methods and Techniques
+~10 min
+9
+Agile Testing Artifacts and Documentation
+~10 min
+10
+Agile Testing with Kanban
+~10 min
+11
+Agile Testing Tools and Automation
+~10 min
+12
+End-to-End Agile Testing Case Study
+~10 min
+Runtime note: timestamps are intended editing windows. The narration is a structured draft; expand demonstrations, instructor commentary and practice pauses to achieve a full ten-minute recording at normal speaking pace.
+Source inspiration: https://www.tutorialspoint.com/agile_testing/index.htm. All narration and examples in this document are original instructional adaptations.
+
+Episode 1 | Agile Testing Fundamentals
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Hook and introduction
+Imagine your team has spent three months developing a mobile application. The design looks perfect, the developers are confident, and the client is excited. But one day before launch, your testing team discovers that users cannot complete their payments. The launch gets delayed, development costs increase, and customer confidence suffers. Now imagine discovering the same issue during the first week of development. That is exactly where Agile Testing makes a difference. Welcome to this lesson. We will explain what Agile Testing is, how it differs from traditional testing, and how software teams apply it in practice.
+VISUAL / ON-SCREEN DIRECTION  Show a launch countdown, failed payment screen and a team identifying the issue early.
+01:00–02:15  |  What is Agile Testing?
+Agile Testing is an approach in which testing happens continuously throughout software development. Rather than waiting for developers to finish an entire application, testers collaborate with them from the beginning. Consider an e-commerce website. In the first sprint, developers implement login while testers prepare scenarios for valid credentials, incorrect passwords, empty fields and security. In the next sprint, the team builds a shopping cart, and testers verify both the new feature and existing login behavior. This process continues throughout delivery. The key idea is to identify problems early, resolve them quickly, and continuously improve the product.
+VISUAL / ON-SCREEN DIRECTION  Animated cycle: Plan → Develop → Test → Feedback → Plan.
+02:15–03:30  |  Agile versus traditional testing
+In a typical Waterfall project, work moves through sequential phases: requirements, design, implementation and testing. Major defects may remain undiscovered until late in delivery. Agile works differently. Development and testing take place together in short iterations, commonly called sprints. Testers collaborate with developers, Product Owners and stakeholders throughout the process. Frequent feedback allows teams to adjust priorities. If a customer requests a discount feature, the team can clarify it, prioritize it and validate it in an upcoming sprint. The objective is not merely to work faster but to validate that the team is building the right product at the right quality level.
+VISUAL / ON-SCREEN DIRECTION  Side-by-side Waterfall sequence and iterative Agile feedback loops.
+03:30–04:45  |  Five core principles
+First, continuous testing means that quality is evaluated throughout development. Second, shared responsibility means developers, testers and other team members contribute to quality. Third, early feedback enables problems to be investigated before additional work depends on them. Fourth, customer collaboration ensures regular feedback on real business needs. Fifth, working software matters: a feature is not complete merely because coding has finished. It should satisfy agreed acceptance criteria and the Definition of Done. Together, these principles encourage teams to build quality into the product instead of treating testing as a final inspection.
+VISUAL / ON-SCREEN DIRECTION  Five animated principle cards with one practical example each.
+04:45–06:00  |  Agile Testing in Scrum
+Consider a two-week Scrum sprint. During Sprint Planning, the team selects Product Backlog Items supporting a Sprint Goal. A user story might say: As a customer, I want to reset my password so that I can regain access to my account. Before development, the team clarifies acceptance criteria. What happens if the address is unregistered? When does the reset link expire? What happens if the link is reused? During the sprint, developers implement the functionality while testers prepare and execute checks. The team resolves defects collaboratively. At the Sprint Review, stakeholders inspect the increment and provide feedback. At the Retrospective, the team identifies improvements to its process.
+VISUAL / ON-SCREEN DIRECTION  Sprint board: Backlog → In Progress → Testing → Done; add review and retrospective.
+06:00–07:15  |  Four Agile Testing quadrants
+The four Agile Testing quadrants help teams choose complementary kinds of testing. Quadrant one focuses on technology-facing tests supporting development, such as unit and component tests. Quadrant two includes business-facing examples and acceptance tests that guide development. Quadrant three evaluates the product from a user and business perspective, including exploratory and usability testing. Quadrant four examines technical qualities such as performance, security and reliability. In a banking application, a unit test can check interest calculations, an acceptance test can check money transfers, exploratory testing can reveal confusing interactions, and load testing can examine heavy usage. The quadrants are not sequential phases.
+VISUAL / ON-SCREEN DIRECTION  Display a labelled two-by-two quadrant matrix with concrete examples.
+07:15–08:30  |  Real-world example
+Imagine a food delivery application. Sprint one delivers registration and login. The tester checks valid and invalid credentials, recovery and security scenarios. Sprint two introduces restaurant listings and search; testers examine accuracy, filters and empty results. Sprint three adds the shopping cart and payment integration. The team tests payment success, payment failure, duplicate transactions and order confirmation. Importantly, it also verifies that previously completed functionality still works. This is regression testing. Continuous testing across sprints reduces the chance that major problems are discovered only before release.
+VISUAL / ON-SCREEN DIRECTION  Three sprint timeline with login, search, and cart/payment; show regression checks across sprints.
+08:30–09:20  |  Tools and automation
+Tools can support fast feedback. Jira can track user stories, bugs and sprint progress. Postman can validate APIs. Selenium and Playwright can automate browser testing. Appium supports mobile automation, and Jenkins or GitHub Actions can run tests in continuous integration pipelines. Automation is useful for repetitive checks, but it does not replace human investigation. Exploratory testing still depends on judgment and curiosity. Choose tools based on risks, technology and testing needs. The goal is not to automate everything; it is to obtain useful, reliable feedback efficiently.
+VISUAL / ON-SCREEN DIRECTION  Tool categories and a simple CI pipeline; avoid implying that any tool guarantees quality.
+09:20–10:00  |  Recap and outro
+Agile Testing is continuous and collaborative. Testing begins early and continues throughout development. Scrum creates regular opportunities for planning, inspection and improvement. The testing quadrants help balance business and technical quality, while automation makes repetitive checks more efficient. The most important takeaway is that quality is not added at the end; it is built into every stage of delivery. In the next episode, we will compare Agile methodologies in greater detail. Knowledge check: why can identifying a defect during the first sprint be less costly than discovering it just before launch?
+VISUAL / ON-SCREEN DIRECTION  Five-key-takeaway slide followed by the knowledge-check question.
+Production cue: use instructor pauses, worked examples, visual demonstrations and learner reflection to reach the intended runtime. Narration timings are approximate.
+Episode 2 | Agile Testing Methodologies
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Introduction
+Agile is a set of values and principles rather than a single prescribed process. In this lesson, we examine Scrum, Kanban, Extreme Programming and Lean Software Development, and explain how testing changes with each approach.
+VISUAL / ON-SCREEN DIRECTION  Four methodology cards with short definitions.
+01:00–03:00  |  Scrum
+Scrum organizes complex work into sprints, commonly one to four weeks. Consider a customer management portal. During planning, the team selects a registration story. The Product Owner clarifies acceptance criteria, including valid addresses, invalid addresses and duplicate registration. Developers and testers collaborate during the sprint, and stakeholders inspect the increment at the Sprint Review. The Retrospective identifies ways to improve. Testing is integrated throughout the sprint rather than postponed to its final days.
+VISUAL / ON-SCREEN DIRECTION  Animated two-week sprint timeline.
+03:00–04:45  |  Kanban
+Kanban visualizes work and limits work in progress. A maintenance team may use Backlog, Ready, Development, Testing and Done columns. If Testing has a WIP limit of three and already contains three items, the team focuses on completing existing work rather than starting more. This makes bottlenecks visible and supports steady delivery, especially for teams receiving unpredictable support requests.
+VISUAL / ON-SCREEN DIRECTION  Kanban board with a three-item testing WIP limit.
+04:45–06:30  |  Extreme Programming
+Extreme Programming, or XP, emphasizes engineering practices including test-driven development, pair programming and continuous integration. In TDD, a developer writes a failing test, writes enough code to pass it and then refactors safely. This Red–Green–Refactor cycle works well for calculations and business rules. Testing becomes part of writing the software rather than a separate final checkpoint.
+VISUAL / ON-SCREEN DIRECTION  Red–Green–Refactor animation and unit-test example.
+06:30–08:00  |  Lean Software Development
+Lean focuses on customer value and reducing waste. Waste in testing might include waiting for test environments, duplicate paperwork or slow feedback from an oversized test suite. Lean does not mean skipping important tests. A team might run fast smoke tests on each commit and more comprehensive regression tests later, preserving coverage while reducing feedback time.
+VISUAL / ON-SCREEN DIRECTION  Before-and-after CI feedback timeline.
+08:00–09:30  |  Choosing an approach
+A feature-development team may benefit from Scrum; a support operation may benefit from Kanban; a calculation-intensive product may benefit from XP practices. Teams can combine approaches. The right selection depends on delivery constraints, technical risk and team maturity.
+VISUAL / ON-SCREEN DIRECTION  Three project cards and comparative matrix.
+09:30–10:00  |  Recap
+Scrum emphasizes iterative inspection, Kanban focuses on flow, XP strengthens engineering discipline, and Lean reduces waste. Knowledge check: which approach would help a support team receiving unpredictable requests, and why?
+VISUAL / ON-SCREEN DIRECTION  Four-key-takeaway recap slide.
+Production cue: allow time for an on-screen example, demonstration, learner reflection or instructor elaboration to reach the target segment duration.
+
+Episode 3 | Role of a Tester in Agile
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Introduction
+An Agile tester does more than discover bugs. Testing expertise contributes to requirement analysis, risk identification, test design, collaboration, automation and improvement. Follow a tester working on an online banking application.
+VISUAL / ON-SCREEN DIRECTION  Tester collaborating with a cross-functional team.
+01:00–02:30  |  Requirements refinement
+For a money-transfer story, ask: What if funds are insufficient? Can the transfer amount be negative? What is the maximum limit? What happens after a timeout? Can the same transaction be processed twice? These questions turn a vague requirement into testable acceptance criteria.
+VISUAL / ON-SCREEN DIRECTION  Banking user story with five clarifying questions.
+02:30–04:00  |  Developer collaboration
+As developers build a transfer API, testers review its contract and prepare positive, negative and boundary scenarios. They can verify the API before the interface exists. This early feedback prevents misunderstandings from becoming expensive defects.
+VISUAL / ON-SCREEN DIRECTION  API contract and three scenario types.
+04:00–05:30  |  Test execution
+Functional testing checks expected behavior, integration testing checks component interactions, regression testing checks previously working behavior and exploratory testing investigates surprises. For a bank transfer, investigate retries after a network timeout and document expected versus actual behavior.
+VISUAL / ON-SCREEN DIRECTION  Sample defect report with redacted transaction data.
+05:30–07:00  |  Communication
+In daily collaboration, describe progress and blockers clearly: yesterday I validated the transfer API; today I am testing failure recovery; the payment sandbox is unavailable. The tester collaborates with developers, product stakeholders and operations to remove obstacles.
+VISUAL / ON-SCREEN DIRECTION  Daily team update with progress and blocker.
+07:00–08:30  |  Technical skills
+Understanding SQL, APIs, version control, browser automation and CI/CD helps testers verify behavior independently. Postman can inspect responses, SQL can check persisted records, and Playwright can automate critical web journeys. Not every tester needs to specialize in every tool.
+VISUAL / ON-SCREEN DIRECTION  Postman, database and browser-testing workflow.
+08:30–09:30  |  Effectiveness
+Bug counts alone are a weak measure. Preventing defects during refinement may be more valuable than reporting avoidable defects late. Consider feedback speed, important risk coverage, escaped defects and reliability of checks.
+VISUAL / ON-SCREEN DIRECTION  Balanced testing metrics dashboard.
+09:30–10:00  |  Recap
+Agile testers combine analysis, communication and technical judgment. Their goal is to help the whole team prevent defects and deliver reliable software. Knowledge check: name three questions to ask before building money transfers.
+VISUAL / ON-SCREEN DIRECTION  Three learning takeaways.
+Production cue: allow time for an on-screen example, demonstration, learner reflection or instructor elaboration to reach the target segment duration.
+
+Episode 4 | Agile Testing Activities and Tracking
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Introduction
+Agile teams need frequent visibility into testing progress, remaining risks and blocked work. Today we examine planning, execution tracking, defect management and stakeholder reporting.
+VISUAL / ON-SCREEN DIRECTION  QA progress dashboard.
+01:00–02:30  |  Planning
+For a CRM sprint with registration, profile updates and search, identify acceptance criteria and scenarios for each feature. Plan environments, accounts, sample data and integration dependencies before execution begins.
+VISUAL / ON-SCREEN DIRECTION  Stories expanded into scenarios.
+02:30–04:00  |  Execution status
+Suppose forty test cases exist: twenty-eight passed, six failed, four blocked and two not run. The numbers are useful, but risk matters more than raw percentages. One failed payment test can outweigh several cosmetic failures.
+VISUAL / ON-SCREEN DIRECTION  Bar chart of illustrative test statuses.
+04:00–05:30  |  Defects
+Record a concise title, environment, reproduction steps, expected behavior, actual behavior and evidence. Severity describes impact; priority describes urgency. Link defects to affected stories to maintain context.
+VISUAL / ON-SCREEN DIRECTION  Sample invalid-email defect ticket.
+05:30–07:00  |  Metrics
+Useful indicators include defect leakage, execution progress, cycle time, blocked tests and automated test stability. A high pass rate is not proof of adequate coverage. Use metrics to identify patterns rather than reward superficial numbers.
+VISUAL / ON-SCREEN DIRECTION  Metric definitions and caution callouts.
+07:00–08:30  |  Reporting
+A good update answers: what was tested, what remains, what risks exist and what help is needed? For example: registration and profile testing are complete; search is underway; two critical defects remain; performance testing is blocked by test data.
+VISUAL / ON-SCREEN DIRECTION  Concise stakeholder status template.
+08:30–09:30  |  Tool walkthrough
+Open a story, review criteria, create test tasks, log linked defects, verify fixes and update quality status. Maintain traceability from requirements to results.
+VISUAL / ON-SCREEN DIRECTION  Fictional Jira-style workflow.
+09:30–10:00  |  Recap
+Tracking exists to support decisions, not to generate paperwork. Knowledge check: why can a sprint with ninety-five percent passing tests still be unsafe to release?
+VISUAL / ON-SCREEN DIRECTION  Risk-focused summary slide.
+Production cue: allow time for an on-screen example, demonstration, learner reflection or instructor elaboration to reach the target segment duration.
+
+Episode 5 | Agile Testing Principles and Attributes
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Introduction
+Effective Agile Testing depends on continuous quality work, shared responsibility, adaptability, risk awareness and improvement. We will apply these principles to a subscription SaaS product.
+VISUAL / ON-SCREEN DIRECTION  Five principle icons.
+01:00–02:30  |  Continuous quality
+Clarify subscription rules during refinement, add unit tests during implementation, validate workflows during integration and execute regression checks after changes. Quality is evaluated repeatedly, not inspected only at release.
+VISUAL / ON-SCREEN DIRECTION  Quality activities across delivery timeline.
+02:30–04:00  |  Shared responsibility
+Developers contribute reviews and tests; testers contribute risk analysis and exploration; Product Owners clarify expectations; operations and security specialists address operational concerns. A failed renewal may require joint investigation of code, rules and logs.
+VISUAL / ON-SCREEN DIRECTION  Cross-functional troubleshooting diagram.
+04:00–05:30  |  Adaptability and feedback
+If cancellation rules change, update criteria, billing tests and notifications. Fast test results help developers act while code context is fresh. Speed matters, but meaningful coverage must remain.
+VISUAL / ON-SCREEN DIRECTION  Change request to updated tests.
+05:30–07:00  |  Risk-based testing
+Prioritize by likelihood and impact. Billing, authentication and account permissions often deserve more intensive coverage than minor styling changes. Testing effort should reflect business consequences.
+VISUAL / ON-SCREEN DIRECTION  Risk matrix for SaaS features.
+07:00–08:30  |  Maintainable automation
+Fragile screen-coordinate tests break easily. Prefer stable selectors, independent data and clear assertions. Review and remove obsolete checks. Automation should provide dependable feedback rather than maximize script counts.
+VISUAL / ON-SCREEN DIRECTION  Fragile versus robust browser test.
+08:30–09:30  |  Continuous improvement
+If testing consistently starts late, investigate unclear criteria, oversized stories or unstable environments. Improve the process and observe whether results change in later sprints.
+VISUAL / ON-SCREEN DIRECTION  Retrospective action and follow-up.
+09:30–10:00  |  Recap
+Agile Testing is continuous, collaborative, adaptable and risk-aware. Knowledge check: which SaaS features carry the highest quality risk?
+VISUAL / ON-SCREEN DIRECTION  Principles recap.
+Production cue: allow time for an on-screen example, demonstration, learner reflection or instructor elaboration to reach the target segment duration.
+
+Episode 6 | Four Agile Testing Quadrants
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Introduction
+The Agile Testing Quadrants help select complementary tests. The dimensions are business-facing versus technology-facing and supporting development versus critiquing the product. They are not sequential stages.
+VISUAL / ON-SCREEN DIRECTION  Labeled four-quadrant matrix.
+01:00–02:45  |  Quadrant 1
+Technology-facing tests that support development include unit and component tests. A shopping-cart unit test can verify a subtotal or discount calculation. These automated checks offer fast, focused technical feedback.
+VISUAL / ON-SCREEN DIRECTION  Unit-test code and results.
+02:45–04:30  |  Quadrant 2
+Business-facing tests that support development include acceptance examples. For free delivery above a threshold, clarify whether taxes and discounts count. Agree on examples and use them to verify the business rule.
+VISUAL / ON-SCREEN DIRECTION  Given–When–Then delivery example.
+04:30–06:15  |  Quadrant 3
+Business-facing tests that critique the product include exploratory and usability testing. A checkout button may function correctly yet be difficult to find. Realistic exploration reveals problems that predefined checks can miss.
+VISUAL / ON-SCREEN DIRECTION  Checkout usability observation.
+06:15–08:00  |  Quadrant 4
+Technology-facing tests that critique the product include performance, security, reliability and scalability testing. Evaluate behavior under heavy traffic, unauthorized access attempts and system failures.
+VISUAL / ON-SCREEN DIRECTION  Load-testing metrics and security checks.
+08:00–09:30  |  Combined example
+For payments, Q1 tests calculations; Q2 verifies business outcomes; Q3 explores interrupted payment journeys; Q4 checks concurrency, resilience and security. The quadrants work together.
+VISUAL / ON-SCREEN DIRECTION  Payment feature mapped to four quadrants.
+09:30–10:00  |  Recap
+Use the quadrants to balance business and technical risks. Knowledge check: which quadrant addresses response times during a traffic spike?
+VISUAL / ON-SCREEN DIRECTION  Quadrant summary.
+Production cue: allow time for an on-screen example, demonstration, learner reflection or instructor elaboration to reach the target segment duration.
+
+Episode 7 | Agile Testing in Scrum
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Introduction
+How does testing fit into Scrum? We will follow a two-week sprint for an appointment-booking platform and distinguish Scrum accountabilities from specialized testing skills.
+VISUAL / ON-SCREEN DIRECTION  Scrum sprint overview.
+01:00–02:30  |  Accountabilities
+Scrum defines Product Owner, Scrum Master and Developers accountabilities. Testers may be members of the Developers group; Scrum does not prescribe a separate tester accountability. Quality is shared.
+VISUAL / ON-SCREEN DIRECTION  Scrum Team accountabilities diagram.
+02:30–04:00  |  Refinement and planning
+Clarify double booking, cancellation, payment failures and unavailable slots. Select work supporting the Sprint Goal and account for implementation and verification within the sprint.
+VISUAL / ON-SCREEN DIRECTION  Booking story and acceptance criteria.
+04:00–05:30  |  During the sprint
+Validate availability APIs before the UI is complete. Test concurrent bookings, user journeys and regressions as increments emerge. Fix defects collaboratively instead of accumulating testing at the end.
+VISUAL / ON-SCREEN DIRECTION  Concurrent development and testing timeline.
+05:30–07:00  |  Definition of Done
+The Definition of Done formally describes quality conditions required for an increment. These may include reviews, passing tests, accepted criteria and relevant documentation. Coding completion alone does not imply Done.
+VISUAL / ON-SCREEN DIRECTION  Definition of Done checklist.
+07:00–08:30  |  Review and retrospective
+At the Sprint Review, inspect the outcome and adapt the Product Backlog. At the Retrospective, improve team effectiveness, perhaps by stabilizing environments or preparing data earlier.
+VISUAL / ON-SCREEN DIRECTION  Review feedback and improvement action.
+08:30–09:30  |  Sprint walkthrough
+Illustrative ten-day schedule: plan and clarify; implement APIs and prepare tests; execute integrated testing and resolve defects; review results and improve. Actual testing should be continuous, not tied to fixed days.
+VISUAL / ON-SCREEN DIRECTION  Ten-day illustrative sprint chart.
+09:30–10:00  |  Recap
+Testing supports every stage of Scrum. Knowledge check: can work be called Done if required verification is incomplete?
+VISUAL / ON-SCREEN DIRECTION  Scrum quality summary.
+Production cue: allow time for an on-screen example, demonstration, learner reflection or instructor elaboration to reach the target segment duration.
+
+Episode 8 | Agile Testing Methods and Techniques
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Introduction
+This lesson covers TDD, BDD, ATDD, exploratory testing and core test design techniques. We use a discount and checkout feature as our example.
+VISUAL / ON-SCREEN DIRECTION  Technique overview cards.
+01:00–02:30  |  TDD
+Write a failing test for an eligible ten-percent discount, implement enough code to pass, then refactor safely. The Red–Green–Refactor loop encourages small, verified changes.
+VISUAL / ON-SCREEN DIRECTION  Three-stage code demo.
+02:30–04:00  |  BDD
+Describe behavior collaboratively using Given, When and Then. Given an eligible coupon, when it is applied to a qualifying order, then the specified discount is calculated. BDD is about shared understanding, not just automation syntax.
+VISUAL / ON-SCREEN DIRECTION  Given–When–Then scenario.
+04:00–05:15  |  ATDD
+Define acceptance examples with business, development and testing participants before implementation. For refunds, clarify eligible and ineligible cases, timing and expected outcomes. ATDD and BDD overlap but are not identical.
+VISUAL / ON-SCREEN DIRECTION  Refund acceptance examples.
+05:15–06:30  |  Exploratory testing
+Investigate checkout by changing quantities, applying coupons and navigating backward. Adapt based on observations. Use charters, notes and debriefs to keep exploration purposeful.
+VISUAL / ON-SCREEN DIRECTION  Exploratory session notes.
+06:30–08:00  |  Test design
+Equivalence partitioning groups inputs with similar behavior. Boundary analysis checks values around limits. Decision tables cover combinations of rules such as membership and coupon eligibility.
+VISUAL / ON-SCREEN DIRECTION  Number line and decision table.
+08:00–09:30  |  Combining methods
+Use TDD for calculations, BDD for shared renewal behavior, ATDD for refund acceptance, boundary tests for limits and exploration for user journeys. Select methods based on risk.
+VISUAL / ON-SCREEN DIRECTION  Subscription checkout technique map.
+09:30–10:00  |  Recap
+Different techniques answer different quality questions. Knowledge check: which technique targets values immediately above and below an allowed limit?
+VISUAL / ON-SCREEN DIRECTION  Technique recap.
+Production cue: allow time for an on-screen example, demonstration, learner reflection or instructor elaboration to reach the target segment duration.
+
+Episode 9 | Agile Testing Artifacts and Documentation
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Introduction
+Agile values useful documentation, not the elimination of documentation. We will examine stories, criteria, cases, defects, charters and traceability.
+VISUAL / ON-SCREEN DIRECTION  Documentation artifact stack.
+01:00–02:30  |  Stories and criteria
+A customer wants to download a monthly invoice. Clarify completed billing periods, PDF output and account ownership. Acceptance criteria translate the need into verifiable outcomes.
+VISUAL / ON-SCREEN DIRECTION  Invoice story and acceptance criteria.
+02:30–04:00  |  Test cases
+A test case can specify ID, objective, precondition, action and expected result. For invoice downloads, verify that an authenticated customer downloads the correct PDF. Use detailed cases for high-risk work and checklists where sufficient.
+VISUAL / ON-SCREEN DIRECTION  Invoice test-case example.
+04:00–05:30  |  Defect reports
+An invoice ID modification that exposes another customer’s file is a serious authorization issue. Record environment, steps, expected and actual behavior, and sanitized evidence. Avoid exposing sensitive customer data.
+VISUAL / ON-SCREEN DIRECTION  Redacted security defect report.
+05:30–07:00  |  Plans and charters
+A lightweight strategy documents scope, risks, environments, responsibilities and automation. An exploratory charter might focus on invoice downloads across roles and billing periods. Capture observations afterward.
+VISUAL / ON-SCREEN DIRECTION  One-page test strategy and charter.
+07:00–08:30  |  Traceability
+Link authorization requirements to tests, defects, fixes and retest evidence. This helps teams demonstrate coverage, especially in regulated environments, without unnecessary bureaucracy.
+VISUAL / ON-SCREEN DIRECTION  Requirement-to-test-to-defect flow.
+08:30–09:30  |  Practical document set
+Maintain stories, criteria, risk strategy, important tests, defect reports, automated results and relevant release notes. Keep artifacts accessible and current.
+VISUAL / ON-SCREEN DIRECTION  Lightweight documentation checklist.
+09:30–10:00  |  Recap
+Documentation should help teams understand and decide. Knowledge check: what details make a defect reproducible?
+VISUAL / ON-SCREEN DIRECTION  Artifact summary.
+Production cue: allow time for an on-screen example, demonstration, learner reflection or instructor elaboration to reach the target segment duration.
+
+Episode 10 | Agile Testing with Kanban
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Introduction
+Kanban supports teams that receive work continuously, including support and maintenance operations. It makes flow visible and supports delivery predictability.
+VISUAL / ON-SCREEN DIRECTION  Continuous-flow Kanban board.
+01:00–02:30  |  Visual workflow
+Represent requests as cards moving through Backlog, Ready, Development, Testing and Done. The board exposes current status and queues.
+VISUAL / ON-SCREEN DIRECTION  Cards moving across workflow.
+02:30–04:00  |  WIP limits
+Limit active work to reduce context switching. If Testing has three items and its limit is three, finish or unblock existing work before pulling more. Adjust limits to actual capacity.
+VISUAL / ON-SCREEN DIRECTION  WIP-limit warning animation.
+04:00–05:30  |  Flow metrics
+Lead time is measured from a defined request or commitment point to completion; cycle time is measured from the start of work to completion. Agree on boundaries before comparing results.
+VISUAL / ON-SCREEN DIRECTION  Lead-time versus cycle-time timeline.
+05:30–07:00  |  Bottlenecks
+A growing Testing queue may indicate environment issues, oversized stories, weak upstream tests or capacity constraints. Improve overall flow before assuming headcount is the only solution.
+VISUAL / ON-SCREEN DIRECTION  Testing queue bottleneck diagram.
+07:00–08:30  |  Classes of service
+Differentiate critical incidents, standard enhancements and fixed-date commitments with clear policies. Too many urgent tickets undermine prioritization.
+VISUAL / ON-SCREEN DIRECTION  Service-class priority cards.
+08:30–09:30  |  Maintenance example
+A team supporting a website, dashboard and mobile app receives five requests. A production authentication issue receives expedited attention while other items follow available capacity and testing checks.
+VISUAL / ON-SCREEN DIRECTION  Five fictional support tickets.
+09:30–10:00  |  Recap
+Kanban improves transparency and flow. Knowledge check: what should be investigated when the Testing column is consistently full?
+VISUAL / ON-SCREEN DIRECTION  Kanban principles summary.
+Production cue: allow time for an on-screen example, demonstration, learner reflection or instructor elaboration to reach the target segment duration.
+
+Episode 11 | Agile Testing Tools and Automation
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Introduction
+Tools help Agile teams obtain reliable feedback quickly. We cover issue tracking, API tests, browser and mobile automation, performance, security and CI/CD.
+VISUAL / ON-SCREEN DIRECTION  Testing toolchain diagram.
+01:00–02:30  |  Issue tracking
+Use Jira, Azure DevOps or GitHub Issues to connect stories, defects and verification work. For a login lockout defect, record evidence, link the story and retest the fix.
+VISUAL / ON-SCREEN DIRECTION  Fictional linked defect workflow.
+02:30–04:00  |  API testing
+Postman can send requests and inspect status codes, payloads and authentication behavior. Test valid login, invalid login, missing fields and expired tokens against the agreed API specification.
+VISUAL / ON-SCREEN DIRECTION  POST /api/login demonstration.
+04:00–05:30  |  Web and mobile automation
+Selenium and Playwright can automate web journeys; Appium supports mobile automation. Use stable selectors, independent data and meaningful assertions to avoid fragile scripts.
+VISUAL / ON-SCREEN DIRECTION  Browser and mobile test runs.
+05:30–07:00  |  Performance and security
+JMeter and k6 can help measure response time, throughput and error rates under load. OWASP ZAP can help discover some web vulnerabilities. No scanner proves complete security.
+VISUAL / ON-SCREEN DIRECTION  Performance charts and security scan summary.
+07:00–08:30  |  Continuous integration
+A code commit triggers build, unit tests, integration tests and potentially deployment to a test environment followed by end-to-end checks. Jenkins and GitHub Actions can orchestrate these steps.
+VISUAL / ON-SCREEN DIRECTION  Commit-to-test pipeline.
+08:30–09:30  |  Automation strategy
+Prioritize authentication, permissions, billing and payments. Put many business-rule checks at unit and API layers, retain a smaller number of critical end-to-end checks and review flaky tests regularly.
+VISUAL / ON-SCREEN DIRECTION  Layered test strategy.
+09:30–10:00  |  Recap
+Choose tools to support quality risks and team workflow. Knowledge check: why is it inefficient to test every rule only through browser automation?
+VISUAL / ON-SCREEN DIRECTION  Toolchain recap.
+Production cue: allow time for an on-screen example, demonstration, learner reflection or instructor elaboration to reach the target segment duration.
+
+Episode 12 | End-to-End Agile Testing Case Study
+Professional instructor narration • English • Target: approximately 10 minutes
+00:00–01:00  |  Introduction
+We conclude with a fictional subscription appointment-booking platform containing a customer website, mobile app, admin dashboard and backend APIs.
+VISUAL / ON-SCREEN DIRECTION  System architecture overview.
+01:00–02:30  |  Requirements
+The backlog includes registration, appointment discovery, booking, payments and notifications. Refinement uncovers risks involving duplicate bookings, payment failures, cancellations and authorization.
+VISUAL / ON-SCREEN DIRECTION  Product backlog and dependency map.
+02:30–04:00  |  Sprint 1: Authentication
+Developers implement registration and login. Tests cover valid and invalid input, duplicate accounts, password recovery and sessions. Concurrent registration exposes a race condition; the team fixes and retests it.
+VISUAL / ON-SCREEN DIRECTION  Registration API test and defect resolution.
+04:00–05:30  |  Sprint 2: Booking
+Tests cover available slots, unavailable slots, simultaneous booking and cancellation. Integration tests protect against double booking. Exploratory testing identifies confusing messages and prompts an improvement.
+VISUAL / ON-SCREEN DIRECTION  Two customers competing for one slot.
+05:30–07:00  |  Sprint 3: Payments
+Using a payment sandbox, test success, failure, cancellation, delayed confirmation and duplicate callbacks. A network timeout reveals incorrect payment-state handling. The team adds safe recovery and repeat-notification checks.
+VISUAL / ON-SCREEN DIRECTION  Payment state diagram and test results.
+07:00–08:15  |  Regression and nonfunctional quality
+Run regression checks across authentication, booking and payments. Evaluate performance under concurrent searches, authorization controls, accessibility and resilience. Document remaining risks.
+VISUAL / ON-SCREEN DIRECTION  CI results and load-testing dashboard.
+08:15–09:15  |  Release and monitoring
+Review Definition of Done, outstanding defects, deployment and rollback plans. After release, monitor logs, failures and service health. Treat production feedback as another input to the quality cycle.
+VISUAL / ON-SCREEN DIRECTION  Release readiness checklist and monitoring.
+09:15–10:00  |  Course conclusion
+Agile Testing begins with clear requirements and continues through development, integration, exploration, automation and production. Quality is shared across the team. Congratulations on completing the masterclass.
+VISUAL / ON-SCREEN DIRECTION  Course completion slide and final takeaways.
+Production cue: allow time for an on-screen example, demonstration, learner reflection or instructor elaboration to reach the target segment duration.
+
+Production Standards
+Format: 16:9, 1920 × 1080 Full HD, 30 fps.
+Audio: clear professional English narration, approximately 125–140 words per minute.
+Visuals: diagrams, fictional application demos, short keyword callouts and simple animations.
+Accessibility: English subtitles, sufficient contrast and readable text.
+Export: MP4 (H.264) and separate SRT subtitles.
+Quality check: time every voice-over recording; extend examples where needed rather than stretching pauses.

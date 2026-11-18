@@ -1,0 +1,16 @@
+{
+  "videoNumber": 11,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "HTML Comments",
+  "description": "Add notes to code without displaying them.",
+  "publishLocal": "2026-10-24T16:00:00+05:30",
+  "publishAt": "2026-10-24T10:30:00Z",
+  "status": "planned",
+  "definition": "HTML comments are notes that browsers do not display as page content.",
+  "code": "<!-- Main heading -->\n<h1>Hello!</h1>",
+  "preview": "<h1>Hello!</h1>",
+  "rule": "A comment begins with an angle bracket, exclamation mark, and two hyphens.",
+  "tip": "It ends with two hyphens and a closing angle bracket.",
+  "caution": "Comments remain visible in source code, so never put secrets there.",
+  "exercise": "Add a short comment explaining the next section of your page."
+}

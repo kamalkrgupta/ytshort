@@ -1,0 +1,80 @@
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~70s left)
+  20%  (16s elapsed, ~62s left)
+  30%  (24s elapsed, ~55s left)
+  40%  (32s elapsed, ~47s left)
+  50%  (39s elapsed, ~39s left)
+  60%  (47s elapsed, ~31s left)
+  70%  (55s elapsed, ~23s left)
+  80%  (62s elapsed, ~16s left)
+  90%  (70s elapsed, ~8s left)
+  100%  (78s elapsed, ~0s left)
+
+Done in 78s -> ../video.partial.mp4 (3.9 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+RENDERED 47
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~71s left)
+  20%  (16s elapsed, ~63s left)
+  30%  (24s elapsed, ~55s left)
+  40%  (31s elapsed, ~47s left)
+  50%  (39s elapsed, ~39s left)
+  60%  (47s elapsed, ~31s left)
+  70%  (55s elapsed, ~23s left)
+  80%  (62s elapsed, ~16s left)
+  90%  (70s elapsed, ~8s left)
+  100%  (78s elapsed, ~0s left)
+
+Done in 78s -> ../video.partial.mp4 (4.1 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+RENDERED 48
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~72s left)
+  20%  (16s elapsed, ~63s left)
+  30%  (24s elapsed, ~55s left)
+  40%  (32s elapsed, ~47s left)
+  50%  (39s elapsed, ~39s left)
+  60%  (47s elapsed, ~31s left)
+  70%  (55s elapsed, ~24s left)
+  80%  (62s elapsed, ~16s left)
+  90%  (70s elapsed, ~8s left)
+  100%  (78s elapsed, ~0s left)
+
+Done in 78s -> ../video.partial.mp4 (4.0 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+RENDERED 49
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~72s left)
+  20%  (16s elapsed, ~64s left)
+  30%  (24s elapsed, ~55s left)
+  40%  (31s elapsed, ~47s left)
+  50%  (39s elapsed, ~39s left)
+  60%  (47s elapsed, ~31s left)
+  70%  (55s elapsed, ~24s left)
+  80%  (63s elapsed, ~16s left)
+  90%  (70s elapsed, ~8s left)
+  100%  (78s elapsed, ~0s left)
+
+Done in 78s -> ../video.partial.mp4 (4.2 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+RENDERED 50
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~71s left)
+  20%  (16s elapsed, ~63s left)
+  30%  (23s elapsed, ~55s left)
+  40%  (31s elapsed, ~47s left)
+  50%  (40s elapsed, ~40s left)
+  60%  (48s elapsed, ~32s left)
+  70%  (55s elapsed, ~24s left)
+  80%  (63s elapsed, ~16s left)
+  90%  (71s elapsed, ~8s left)
+  100%  (78s elapsed, ~0s left)
+
+Done in 79s -> ../video.partial.mp4 (4.1 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+RENDERED 51

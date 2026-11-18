@@ -1,0 +1,12 @@
+{
+  "state": "rejected",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "e2eb887c01c0d5d204371f5b0bbb089fbc7650a13556f99b0edcc725f779ce6a",
+  "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:51:41Z",
+  "publishAt": "2026-10-28T18:00:00+05:30",
+  "errorReason": "uploadLimitExceeded",
+  "rejectedBeforeUpload": true,
+  "errorEvidence": "publishing-final.log: HTTP 400 uploadLimitExceeded before upload session creation"
+}

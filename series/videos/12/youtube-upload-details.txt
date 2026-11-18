@@ -1,0 +1,20 @@
+HTML Line Breaks | Web Development in 60 Seconds
+
+Line breaks and thematic breaks have different meanings. Learn html line breaks with a quick example for beginners.
+
+B R creates a line break; H R marks a thematic break.
+A line break suits addresses and lines of a poem.
+
+Try it: Write a two-line address, then add a thematic break below it.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 12
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content
+
+#WebDevelopment #LearnToCode #Shorts
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU
+
+Tags: html line breaks, web development for beginners, learn to code, coding shorts, html tutorial, TECH AT 60

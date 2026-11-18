@@ -1,0 +1,1065 @@
+{
+  "checkedAt": "2026-11-16T14:26:40.342368+05:30",
+  "shorts": [
+    {
+      "number": 2,
+      "topic": "What Are HTML Tags?",
+      "publishLocal": "2026-10-20T11:00:00+05:30",
+      "videoId": "GjtwEy6C0BY",
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 3,
+      "topic": "HTML Headings Explained",
+      "publishLocal": "2026-10-20T16:00:00+05:30",
+      "videoId": "iJj3UEqr3mM",
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 4,
+      "topic": "HTML Paragraphs",
+      "publishLocal": "2026-10-21T11:00:00+05:30",
+      "videoId": "XpPqAg6oUPQ",
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 5,
+      "topic": "How to Add Links in HTML",
+      "publishLocal": "2026-10-21T16:00:00+05:30",
+      "videoId": "NwK_T8Qxams",
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 6,
+      "topic": "How to Add Images in HTML",
+      "publishLocal": "2026-10-22T11:00:00+05:30",
+      "videoId": "UdFrS1p0n2Q",
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 7,
+      "topic": "HTML Lists Explained",
+      "publishLocal": "2026-10-22T16:00:00+05:30",
+      "videoId": "ZCMbUuFgbHw",
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 8,
+      "topic": "HTML Buttons",
+      "publishLocal": "2026-10-23T11:00:00+05:30",
+      "videoId": "emkJjvrZTeE",
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 9,
+      "topic": "HTML Attributes",
+      "publishLocal": "2026-10-23T16:00:00+05:30",
+      "videoId": "5gQr8gC3yno",
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 10,
+      "topic": "HTML Div vs Span",
+      "publishLocal": "2026-10-24T11:00:00+05:30",
+      "videoId": "uX0pUdeNRhs",
+      "files": {
+        "video.mp4": 4588202,
+        "youtube-metadata.json": 994,
+        "narration.json": 986
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 11,
+      "topic": "HTML Comments",
+      "publishLocal": "2026-10-24T16:00:00+05:30",
+      "videoId": "PMmOSKNzM18",
+      "files": {
+        "video.mp4": 4492232,
+        "youtube-metadata.json": 1039,
+        "narration.json": 899
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 12,
+      "topic": "HTML Line Breaks",
+      "publishLocal": "2026-10-25T11:00:00+05:30",
+      "videoId": "s8vTrnbddoo",
+      "files": {
+        "video.mp4": 4683519,
+        "youtube-metadata.json": 1010,
+        "narration.json": 1002
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 13,
+      "topic": "HTML Tables",
+      "publishLocal": "2026-10-25T16:00:00+05:30",
+      "videoId": "yP-l14vRQME",
+      "files": {
+        "video.mp4": 4545880,
+        "youtube-metadata.json": 972,
+        "narration.json": 972
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 14,
+      "topic": "HTML Forms Introduction",
+      "publishLocal": "2026-10-26T11:00:00+05:30",
+      "videoId": "PZeEmk-S7_w",
+      "files": {
+        "video.mp4": 4787652,
+        "youtube-metadata.json": 981,
+        "narration.json": 1024
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 15,
+      "topic": "HTML Input Types",
+      "publishLocal": "2026-10-26T16:00:00+05:30",
+      "videoId": "MEEDwR24JOw",
+      "files": {
+        "video.mp4": 4702959,
+        "youtube-metadata.json": 1015,
+        "narration.json": 1013
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 16,
+      "topic": "HTML Checkboxes & Radio Buttons",
+      "publishLocal": "2026-10-27T11:00:00+05:30",
+      "videoId": "LYJz6pp8g9Y",
+      "files": {
+        "video.mp4": 4702933,
+        "youtube-metadata.json": 1106,
+        "narration.json": 930
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 17,
+      "topic": "HTML Dropdown Menus",
+      "publishLocal": "2026-10-27T16:00:00+05:30",
+      "videoId": "TgIcPIs9y34",
+      "files": {
+        "video.mp4": 4672317,
+        "youtube-metadata.json": 1010,
+        "narration.json": 985
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 18,
+      "topic": "Semantic HTML",
+      "publishLocal": "2026-10-28T11:00:00+05:30",
+      "videoId": "oBrUM1-EbwI",
+      "files": {
+        "video.mp4": 4665561,
+        "youtube-metadata.json": 1030,
+        "narration.json": 880
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 19,
+      "topic": "HTML Audio & Video",
+      "publishLocal": "2026-10-28T16:00:00+05:30",
+      "videoId": "OKr0Qgf5Eec",
+      "files": {
+        "video.mp4": 4697502,
+        "youtube-metadata.json": 916,
+        "narration.json": 1014
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 20,
+      "topic": "HTML Meta Tags",
+      "publishLocal": "2026-10-29T11:00:00+05:30",
+      "videoId": "3OFT8MUb6Gw",
+      "files": {
+        "video.mp4": 4590777,
+        "youtube-metadata.json": 929,
+        "narration.json": 890
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 21,
+      "topic": "What Is CSS?",
+      "publishLocal": "2026-10-29T16:00:00+05:30",
+      "videoId": "M7XIh0LLmWw",
+      "files": {
+        "video.mp4": 4509172,
+        "youtube-metadata.json": 859,
+        "narration.json": 963
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 22,
+      "topic": "Three Ways to Add CSS",
+      "publishLocal": "2026-10-30T11:00:00+05:30",
+      "videoId": "XI8c12LzDI8",
+      "files": {
+        "video.mp4": 4632765,
+        "youtube-metadata.json": 949,
+        "narration.json": 891
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 23,
+      "topic": "CSS Colors Explained",
+      "publishLocal": "2026-10-30T16:00:00+05:30",
+      "videoId": "BeC8jK5dAHU",
+      "files": {
+        "video.mp4": 4576653,
+        "youtube-metadata.json": 954,
+        "narration.json": 899
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 24,
+      "topic": "CSS Fonts and Text Styling",
+      "publishLocal": "2026-10-31T11:00:00+05:30",
+      "videoId": "PwX52X07J0k",
+      "files": {
+        "video.mp4": 4600770,
+        "youtube-metadata.json": 952,
+        "narration.json": 901
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 25,
+      "topic": "CSS Backgrounds",
+      "publishLocal": "2026-10-31T16:00:00+05:30",
+      "videoId": "_k9pL5fcolg",
+      "files": {
+        "video.mp4": 4709232,
+        "youtube-metadata.json": 970,
+        "narration.json": 991
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 26,
+      "topic": "CSS Box Model",
+      "publishLocal": "2026-11-01T11:00:00+05:30",
+      "videoId": "rk479ZjGpvo",
+      "files": {
+        "video.mp4": 4448225,
+        "youtube-metadata.json": 938,
+        "narration.json": 858
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 27,
+      "topic": "CSS Classes vs IDs",
+      "publishLocal": "2026-11-01T16:00:00+05:30",
+      "videoId": "A9SjSOECb8s",
+      "files": {
+        "video.mp4": 4482374,
+        "youtube-metadata.json": 953,
+        "narration.json": 864
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 28,
+      "topic": "CSS Display Property",
+      "publishLocal": "2026-11-02T11:00:00+05:30",
+      "videoId": "tozXzYirna4",
+      "files": {
+        "video.mp4": 4497355,
+        "youtube-metadata.json": 1009,
+        "narration.json": 896
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 29,
+      "topic": "CSS Flexbox in 60 Seconds",
+      "publishLocal": "2026-11-02T16:00:00+05:30",
+      "videoId": "c_JdeG3Iq3o",
+      "files": {
+        "video.mp4": 4479308,
+        "youtube-metadata.json": 936,
+        "narration.json": 859
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 30,
+      "topic": "CSS Grid Explained",
+      "publishLocal": "2026-11-03T11:00:00+05:30",
+      "videoId": "KUZhXec9exQ",
+      "files": {
+        "video.mp4": 4625374,
+        "youtube-metadata.json": 889,
+        "narration.json": 980
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 31,
+      "topic": "CSS Position Property",
+      "publishLocal": "2026-11-03T16:00:00+05:30",
+      "videoId": "ss5_POi4tYk",
+      "files": {
+        "video.mp4": 4588842,
+        "youtube-metadata.json": 957,
+        "narration.json": 904
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 32,
+      "topic": "CSS Hover Effects",
+      "publishLocal": "2026-11-04T11:00:00+05:30",
+      "videoId": "8luErDb4IOM",
+      "files": {
+        "video.mp4": 4630819,
+        "youtube-metadata.json": 922,
+        "narration.json": 1028
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 33,
+      "topic": "CSS Borders and Shadows",
+      "publishLocal": "2026-11-04T16:00:00+05:30",
+      "videoId": "Mk7J4lhtrEw",
+      "files": {
+        "video.mp4": 4762491,
+        "youtube-metadata.json": 910,
+        "narration.json": 996
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 34,
+      "topic": "Responsive Web Design",
+      "publishLocal": "2026-11-05T11:00:00+05:30",
+      "videoId": "Ka2cK0AVxJA",
+      "files": {
+        "video.mp4": 4601011,
+        "youtube-metadata.json": 1058,
+        "narration.json": 891
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 35,
+      "topic": "CSS Media Queries",
+      "publishLocal": "2026-11-05T16:00:00+05:30",
+      "videoId": "ubZHLFw_rP4",
+      "files": {
+        "video.mp4": 4679638,
+        "youtube-metadata.json": 1054,
+        "narration.json": 913
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 36,
+      "topic": "CSS Animations",
+      "publishLocal": "2026-11-06T11:00:00+05:30",
+      "videoId": "da0v5RefSWI",
+      "files": {
+        "video.mp4": 4697281,
+        "youtube-metadata.json": 946,
+        "narration.json": 907
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 37,
+      "topic": "What Is JavaScript?",
+      "publishLocal": "2026-11-06T16:00:00+05:30",
+      "videoId": "3c_WURbuFD0",
+      "files": {
+        "video.mp4": 4544931,
+        "youtube-metadata.json": 922,
+        "narration.json": 882
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 38,
+      "topic": "JavaScript Variables",
+      "publishLocal": "2026-11-07T11:00:00+05:30",
+      "videoId": "N5xsNZmpPBo",
+      "files": {
+        "video.mp4": 4602324,
+        "youtube-metadata.json": 899,
+        "narration.json": 978
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 39,
+      "topic": "JavaScript Data Types",
+      "publishLocal": "2026-11-07T16:00:00+05:30",
+      "videoId": "BmFsB-MoDlU",
+      "files": {
+        "video.mp4": 4490709,
+        "youtube-metadata.json": 931,
+        "narration.json": 883
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 40,
+      "topic": "JavaScript Operators",
+      "publishLocal": "2026-11-08T11:00:00+05:30",
+      "videoId": "RXVnmcMFE5M",
+      "files": {
+        "video.mp4": 4527575,
+        "youtube-metadata.json": 944,
+        "narration.json": 885
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 41,
+      "topic": "JavaScript Functions",
+      "publishLocal": "2026-11-08T16:00:00+05:30",
+      "videoId": "n8KtvhK8ScQ",
+      "files": {
+        "video.mp4": 4665037,
+        "youtube-metadata.json": 1027,
+        "narration.json": 1023
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 42,
+      "topic": "JavaScript If-Else",
+      "publishLocal": "2026-11-09T11:00:00+05:30",
+      "videoId": "vgVn3gu5lhI",
+      "files": {
+        "video.mp4": 4755355,
+        "youtube-metadata.json": 1037,
+        "narration.json": 1016
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 43,
+      "topic": "JavaScript Loops",
+      "publishLocal": "2026-11-09T16:00:00+05:30",
+      "videoId": "_3T2NZM_2Ac",
+      "files": {
+        "video.mp4": 4611921,
+        "youtube-metadata.json": 1011,
+        "narration.json": 1022
+      },
+      "receiptState": "published",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 44,
+      "topic": "JavaScript Arrays",
+      "publishLocal": "2026-11-10T11:00:00+05:30",
+      "videoId": "B8q7YYhyiWs",
+      "files": {
+        "video.mp4": 4677225,
+        "youtube-metadata.json": 1005,
+        "narration.json": 998
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 45,
+      "topic": "JavaScript Objects",
+      "publishLocal": "2026-11-10T16:00:00+05:30",
+      "videoId": "d1PadSj4VSg",
+      "files": {
+        "video.mp4": 4512602,
+        "youtube-metadata.json": 931,
+        "narration.json": 878
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 46,
+      "topic": "JavaScript DOM Manipulation",
+      "publishLocal": "2026-11-11T11:00:00+05:30",
+      "videoId": "tR3AXmXFaYQ",
+      "files": {
+        "video.mp4": 4592298,
+        "youtube-metadata.json": 960,
+        "narration.json": 909
+      },
+      "receiptState": "scheduled",
+      "liveStatus": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "processing": "succeeded"
+    },
+    {
+      "number": 47,
+      "topic": "Build a Personal Profile Card",
+      "publishLocal": "2026-11-11T16:00:00+05:30",
+      "videoId": null,
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": 1051
+      },
+      "receiptState": null,
+      "liveStatus": null,
+      "processing": null
+    },
+    {
+      "number": 48,
+      "topic": "Build a Responsive Navigation Bar",
+      "publishLocal": "2026-11-12T11:00:00+05:30",
+      "videoId": null,
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": null,
+      "processing": null
+    },
+    {
+      "number": 49,
+      "topic": "Build a JavaScript Counter",
+      "publishLocal": "2026-11-12T16:00:00+05:30",
+      "videoId": null,
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": null,
+      "processing": null
+    },
+    {
+      "number": 50,
+      "topic": "Build a Simple To-Do List",
+      "publishLocal": "2026-11-13T11:00:00+05:30",
+      "videoId": null,
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": null,
+      "processing": null
+    },
+    {
+      "number": 51,
+      "topic": "Publish Your First Website for Free",
+      "publishLocal": "2026-11-13T16:00:00+05:30",
+      "videoId": null,
+      "files": {
+        "video.mp4": null,
+        "youtube-metadata.json": null,
+        "narration.json": null
+      },
+      "receiptState": null,
+      "liveStatus": null,
+      "processing": null
+    }
+  ]
+}

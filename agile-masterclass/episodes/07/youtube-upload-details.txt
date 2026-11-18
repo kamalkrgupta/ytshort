@@ -1,0 +1,44 @@
+Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7
+
+Learn agile testing in scrum with practical software testing examples, diagrams and a guided exercise.
+Agile Testing Masterclass — Episode 7 of 12 | English | 10-minute tutorial.
+
+In this lesson:
+• Introduction
+• Accountabilities
+• Refinement and planning
+• During the sprint
+• Definition of Done
+• Review and retrospective
+• Sprint walkthrough
+• Worked example
+
+CHAPTERS
+00:00 Introduction
+00:56 Accountabilities
+02:00 Refinement and planning
+03:02 During the sprint
+04:02 Definition of Done
+05:06 Review and retrospective
+06:06 Sprint walkthrough
+07:14 Worked example
+07:56 A closer look
+08:44 Verify the outcome
+09:36 Recap
+
+Practice: Is unverified work really Done?
+Examples use fictional applications and synthetic data.
+
+Subscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.
+
+References and further reading:
+https://agilemanifesto.org/
+https://scrumguides.org/scrum-guide.html
+https://kanbanguides.org/the-kanban-guide/2025.5/
+https://playwright.dev/docs/best-practices
+
+#AgileTesting #SoftwareTesting #QATutorial
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI
+
+Tags: agile testing, agile testing in scrum, software testing tutorial, agile testing for beginners, QA tutorial, manual testing, software quality assurance, Techat60, agile testing masterclass

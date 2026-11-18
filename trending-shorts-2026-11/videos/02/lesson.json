@@ -1,0 +1,40 @@
+{
+  "number": 2,
+  "slug": "npu",
+  "title": "CPU vs GPU vs NPU: What Does an AI Chip Do?",
+  "category": "GADGETS",
+  "source": "https://www.qualcomm.com/artificial-intelligence/what-is-ai-faq",
+  "headline": "What is the\nAI chip actually doing?",
+  "meaning": "An NPU specializes in neural-network workloads.",
+  "example": "Run supported AI operations efficiently on the device.",
+  "comparison": "CPU, GPU and NPU handle different workloads.",
+  "caution": "App support and the full system matter, too.",
+  "question": "Which chip does your app actually use?",
+  "flow": [
+    "App task",
+    "Supported workload",
+    "Right processor"
+  ],
+  "left": [
+    "CPU / GPU",
+    "General tasks / parallel work"
+  ],
+  "right": [
+    "NPU",
+    "Specialized neural computation"
+  ],
+  "lines": [
+    "An A I chip is not a tiny person inside your laptop. It is hardware designed for particular calculations.",
+    "A C P U handles general computing. A G P U processes many operations in parallel.",
+    "An N P U specializes in neural network workloads, helping supported A I tasks run efficiently on a device.",
+    "These processors work together. An app may use one or several depending on the operation.",
+    "A bigger marketing number alone does not tell you the whole experience. Software support and memory matter too.",
+    "Which chip does your app use? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-17T20:00:00+05:30",
+  "publishAt": "2026-11-17T14:30:00+00:00",
+  "status": "needs_attention",
+  "accent": "#8ee4c8",
+  "updatedAt": "2026-11-16T15:21:41.428620+05:30",
+  "error": "AssertionError: "
+}

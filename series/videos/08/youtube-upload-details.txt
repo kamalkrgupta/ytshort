@@ -1,0 +1,20 @@
+HTML Buttons | Web Development in 60 Seconds
+
+A button is a control that people can activate. Learn html buttons with a quick example for beginners.
+
+Use the button element to create an accessible native control.
+JavaScript can listen for a click and perform an action.
+
+Try it: Create a button with a clear action label.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 8
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content
+
+#WebDevelopment #LearnToCode #Shorts
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU
+
+Tags: html buttons, web development for beginners, learn to code, coding shorts, html tutorial, TECH AT 60

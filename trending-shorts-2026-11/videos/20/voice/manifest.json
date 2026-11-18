@@ -1,0 +1,37 @@
+{
+  "clips": {
+    "close": {
+      "file": "close.wav",
+      "source": "file",
+      "duration": 6.05
+    },
+    "compare": {
+      "file": "compare.wav",
+      "source": "file",
+      "duration": 7.48
+    },
+    "demo": {
+      "file": "demo.wav",
+      "source": "file",
+      "duration": 5.58
+    },
+    "hook": {
+      "file": "hook.wav",
+      "source": "file",
+      "duration": 7.52
+    },
+    "idea": {
+      "file": "idea.wav",
+      "source": "file",
+      "duration": 6.43
+    },
+    "takeaway": {
+      "file": "takeaway.wav",
+      "source": "file",
+      "duration": 7.69
+    }
+  },
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "leadIn": 0.25
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "videoId": "reA35oDRHj8",
+    "course": "Agile",
+    "episode": 1,
+    "asset": "channel-growth/2026-11-05/thumbnail-01/thumbnail.jpg",
+    "confirmedAt": "2026-11-05T06:16:11.043420+00:00",
+    "response": {
+      "kind": "youtube#thumbnailSetResponse",
+      "etag": "V9P8JfuKxrdG5uYVgZn6uFgkVBk",
+      "items": [
+        {
+          "default": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ]
+    }
+  },
+  {
+    "videoId": "1oW6ocuUhWQ",
+    "course": "Agile",
+    "episode": 3,
+    "asset": "channel-growth/2026-11-05/thumbnail-03/thumbnail.jpg",
+    "confirmedAt": "2026-11-05T06:16:16.728986+00:00",
+    "response": {
+      "kind": "youtube#thumbnailSetResponse",
+      "etag": "9L2NvSgAEjhYq7ADJO7d4IppXtA",
+      "items": [
+        {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ]
+    }
+  },
+  {
+    "videoId": "4pedCCloISY",
+    "course": "Agile",
+    "episode": 4,
+    "asset": "channel-growth/2026-11-05/thumbnail-04/thumbnail.jpg",
+    "confirmedAt": "2026-11-05T06:16:21.863590+00:00",
+    "response": {
+      "kind": "youtube#thumbnailSetResponse",
+      "etag": "W21fZ1GhIDc5XmOnXfTIaa5oeVg",
+      "items": [
+        {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4pedCCloISY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4pedCCloISY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4pedCCloISY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4pedCCloISY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4pedCCloISY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/4pedCCloISY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ]
+    }
+  },
+  {
+    "videoId": "_LSyyLx-ex0",
+    "course": "Agile",
+    "episode": 7,
+    "asset": "channel-growth/2026-11-05/thumbnail-07/thumbnail.jpg",
+    "confirmedAt": "2026-11-05T06:16:26.903709+00:00",
+    "response": {
+      "kind": "youtube#thumbnailSetResponse",
+      "etag": "GuwKEcbMaPcFPPs7UJk3OF3ulh8",
+      "items": [
+        {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ]
+    }
+  },
+  {
+    "videoId": "BxdkMvdx7G8",
+    "course": "Agile",
+    "episode": 8,
+    "asset": "channel-growth/2026-11-05/thumbnail-08/thumbnail.jpg",
+    "confirmedAt": "2026-11-05T06:16:33.358947+00:00",
+    "response": {
+      "kind": "youtube#thumbnailSetResponse",
+      "etag": "0qbwEVsh80ek9cj1ex_0Xe-YMKc",
+      "items": [
+        {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ]
+    }
+  },
+  {
+    "videoId": "t3WpRYW0lGg",
+    "course": "Agile",
+    "episode": 9,
+    "asset": "channel-growth/2026-11-05/thumbnail-09/thumbnail.jpg",
+    "confirmedAt": "2026-11-05T06:16:38.833371+00:00",
+    "response": {
+      "kind": "youtube#thumbnailSetResponse",
+      "etag": "FTMdCEYCpA0tf6CKUFYWkFCtGXw",
+      "items": [
+        {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t3WpRYW0lGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t3WpRYW0lGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t3WpRYW0lGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t3WpRYW0lGg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t3WpRYW0lGg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/t3WpRYW0lGg/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ]
+    }
+  },
+  {
+    "videoId": "z3Z_RcpRZrw",
+    "course": "AI",
+    "episode": 1,
+    "asset": "channel-growth/2026-11-05/thumbnail-ai-01/thumbnail.jpg",
+    "confirmedAt": "2026-11-05T06:16:46.822759+00:00",
+    "response": {
+      "kind": "youtube#thumbnailSetResponse",
+      "etag": "Xe-05cJTPLj0Ijgsp8IcoUahtQA",
+      "items": [
+        {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ]
+    }
+  }
+]

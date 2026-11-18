@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 27%
+Upload 36%
+Upload 45%
+Upload 54%
+Upload 63%
+Upload 72%
+Upload 81%
+Upload 90%
+Upload 99%
+Uploaded: https://www.youtube.com/watch?v=te8aPsCX-NA
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "f6bf8968b20de68b2f80f57f7b26d6270b5eece3e418e6d99e9669aa49eb65ef",
+  "title": "AI Music and Sound Effects: Choose Audio That Fits Your Video | Ep 28",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:03:26Z",
+  "publishAt": "2026-11-09T14:00:00+05:30",
+  "videoId": "te8aPsCX-NA",
+  "url": "https://www.youtube.com/watch?v=te8aPsCX-NA",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-09T08:30:00Z"
+}

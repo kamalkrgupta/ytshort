@@ -1,0 +1,16 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "Type a task, click Add, and put it in a list. Here is the basic idea.",
+    "idea": "Use an input, an Add button, and an unordered list. Connect the button to a click handler.",
+    "code": "Read the input and trim extra spaces. If it is empty, stop before creating anything.",
+    "result": "Create a list item, set its text content, then append it to the list.",
+    "tip": "Clear the input so the next task is easy to enter. Add a remove button to each item.",
+    "caution": "When Remove is clicked, remove that item. Text content displays user input as plain text.",
+    "try": "Try adding one task and removing it. This version does not save tasks after a refresh.",
+    "close": "Subscribe to Tech at sixty for more beginner projects."
+  }
+}

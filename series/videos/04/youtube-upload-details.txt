@@ -1,0 +1,20 @@
+HTML Paragraphs | Web Development in 60 Seconds
+
+A paragraph element groups a piece of text into a paragraph. Learn html paragraphs with a quick example for beginners.
+
+Wrap each paragraph in opening and closing P tags.
+Browsers normally leave space between paragraphs.
+
+Try it: Write two paragraphs about something you enjoy.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 4
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content
+
+#WebDevelopment #LearnToCode #Shorts
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU
+
+Tags: html paragraphs, web development for beginners, learn to code, coding shorts, html tutorial, TECH AT 60

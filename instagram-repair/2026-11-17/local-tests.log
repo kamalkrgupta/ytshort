@@ -1,0 +1,10 @@
+.............................../Library/Frameworks/Python.framework/Versions/3.15/lib/python3.15/annotationlib.py:302: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x10c3be960>
+  self.__code__ = compile(_rewrite_star_unpack(arg), "<string>", "eval")
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+.{"status": "WAITING_FOR_19_00_IST", "publishAt": "2026-10-30T19:00:00+05:30", "private_preparation_at": "2026-10-30T18:45:00+05:30", "meta_mutations": 0}
+.{"status": "WAITING_FOR_19_00_IST", "publishAt": "2026-10-30T19:00:00+05:30", "private_preparation_at": "2026-10-30T18:45:00+05:30", "meta_mutations": 0}
+..............................................................
+----------------------------------------------------------------------
+Ran 95 tests in 0.590s
+
+OK

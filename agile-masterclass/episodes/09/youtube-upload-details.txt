@@ -1,0 +1,44 @@
+Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9
+
+Learn agile testing artifacts and documentation with practical software testing examples, diagrams and a guided exercise.
+Agile Testing Masterclass — Episode 9 of 12 | English | 10-minute tutorial.
+
+In this lesson:
+• Introduction
+• Stories and criteria
+• Test cases
+• Defect reports
+• Plans and charters
+• Traceability
+• Practical document set
+• Worked example
+
+CHAPTERS
+00:00 Introduction
+00:58 Stories and criteria
+01:56 Test cases
+03:01 Defect reports
+04:07 Plans and charters
+05:07 Traceability
+06:06 Practical document set
+07:11 Worked example
+07:58 A closer look
+08:47 Verify the outcome
+09:37 Recap
+
+Practice: Can another person reproduce the result?
+Examples use fictional applications and synthetic data.
+
+Subscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.
+
+References and further reading:
+https://agilemanifesto.org/
+https://scrumguides.org/scrum-guide.html
+https://kanbanguides.org/the-kanban-guide/2025.5/
+https://playwright.dev/docs/best-practices
+
+#AgileTesting #SoftwareTesting #QATutorial
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI
+
+Tags: agile testing, agile testing artifacts and documentation, software testing tutorial, agile testing for beginners, QA tutorial, manual testing, software quality assurance, Techat60, agile testing masterclass

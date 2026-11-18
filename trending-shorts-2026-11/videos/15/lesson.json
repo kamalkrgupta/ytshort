@@ -1,0 +1,38 @@
+{
+  "number": 15,
+  "slug": "post-quantum",
+  "title": "Post-Quantum Encryption: Why Prepare Before Quantum Computers?",
+  "category": "SECURITY",
+  "source": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+  "headline": "Why prepare for\na computer not here yet?",
+  "meaning": "Some public-key systems face a future quantum threat.",
+  "example": "Recorded encrypted data may stay sensitive for years.",
+  "comparison": "Post-quantum cryptography runs on ordinary computers.",
+  "caution": "It is about migration, not an instant universal break.",
+  "question": "How long must your data stay private?",
+  "flow": [
+    "Protect data now",
+    "Keep it for years",
+    "Future threat"
+  ],
+  "left": [
+    "QUANTUM COMPUTER",
+    "A future capability threat"
+  ],
+  "right": [
+    "POST-QUANTUM CRYPTO",
+    "New protective algorithms"
+  ],
+  "lines": [
+    "Why change encryption before a powerful enough quantum computer exists? Because some information must stay private for years.",
+    "An attacker could record encrypted traffic now and hope to decrypt it later with future capabilities.",
+    "Post quantum cryptography uses algorithms designed to resist known quantum attacks. It runs on ordinary computers.",
+    "This does not mean every kind of encryption is already broken, or that a quantum laptop is required.",
+    "Organizations are updating protocols and systems gradually. Long lived sensitive data is an important reason to prepare.",
+    "How long must data stay private? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-30T20:00:00+05:30",
+  "publishAt": "2026-11-30T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#b7b4ff"
+}

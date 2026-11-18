@@ -1,0 +1,16 @@
+{
+  "videoNumber": 33,
+  "phase": "Phase 3 — Build Beautiful Websites with CSS",
+  "topic": "CSS Borders and Shadows",
+  "description": "Create attractive cards and buttons.",
+  "publishLocal": "2026-11-04T16:00:00+05:30",
+  "publishAt": "2026-11-04T10:30:00Z",
+  "status": "planned",
+  "definition": "Borders define edges, while shadows can suggest depth.",
+  "code": ".card {\n border: 2px solid teal;\n border-radius: 16px;\n box-shadow: 0 8px 20px #0002;\n}",
+  "preview": "<div style=\"border:3px solid teal;border-radius:20px;box-shadow:0 12px 25px #0003;padding:55px 25px\">A simple card</div>",
+  "rule": "A border has a width, style, and color.",
+  "tip": "Border radius rounds the corners; box shadow paints a shadow.",
+  "caution": "Keep shadows subtle enough that text and boundaries remain clear.",
+  "exercise": "Create a rounded card with a border and soft shadow."
+}

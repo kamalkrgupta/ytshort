@@ -1,0 +1,99 @@
+{
+  "9enXNnWJxG0": {
+    "kind": "youtube#video",
+    "etag": "FizORnKenzI2UtB3VJMXUkUczKw",
+    "id": "9enXNnWJxG0",
+    "contentDetails": {
+      "duration": "P0D",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular",
+      "hasCustomThumbnail": false
+    },
+    "status": {
+      "uploadStatus": "uploaded",
+      "privacyStatus": "private",
+      "license": "youtube",
+      "embeddable": false,
+      "publicStatsViewable": false,
+      "madeForKids": false,
+      "selfDeclaredMadeForKids": false
+    },
+    "processingDetails": {
+      "processingStatus": "processing",
+      "fileDetailsAvailability": "inProgress",
+      "processingIssuesAvailability": "inProgress",
+      "tagSuggestionsAvailability": "inProgress",
+      "editorSuggestionsAvailability": "inProgress",
+      "thumbnailsAvailability": "inProgress"
+    }
+  },
+  "oBrUM1-EbwI": {
+    "kind": "youtube#video",
+    "etag": "jG9iAGSgTZ6xqbVv67TQoITNSl8",
+    "id": "oBrUM1-EbwI",
+    "contentDetails": {
+      "duration": "PT1M1S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular",
+      "hasCustomThumbnail": false
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false,
+      "selfDeclaredMadeForKids": false
+    },
+    "processingDetails": {
+      "processingStatus": "succeeded",
+      "fileDetailsAvailability": "available",
+      "processingIssuesAvailability": "available",
+      "tagSuggestionsAvailability": "inProgress",
+      "editorSuggestionsAvailability": "inProgress",
+      "thumbnailsAvailability": "available"
+    }
+  },
+  "OKr0Qgf5Eec": {
+    "kind": "youtube#video",
+    "etag": "OKWbr3kJcaF7nHdD48I4PkZTp24",
+    "id": "OKr0Qgf5Eec",
+    "contentDetails": {
+      "duration": "PT1M1S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular",
+      "hasCustomThumbnail": false
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "private",
+      "publishAt": "2026-10-28T10:30:00Z",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false,
+      "selfDeclaredMadeForKids": false
+    },
+    "processingDetails": {
+      "processingStatus": "succeeded",
+      "fileDetailsAvailability": "available",
+      "processingIssuesAvailability": "available",
+      "tagSuggestionsAvailability": "inProgress",
+      "editorSuggestionsAvailability": "inProgress",
+      "thumbnailsAvailability": "available"
+    }
+  }
+}

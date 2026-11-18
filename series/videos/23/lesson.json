@@ -1,0 +1,16 @@
+{
+  "videoNumber": 23,
+  "phase": "Phase 2 — Advanced HTML & CSS Basics",
+  "topic": "CSS Colors Explained",
+  "description": "Use HEX, RGB, and named colors.",
+  "publishLocal": "2026-10-30T16:00:00+05:30",
+  "publishAt": "2026-10-30T10:30:00Z",
+  "status": "planned",
+  "definition": "C S S colors can be written as names, hexadecimal values, or color functions.",
+  "code": "h1 { color: tomato; }\np { color: #334155; }\na { color: rgb(0 90 200); }",
+  "preview": "<h2 style=\"color:tomato\">Tomato</h2><p style=\"color:#334155\">Slate</p><a style=\"color:rgb(0 90 200)\">Blue</a>",
+  "rule": "Different color formats can describe the same visible color.",
+  "tip": "Choose text and background colors that remain easy to read.",
+  "caution": "Color alone should not be the only way to communicate meaning.",
+  "exercise": "Style a heading, paragraph, and link using three color formats."
+}

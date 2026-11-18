@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "A smart bulb and a smart speaker can come from different brands. How do they understand each other?",
+    "idea": "Matter gives compatible smart home products a common application protocol, helping supported ecosystems work together.",
+    "demo": "Think of it as shared rules for messages such as turn the light on or report a temperature.",
+    "compare": "Wi-Fi, Thread, and Ethernet carry the data. Matter describes how compatible devices communicate over that connection.",
+    "takeaway": "Compatibility still needs checking. The device type, controller, setup, and supported features can differ.",
+    "close": "Which devices should work together? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

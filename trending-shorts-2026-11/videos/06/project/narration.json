@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "A chatbot can explain how to organize files. An agent may actually organize them using tools.",
+    "idea": "An agent can plan a step, take an action, inspect the result, and decide what comes next.",
+    "demo": "Imagine a helper that reads receipt details, sorts them, and checks whether anything is missing.",
+    "compare": "The difference is not a magic personality. It is the combination of a model, tools, and a control loop.",
+    "takeaway": "Permissions matter because a mistaken answer and a mistaken action have different consequences.",
+    "close": "Which task would you delegate? Subscribe to Tech at sixty for practical tech explained."
+  }
+}

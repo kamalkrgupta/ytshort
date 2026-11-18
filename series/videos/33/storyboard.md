@@ -1,0 +1,50 @@
+# CSS Borders and Shadows
+
+9:16 | 1080 × 1920 | 60s | 30 fps
+Direction: beginner-friendly; midnight, orange and mint; bundled Inter font; code becomes output.
+
+## 1. hook (5s)
+Narration: C S S Borders and Shadows. Let’s make it simple.
+Text / visuals: CSS Borders and Shadows
+Motion: 0.25s heading rises (Framer Motion); 0.5s rule draws (GSAP); 0.8s card enters; supporting details reveal at 3.5s and 5.3s. CSS grid pulses. Closing settles before last second.
+
+## 2. idea (8.0s)
+Narration: Borders define edges, while shadows can suggest depth. Start by understanding the role it plays in a page.
+Text / visuals: Borders define edges, while shadows can suggest depth.
+Motion: 0.25s heading rises (Framer Motion); 0.5s rule draws (GSAP); 0.8s card enters; supporting details reveal at 3.5s and 5.3s. CSS grid pulses. Closing settles before last second.
+
+## 3. code (7.0s)
+Narration: A border has a width, style, and color. Read the example from top to bottom.
+Text / visuals: .card {
+ border: 2px solid teal;
+ border-radius: 16px;
+ box-shadow: 0 8px 20px #0002;
+}
+Motion: 0.25s heading rises (Framer Motion); 0.5s rule draws (GSAP); 0.8s card enters; supporting details reveal at 3.5s and 5.3s. CSS grid pulses. Closing settles before last second.
+
+## 4. result (10.0s)
+Narration: Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.
+Text / visuals: <div style="border:3px solid teal;border-radius:20px;box-shadow:0 12px 25px #0003;padding:55px 25px">A simple card</div>
+Motion: 0.25s heading rises (Framer Motion); 0.5s rule draws (GSAP); 0.8s card enters; supporting details reveal at 3.5s and 5.3s. CSS grid pulses. Closing settles before last second.
+
+## 5. tip (8.5s)
+Narration: Border radius rounds the corners; box shadow paints a shadow. Keep this detail in mind when writing your own example.
+Text / visuals: Border radius rounds the corners; box shadow paints a shadow.
+Motion: 0.25s heading rises (Framer Motion); 0.5s rule draws (GSAP); 0.8s card enters; supporting details reveal at 3.5s and 5.3s. CSS grid pulses. Closing settles before last second.
+
+## 6. caution (9.0s)
+Narration: Keep shadows subtle enough that text and boundaries remain clear. Understanding this helps you avoid a common beginner mistake.
+Text / visuals: Keep shadows subtle enough that text and boundaries remain clear.
+Motion: 0.25s heading rises (Framer Motion); 0.5s rule draws (GSAP); 0.8s card enters; supporting details reveal at 3.5s and 5.3s. CSS grid pulses. Closing settles before last second.
+
+## 7. try (7.5s)
+Narration: Create a rounded card with a border and soft shadow. Change one part, then compare your result.
+Text / visuals: Create a rounded card with a border and soft shadow.
+Motion: 0.25s heading rises (Framer Motion); 0.5s rule draws (GSAP); 0.8s card enters; supporting details reveal at 3.5s and 5.3s. CSS grid pulses. Closing settles before last second.
+
+## 8. close (5s)
+Narration: Like, share, and subscribe for more web development basics.
+Text / visuals: Like, share & subscribe.
+Motion: 0.25s heading rises (Framer Motion); 0.5s rule draws (GSAP); 0.8s card enters; supporting details reveal at 3.5s and 5.3s. CSS grid pulses. Closing settles before last second.
+
+Source: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics

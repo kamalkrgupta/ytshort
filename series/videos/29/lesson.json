@@ -1,0 +1,16 @@
+{
+  "videoNumber": 29,
+  "phase": "Phase 3 — Build Beautiful Websites with CSS",
+  "topic": "CSS Flexbox in 60 Seconds",
+  "description": "Align elements horizontally and vertically.",
+  "publishLocal": "2026-11-02T16:00:00+05:30",
+  "publishAt": "2026-11-02T10:30:00Z",
+  "status": "planned",
+  "definition": "Flexbox arranges items along one main axis.",
+  "code": ".row {\n display: flex;\n gap: 12px;\n justify-content: center;\n align-items: center;\n}",
+  "preview": "<div style=\"display:flex;gap:16px;justify-content:center\"><b style=\"padding:20px;background:#ffd6a5\">1</b><b style=\"padding:20px;background:#caffbf\">2</b><b style=\"padding:20px;background:#a0c4ff\">3</b></div>",
+  "rule": "Turn the parent into a flex container to arrange its children.",
+  "tip": "Justify content controls the main axis; align items controls the cross axis.",
+  "caution": "Those axes change when the flex direction changes.",
+  "exercise": "Center three items in a row with an even gap."
+}

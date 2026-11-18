@@ -1,0 +1,219 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,310
+Welcome to episode 20 of AI for Beginners Today
+
+4
+00:00:12,465 --> 00:00:16,460
+we’re looking at ai for time management By the
+
+5
+00:00:16,473 --> 00:00:20,558
+end you’ll understand one practical idea watch a realistic
+
+6
+00:00:20,571 --> 00:00:25,403
+example and try a small exercise yourself You don’t
+
+7
+00:00:25,416 --> 00:00:30,145
+need a technical background or expensive software Bring your
+
+8
+00:00:30,158 --> 00:00:35,854
+curiosity We’ll work through it together Here’s the example
+
+9
+00:00:35,867 --> 00:00:39,978
+we’ll use planning a busy Monday We’ll use that
+
+10
+00:00:39,991 --> 00:00:44,089
+situation to make the topic concrete Watch how we
+
+11
+00:00:44,102 --> 00:00:47,362
+break the task into small steps because the same
+
+12
+00:00:47,375 --> 00:00:50,506
+thinking will help you use many different AI tools
+
+13
+00:00:50,519 --> 00:00:51,898
+later in this course
+
+14
+00:01:14,850 --> 00:01:19,658
+Let’s start with the main idea prioritize tasks using
+
+15
+00:01:19,671 --> 00:01:23,795
+urgency and impact Think of AI as a tool
+
+16
+00:01:23,808 --> 00:01:27,171
+that processes information and returns an output based on
+
+17
+00:01:27,184 --> 00:01:31,424
+its training instructions and any relevant information it can
+
+18
+00:01:31,437 --> 00:01:35,560
+access It can save time on drafts and patterns
+
+19
+00:01:35,741 --> 00:01:38,666
+but it doesn’t automatically know what’s correct for your
+
+20
+00:01:38,679 --> 00:01:42,893
+situation The most useful habit is to define what
+
+21
+00:01:42,906 --> 00:01:46,888
+you want before touching the tool Ask yourself three
+
+22
+00:01:46,900 --> 00:01:50,599
+questions what’s my goal what information does the tool
+
+23
+00:01:50,612 --> 00:01:54,323
+need and how will I check the result Those
+
+24
+00:01:54,336 --> 00:01:58,228
+questions work whether you’re writing a prompt building a workflow
+
+25
+00:01:58,370 --> 00:02:00,406
+or reviewing a generated answer
+
+26
+00:02:23,417 --> 00:02:27,465
+Let’s try it with an example Our example is
+
+27
+00:02:27,477 --> 00:02:31,421
+planning a busy Monday Start by writing down the
+
+28
+00:02:31,434 --> 00:02:36,846
+desired result in one sentence Next identify the input
+
+29
+00:02:37,078 --> 00:02:39,037
+what would a person need to know to do
+
+30
+00:02:39,050 --> 00:02:43,367
+this task correctly Then write a simple instruction with
+
+31
+00:02:43,380 --> 00:02:47,684
+that context and a clear format On screen I
+
+32
+00:02:47,697 --> 00:02:51,176
+am showing a sample request followed by a possible
+
+33
+00:02:51,189 --> 00:02:55,209
+output Notice that we’re not judging the result by
+
+34
+00:02:55,222 --> 00:02:59,655
+how impressive it sounds We’re checking whether it actually
+
+35
+00:02:59,668 --> 00:03:03,392
+meets the task If the output is too broad
+
+36
+00:03:03,521 --> 00:03:07,336
+ask for a more specific version If a fact
+
+37
+00:03:07,349 --> 00:03:11,614
+matters verify it from a reliable source Pause the
+
+38
+00:03:11,627 --> 00:03:14,269
+video here if you’d like to copy the structure
+
+39
+00:03:14,282 --> 00:03:15,519
+into your own notes
+
+40
+00:03:38,483 --> 00:03:43,472
+Your turn Try this exercise sort five tasks into
+
+41
+00:03:43,485 --> 00:03:48,214
+priorities Begin with a very small example not a
+
+42
+00:03:48,227 --> 00:03:53,163
+complex project Give yourself thirty seconds to decide what
+
+43
+00:03:53,176 --> 00:03:57,325
+success would look like Then complete the task once
+
+44
+00:03:57,338 --> 00:03:57,956
+and inspect
+
+45
+00:04:17,483 --> 00:04:22,290
+Before we finish remember this important limitation AI cannot
+
+46
+00:04:22,303 --> 00:04:25,512
+know your actual calendar unless you supply it or
+
+47
+00:04:25,525 --> 00:04:30,616
+connect it Responsible AI use means understanding the strengths
+
+48
+00:04:30,629 --> 00:04:33,567
+of the tool and keeping yourself accountable for the
+
+49
+00:04:33,580 --> 00:04:38,451
+final result Today you learned that prioritize tasks using
+
+50
+00:04:38,464 --> 00:04:41,879
+urgency and impact saw the example of planning a
+
+51
+00:04:41,892 --> 00:04:46,841
+busy Monday and practiced a small hands-on task Here’s
+
+52
+00:04:46,853 --> 00:04:50,294
+your challenge repeat the exercise with a different topic
+
+53
+00:04:50,307 --> 00:04:53,954
+and write down one thing that improved In the
+
+54
+00:04:53,967 --> 00:04:57,034
+comments share the part you found easiest or the
+
+55
+00:04:57,047 --> 00:04:59,800
+question you still have If this helped share it

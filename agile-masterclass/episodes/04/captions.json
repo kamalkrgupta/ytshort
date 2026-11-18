@@ -1,0 +1,702 @@
+[
+  {
+    "start": 0.3371627800640147,
+    "end": 4.930531464334706,
+    "text": "Agile teams need frequent visibility into testing progress remaining"
+  },
+  {
+    "start": 4.942916423754002,
+    "end": 9.703202703475082,
+    "text": "risks and blocked work Today we examine planning execution"
+  },
+  {
+    "start": 9.715586791266578,
+    "end": 15.708027920667584,
+    "text": "tracking defect management and stakeholder reporting Imagine that stakeholders"
+  },
+  {
+    "start": 15.720412880086881,
+    "end": 20.437589320416098,
+    "text": "ask whether a customer-management release is ready A dashboard"
+  },
+  {
+    "start": 20.449974279835395,
+    "end": 24.696689614769095,
+    "text": "says seventy percent of tests have passed That number"
+  },
+  {
+    "start": 24.70907457418839,
+    "end": 28.37386939871971,
+    "text": "alone cannot answer the question We need to know"
+  },
+  {
+    "start": 28.386254358139006,
+    "end": 31.890124899977142,
+    "text": "which features were tested which risks remain and whether"
+  },
+  {
+    "start": 31.902473251028812,
+    "end": 36.941571473479655,
+    "text": "important failures are unresolved In this lesson treat tracking"
+  },
+  {
+    "start": 36.95395556127115,
+    "end": 40.51967594021491,
+    "text": "as a way to support a decision Every chart"
+  },
+  {
+    "start": 40.53209663637403,
+    "end": 43.80066515203476,
+    "text": "should have a meaning and a next action Our"
+  },
+  {
+    "start": 43.81308584819388,
+    "end": 48.44360766746686,
+    "text": "fictional release contains registration profile editing and customer search"
+  },
+  {
+    "start": 49.32264517604024,
+    "end": 53.39601553212164,
+    "text": "We will connect each feature to scenarios results defects"
+  },
+  {
+    "start": 53.40840049154093,
+    "end": 55.29031725823046,
+    "text": "and a concise release update"
+  },
+  {
+    "start": 56.90384361441238,
+    "end": 60.91594382026976,
+    "text": "For a CRM sprint with registration profile updates and"
+  },
+  {
+    "start": 60.92833079277495,
+    "end": 65.7701384705716,
+    "text": "search identify acceptance criteria and scenarios for each feature"
+  },
+  {
+    "start": 66.64288868869082,
+    "end": 71.94284696943973,
+    "text": "Plan environments accounts sample data and integration dependencies before"
+  },
+  {
+    "start": 71.95523394194491,
+    "end": 77.65148467883418,
+    "text": "execution begins Begin with registration The team agrees that"
+  },
+  {
+    "start": 77.66383503702131,
+    "end": 80.94535580645162,
+    "text": "a valid new address creates an account a duplicate"
+  },
+  {
+    "start": 80.9577427789568,
+    "end": 84.64790723448405,
+    "text": "address is handled safely and an invalid address cannot"
+  },
+  {
+    "start": 84.66029333521976,
+    "end": 90.3688935585267,
+    "text": "complete registration List the environment build identifier and account"
+  },
+  {
+    "start": 90.38128053103188,
+    "end": 94.56675389171855,
+    "text": "data needed for each check If outbound email is"
+  },
+  {
+    "start": 94.57914086422373,
+    "end": 99.52000334889644,
+    "text": "unavailable mark email-confirmation scenarios as blocked rather than failed"
+  },
+  {
+    "start": 99.53239032140162,
+    "end": 104.07696034993398,
+    "text": "or passed This distinction matters because a failure indicates"
+  },
+  {
+    "start": 104.08934732243915,
+    "end": 108.20057556380871,
+    "text": "observed incorrect behavior while a blocked result indicates missing"
+  },
+  {
+    "start": 108.21292592199583,
+    "end": 113.22806926853423,
+    "text": "evidence Planning dependencies early makes the dashboard easier to"
+  },
+  {
+    "start": 113.24045624103942,
+    "end": 116.22477684729296,
+    "text": "interpret later and gives the team time to restore"
+  },
+  {
+    "start": 116.23716381979816,
+    "end": 117.53740799542538,
+    "text": "missing capabilities"
+  },
+  {
+    "start": 119.17053031977602,
+    "end": 123.84003794001438,
+    "text": "Suppose forty test cases exist twenty-eight passed six failed"
+  },
+  {
+    "start": 123.97628323133105,
+    "end": 127.43789372490238,
+    "text": "four blocked and two not run The numbers are"
+  },
+  {
+    "start": 127.45028354470602,
+    "end": 132.16931120551504,
+    "text": "useful but risk matters more than raw percentages One"
+  },
+  {
+    "start": 132.1817010253187,
+    "end": 137.32189013064584,
+    "text": "failed payment test can outweigh several cosmetic failures Calculate"
+  },
+  {
+    "start": 137.33424332771517,
+    "end": 142.43726558954097,
+    "text": "the illustrative status carefully There are forty tests twenty-eight"
+  },
+  {
+    "start": 142.44965453737476,
+    "end": 145.79384033718318,
+    "text": "passed six failed four blocked and two not run"
+  },
+  {
+    "start": 146.64848067252433,
+    "end": 150.05461208347148,
+    "text": "Twenty-eight out of forty is seventy percent passed across"
+  },
+  {
+    "start": 150.06700190327513,
+    "end": 154.7736406162504,
+    "text": "the planned set Twenty-eight out of thirty-four executed tests"
+  },
+  {
+    "start": 154.78603043605403,
+    "end": 160.18632030421088,
+    "text": "is approximately eighty-two percent Both calculations can be mathematically"
+  },
+  {
+    "start": 160.19871012401453,
+    "end": 166.14394627864354,
+    "text": "correct but answer different questions Label the denominator More"
+  },
+  {
+    "start": 166.15633522647732,
+    "end": 170.7515074157733,
+    "text": "importantly inspect the six failures a broken account-ownership check"
+  },
+  {
+    "start": 170.76389723557693,
+    "end": 174.08330426774796,
+    "text": "may prevent release even if many visual checks pass"
+  },
+  {
+    "start": 174.92559140601975,
+    "end": 178.56704655609894,
+    "text": "Do not compress blocked work unexecuted work and failed"
+  },
+  {
+    "start": 178.57943550393273,
+    "end": 181.3415081737677,
+    "text": "behavior into a single reassuring percentage"
+  },
+  {
+    "start": 182.93720356617519,
+    "end": 188.69707149100387,
+    "text": "Record a concise title environment reproduction steps expected behavior"
+  },
+  {
+    "start": 188.87049758323468,
+    "end": 195.5530149916586,
+    "text": "actual behavior and evidence Severity describes impact priority describes"
+  },
+  {
+    "start": 195.5653699929143,
+    "end": 200.6068252903796,
+    "text": "urgency Link defects to affected stories to maintain context"
+  },
+  {
+    "start": 201.46153011538945,
+    "end": 205.46246548496754,
+    "text": "Write a defect that a colleague can reproduce Use"
+  },
+  {
+    "start": 205.47485623968538,
+    "end": 209.06706064627957,
+    "text": "a title such as Duplicate registration returns an internal"
+  },
+  {
+    "start": 209.0794514009974,
+    "end": 213.873177063601,
+    "text": "error on build forty-two Specify the test environment a"
+  },
+  {
+    "start": 213.88556694628315,
+    "end": 218.7783767889176,
+    "text": "synthetic existing address the exact registration action the expected"
+  },
+  {
+    "start": 218.79076754363544,
+    "end": 223.8322237131364,
+    "text": "safe response and the actual error Attach sanitized evidence"
+  },
+  {
+    "start": 223.84461446785423,
+    "end": 228.42774264610915,
+    "text": "and link the relevant story Severity describes the impact"
+  },
+  {
+    "start": 228.440133400827,
+    "end": 232.28006918635418,
+    "text": "of the defect priority expresses how urgently the team"
+  },
+  {
+    "start": 232.29245994107202,
+    "end": 236.4544306481631,
+    "text": "chooses to address it They often influence each other"
+  },
+  {
+    "start": 236.46682140288092,
+    "end": 240.75269529697198,
+    "text": "but are not interchangeable A small-looking visual issue might"
+  },
+  {
+    "start": 240.76504942619204,
+    "end": 244.75363066655007,
+    "text": "still be urgent before a time-sensitive demonstration while its"
+  },
+  {
+    "start": 244.7660214212679,
+    "end": 246.78507436609803,
+    "text": "functional severity remains low"
+  },
+  {
+    "start": 248.40387119719853,
+    "end": 253.80459253255637,
+    "text": "Useful indicators include defect leakage execution progress cycle time"
+  },
+  {
+    "start": 253.9408496115124,
+    "end": 258.46807281407314,
+    "text": "blocked tests and automated test stability A high pass"
+  },
+  {
+    "start": 258.4804637058164,
+    "end": 262.66726222231347,
+    "text": "rate is not proof of adequate coverage Use metrics"
+  },
+  {
+    "start": 262.6796522420114,
+    "end": 267.8202503112005,
+    "text": "to identify patterns rather than reward superficial numbers Build"
+  },
+  {
+    "start": 267.83264033089847,
+    "end": 273.2209716465584,
+    "text": "a balanced dashboard Show unresolved critical risks blocked work"
+  },
+  {
+    "start": 273.4935224303732,
+    "end": 276.9990355520902,
+    "text": "test execution and defect trends with enough context to"
+  },
+  {
+    "start": 277.01142644383344,
+    "end": 282.2015854638597,
+    "text": "explain changes If execution falls because the test environment"
+  },
+  {
+    "start": 282.2139754835577,
+    "end": 286.67328815796674,
+    "text": "was unavailable annotate that cause If the pass rate"
+  },
+  {
+    "start": 286.68567904971,
+    "end": 290.73621961520575,
+    "text": "improves because failing tests were removed the apparent improvement"
+  },
+  {
+    "start": 290.74861050694903,
+    "end": 294.70006492462795,
+    "text": "is misleading unless the scope change is visible For"
+  },
+  {
+    "start": 294.71245581637123,
+    "end": 298.9735961951467,
+    "text": "automation track unstable checks separately so repeated reruns do"
+  },
+  {
+    "start": 298.98598708688996,
+    "end": 304.58491734378424,
+    "text": "not disguise unreliable feedback Metrics are prompts for investigation"
+  },
+  {
+    "start": 305.43959412275666,
+    "end": 308.3133828005308,
+    "text": "Choose a small set that helps the team decide"
+  },
+  {
+    "start": 308.325773692274,
+    "end": 311.1871714783049,
+    "text": "what to fix finish or investigate next"
+  },
+  {
+    "start": 312.80384709101816,
+    "end": 316.60560318989917,
+    "text": "A good update answers what was tested what remains"
+  },
+  {
+    "start": 316.79137072532427,
+    "end": 320.54953661202956,
+    "text": "what risks exist and what help is needed For"
+  },
+  {
+    "start": 320.5619240785257,
+    "end": 325.0200040532689,
+    "text": "example registration and profile testing are complete search is"
+  },
+  {
+    "start": 325.03239064796077,
+    "end": 329.4285725214144,
+    "text": "underway two critical defects remain performance testing is blocked"
+  },
+  {
+    "start": 329.4409591161063,
+    "end": 333.292226721585,
+    "text": "by test data Turn the dashboard into a useful"
+  },
+  {
+    "start": 333.3046141880811,
+    "end": 337.4902553367259,
+    "text": "update Registration and profile editing have been checked on"
+  },
+  {
+    "start": 337.50264193141777,
+    "end": 342.22081075334575,
+    "text": "the release candidate Customer search remains partly blocked by"
+  },
+  {
+    "start": 342.2331973480376,
+    "end": 347.3847609827186,
+    "text": "incomplete test data One critical authorization defect is open"
+  },
+  {
+    "start": 348.25162558338957,
+    "end": 351.5951761925514,
+    "text": "The release decision needs either a verified fix or"
+  },
+  {
+    "start": 351.60756278724324,
+    "end": 355.71891836810244,
+    "text": "a clear scope change that removes the exposure This"
+  },
+  {
+    "start": 355.7313058345986,
+    "end": 358.8395425295678,
+    "text": "message is stronger than listing how many tickets moved"
+  },
+  {
+    "start": 358.8519657400379,
+    "end": 364.7712977306381,
+    "text": "today It connects completed work with remaining uncertainty Include"
+  },
+  {
+    "start": 364.78368519713416,
+    "end": 367.19847397613967,
+    "text": "an owner and next step for the blocker so"
+  },
+  {
+    "start": 367.21086144263575,
+    "end": 371.161260165036,
+    "text": "stakeholders understand how the uncertainty can be reduced rather"
+  },
+  {
+    "start": 371.1736110157539,
+    "end": 373.86083862085775,
+    "text": "than simply being informed that it exists"
+  },
+  {
+    "start": 375.4705226676658,
+    "end": 379.71849515111785,
+    "text": "Open a story review criteria create test tasks log"
+  },
+  {
+    "start": 379.7309205031535,
+    "end": 385.1985627872487,
+    "text": "linked defects verify fixes and update quality status Maintain"
+  },
+  {
+    "start": 385.210951519764,
+    "end": 390.1277394365868,
+    "text": "traceability from requirements to results Follow one story through"
+  },
+  {
+    "start": 390.14012816910207,
+    "end": 395.4903918118522,
+    "text": "its evidence Start with the acceptance criteria Link a"
+  },
+  {
+    "start": 395.5027805443675,
+    "end": 398.7723805818347,
+    "text": "set of checks record their results against the build"
+  },
+  {
+    "start": 399.00768279786445,
+    "end": 401.843806237511,
+    "text": "create a linked defect for a failure and attach"
+  },
+  {
+    "start": 401.8561949700263,
+    "end": 406.30237758289627,
+    "text": "retest evidence after the fix Then run any relevant"
+  },
+  {
+    "start": 406.3147305677845,
+    "end": 410.78565402616465,
+    "text": "regression checks before marking the work complete These links"
+  },
+  {
+    "start": 410.7980418867866,
+    "end": 414.00573749687777,
+    "text": "let another team member reconstruct why the story was"
+  },
+  {
+    "start": 414.0181262293931,
+    "end": 418.0803496830898,
+    "text": "judged ready The exact screens depend on the tracking"
+  },
+  {
+    "start": 418.0927375437118,
+    "end": 422.77422324450487,
+    "text": "product the relationship among requirement test defect and evidence"
+  },
+  {
+    "start": 422.7865753574997,
+    "end": 426.972644285469,
+    "text": "matters more than the tool Avoid duplicating the same"
+  },
+  {
+    "start": 426.9850687656114,
+    "end": 430.3661264167292,
+    "text": "status manually in several places where it can drift"
+  },
+  {
+    "start": 431.9705449967512,
+    "end": 435.0799669692171,
+    "text": "For your practice task write a release update in"
+  },
+  {
+    "start": 435.0923222455735,
+    "end": 439.86763350491395,
+    "text": "four sentences Say what was tested what remains which"
+  },
+  {
+    "start": 439.880061166951,
+    "end": 443.75749172250653,
+    "text": "risk matters most and what help is needed Use"
+  },
+  {
+    "start": 443.76988275564497,
+    "end": 446.76778368563197,
+    "text": "the forty-test example but do not rely on the"
+  },
+  {
+    "start": 446.780175590887,
+    "end": 450.7071711511128,
+    "text": "pass rate as your recommendation A good answer could"
+  },
+  {
+    "start": 450.7195621842512,
+    "end": 454.9934421357213,
+    "text": "say that most registration scenarios pass search data blocks"
+  },
+  {
+    "start": 455.0058340409763,
+    "end": 459.56460484486684,
+    "text": "four checks a failed account-isolation scenario is critical and"
+  },
+  {
+    "start": 459.5769967501219,
+    "end": 463.6031231918048,
+    "text": "the team needs a fix plus focused retesting Now"
+  },
+  {
+    "start": 463.6155150970598,
+    "end": 466.68772646909525,
+    "text": "ask whether the release would become acceptable if five"
+  },
+  {
+    "start": 466.70011837435027,
+    "end": 471.01113654057025,
+    "text": "cosmetic failures were resolved while the authorization failure remained"
+  },
+  {
+    "start": 471.87831088978237,
+    "end": 473.9718992558074,
+    "text": "The risk-based answer is still no."
+  },
+  {
+    "start": 475.5705433196857,
+    "end": 479.9989207859782,
+    "text": "Here is a second numerical example Yesterday the team"
+  },
+  {
+    "start": 480.01131158083916,
+    "end": 484.198372038096,
+    "text": "planned forty checks and passed twenty-eight Today it removes"
+  },
+  {
+    "start": 484.21076370505676,
+    "end": 487.159077818368,
+    "text": "ten checks from scope and passes the same twenty-eight"
+  },
+  {
+    "start": 487.17146948532877,
+    "end": 491.17273604346093,
+    "text": "of the remaining thirty The displayed pass rate rises"
+  },
+  {
+    "start": 491.1850910822275,
+    "end": 496.3631840218952,
+    "text": "dramatically but no additional behavior was tested That change"
+  },
+  {
+    "start": 496.37557568885603,
+    "end": 499.4601554058427,
+    "text": "may be legitimate if the release scope changed yet"
+  },
+  {
+    "start": 499.4725113167091,
+    "end": 503.6472158630995,
+    "text": "the report must explain it Record which feature or"
+  },
+  {
+    "start": 503.6596075300603,
+    "end": 505.98847695920995,
+    "text": "risk moved out of scope and who made the"
+  },
+  {
+    "start": 506.0008686261707,
+    "end": 510.8569029351382,
+    "text": "decision Otherwise a chart can suggest improved product quality"
+  },
+  {
+    "start": 510.86929372999913,
+    "end": 515.7872462571769,
+    "text": "when only the denominator changed A useful dashboard preserves"
+  },
+  {
+    "start": 515.7996379241376,
+    "end": 519.8628235725799,
+    "text": "the relationship between scope execution and risk so readers"
+  },
+  {
+    "start": 519.8752143674409,
+    "end": 523.2818187032332,
+    "text": "can interpret movement rather than simply admire a higher"
+  },
+  {
+    "start": 523.2942461262884,
+    "end": 524.0498840298368,
+    "text": "percentage"
+  },
+  {
+    "start": 525.6372015107213,
+    "end": 529.3219737235015,
+    "text": "Track blocked work with the same care If four"
+  },
+  {
+    "start": 529.3343633141448,
+    "end": 533.5581864897052,
+    "text": "checks need unavailable search data record the data dependency"
+  },
+  {
+    "start": 533.5705403277291,
+    "end": 537.8810923818227,
+    "text": "and the person coordinating its restoration Separate the age"
+  },
+  {
+    "start": 537.893482844481,
+    "end": 541.5351260620737,
+    "text": "of the blocker from the time spent actively investigating"
+  },
+  {
+    "start": 542.4022003316886,
+    "end": 546.0314539586379,
+    "text": "If the team can safely prepare synthetic data describe"
+  },
+  {
+    "start": 546.0438444212964,
+    "end": 549.0909189622929,
+    "text": "what it must represent and how its suitability will"
+  },
+  {
+    "start": 549.1033460495859,
+    "end": 553.1908802400098,
+    "text": "be checked Once the blocker is removed update the"
+  },
+  {
+    "start": 553.2032698306531,
+    "end": 557.3775695242447,
+    "text": "result after execution do not automatically convert Blocked to"
+  },
+  {
+    "start": 557.3899599869031,
+    "end": 561.5394438745736,
+    "text": "Passed The absence of an obstacle is not evidence"
+  },
+  {
+    "start": 561.551833465217,
+    "end": 566.4445646052633,
+    "text": "of correct behavior This small reporting discipline prevents an"
+  },
+  {
+    "start": 566.4569184432871,
+    "end": 570.3339342345882,
+    "text": "optimistic workflow shortcut from becoming a false claim about"
+  },
+  {
+    "start": 570.3463238252316,
+    "end": 572.4148892860625,
+    "text": "what the team actually verified"
+  },
+  {
+    "start": 574.0035991515481,
+    "end": 578.2390941228903,
+    "text": "Tracking exists to support decisions not to generate paperwork"
+  },
+  {
+    "start": 579.1093969621581,
+    "end": 582.6040107004243,
+    "text": "Knowledge check why can a sprint with ninety-five percent"
+  },
+  {
+    "start": 582.6163264255574,
+    "end": 586.9258948286173,
+    "text": "passing tests still be unsafe to release Subscribe to"
+  },
+  {
+    "start": 586.9382470653941,
+    "end": 589.5314065777598,
+    "text": "Tech at sixty for the next episode in this"
+  },
+  {
+    "start": 589.5437588145365,
+    "end": 594.730077839268,
+    "text": "Agile Testing Masterclass Practice the example with synthetic data"
+  },
+  {
+    "start": 594.8906134511237,
+    "end": 598.0147487572209,
+    "text": "and share the most important risk you identified in"
+  },
+  {
+    "start": 598.0271009939977,
+    "end": 598.7432794921699,
+    "text": "the comments"
+  }
+]

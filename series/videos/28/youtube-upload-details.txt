@@ -1,0 +1,18 @@
+CSS Display Property | Web Development in 60 Seconds
+
+Display controls how an element participates in layout. Learn css display property with a quick example for beginners.
+
+Block elements normally start a new line; inline elements flow with text.
+Inline block boxes flow inline while accepting width and height.
+
+Try it: Compare a block container with two inline block labels.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 28
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: css display property, web development for beginners, learn to code, coding shorts, css tutorial

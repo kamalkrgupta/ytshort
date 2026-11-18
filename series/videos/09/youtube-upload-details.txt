@@ -1,0 +1,20 @@
+HTML Attributes | Web Development in 60 Seconds
+
+Attributes provide additional information about an element. Learn html attributes with a quick example for beginners.
+
+Write attributes inside the opening tag, commonly as name and value.
+An I D identifies one element; a class can group several.
+
+Try it: Give two paragraphs the same class and different identifiers.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 9
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content
+
+#WebDevelopment #LearnToCode #Shorts
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU
+
+Tags: html attributes, web development for beginners, learn to code, coding shorts, html tutorial, TECH AT 60

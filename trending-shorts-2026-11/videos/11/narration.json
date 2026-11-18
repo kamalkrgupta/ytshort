@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "Does sorting short messages need the same model as a complex research task? Not necessarily.",
+    "idea": "Small language models use fewer parameters and can be easier to run on limited hardware.",
+    "demo": "A focused model might classify a message, transform a short sentence, or handle a narrow assistant feature.",
+    "compare": "Smaller does not automatically mean better, faster, or accurate enough. The task and implementation decide the tradeoff.",
+    "takeaway": "Compare real outputs, memory use, and response time on your own examples before choosing.",
+    "close": "What small task would you automate? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

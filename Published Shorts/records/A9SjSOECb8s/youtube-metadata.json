@@ -1,0 +1,13 @@
+{
+  "title": "CSS Class vs ID: Which Should You Use?",
+  "description": "Compare CSS classes and IDs with a beginner code example. Reuse a class across elements and keep each ID unique.\n\nTo style three matching cards, would you choose a class or an ID?\n\nNext lesson: https://www.youtube.com/watch?v=tozXzYirna4\nFull beginner course: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU\n\nA dot selects a class; a hash selects an identifier.\nReuse a class to apply the same style to several elements.\n\nTry it: Style two elements with one shared class.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 27\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "coding shorts",
+    "css classes vs ids",
+    "css tutorial",
+    "learn to code",
+    "web development for beginners"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-01T10:30:00Z"
+}

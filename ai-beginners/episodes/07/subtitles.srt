@@ -1,0 +1,271 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,336
+Welcome to episode 7 of AI for Beginners Today
+
+4
+00:00:12,542 --> 00:00:16,602
+we’re looking at writing your first great prompt By
+
+5
+00:00:16,614 --> 00:00:20,300
+the end you’ll understand one practical idea watch a
+
+6
+00:00:20,313 --> 00:00:25,377
+realistic example and try a small exercise yourself You
+
+7
+00:00:25,390 --> 00:00:30,326
+don’t need a technical background or expensive software Bring
+
+8
+00:00:30,339 --> 00:00:35,596
+your curiosity We’ll work through it together Here’s the
+
+9
+00:00:35,609 --> 00:00:39,449
+example we’ll use asking for a polite email about
+
+10
+00:00:39,462 --> 00:00:43,560
+a delayed delivery We’ll use that situation to make
+
+11
+00:00:43,573 --> 00:00:47,452
+the topic concrete Watch how we break the task
+
+12
+00:00:47,465 --> 00:00:50,803
+into small steps because the same thinking will help
+
+13
+00:00:50,815 --> 00:00:53,805
+you use many different AI tools later in this
+
+14
+00:00:53,818 --> 00:00:54,346
+course
+
+15
+00:01:00,717 --> 00:01:05,808
+Let’s start with the main idea specify goal context
+
+16
+00:01:05,963 --> 00:01:10,113
+audience and output format Think of AI as a
+
+17
+00:01:10,125 --> 00:01:13,682
+tool that processes information and returns an output based
+
+18
+00:01:13,695 --> 00:01:17,870
+on its training instructions and any relevant information it
+
+19
+00:01:17,883 --> 00:01:21,582
+can access It can save time on drafts and
+
+20
+00:01:21,594 --> 00:01:25,164
+patterns but it doesn’t automatically know what’s correct for
+
+21
+00:01:25,177 --> 00:01:29,326
+your situation The most useful habit is to define
+
+22
+00:01:29,339 --> 00:01:33,257
+what you want before touching the tool Ask yourself
+
+23
+00:01:33,270 --> 00:01:36,955
+three questions what’s my goal what information does the
+
+24
+00:01:36,968 --> 00:01:39,623
+tool need and how will I check the result
+
+25
+00:01:40,525 --> 00:01:44,185
+Those questions work whether you’re writing a prompt building a
+
+26
+00:01:44,198 --> 00:01:47,071
+workflow or reviewing a generated answer
+
+27
+00:01:53,483 --> 00:01:57,493
+Let’s try it with an example Our example is
+
+28
+00:01:57,505 --> 00:02:00,714
+asking for a polite email about a delayed delivery
+
+29
+00:02:01,668 --> 00:02:04,812
+Start by writing down the desired result in one
+
+30
+00:02:04,825 --> 00:02:09,915
+sentence Next identify the input what would a person
+
+31
+00:02:09,928 --> 00:02:13,446
+need to know to do this task correctly Then
+
+32
+00:02:13,459 --> 00:02:16,346
+write a simple instruction with that context and a
+
+33
+00:02:16,359 --> 00:02:20,688
+clear format On screen I am showing a sample
+
+34
+00:02:20,701 --> 00:02:25,444
+request followed by a possible output Notice that we’re
+
+35
+00:02:25,457 --> 00:02:28,614
+not judging the result by how impressive it sounds
+
+36
+00:02:29,503 --> 00:02:33,640
+We’re checking whether it actually meets the task If
+
+37
+00:02:33,652 --> 00:02:36,359
+the output is too broad ask for a more
+
+38
+00:02:36,371 --> 00:02:40,946
+specific version If a fact matters verify it from
+
+39
+00:02:40,959 --> 00:02:44,554
+a reliable source Pause the video here if you’d
+
+40
+00:02:44,567 --> 00:02:47,338
+like to copy the structure into your own notes
+
+41
+00:02:53,750 --> 00:02:58,661
+Your turn Try this exercise rewrite a vague request
+
+42
+00:02:58,674 --> 00:03:02,733
+into a specific prompt Begin with a very small
+
+43
+00:03:02,746 --> 00:03:08,120
+example not a complex project Give yourself thirty seconds
+
+44
+00:03:08,133 --> 00:03:12,179
+to decide what success would look like Then complete
+
+45
+00:03:12,192 --> 00:03:16,574
+the task once and inspect the result What’s useful
+
+46
+00:03:17,450 --> 00:03:22,927
+What’s missing What would you change Make one improvement
+
+47
+00:03:22,940 --> 00:03:27,282
+and compare the first and second versions This simple
+
+48
+00:03:27,295 --> 00:03:31,509
+before-and-after comparison teaches you more than copying a complicated
+
+49
+00:03:31,522 --> 00:03:35,246
+prompt from the internet If your chosen tool is
+
+50
+00:03:35,259 --> 00:03:39,409
+unavailable do the exercise on paper sketch the input
+
+51
+00:03:39,550 --> 00:03:43,468
+the steps and the output The objective is to
+
+52
+00:03:43,481 --> 00:03:46,935
+practice the underlying thinking not to depend on one
+
+53
+00:03:46,947 --> 00:03:47,953
+particular app
+
+54
+00:03:54,383 --> 00:03:59,010
+Before we finish remember this important limitation vague prompts
+
+55
+00:03:59,022 --> 00:04:04,153
+often lead to generic answers Responsible AI use means
+
+56
+00:04:04,166 --> 00:04:07,413
+understanding the strengths of the tool and keeping yourself
+
+57
+00:04:07,426 --> 00:04:11,511
+accountable for the final result Today you learned that
+
+58
+00:04:11,524 --> 00:04:15,983
+specify goal context audience and output format saw the
+
+59
+00:04:15,996 --> 00:04:18,947
+example of asking for a polite email about a
+
+60
+00:04:18,960 --> 00:04:23,972
+delayed delivery and practiced a small hands-on task Here’s
+
+61
+00:04:23,985 --> 00:04:27,426
+your challenge repeat the exercise with a different topic
+
+62
+00:04:27,439 --> 00:04:31,086
+and write down one thing that improved In the
+
+63
+00:04:31,099 --> 00:04:34,166
+comments share the part you found easiest or the
+
+64
+00:04:34,179 --> 00:04:38,070
+question you still have If this helped share it
+
+65
+00:04:38,083 --> 00:04:42,400
+with someone learning AI And subscribe to Tech at
+
+66
+00:04:42,413 --> 00:04:46,820
+sixty for the next lesson We’re building practical AI
+
+67
+00:04:46,833 --> 00:04:50,751
+skills one simple step at a time Thanks for
+
+68
+00:04:50,764 --> 00:04:53,947
+watching See you in the next lesson

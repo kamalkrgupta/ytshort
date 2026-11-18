@@ -1,0 +1,164 @@
+{
+  "videos": [
+    {
+      "kind": "youtube#video",
+      "etag": "Jc9-6oxFMs7SMc-xLDX-X07zsMs",
+      "id": "6RfLeN89OdU",
+      "snippet": {
+        "publishedAt": "2026-11-01T08:30:12Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "AI Research for Beginners: Find Sources and Verify Claims | Ep 11",
+        "description": "AI Research for Beginners: Find Sources and Verify Claims. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 11 of 50\n\nWhat you will learn: Build research questions, request sources and verify independently.\nExample: researching solar panels for a school project.\nTry it: create a research checklist and verify one claim.\nRemember: a model may invent citations or rely on outdated information.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6RfLeN89OdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6RfLeN89OdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6RfLeN89OdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6RfLeN89OdU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6RfLeN89OdU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "using chatgpt for research"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "AI Research for Beginners: Find Sources and Verify Claims | Ep 11",
+          "description": "AI Research for Beginners: Find Sources and Verify Claims. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 11 of 50\n\nWhat you will learn: Build research questions, request sources and verify independently.\nExample: researching solar panels for a school project.\nTry it: create a research checklist and verify one claim.\nRemember: a model may invent citations or rely on outdated information.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aK0w6ewyKFbbb4u3sT1UVM90oXU",
+      "id": "EmlbxCoB6t0",
+      "snippet": {
+        "publishedAt": "2026-11-01T08:30:26Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "AI Hallucinations: How to Spot and Check Confident Errors | Ep 12",
+        "description": "AI Hallucinations: How to Spot and Check Confident Errors. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 12 of 50\n\nWhat you will learn: Recognize confident errors and corroborate important details.\nExample: a made-up book title presented as real.\nTry it: ask for sources and check an official page.\nRemember: never trust unsupported claims in health, finance or legal matters.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EmlbxCoB6t0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EmlbxCoB6t0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EmlbxCoB6t0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EmlbxCoB6t0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EmlbxCoB6t0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai hallucinations and fact checking",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "AI Hallucinations: How to Spot and Check Confident Errors | Ep 12",
+          "description": "AI Hallucinations: How to Spot and Check Confident Errors. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 12 of 50\n\nWhat you will learn: Recognize confident errors and corroborate important details.\nExample: a made-up book title presented as real.\nTry it: ask for sources and check an official page.\nRemember: never trust unsupported claims in health, finance or legal matters.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    }
+  ]
+}

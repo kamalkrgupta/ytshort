@@ -1,0 +1,15 @@
+AI World Models: Predicting What Happens Next
+
+World models generate or predict changing environments. An action changes the next state of a simulated world.
+
+A generated world is not guaranteed real-world physics.
+
+What would you try in a simulated world?
+Subscribe to @Techat60 for clear, beginner-friendly tech explainers.
+
+Source checked November 16, 2026:
+https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
+
+Original illustrative diagrams; not a product demonstration or benchmark.
+
+#Technology #TechExplained #Shorts

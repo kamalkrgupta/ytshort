@@ -1,0 +1,16 @@
+{
+  "videoNumber": 20,
+  "phase": "Phase 2 — Advanced HTML & CSS Basics",
+  "topic": "HTML Meta Tags",
+  "description": "Understand page titles, descriptions, and viewport settings.",
+  "publishLocal": "2026-10-29T11:00:00+05:30",
+  "publishAt": "2026-10-29T05:30:00Z",
+  "status": "planned",
+  "definition": "Document metadata describes a page to browsers and other services.",
+  "code": "<head>\n <title>My first site</title>\n <meta name=\"viewport\"\n content=\"width=device-width,\n initial-scale=1\">\n</head>",
+  "preview": "<div style=\"background:#dde4ee;padding:18px\">◉ My first site</div><h2>Page content</h2>",
+  "rule": "The title element supplies the browser tab title.",
+  "tip": "The viewport meta tag supports appropriate sizing on mobile screens.",
+  "caution": "Metadata belongs in the head; visible page content belongs in the body.",
+  "exercise": "Add a useful title and a viewport declaration to your document."
+}

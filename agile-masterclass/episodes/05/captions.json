@@ -1,0 +1,702 @@
+[
+  {
+    "start": 0.3334568999604587,
+    "end": 4.470728394375248,
+    "text": "Effective Agile Testing depends on continuous quality work shared"
+  },
+  {
+    "start": 4.48258595072163,
+    "end": 10.35635183916568,
+    "text": "responsibility adaptability risk awareness and improvement We will apply"
+  },
+  {
+    "start": 10.368210230081061,
+    "end": 13.699391557433769,
+    "text": "these principles to a subscription software as a service"
+  },
+  {
+    "start": 13.711214896451168,
+    "end": 18.061892360616845,
+    "text": "product Use a subscription service as a running example"
+  },
+  {
+    "start": 18.879840084025307,
+    "end": 21.99761544162713,
+    "text": "Customers can start a paid plan renew it and"
+  },
+  {
+    "start": 22.009508884440493,
+    "end": 25.88597673190985,
+    "text": "cancel future renewals A defect in a color choice"
+  },
+  {
+    "start": 25.89783512282523,
+    "end": 29.48978504522539,
+    "text": "is inconvenient a defect that charges a cancelled account"
+  },
+  {
+    "start": 29.501643436140768,
+    "end": 34.37392652505932,
+    "text": "can damage trust and require financial correction Agile Testing"
+  },
+  {
+    "start": 34.385784081405696,
+    "end": 37.39683892818308,
+    "text": "principles help the team choose what to clarify and"
+  },
+  {
+    "start": 37.408697319098465,
+    "end": 41.93720808397588,
+    "text": "investigate first They do not guarantee a defect-free product"
+  },
+  {
+    "start": 42.76701336373073,
+    "end": 47.33106174574931,
+    "text": "Their practical value comes from repeated conversations focused examples"
+  },
+  {
+    "start": 47.342920136664695,
+    "end": 51.243103931395815,
+    "text": "and fast feedback We will connect each principle to"
+  },
+  {
+    "start": 51.254962322311194,
+    "end": 54.28976733367932,
+    "text": "a concrete action on the subscription journey rather than"
+  },
+  {
+    "start": 54.30162572459471,
+    "end": 55.688645184608546,
+    "text": "leaving it as a slogan"
+  },
+  {
+    "start": 57.26676627516197,
+    "end": 61.68728632310397,
+    "text": "Clarify subscription rules during refinement add unit tests during"
+  },
+  {
+    "start": 61.6991413098084,
+    "end": 66.81889865961611,
+    "text": "implementation validate workflows during integration and execute regression checks"
+  },
+  {
+    "start": 66.83075364632055,
+    "end": 72.45392534321623,
+    "text": "after changes Quality is evaluated repeatedly not inspected only"
+  },
+  {
+    "start": 72.46577949559124,
+    "end": 77.2892464450594,
+    "text": "at release During refinement ask when a cancellation becomes"
+  },
+  {
+    "start": 77.30110143176384,
+    "end": 81.69794738246196,
+    "text": "effective Does access continue until the paid period ends"
+  },
+  {
+    "start": 82.51566029605377,
+    "end": 86.17770565343172,
+    "text": "What happens if cancellation arrives while renewal is processing"
+  },
+  {
+    "start": 86.99545277452967,
+    "end": 90.88266278366766,
+    "text": "Write two examples with timestamps and expected billing outcomes"
+  },
+  {
+    "start": 91.71226489147003,
+    "end": 95.44540178992133,
+    "text": "During implementation developers can check the billing rule at"
+  },
+  {
+    "start": 95.45725677662577,
+    "end": 100.07923233724836,
+    "text": "a low level During integration the team checks notifications"
+  },
+  {
+    "start": 100.20959714318504,
+    "end": 105.80342714309842,
+    "text": "payment-provider messages and account access Before release regression checks"
+  },
+  {
+    "start": 105.81524792229669,
+    "end": 110.60318578781657,
+    "text": "cover existing subscribers The same rule receives attention at"
+  },
+  {
+    "start": 110.61504077452099,
+    "end": 114.36003265967673,
+    "text": "several points because different kinds of evidence become available"
+  },
+  {
+    "start": 114.37188681205174,
+    "end": 119.36128019025222,
+    "text": "at different times Continuous quality is this repeated investigation"
+  },
+  {
+    "start": 119.37310096945049,
+    "end": 120.48710428338183,
+    "text": "across delivery"
+  },
+  {
+    "start": 122.13343356692116,
+    "end": 127.24137503355645,
+    "text": "Developers contribute reviews and tests testers contribute risk analysis"
+  },
+  {
+    "start": 127.25323010908028,
+    "end": 132.74041134513473,
+    "text": "and exploration Product Owners clarify expectations operations and security"
+  },
+  {
+    "start": 132.75226642065857,
+    "end": 137.96071112767143,
+    "text": "specialists address operational concerns A failed renewal may require"
+  },
+  {
+    "start": 137.97253116109715,
+    "end": 143.32934828317295,
+    "text": "joint investigation of code rules and logs Shared responsibility"
+  },
+  {
+    "start": 143.3412033586968,
+    "end": 147.6551008942579,
+    "text": "becomes visible when a renewal fails The tester notices"
+  },
+  {
+    "start": 147.66695513544607,
+    "end": 152.2771469598717,
+    "text": "an incorrect charge A developer examines the state transition"
+  },
+  {
+    "start": 153.09486516555972,
+    "end": 158.04873320150438,
+    "text": "The Product Owner clarifies the cancellation rule Operations helps"
+  },
+  {
+    "start": 158.06058744269254,
+    "end": 162.4574671695778,
+    "text": "locate a delayed provider message A security specialist may"
+  },
+  {
+    "start": 162.46928720300352,
+    "end": 167.648320743341,
+    "text": "check that only authorized people can change subscriptions Collaboration"
+  },
+  {
+    "start": 167.66021086096293,
+    "end": 170.94300884343514,
+    "text": "does not mean everyone has identical skills or that"
+  },
+  {
+    "start": 170.9548630846233,
+    "end": 174.59322656190076,
+    "text": "nobody owns a task It means the team uses"
+  },
+  {
+    "start": 174.6050816374246,
+    "end": 178.51603008685458,
+    "text": "its combined expertise to solve the customer problem A"
+  },
+  {
+    "start": 178.52788432804275,
+    "end": 181.11147397761738,
+    "text": "handoff that says testing will handle quality at the"
+  },
+  {
+    "start": 181.12332905314122,
+    "end": 184.50096263379004,
+    "text": "end delays that shared understanding until changes are harder"
+  },
+  {
+    "start": 184.51281770931388,
+    "end": 185.0105681858592,
+    "text": "to make"
+  },
+  {
+    "start": 186.60008778738816,
+    "end": 190.99631077567088,
+    "text": "If cancellation rules change update criteria billing tests and"
+  },
+  {
+    "start": 191.00812904584348,
+    "end": 196.03803972240704,
+    "text": "notifications Fast test results help developers act while code"
+  },
+  {
+    "start": 196.04989302945035,
+    "end": 200.8490049939473,
+    "text": "context is fresh Speed matters but meaningful coverage must"
+  },
+  {
+    "start": 200.8608240983311,
+    "end": 205.54140883187327,
+    "text": "remain Suppose the business changes from immediate cancellation to"
+  },
+  {
+    "start": 205.55326213891658,
+    "end": 209.16737708356433,
+    "text": "access through the end of the paid period Updating"
+  },
+  {
+    "start": 209.17926542747836,
+    "end": 213.96648988227247,
+    "text": "only the user interface leaves several risks Review acceptance"
+  },
+  {
+    "start": 213.9783431893158,
+    "end": 218.8247974740334,
+    "text": "examples billing logic account permissions scheduled renewal jobs and"
+  },
+  {
+    "start": 218.83664994686552,
+    "end": 223.55279376732645,
+    "text": "customer messages Existing automated checks may now encode an"
+  },
+  {
+    "start": 223.56464624015857,
+    "end": 227.38022402555998,
+    "text": "obsolete rule A failing test could indicate either a"
+  },
+  {
+    "start": 227.3920773326033,
+    "end": 232.1674493145653,
+    "text": "defect or an intentionally changed expectation investigate before deleting"
+  },
+  {
+    "start": 232.1793026216086,
+    "end": 236.44514590610444,
+    "text": "it Adaptability means keeping the explanation and the evidence"
+  },
+  {
+    "start": 236.45699837893656,
+    "end": 240.6872825765136,
+    "text": "aligned with the current agreement Fast feedback is useful"
+  },
+  {
+    "start": 240.69917092042763,
+    "end": 243.4956896424743,
+    "text": "when it points to a meaningful difference not when"
+  },
+  {
+    "start": 243.50750791264693,
+    "end": 245.84187362589634,
+    "text": "it merely produces a quick red result"
+  },
+  {
+    "start": 247.43342669654288,
+    "end": 252.80732231514085,
+    "text": "Prioritize by likelihood and impact Billing authentication and account"
+  },
+  {
+    "start": 252.81917558018566,
+    "end": 256.57574040292894,
+    "text": "permissions often deserve more intensive coverage than minor styling"
+  },
+  {
+    "start": 256.58759450224073,
+    "end": 262.5957757862516,
+    "text": "changes Testing effort should reflect business consequences Make risk"
+  },
+  {
+    "start": 262.6075956806178,
+    "end": 268.05880031610116,
+    "text": "prioritization concrete Consider three features a new theme color"
+  },
+  {
+    "start": 268.22468011963826,
+    "end": 273.1188722331146,
+    "text": "cancellation handling and administrator access Discuss both how a"
+  },
+  {
+    "start": 273.13076053737194,
+    "end": 276.16443303457106,
+    "text": "failure might occur and what its consequences would be"
+  },
+  {
+    "start": 276.9939730433739,
+    "end": 280.4661571142766,
+    "text": "A cancellation defect may lead to unwanted charges an"
+  },
+  {
+    "start": 280.4779761743758,
+    "end": 286.6520380961908,
+    "text": "access-control defect may expose customer information Those consequences justify"
+  },
+  {
+    "start": 286.66389219550257,
+    "end": 290.8233378841229,
+    "text": "deeper scenarios than a minor styling change A simple"
+  },
+  {
+    "start": 290.83522702264725,
+    "end": 294.7339993237836,
+    "text": "risk matrix can support the conversation but numerical scores"
+  },
+  {
+    "start": 294.7458534230954,
+    "end": 299.2252755321703,
+    "text": "are estimates rather than precise predictions Review the ranking"
+  },
+  {
+    "start": 299.23712963148205,
+    "end": 303.46769657890525,
+    "text": "when new information appears Testing effort should respond to"
+  },
+  {
+    "start": 303.4795857174296,
+    "end": 307.01100190861075,
+    "text": "the product's actual exposure not stay fixed because an"
+  },
+  {
+    "start": 307.02285600792254,
+    "end": 309.04925542773685,
+    "text": "early spreadsheet assigned a number"
+  },
+  {
+    "start": 310.63344063747996,
+    "end": 316.61269158408913,
+    "text": "Fragile screen-coordinate tests break easily Prefer stable selectors independent"
+  },
+  {
+    "start": 316.6245827093364,
+    "end": 321.4958813360766,
+    "text": "data and clear assertions Review and remove obsolete checks"
+  },
+  {
+    "start": 322.31370388417685,
+    "end": 326.50944708412646,
+    "text": "Automation should provide dependable feedback rather than maximize script"
+  },
+  {
+    "start": 326.52130232989964,
+    "end": 332.31708900925616,
+    "text": "counts Maintainable automation starts with clear intent A browser"
+  },
+  {
+    "start": 332.3289450894357,
+    "end": 335.4461479598216,
+    "text": "test should identify the Cancel subscription button through a"
+  },
+  {
+    "start": 335.45796899493337,
+    "end": 339.71298842374875,
+    "text": "stable meaningful locator arrange its own synthetic customer and"
+  },
+  {
+    "start": 339.7248445039283,
+    "end": 344.3946690362222,
+    "text": "verify the resulting subscription state A screen-coordinate click can"
+  },
+  {
+    "start": 344.40652511640167,
+    "end": 347.3932827349961,
+    "text": "break when the layout changes even if the behavior"
+  },
+  {
+    "start": 347.405173025837,
+    "end": 351.34016423366177,
+    "text": "remains correct A test that relies on another test"
+  },
+  {
+    "start": 351.3519844343672,
+    "end": 354.4810425505263,
+    "text": "to create its account can fail for unrelated reasons"
+  },
+  {
+    "start": 355.29883088796515,
+    "end": 359.1863994438846,
+    "text": "Keep setup independent and assertions connected to customer outcomes"
+  },
+  {
+    "start": 360.00422282639124,
+    "end": 364.34219643377,
+    "text": "When a check becomes flaky investigate its data synchronization"
+  },
+  {
+    "start": 364.35405251394957,
+    "end": 367.4356537675419,
+    "text": "and dependencies instead of teaching the team to ignore"
+  },
+  {
+    "start": 367.44750984772145,
+    "end": 369.32019561009406,
+    "text": "failures through repeated reruns"
+  },
+  {
+    "start": 370.9001106492707,
+    "end": 376.411689170804,
+    "text": "If testing consistently starts late investigate unclear criteria oversized"
+  },
+  {
+    "start": 376.42354572629216,
+    "end": 381.454800657401,
+    "text": "stories or unstable environments Improve the process and observe"
+  },
+  {
+    "start": 381.46669142492203,
+    "end": 386.0300333891391,
+    "text": "whether results change in later sprints Continuous improvement needs"
+  },
+  {
+    "start": 386.04188994462726,
+    "end": 388.77989562382135,
+    "text": "an experiment an owner and a way to inspect"
+  },
+  {
+    "start": 388.7917171328369,
+    "end": 393.05876370030404,
+    "text": "results If testing begins late every sprint the team"
+  },
+  {
+    "start": 393.0706202557923,
+    "end": 396.7331151692934,
+    "text": "might split one large subscription story into smaller slices"
+  },
+  {
+    "start": 396.7450067712543,
+    "end": 401.7587376315764,
+    "text": "and clarify its examples before implementation Observe whether those"
+  },
+  {
+    "start": 401.7705941870646,
+    "end": 406.559131433774,
+    "text": "slices reach verification earlier and whether important misunderstandings decrease"
+  },
+  {
+    "start": 407.4125547658565,
+    "end": 411.5728981750087,
+    "text": "Avoid changing five unrelated process rules at once because"
+  },
+  {
+    "start": 411.584753896057,
+    "end": 415.29467252819154,
+    "text": "it becomes difficult to learn which change helped At"
+  },
+  {
+    "start": 415.3065290836797,
+    "end": 420.4862099988454,
+    "text": "the next retrospective inspect what happened and adjust Improvement"
+  },
+  {
+    "start": 420.4980665543336,
+    "end": 423.1057252227418,
+    "text": "is not the number of action items written on"
+  },
+  {
+    "start": 423.11754673175733,
+    "end": 425.40512846837356,
+    "text": "a board it is a useful change that the"
+  },
+  {
+    "start": 425.4170192358946,
+    "end": 427.7994141977447,
+    "text": "team actually tries and evaluates"
+  },
+  {
+    "start": 429.366778200432,
+    "end": 432.697445023833,
+    "text": "Your exercise is to plan testing for a cancellation-rule"
+  },
+  {
+    "start": 432.70930087055035,
+    "end": 437.6339732677045,
+    "text": "change Identify a business example a technical check a"
+  },
+  {
+    "start": 437.6458299488705,
+    "end": 443.133755198941,
+    "text": "customer-facing observation and one regression risk For instance verify"
+  },
+  {
+    "start": 443.145611880107,
+    "end": 446.4763129159035,
+    "text": "that a cancelled subscription keeps access until the agreed"
+  },
+  {
+    "start": 446.48813455022537,
+    "end": 449.62917291314454,
+    "text": "end date prevents a later renewal and displays an"
+  },
+  {
+    "start": 449.64102959431057,
+    "end": 454.9748605461045,
+    "text": "accurate confirmation Also investigate a delayed payment notification near"
+  },
+  {
+    "start": 454.9867163928219,
+    "end": 459.36044405495676,
+    "text": "the cancellation time Explain which specialists should join the"
+  },
+  {
+    "start": 459.37233494851836,
+    "end": 464.22016880870194,
+    "text": "conversation Finish by choosing one small process improvement that"
+  },
+  {
+    "start": 464.232025489868,
+    "end": 468.52279476847934,
+    "text": "would make future billing changes easier to verify This"
+  },
+  {
+    "start": 468.5346514496454,
+    "end": 473.6788531065088,
+    "text": "links continuous testing shared responsibility adaptation risk awareness and"
+  },
+  {
+    "start": 473.6907097876749,
+    "end": 475.8361115331783,
+    "text": "improvement in one practical plan"
+  },
+  {
+    "start": 477.4001220873447,
+    "end": 481.16368281882234,
+    "text": "Take a closer look at cancellation near renewal A"
+  },
+  {
+    "start": 481.17554099954646,
+    "end": 484.87414503889346,
+    "text": "subscription is active at eleven fifty-nine a renewal job"
+  },
+  {
+    "start": 484.88596900289514,
+    "end": 488.79794101262723,
+    "text": "begins at midnight and the customer's cancellation request arrives"
+  },
+  {
+    "start": 488.8097991933514,
+    "end": 492.3661467917189,
+    "text": "at nearly the same moment The team must define"
+  },
+  {
+    "start": 492.3780049724431,
+    "end": 496.3136925090693,
+    "text": "which event determines the outcome and how timestamps timezones"
+  },
+  {
+    "start": 496.32555068979343,
+    "end": 500.3442079365494,
+    "text": "and delayed messages are interpreted A tester can expose"
+  },
+  {
+    "start": 500.3560652827193,
+    "end": 503.73458440159754,
+    "text": "this ambiguity with a sequence diagram before the behavior"
+  },
+  {
+    "start": 503.7464417477675,
+    "end": 508.67789182363606,
+    "text": "is implemented Use an ordinary cancellation example first then"
+  },
+  {
+    "start": 508.6897500043602,
+    "end": 513.194429922736,
+    "text": "a near-boundary example and a delayed-message example These are"
+  },
+  {
+    "start": 513.2062872689061,
+    "end": 516.3002926712711,
+    "text": "not invented billing policies they are questions for the"
+  },
+  {
+    "start": 516.3121508519952,
+    "end": 521.0539476498186,
+    "text": "people responsible for the product's rules Clear examples prevent"
+  },
+  {
+    "start": 521.0658058305427,
+    "end": 524.3257832007813,
+    "text": "different components from implementing different assumptions"
+  },
+  {
+    "start": 525.9001310810194,
+    "end": 528.9114920958144,
+    "text": "Once the rule is agreed choose evidence at several"
+  },
+  {
+    "start": 528.9233507198057,
+    "end": 533.2919482771395,
+    "text": "layers A focused check can verify the effective cancellation"
+  },
+  {
+    "start": 533.3038069011307,
+    "end": 537.4651681601354,
+    "text": "calculation An integration check can verify that a delayed"
+  },
+  {
+    "start": 537.4770276187708,
+    "end": 541.7688028598459,
+    "text": "provider event does not incorrectly reactivate a cancelled subscription"
+  },
+  {
+    "start": 542.5987170750125,
+    "end": 546.0131419356677,
+    "text": "A user-journey check can verify the displayed access end"
+  },
+  {
+    "start": 546.0250005596589,
+    "end": 550.2575152318993,
+    "text": "date Exploration can investigate whether the wording makes the"
+  },
+  {
+    "start": 550.2693746905347,
+    "end": 554.7389984096452,
+    "text": "billing consequence clear Each check addresses a different risk"
+  },
+  {
+    "start": 555.5570197804108,
+    "end": 558.9477958339032,
+    "text": "If one fails explain the affected outcome instead of"
+  },
+  {
+    "start": 558.9596202374845,
+    "end": 561.7694489120274,
+    "text": "reporting only a tool name or a red pipeline"
+  },
+  {
+    "start": 561.7813083706628,
+    "end": 565.8122573168855,
+    "text": "stage This is the practical link between principles and"
+  },
+  {
+    "start": 565.8241159408767,
+    "end": 570.5308136518031,
+    "text": "execution collaboration clarifies the rule risk guides the examples"
+  },
+  {
+    "start": 570.5426722757944,
+    "end": 573.7911415028153,
+    "text": "and continuous feedback keeps the implementation aligned"
+  },
+  {
+    "start": 575.366655244883,
+    "end": 581.1717269845349,
+    "text": "Agile Testing is continuous collaborative adaptable and risk-aware Knowledge"
+  },
+  {
+    "start": 581.1835661949469,
+    "end": 584.4620051192434,
+    "text": "check which software as a service features carry the"
+  },
+  {
+    "start": 584.4738443296555,
+    "end": 588.4979102099323,
+    "text": "highest quality risk Subscribe to Tech at sixty for"
+  },
+  {
+    "start": 588.5097494203445,
+    "end": 593.0664164582191,
+    "text": "the next episode in this Agile Testing Masterclass Practice"
+  },
+  {
+    "start": 593.078254835412,
+    "end": 596.0252808565195,
+    "text": "the example with synthetic data and share the most"
+  },
+  {
+    "start": 596.0371200669316,
+    "end": 598.7711194564373,
+    "text": "important risk you identified in the comments"
+  }
+]

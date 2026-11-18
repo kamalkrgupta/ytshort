@@ -1,0 +1,13 @@
+{
+  "title": "CSS Media Queries: Change Your Layout at a Breakpoint",
+  "description": "Start with a narrow-screen layout, then use a min-width media query to adjust the layout on wider screens. Try stacking cards on mobile.\n\nTry answering: Would you start with the narrow layout or the desktop layout?\n\nContinue learning: open the CSS for Beginners playlist on @Techat60.\nSubscribe to TECH AT 60 for practical beginner coding lessons.\n\nA minimum width query can add a wider layout when space is available.\nWrite the narrow layout first, then add larger-screen adjustments.\n\nTry it: Stack two cards on mobile and place them together on wider screens.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 35\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "css media queries",
+    "web development for beginners",
+    "learn to code",
+    "coding shorts",
+    "css tutorial"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-05T10:30:00Z"
+}

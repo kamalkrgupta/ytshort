@@ -1,0 +1,46 @@
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.27 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-BfVmegkm.js                              356.96 kB │ gzip: 122.03 kB
+✓ built in 7.53s
+E9 captured 1/11: Introduction
+E9 captured 2/11: Stories and criteria
+E9 captured 3/11: Test cases
+E9 captured 4/11: Defect reports
+E9 captured 5/11: Plans and charters
+E9 captured 6/11: Traceability
+E9 captured 7/11: Practical document set
+E9 captured 8/11: Worked example
+E9 captured 9/11: A closer look
+E9 captured 10/11: Verify the outcome
+E9 captured 11/11: Recap
+CAPTURE COMPLETE /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/09/frames/frames.ffconcat
+[aist#1:0/pcm_s16le @ 0xb6cc1c600] Guessed Channel Layout: mono
+[aist#2:0/pcm_s16le @ 0xb6cc1c780] Guessed Channel Layout: mono
+[aist#3:0/pcm_s16le @ 0xb6cc1c900] Guessed Channel Layout: mono
+[aist#4:0/pcm_s16le @ 0xb6cc1ca80] Guessed Channel Layout: mono
+[aist#5:0/pcm_s16le @ 0xb6cc1cc00] Guessed Channel Layout: mono
+[aist#6:0/pcm_s16le @ 0xb6cc1cd80] Guessed Channel Layout: mono
+[aist#7:0/pcm_s16le @ 0xb6cc1cf00] Guessed Channel Layout: mono
+[aist#8:0/pcm_s16le @ 0xb6cc1d080] Guessed Channel Layout: mono
+[aist#9:0/pcm_s16le @ 0xb6cc1d200] Guessed Channel Layout: mono
+[aist#10:0/pcm_s16le @ 0xb6cc1d380] Guessed Channel Layout: mono
+[aist#11:0/pcm_s16le @ 0xb6cc1d500] Guessed Channel Layout: mono
+[swscaler @ 0xb6eb44000] deprecated pixel format used, make sure you did set range correctly
+[out_#0:0 @ 0xb6dc0f300] 100 buffers queued in out_#0:0, something may be wrong.
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/09

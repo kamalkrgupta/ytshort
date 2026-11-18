@@ -1,0 +1,66 @@
+Voice E50 chapter-02
+Voice E50 chapter-03
+Voice E50 chapter-01
+Voice E50 chapter-04
+Voice E50 chapter-05
+E50: 599 words, raw 273.2s, tempo 1.000
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-uLO9j3ue.js                              346.27 kB │ gzip: 118.05 kB
+✓ built in 5.88s
+E50 stills 1/5: Hook and promise
+E50 stills 2/5: Explain the concept
+E50 stills 3/5: On-screen demonstration
+E50 stills 4/5: Guided beginner exercise
+E50 stills 5/5: Limitations, recap and CTA
+STILLS PASSED /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/50
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-uLO9j3ue.js                              346.27 kB │ gzip: 118.05 kB
+✓ built in 5.85s
+E50 captured 1/5: Hook and promise
+E50 captured 2/5: Explain the concept
+E50 captured 3/5: On-screen demonstration
+E50 captured 4/5: Guided beginner exercise
+E50 captured 5/5: Limitations, recap and CTA
+CAPTURE COMPLETE /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/50/frames/frames.ffconcat
+[aist#1:0/pcm_s16le @ 0x7f6c10600] Guessed Channel Layout: mono
+[aist#2:0/pcm_s16le @ 0x7f6c10780] Guessed Channel Layout: mono
+[aist#3:0/pcm_s16le @ 0x7f6c10900] Guessed Channel Layout: mono
+[aist#4:0/pcm_s16le @ 0x7f6c10a80] Guessed Channel Layout: mono
+[aist#5:0/pcm_s16le @ 0x7f6c10c00] Guessed Channel Layout: mono
+[swscaler @ 0x7f7b0c000] deprecated pixel format used, make sure you did set range correctly
+[out_#0:0 @ 0x7f6fcc0c0] 100 buffers queued in out_#0:0, something may be wrong.
+VERIFIED 1920x1080 / 300s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/50

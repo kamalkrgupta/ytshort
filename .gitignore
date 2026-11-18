@@ -1,0 +1,4 @@
+client_secret*.json
+.youtube-auth/
+.youtube-venv/
+**/__pycache__/

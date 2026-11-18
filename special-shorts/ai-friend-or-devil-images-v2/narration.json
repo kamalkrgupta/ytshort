@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-3%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "The same A I can help you... or fool you. What’s the difference?",
+    "friend": "Explain this idea. Help me practise. Draft a message. Useful.",
+    "trap": "But sounding confident doesn’t make it right. A I can invent facts, sources, and details that seem real.",
+    "fake": "Even a familiar voice can be faked. Verify urgent requests through another channel.",
+    "privacy": "Before sharing a password or private document, pause. Check what you’re sending.",
+    "rule": "Let A I suggest. You check the original source. Then you decide.",
+    "payoff": "Friend or devil? It’s a powerful tool. Don’t hand it the steering wheel.",
+    "close": "Would you trust A I with an important decision? Where would you draw the line?"
+  }
+}

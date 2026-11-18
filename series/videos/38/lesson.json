@@ -1,0 +1,16 @@
+{
+  "videoNumber": 38,
+  "phase": "Phase 4 — JavaScript for Beginners",
+  "topic": "JavaScript Variables",
+  "description": "Understand let, const, and storing values.",
+  "publishLocal": "2026-11-07T11:00:00+05:30",
+  "publishAt": "2026-11-07T05:30:00Z",
+  "status": "planned",
+  "definition": "Variables give names to values used by your program.",
+  "code": "let score = 0;\nscore = score + 1;\nconst player = \"Alex\";",
+  "preview": "<h2>Alex</h2><p>Score: <strong>1</strong></p>",
+  "rule": "Use let when you need to reassign a variable.",
+  "tip": "Use const when the binding should not be reassigned.",
+  "caution": "Const does not make the contents of an object immutable.",
+  "exercise": "Store your name and a score, then increase the score."
+}

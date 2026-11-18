@@ -1,0 +1,277 @@
+[
+  {
+    "start": 0.35,
+    "end": 3.378374,
+    "text": "Have you ever wondered how to make technology work"
+  },
+  {
+    "start": 3.39125,
+    "end": 6.780416,
+    "text": "for you instead of spending hours figuring everything out"
+  },
+  {
+    "start": 7.684,
+    "end": 12.310291,
+    "text": "Welcome to episode 20 of AI for Beginners Today"
+  },
+  {
+    "start": 12.464958,
+    "end": 16.459791,
+    "text": "we’re looking at ai for time management By the"
+  },
+  {
+    "start": 16.472666,
+    "end": 20.557749,
+    "text": "end you’ll understand one practical idea watch a realistic"
+  },
+  {
+    "start": 20.570625,
+    "end": 25.403083,
+    "text": "example and try a small exercise yourself You don’t"
+  },
+  {
+    "start": 25.415958,
+    "end": 30.145333,
+    "text": "need a technical background or expensive software Bring your"
+  },
+  {
+    "start": 30.15825,
+    "end": 35.854124,
+    "text": "curiosity We’ll work through it together Here’s the example"
+  },
+  {
+    "start": 35.867,
+    "end": 39.977833,
+    "text": "we’ll use planning a busy Monday We’ll use that"
+  },
+  {
+    "start": 39.990708,
+    "end": 44.088666,
+    "text": "situation to make the topic concrete Watch how we"
+  },
+  {
+    "start": 44.101541,
+    "end": 47.361874,
+    "text": "break the task into small steps because the same"
+  },
+  {
+    "start": 47.37475,
+    "end": 50.506166,
+    "text": "thinking will help you use many different AI tools"
+  },
+  {
+    "start": 50.519083,
+    "end": 51.897916,
+    "text": "later in this course"
+  },
+  {
+    "start": 74.85,
+    "end": 79.658249,
+    "text": "Let’s start with the main idea prioritize tasks using"
+  },
+  {
+    "start": 79.671125,
+    "end": 83.794832,
+    "text": "urgency and impact Think of AI as a tool"
+  },
+  {
+    "start": 83.80775,
+    "end": 87.171125,
+    "text": "that processes information and returns an output based on"
+  },
+  {
+    "start": 87.184,
+    "end": 91.42370700000001,
+    "text": "its training instructions and any relevant information it can"
+  },
+  {
+    "start": 91.436583,
+    "end": 95.560333,
+    "text": "access It can save time on drafts and patterns"
+  },
+  {
+    "start": 95.740708,
+    "end": 98.665958,
+    "text": "but it doesn’t automatically know what’s correct for your"
+  },
+  {
+    "start": 98.678875,
+    "end": 102.892791,
+    "text": "situation The most useful habit is to define what"
+  },
+  {
+    "start": 102.905666,
+    "end": 106.887625,
+    "text": "you want before touching the tool Ask yourself three"
+  },
+  {
+    "start": 106.9005,
+    "end": 110.59895800000001,
+    "text": "questions what’s my goal what information does the tool"
+  },
+  {
+    "start": 110.61183299999999,
+    "end": 114.323207,
+    "text": "need and how will I check the result Those"
+  },
+  {
+    "start": 114.336083,
+    "end": 118.227833,
+    "text": "questions work whether you’re writing a prompt building a workflow"
+  },
+  {
+    "start": 118.369583,
+    "end": 120.405666,
+    "text": "or reviewing a generated answer"
+  },
+  {
+    "start": 143.41666666666666,
+    "end": 147.46458266666667,
+    "text": "Let’s try it with an example Our example is"
+  },
+  {
+    "start": 147.47749966666666,
+    "end": 151.42079066666668,
+    "text": "planning a busy Monday Start by writing down the"
+  },
+  {
+    "start": 151.43366666666665,
+    "end": 156.84604066666665,
+    "text": "desired result in one sentence Next identify the input"
+  },
+  {
+    "start": 157.07799966666667,
+    "end": 159.03674866666665,
+    "text": "what would a person need to know to do"
+  },
+  {
+    "start": 159.04966666666667,
+    "end": 163.36666666666667,
+    "text": "this task correctly Then write a simple instruction with"
+  },
+  {
+    "start": 163.37954166666665,
+    "end": 167.68366566666666,
+    "text": "that context and a clear format On screen I"
+  },
+  {
+    "start": 167.69654166666666,
+    "end": 171.17591566666667,
+    "text": "am showing a sample request followed by a possible"
+  },
+  {
+    "start": 171.18883266666666,
+    "end": 175.20945766666665,
+    "text": "output Notice that we’re not judging the result by"
+  },
+  {
+    "start": 175.22233266666666,
+    "end": 179.65533266666665,
+    "text": "how impressive it sounds We’re checking whether it actually"
+  },
+  {
+    "start": 179.66820766666666,
+    "end": 183.39241566666666,
+    "text": "meets the task If the output is too broad"
+  },
+  {
+    "start": 183.52129166666666,
+    "end": 187.33570766666668,
+    "text": "ask for a more specific version If a fact"
+  },
+  {
+    "start": 187.34862466666667,
+    "end": 191.61408266666666,
+    "text": "matters verify it from a reliable source Pause the"
+  },
+  {
+    "start": 191.62695766666667,
+    "end": 194.26870766666667,
+    "text": "video here if you’d like to copy the structure"
+  },
+  {
+    "start": 194.28162466666666,
+    "end": 195.51874966666668,
+    "text": "into your own notes"
+  },
+  {
+    "start": 218.48333333333332,
+    "end": 223.47199933333332,
+    "text": "Your turn Try this exercise sort five tasks into"
+  },
+  {
+    "start": 223.48487433333332,
+    "end": 228.21424923333333,
+    "text": "priorities Begin with a very small example not a"
+  },
+  {
+    "start": 228.22716633333332,
+    "end": 233.16270733333332,
+    "text": "complex project Give yourself thirty seconds to decide what"
+  },
+  {
+    "start": 233.17558333333332,
+    "end": 237.32508233333334,
+    "text": "success would look like Then complete the task once"
+  },
+  {
+    "start": 237.33795833333332,
+    "end": 237.95649933333334,
+    "text": "and inspect"
+  },
+  {
+    "start": 257.48333333333335,
+    "end": 262.2899993333333,
+    "text": "Before we finish remember this important limitation AI cannot"
+  },
+  {
+    "start": 262.3029163333333,
+    "end": 265.51170733333333,
+    "text": "know your actual calendar unless you supply it or"
+  },
+  {
+    "start": 265.52458333333334,
+    "end": 270.61633233333333,
+    "text": "connect it Responsible AI use means understanding the strengths"
+  },
+  {
+    "start": 270.62920833333334,
+    "end": 273.5673743333333,
+    "text": "of the tool and keeping yourself accountable for the"
+  },
+  {
+    "start": 273.5802493333333,
+    "end": 278.4513743333333,
+    "text": "final result Today you learned that prioritize tasks using"
+  },
+  {
+    "start": 278.4642493333333,
+    "end": 281.87920733333334,
+    "text": "urgency and impact saw the example of planning a"
+  },
+  {
+    "start": 281.89208333333335,
+    "end": 286.8405403333333,
+    "text": "busy Monday and practiced a small hands-on task Here’s"
+  },
+  {
+    "start": 286.8534163333333,
+    "end": 290.29416633333335,
+    "text": "your challenge repeat the exercise with a different topic"
+  },
+  {
+    "start": 290.3070413333333,
+    "end": 293.95395733333334,
+    "text": "and write down one thing that improved In the"
+  },
+  {
+    "start": 293.96683333333334,
+    "end": 297.03383233333335,
+    "text": "comments share the part you found easiest or the"
+  },
+  {
+    "start": 297.0467493333333,
+    "end": 299.8,
+    "text": "question you still have If this helped share it"
+  }
+]

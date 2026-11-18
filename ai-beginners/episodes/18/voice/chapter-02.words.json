@@ -1,0 +1,527 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 4123750,
+    "text": "Let’s"
+  },
+  {
+    "offset": 5252500,
+    "duration": 3737080,
+    "text": "start"
+  },
+  {
+    "offset": 9118750,
+    "duration": 1804160,
+    "text": "with"
+  },
+  {
+    "offset": 11051660,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "offset": 12082500,
+    "duration": 3608330,
+    "text": "main"
+  },
+  {
+    "offset": 15819580,
+    "duration": 5927910,
+    "text": "idea"
+  },
+  {
+    "offset": 30654580,
+    "duration": 6572080,
+    "text": "explain"
+  },
+  {
+    "offset": 37355830,
+    "duration": 7345410,
+    "text": "formulas"
+  },
+  {
+    "offset": 44830000,
+    "duration": 1546250,
+    "text": "and"
+  },
+  {
+    "offset": 46505000,
+    "duration": 3479580,
+    "text": "help"
+  },
+  {
+    "offset": 50113330,
+    "duration": 6185410,
+    "text": "analyze"
+  },
+  {
+    "offset": 56427910,
+    "duration": 5154580,
+    "text": "tabular"
+  },
+  {
+    "offset": 61711250,
+    "duration": 4767910,
+    "text": "data"
+  },
+  {
+    "offset": 75371250,
+    "duration": 2963750,
+    "text": "Think"
+  },
+  {
+    "offset": 78463750,
+    "duration": 2319580,
+    "text": "of"
+  },
+  {
+    "offset": 80912500,
+    "duration": 4897080,
+    "text": "AI"
+  },
+  {
+    "offset": 85938330,
+    "duration": 2319580,
+    "text": "as"
+  },
+  {
+    "offset": 88386660,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "offset": 89030830,
+    "duration": 3350410,
+    "text": "tool"
+  },
+  {
+    "offset": 92510410,
+    "duration": 1675410,
+    "text": "that"
+  },
+  {
+    "offset": 94314580,
+    "duration": 5927910,
+    "text": "processes"
+  },
+  {
+    "offset": 100371250,
+    "duration": 7345410,
+    "text": "information"
+  },
+  {
+    "offset": 107845410,
+    "duration": 1804160,
+    "text": "and"
+  },
+  {
+    "offset": 109778330,
+    "duration": 4639160,
+    "text": "returns"
+  },
+  {
+    "offset": 114546250,
+    "duration": 1288750,
+    "text": "an"
+  },
+  {
+    "offset": 115963750,
+    "duration": 4252500,
+    "text": "output"
+  },
+  {
+    "offset": 120345410,
+    "duration": 4252500,
+    "text": "based"
+  },
+  {
+    "offset": 124726660,
+    "duration": 1417500,
+    "text": "on"
+  },
+  {
+    "offset": 126273330,
+    "duration": 1804160,
+    "text": "its"
+  },
+  {
+    "offset": 128206250,
+    "duration": 5283330,
+    "text": "training"
+  },
+  {
+    "offset": 135293750,
+    "duration": 9278330,
+    "text": "instructions"
+  },
+  {
+    "offset": 146247500,
+    "duration": 3221660,
+    "text": "and"
+  },
+  {
+    "offset": 149597910,
+    "duration": 3221660,
+    "text": "any"
+  },
+  {
+    "offset": 152948330,
+    "duration": 4639160,
+    "text": "relevant"
+  },
+  {
+    "offset": 157716660,
+    "duration": 7087500,
+    "text": "information"
+  },
+  {
+    "offset": 164932910,
+    "duration": 1546250,
+    "text": "it"
+  },
+  {
+    "offset": 166608330,
+    "duration": 2061660,
+    "text": "can"
+  },
+  {
+    "offset": 168798750,
+    "duration": 6572080,
+    "text": "access"
+  },
+  {
+    "offset": 184262910,
+    "duration": 2061660,
+    "text": "It"
+  },
+  {
+    "offset": 186453750,
+    "duration": 2190830,
+    "text": "can"
+  },
+  {
+    "offset": 188773330,
+    "duration": 3350410,
+    "text": "save"
+  },
+  {
+    "offset": 192252500,
+    "duration": 3092910,
+    "text": "time"
+  },
+  {
+    "offset": 195474160,
+    "duration": 1546250,
+    "text": "on"
+  },
+  {
+    "offset": 197149580,
+    "duration": 4510410,
+    "text": "drafts"
+  },
+  {
+    "offset": 201788750,
+    "duration": 1804160,
+    "text": "and"
+  },
+  {
+    "offset": 203721660,
+    "duration": 6314580,
+    "text": "patterns"
+  },
+  {
+    "offset": 211840000,
+    "duration": 1932910,
+    "text": "but"
+  },
+  {
+    "offset": 213902080,
+    "duration": 1030830,
+    "text": "it"
+  },
+  {
+    "offset": 215061660,
+    "duration": 4897080,
+    "text": "doesn’t"
+  },
+  {
+    "offset": 220087500,
+    "duration": 7732080,
+    "text": "automatically"
+  },
+  {
+    "offset": 227948330,
+    "duration": 2577500,
+    "text": "know"
+  },
+  {
+    "offset": 230654580,
+    "duration": 2835000,
+    "text": "what’s"
+  },
+  {
+    "offset": 233618330,
+    "duration": 3995000,
+    "text": "correct"
+  },
+  {
+    "offset": 237742080,
+    "duration": 1675410,
+    "text": "for"
+  },
+  {
+    "offset": 239546250,
+    "duration": 1546250,
+    "text": "your"
+  },
+  {
+    "offset": 241221660,
+    "duration": 7860830,
+    "text": "situation"
+  },
+  {
+    "offset": 257974160,
+    "duration": 2061660,
+    "text": "The"
+  },
+  {
+    "offset": 260165000,
+    "duration": 4252500,
+    "text": "most"
+  },
+  {
+    "offset": 264546250,
+    "duration": 4252500,
+    "text": "useful"
+  },
+  {
+    "offset": 268927910,
+    "duration": 4123750,
+    "text": "habit"
+  },
+  {
+    "offset": 273180410,
+    "duration": 1546250,
+    "text": "is"
+  },
+  {
+    "offset": 274855830,
+    "duration": 902080,
+    "text": "to"
+  },
+  {
+    "offset": 275886660,
+    "duration": 5154580,
+    "text": "define"
+  },
+  {
+    "offset": 281170000,
+    "duration": 2190830,
+    "text": "what"
+  },
+  {
+    "offset": 283489580,
+    "duration": 1160000,
+    "text": "you"
+  },
+  {
+    "offset": 284778330,
+    "duration": 3479580,
+    "text": "want"
+  },
+  {
+    "offset": 288386660,
+    "duration": 3865830,
+    "text": "before"
+  },
+  {
+    "offset": 292381250,
+    "duration": 3995000,
+    "text": "touching"
+  },
+  {
+    "offset": 296505000,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "offset": 297536250,
+    "duration": 4381250,
+    "text": "tool"
+  },
+  {
+    "offset": 310809160,
+    "duration": 4252500,
+    "text": "Ask"
+  },
+  {
+    "offset": 315190830,
+    "duration": 5154580,
+    "text": "yourself"
+  },
+  {
+    "offset": 320474160,
+    "duration": 2835000,
+    "text": "three"
+  },
+  {
+    "offset": 323437910,
+    "duration": 6314580,
+    "text": "questions"
+  },
+  {
+    "offset": 332072080,
+    "duration": 3995000,
+    "text": "what’s"
+  },
+  {
+    "offset": 336195830,
+    "duration": 1804160,
+    "text": "my"
+  },
+  {
+    "offset": 338128750,
+    "duration": 4252500,
+    "text": "goal"
+  },
+  {
+    "offset": 343798750,
+    "duration": 2319580,
+    "text": "what"
+  },
+  {
+    "offset": 346247500,
+    "duration": 7087500,
+    "text": "information"
+  },
+  {
+    "offset": 353463750,
+    "duration": 2706250,
+    "text": "does"
+  },
+  {
+    "offset": 356298750,
+    "duration": 1030830,
+    "text": "the"
+  },
+  {
+    "offset": 357458750,
+    "duration": 2963750,
+    "text": "tool"
+  },
+  {
+    "offset": 360551660,
+    "duration": 3608330,
+    "text": "need"
+  },
+  {
+    "offset": 365706250,
+    "duration": 2448330,
+    "text": "and"
+  },
+  {
+    "offset": 368283330,
+    "duration": 2963750,
+    "text": "how"
+  },
+  {
+    "offset": 371376250,
+    "duration": 1546250,
+    "text": "will"
+  },
+  {
+    "offset": 373051660,
+    "duration": 1288750,
+    "text": "I"
+  },
+  {
+    "offset": 374469160,
+    "duration": 2448330,
+    "text": "check"
+  },
+  {
+    "offset": 377046250,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "offset": 378077080,
+    "duration": 5927910,
+    "text": "result"
+  },
+  {
+    "offset": 393025830,
+    "duration": 4639160,
+    "text": "Those"
+  },
+  {
+    "offset": 397793750,
+    "duration": 5927910,
+    "text": "questions"
+  },
+  {
+    "offset": 403850410,
+    "duration": 2577500,
+    "text": "work"
+  },
+  {
+    "offset": 406556660,
+    "duration": 3479580,
+    "text": "whether"
+  },
+  {
+    "offset": 410165000,
+    "duration": 1932910,
+    "text": "you’re"
+  },
+  {
+    "offset": 412226660,
+    "duration": 3995000,
+    "text": "writing"
+  },
+  {
+    "offset": 416350410,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "offset": 416995000,
+    "duration": 5541250,
+    "text": "prompt"
+  },
+  {
+    "offset": 424211250,
+    "duration": 5412489,
+    "text": "building a"
+  },
+  {
+    "offset": 429752500,
+    "duration": 6958750,
+    "text": "workflow"
+  },
+  {
+    "offset": 438128750,
+    "duration": 2190830,
+    "text": "or"
+  },
+  {
+    "offset": 440448330,
+    "duration": 4897080,
+    "text": "reviewing"
+  },
+  {
+    "offset": 445474160,
+    "duration": 644160,
+    "text": "a"
+  },
+  {
+    "offset": 446247500,
+    "duration": 6830000,
+    "text": "generated"
+  },
+  {
+    "offset": 453206250,
+    "duration": 5283330,
+    "text": "answer"
+  }
+]

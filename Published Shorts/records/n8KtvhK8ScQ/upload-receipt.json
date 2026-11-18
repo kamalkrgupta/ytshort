@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "b2abed7ff50eef0fdf348bf7191db29eb9849683515a2dd0a3e2484cae13021e",
+  "title": "JavaScript Functions | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-06T06:48:47Z",
+  "publishAt": "2026-11-08T10:30:00Z",
+  "videoId": "n8KtvhK8ScQ",
+  "url": "https://www.youtube.com/watch?v=n8KtvhK8ScQ",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-08T10:30:00Z"
+}

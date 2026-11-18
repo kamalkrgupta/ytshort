@@ -1,0 +1,18 @@
+CSS Position Property | Web Development in 60 Seconds
+
+Position changes how an element is placed in a layout. Learn css position property with a quick example for beginners.
+
+Relative positioning can establish a containing block for an absolute child.
+Fixed positioning usually anchors to the viewport; sticky follows a scroll threshold.
+
+Try it: Place a small badge in the corner of a card.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 31
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: css position property, web development for beginners, learn to code, coding shorts, css tutorial

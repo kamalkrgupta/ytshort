@@ -1,0 +1,21 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "1d047cd53293d17343ae0244fa943ac560f61fc64d1d6493979047e9c2c1714a",
+  "title": "TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:49:08Z",
+  "publishAt": "2026-10-26T18:00:00+05:30",
+  "videoId": "BxdkMvdx7G8",
+  "url": "https://www.youtube.com/watch?v=BxdkMvdx7G8",
+  "actualVisibility": "public",
+  "thumbnailSet": true,
+  "thumbnailStatus": "applied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null,
+  "remoteAuditedAt": "2026-10-23T15:56:57.585355+00:00",
+  "thumbnailCampaign": "2026-11-05"
+}

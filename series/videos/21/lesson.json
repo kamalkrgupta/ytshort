@@ -1,0 +1,16 @@
+{
+  "videoNumber": 21,
+  "phase": "Phase 2 — Advanced HTML & CSS Basics",
+  "topic": "What Is CSS?",
+  "description": "Discover how CSS makes webpages beautiful.",
+  "publishLocal": "2026-10-29T16:00:00+05:30",
+  "publishAt": "2026-10-29T10:30:00Z",
+  "status": "planned",
+  "definition": "C S S controls how your HTML content looks.",
+  "code": "p {\n  color: purple;\n  font-size: 24px;\n}",
+  "preview": "<p style=\"color:purple;font-size:42px\">Hello, style!</p>",
+  "rule": "A rule combines a selector with declarations inside braces.",
+  "tip": "Each declaration pairs a property with a value.",
+  "caution": "Keep the content meaningful even before its styling loads.",
+  "exercise": "Change a paragraph color and font size."
+}

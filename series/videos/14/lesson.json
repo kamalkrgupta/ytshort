@@ -1,0 +1,16 @@
+{
+  "videoNumber": 14,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "HTML Forms Introduction",
+  "description": "Build your first form with <form>.",
+  "publishLocal": "2026-10-26T11:00:00+05:30",
+  "publishAt": "2026-10-26T05:30:00Z",
+  "status": "planned",
+  "definition": "A form groups controls that collect information from a user.",
+  "code": "<form>\n <label>Email\n  <input type=\"email\"\n         name=\"email\">\n </label>\n <button>Send</button>\n</form>",
+  "preview": "<label>Email <input placeholder=\"you@example.com\"></label><p><button>Send</button></p>",
+  "rule": "Give controls labels so people can understand what to enter.",
+  "tip": "The name attribute identifies a field when form data is submitted.",
+  "caution": "A form alone does not save data; it needs a submission handler.",
+  "exercise": "Create a labeled email field and a submit button."
+}

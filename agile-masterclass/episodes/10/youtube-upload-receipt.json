@@ -1,0 +1,20 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "ffeb7dc6818095f5c51a3894955f48a73cb168529bcbe80d49453b8573188c4d",
+  "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:49:51Z",
+  "publishAt": "2026-10-27T18:00:00+05:30",
+  "videoId": "X0hokSm8f2U",
+  "url": "https://www.youtube.com/watch?v=X0hokSm8f2U",
+  "actualVisibility": "public",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null,
+  "remoteAuditedAt": "2026-10-23T15:56:57.587010+00:00"
+}

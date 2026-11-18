@@ -1,0 +1,267 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,336
+Welcome to episode 6 of AI for Beginners Today
+
+4
+00:00:12,516 --> 00:00:16,563
+we’re looking at getting started with chatgpt By the
+
+5
+00:00:16,576 --> 00:00:20,661
+end you’ll understand one practical idea watch a realistic
+
+6
+00:00:20,674 --> 00:00:25,506
+example and try a small exercise yourself You don’t
+
+7
+00:00:25,519 --> 00:00:30,248
+need a technical background or expensive software Bring your
+
+8
+00:00:30,261 --> 00:00:35,931
+curiosity We’ll work through it together Here’s the example
+
+9
+00:00:35,944 --> 00:00:40,712
+we’ll use requesting a beginner-friendly explanation of cloud computing
+
+10
+00:00:41,602 --> 00:00:44,978
+We’ll use that situation to make the topic concrete
+
+11
+00:00:45,880 --> 00:00:48,857
+Watch how we break the task into small steps
+
+12
+00:00:48,973 --> 00:00:51,730
+because the same thinking will help you use many
+
+13
+00:00:51,743 --> 00:00:54,449
+different AI tools later in this course
+
+14
+00:01:00,683 --> 00:01:04,963
+Let’s start with the main idea use a conversational
+
+15
+00:01:04,976 --> 00:01:09,718
+interface to ask refine and iterate Think of AI
+
+16
+00:01:09,731 --> 00:01:12,721
+as a tool that processes information and returns an
+
+17
+00:01:12,734 --> 00:01:16,896
+output based on its training instructions and any relevant
+
+18
+00:01:16,909 --> 00:01:20,839
+information it can access It can save time on
+
+19
+00:01:20,852 --> 00:01:24,486
+drafts and patterns but it doesn’t automatically know what’s
+
+20
+00:01:24,499 --> 00:01:28,610
+correct for your situation The most useful habit is
+
+21
+00:01:28,623 --> 00:01:31,329
+to define what you want before touching the tool
+
+22
+00:01:32,218 --> 00:01:36,471
+Ask yourself three questions what’s my goal what information
+
+23
+00:01:36,484 --> 00:01:38,829
+does the tool need and how will I check
+
+24
+00:01:38,842 --> 00:01:42,824
+the result Those questions work whether you’re writing a
+
+25
+00:01:42,837 --> 00:01:46,986
+prompt building a workflow or reviewing a generated answer
+
+26
+00:01:53,217 --> 00:01:57,213
+Let’s try it with an example Our example is
+
+27
+00:01:57,226 --> 00:02:02,600
+requesting a beginner-friendly explanation of cloud computing Start by
+
+28
+00:02:02,613 --> 00:02:07,252
+writing down the desired result in one sentence Next
+
+29
+00:02:07,406 --> 00:02:10,499
+identify the input what would a person need to
+
+30
+00:02:10,512 --> 00:02:14,082
+know to do this task correctly Then write a
+
+31
+00:02:14,094 --> 00:02:17,613
+simple instruction with that context and a clear format
+
+32
+00:02:18,515 --> 00:02:22,265
+On screen I am showing a sample request followed
+
+33
+00:02:22,277 --> 00:02:26,414
+by a possible output Notice that we’re not judging
+
+34
+00:02:26,427 --> 00:02:30,551
+the result by how impressive it sounds We’re checking
+
+35
+00:02:30,564 --> 00:02:34,507
+whether it actually meets the task If the output
+
+36
+00:02:34,520 --> 00:02:37,728
+is too broad ask for a more specific version
+
+37
+00:02:38,618 --> 00:02:41,801
+If a fact matters verify it from a reliable
+
+38
+00:02:41,814 --> 00:02:45,203
+source Pause the video here if you’d like to
+
+39
+00:02:45,216 --> 00:02:47,574
+copy the structure into your own notes
+
+40
+00:02:53,783 --> 00:02:58,347
+Your turn Try this exercise start a new chat
+
+41
+00:02:58,360 --> 00:03:01,942
+and ask a clear question Begin with a very
+
+42
+00:03:01,955 --> 00:03:07,264
+small example not a complex project Give yourself thirty
+
+43
+00:03:07,277 --> 00:03:11,401
+seconds to decide what success would look like Then
+
+44
+00:03:11,414 --> 00:03:15,615
+complete the task once and inspect the result What’s
+
+45
+00:03:15,628 --> 00:03:21,813
+useful What’s missing What would you change Make one
+
+46
+00:03:21,826 --> 00:03:26,517
+improvement and compare the first and second versions This
+
+47
+00:03:26,530 --> 00:03:30,421
+simple before-and-after comparison teaches you more than copying a
+
+48
+00:03:30,434 --> 00:03:34,700
+complicated prompt from the internet If your chosen tool
+
+49
+00:03:34,713 --> 00:03:38,604
+is unavailable do the exercise on paper sketch the
+
+50
+00:03:38,617 --> 00:03:43,025
+input the steps and the output The objective is
+
+51
+00:03:43,037 --> 00:03:46,323
+to practice the underlying thinking not to depend on
+
+52
+00:03:46,336 --> 00:03:47,638
+one particular app
+
+53
+00:03:53,883 --> 00:03:58,368
+Before we finish remember this important limitation features and
+
+54
+00:03:58,381 --> 00:04:03,137
+limits vary by account and can change Responsible AI
+
+55
+00:04:03,150 --> 00:04:06,204
+use means understanding the strengths of the tool and
+
+56
+00:04:06,217 --> 00:04:10,676
+keeping yourself accountable for the final result Today you
+
+57
+00:04:10,689 --> 00:04:14,426
+learned that use a conversational interface to ask refine
+
+58
+00:04:14,439 --> 00:04:18,137
+and iterate saw the example of requesting a beginner-friendly
+
+59
+00:04:18,150 --> 00:04:22,274
+explanation of cloud computing and practiced a small hands-on
+
+60
+00:04:22,287 --> 00:04:26,681
+task Here’s your challenge repeat the exercise with a
+
+61
+00:04:26,694 --> 00:04:30,019
+different topic and write down one thing that improved
+
+62
+00:04:30,947 --> 00:04:34,052
+In the comments share the part you found easiest
+
+63
+00:04:34,065 --> 00:04:37,622
+or the question you still have If this helped
+
+64
+00:04:37,751 --> 00:04:42,029
+share it with someone learning AI And subscribe to
+
+65
+00:04:42,042 --> 00:04:45,960
+Tech at sixty for the next lesson We’re building
+
+66
+00:04:45,972 --> 00:04:49,375
+practical AI skills one simple step at a time
+
+67
+00:04:50,264 --> 00:04:54,117
+Thanks for watching See you in the next lesson

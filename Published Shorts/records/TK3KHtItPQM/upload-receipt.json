@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "06ade07aecccddb01337be3ea3c388b4b6d45fe86efa7fa6027000befdf17c05",
+  "title": "Build a Profile Card with HTML and CSS",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-16T09:06:06Z",
+  "publishAt": "2026-11-17T05:30:00+00:00",
+  "videoId": "TK3KHtItPQM",
+  "url": "https://www.youtube.com/watch?v=TK3KHtItPQM",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-17T05:30:00Z"
+}

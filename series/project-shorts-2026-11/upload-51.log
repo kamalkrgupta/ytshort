@@ -1,0 +1,27 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 25%
+Upload 49%
+Upload 74%
+Upload 99%
+Uploaded: https://www.youtube.com/watch?v=kQDO06JTL9k
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "f763492911d7dadb0277fb3942454693f052275d40e3cf2dd9ec96b160a05c07",
+  "title": "Publish a Website for Free with GitHub Pages",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-16T09:10:49Z",
+  "publishAt": "2026-11-19T05:30:00+00:00",
+  "videoId": "kQDO06JTL9k",
+  "url": "https://www.youtube.com/watch?v=kQDO06JTL9k",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-19T05:30:00Z"
+}

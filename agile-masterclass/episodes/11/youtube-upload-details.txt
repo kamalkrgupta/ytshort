@@ -1,0 +1,44 @@
+Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11
+
+Learn agile testing tools and automation with practical software testing examples, diagrams and a guided exercise.
+Agile Testing Masterclass — Episode 11 of 12 | English | 10-minute tutorial.
+
+In this lesson:
+• Introduction
+• Issue tracking
+• API testing
+• Web and mobile automation
+• Performance and security
+• Continuous integration
+• Automation strategy
+• Worked example
+
+CHAPTERS
+00:00 Introduction
+01:01 Issue tracking
+02:02 API testing
+03:05 Web and mobile automation
+04:04 Performance and security
+05:06 Continuous integration
+06:08 Automation strategy
+07:12 Worked example
+08:00 A closer look
+08:46 Verify the outcome
+09:34 Recap
+
+Practice: What does a green build actually prove?
+Examples use fictional applications and synthetic data.
+
+Subscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.
+
+References and further reading:
+https://agilemanifesto.org/
+https://scrumguides.org/scrum-guide.html
+https://kanbanguides.org/the-kanban-guide/2025.5/
+https://playwright.dev/docs/best-practices
+
+#AgileTesting #SoftwareTesting #QATutorial
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI
+
+Tags: agile testing, agile testing tools and automation, software testing tutorial, agile testing for beginners, QA tutorial, manual testing, software quality assurance, Techat60, agile testing masterclass

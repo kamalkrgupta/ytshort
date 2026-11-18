@@ -1,0 +1,687 @@
+[
+  {
+    "start": 0.3340886669133062,
+    "end": 4.5863112837587865,
+    "text": "We conclude with a fictional subscription appointment-booking platform containing"
+  },
+  {
+    "start": 4.598259442440498,
+    "end": 8.707111723085461,
+    "text": "a customer website mobile app admin dashboard and backend"
+  },
+  {
+    "start": 8.719059881767173,
+    "end": 13.132313136638302,
+    "text": "A P I services Our fictional platform lets customers"
+  },
+  {
+    "start": 13.14422597807991,
+    "end": 17.408396753607104,
+    "text": "register find appointments reserve a slot pay and receive"
+  },
+  {
+    "start": 17.420344912288815,
+    "end": 22.520602575841657,
+    "text": "confirmation Staff use an administrative dashboard while a mobile"
+  },
+  {
+    "start": 22.532550734523372,
+    "end": 26.820616145640646,
+    "text": "app and website share backend services A customer sees"
+  },
+  {
+    "start": 26.832529827968926,
+    "end": 30.33222951042052,
+    "text": "one journey but the system contains several boundaries where"
+  },
+  {
+    "start": 30.344177669102237,
+    "end": 34.42920510775065,
+    "text": "information can be delayed or misunderstood We will build"
+  },
+  {
+    "start": 34.44111710830559,
+    "end": 39.05169871516217,
+    "text": "a connected testing plan across three illustrative sprints The"
+  },
+  {
+    "start": 39.063611556603774,
+    "end": 42.40802806141325,
+    "text": "schedule is a teaching example not a requirement that"
+  },
+  {
+    "start": 42.41997537920829,
+    "end": 46.09888987390554,
+    "text": "real teams deliver these exact features in separate sprints"
+  },
+  {
+    "start": 46.92302860324948,
+    "end": 50.31527053736589,
+    "text": "Focus on how each increment adds evidence and how"
+  },
+  {
+    "start": 50.3271833788075,
+    "end": 53.95830692055124,
+    "text": "earlier checks continue protecting behavior as the product grows"
+  },
+  {
+    "start": 55.534054531918855,
+    "end": 60.75166899497488,
+    "text": "The backlog includes registration appointment discovery booking payments and"
+  },
+  {
+    "start": 60.76357700051182,
+    "end": 67.16891730248464,
+    "text": "notifications Refinement uncovers risks involving duplicate bookings payment failures"
+  },
+  {
+    "start": 67.3121958170482,
+    "end": 73.55660615275451,
+    "text": "cancellations and authorization Refine the journey before implementation A"
+  },
+  {
+    "start": 73.56851415829146,
+    "end": 76.97132235250326,
+    "text": "reservation must belong to the requesting customer a slot"
+  },
+  {
+    "start": 76.98322951749489,
+    "end": 79.23984910082822,
+    "text": "must not be confirmed for two people and a"
+  },
+  {
+    "start": 79.25175626581984,
+    "end": 83.81269469825982,
+    "text": "payment outcome must update the booking consistently Ask when"
+  },
+  {
+    "start": 83.82460354434208,
+    "end": 88.37356420598363,
+    "text": "temporary holds expire how cancellation affects availability and what"
+  },
+  {
+    "start": 88.38554197678206,
+    "end": 93.6389502217104,
+    "text": "happens if a notification arrives late Identify dependencies among"
+  },
+  {
+    "start": 93.65089353015075,
+    "end": 99.17887935231715,
+    "text": "identity availability and payment services Translate the highest risks"
+  },
+  {
+    "start": 99.1908226607575,
+    "end": 103.45326243672065,
+    "text": "into examples that product development and testing participants can"
+  },
+  {
+    "start": 103.465205745161,
+    "end": 107.96643015703518,
+    "text": "understand This prevents the team from treating five attractive"
+  },
+  {
+    "start": 107.97833816257213,
+    "end": 111.87065809650102,
+    "text": "screens as five independent features when their correctness actually"
+  },
+  {
+    "start": 111.88260140494137,
+    "end": 114.819711348874,
+    "text": "depends on shared state and coordinated outcomes"
+  },
+  {
+    "start": 116.40074177224406,
+    "end": 121.45813850207514,
+    "text": "Developers implement registration and login Tests cover valid and"
+  },
+  {
+    "start": 121.47008473382662,
+    "end": 127.23830285127238,
+    "text": "invalid input duplicate accounts password recovery and sessions Concurrent"
+  },
+  {
+    "start": 127.25024824227282,
+    "end": 131.01211821824486,
+    "text": "registration exposes a race condition the team fixes and"
+  },
+  {
+    "start": 131.02406444999636,
+    "end": 135.2159096494102,
+    "text": "retests it In the first sprint test registration and"
+  },
+  {
+    "start": 135.2278197288663,
+    "end": 140.30336407023628,
+    "text": "login with synthetic accounts Check valid input rejected input"
+  },
+  {
+    "start": 140.48251382745377,
+    "end": 145.59389434182503,
+    "text": "duplicate addresses recovery and session behavior Now send two"
+  },
+  {
+    "start": 145.60584057357653,
+    "end": 149.92905228470403,
+    "text": "registration requests for the same address close together A"
+  },
+  {
+    "start": 149.94096320491116,
+    "end": 153.4640254102501,
+    "text": "defect could allow duplicate accounts if the implementation checks"
+  },
+  {
+    "start": 153.47597164200158,
+    "end": 157.691672311872,
+    "text": "availability and creates the record as separate unprotected steps"
+  },
+  {
+    "start": 158.51567812886813,
+    "end": 162.57612066427296,
+    "text": "Record the observed outcome discuss a safe implementation and"
+  },
+  {
+    "start": 162.5880660552734,
+    "end": 167.50835142142674,
+    "text": "retest the fix Add an appropriate regression check The"
+  },
+  {
+    "start": 167.5203321239715,
+    "end": 171.23445500673512,
+    "text": "important lesson is not a particular database command it"
+  },
+  {
+    "start": 171.24636592694225,
+    "end": 174.18423008591816,
+    "text": "is that a realistic concurrency question can expose a"
+  },
+  {
+    "start": 174.19617631766965,
+    "end": 177.0384748263889,
+    "text": "defect that sequential happy-path checks miss"
+  },
+  {
+    "start": 178.63407311951127,
+    "end": 183.56618736492936,
+    "text": "Tests cover available slots unavailable slots simultaneous booking and"
+  },
+  {
+    "start": 183.57813247374955,
+    "end": 190.33120070709242,
+    "text": "cancellation Integration tests protect against double booking Exploratory testing"
+  },
+  {
+    "start": 190.34318112662277,
+    "end": 195.120040064433,
+    "text": "identifies confusing messages and prompts an improvement In the"
+  },
+  {
+    "start": 195.13198601398435,
+    "end": 199.06096838225469,
+    "text": "booking increment create one isolated appointment slot and two"
+  },
+  {
+    "start": 199.07291349107484,
+    "end": 204.92461279185758,
+    "text": "customers Send competing reservation attempts Under the agreed rule"
+  },
+  {
+    "start": 205.09177873830663,
+    "end": 208.1012449911703,
+    "text": "exactly one should succeed and the stored booking must"
+  },
+  {
+    "start": 208.11315647074267,
+    "end": 211.5166810013364,
+    "text": "match the winning customer Check the response for the"
+  },
+  {
+    "start": 211.52862695088777,
+    "end": 215.46958889795724,
+    "text": "unsuccessful customer and confirm that it offers an understandable"
+  },
+  {
+    "start": 215.48149953679842,
+    "end": 219.8642657268996,
+    "text": "next step Cancel the successful reservation if the policy"
+  },
+  {
+    "start": 219.87624698716115,
+    "end": 224.0321208459813,
+    "text": "permits it then verify whether availability returns as agreed"
+  },
+  {
+    "start": 224.85614250859106,
+    "end": 228.33133937356817,
+    "text": "Also explore stale screens a customer may select a"
+  },
+  {
+    "start": 228.34325085314052,
+    "end": 232.97683490287324,
+    "text": "slot that someone else reserved moments earlier The interface"
+  },
+  {
+    "start": 232.9887808524246,
+    "end": 235.44889989070256,
+    "text": "and the backend must work together to handle that"
+  },
+  {
+    "start": 235.46081052954372,
+    "end": 236.4042513325697,
+    "text": "change safely"
+  },
+  {
+    "start": 238.000754207685,
+    "end": 243.0053991134752,
+    "text": "Using a payment sandbox test success failure cancellation delayed"
+  },
+  {
+    "start": 243.01734627130307,
+    "end": 248.27852796985817,
+    "text": "confirmation and duplicate callbacks A network timeout reveals incorrect"
+  },
+  {
+    "start": 248.29047596856148,
+    "end": 253.7848610081243,
+    "text": "payment-state handling The team adds safe recovery and repeat-notification"
+  },
+  {
+    "start": 253.79677369006035,
+    "end": 259.2433684165608,
+    "text": "checks For payments stay in the provider's sandbox Test"
+  },
+  {
+    "start": 259.25531641526413,
+    "end": 264.08078422515086,
+    "text": "success decline user cancellation delayed confirmation and a repeated"
+  },
+  {
+    "start": 264.09273222385417,
+    "end": 268.9301833492114,
+    "text": "callback Suppose the provider accepted payment but the platform"
+  },
+  {
+    "start": 268.94209603114746,
+    "end": 272.66868010611836,
+    "text": "lost the response A retry should not create a"
+  },
+  {
+    "start": 272.68066342158886,
+    "end": 277.1717083538425,
+    "text": "second charge or second booking Define the recovery policy"
+  },
+  {
+    "start": 277.1836563525458,
+    "end": 281.63885897044037,
+    "text": "and examine how unique request identifiers and payment-state transitions"
+  },
+  {
+    "start": 281.6508069691437,
+    "end": 285.7715513926379,
+    "text": "support it Verify records as well as the displayed"
+  },
+  {
+    "start": 285.7834993913412,
+    "end": 289.8684368172436,
+    "text": "message A page saying Payment failed while the provider"
+  },
+  {
+    "start": 289.8803839750715,
+    "end": 294.7416949401927,
+    "text": "recorded success is a serious inconsistency Capture the evidence"
+  },
+  {
+    "start": 294.75364293889595,
+    "end": 297.16639366134757,
+    "text": "and add focused checks for the failure mode rather"
+  },
+  {
+    "start": 297.178307184159,
+    "end": 300.5943980139198,
+    "text": "than relying only on the standard successful purchase journey"
+  },
+  {
+    "start": 302.2007334218975,
+    "end": 307.723358515305,
+    "text": "Run regression checks across authentication booking and payments Evaluate"
+  },
+  {
+    "start": 307.7353027198882,
+    "end": 313.4432252331728,
+    "text": "performance under concurrent searches authorization controls accessibility and resilience"
+  },
+  {
+    "start": 314.2552403132957,
+    "end": 319.4138908239234,
+    "text": "Document remaining risks As new increments arrive rerun relevant"
+  },
+  {
+    "start": 319.42583586917414,
+    "end": 324.2978548931695,
+    "text": "checks across identity booking and payment A permission change"
+  },
+  {
+    "start": 324.3097990977527,
+    "end": 328.59674797271117,
+    "text": "in the dashboard could affect existing customer access A"
+  },
+  {
+    "start": 328.6086930179619,
+    "end": 334.2210946806155,
+    "text": "payment-state fix could accidentally prevent cancellation Add nonfunctional questions"
+  },
+  {
+    "start": 334.2330388851987,
+    "end": 338.14977878680946,
+    "text": "where the risks justify them concurrent search traffic keyboard"
+  },
+  {
+    "start": 338.16172383206026,
+    "end": 343.2964859335215,
+    "text": "accessibility account isolation and recovery after a dependency failure"
+  },
+  {
+    "start": 344.1323902634784,
+    "end": 348.03714981180116,
+    "text": "Use realistic synthetic data and record the tested conditions"
+  },
+  {
+    "start": 348.861145245212,
+    "end": 353.96007389225616,
+    "text": "No single green pipeline proves complete readiness Combine automated"
+  },
+  {
+    "start": 353.97201809683935,
+    "end": 358.7485162702037,
+    "text": "results with exploratory findings unresolved defects and operational evidence"
+  },
+  {
+    "start": 358.7604604747869,
+    "end": 362.03240920444483,
+    "text": "to explain what is known and what uncertainty remains"
+  },
+  {
+    "start": 363.60073464182744,
+    "end": 368.2937234295298,
+    "text": "Review Definition of Done outstanding defects deployment and rollback"
+  },
+  {
+    "start": 368.3056686481204,
+    "end": 373.43430524922377,
+    "text": "plans After release monitor logs failures and service health"
+  },
+  {
+    "start": 374.2582764907684,
+    "end": 377.6257587886726,
+    "text": "Treat production feedback as another input to the quality"
+  },
+  {
+    "start": 377.6377040072632,
+    "end": 382.7725406215347,
+    "text": "cycle Before release inspect the shared quality conditions open"
+  },
+  {
+    "start": 382.7844858401253,
+    "end": 387.620776057607,
+    "text": "risks deployment steps and recovery plan Make sure relevant"
+  },
+  {
+    "start": 387.63272127619757,
+    "end": 391.5853511490907,
+    "text": "evidence belongs to the intended release candidate If a"
+  },
+  {
+    "start": 391.5972963676813,
+    "end": 395.5379827033433,
+    "text": "serious unresolved payment issue remains either resolve it or"
+  },
+  {
+    "start": 395.5499279219339,
+    "end": 398.29642782975714,
+    "text": "make an explicit scope and release decision with the"
+  },
+  {
+    "start": 398.3084083568973,
+    "end": 405.24636264484917,
+    "text": "responsible stakeholders After deployment monitor error signals transaction consistency"
+  },
+  {
+    "start": 405.25834233130956,
+    "end": 410.4289784521235,
+    "text": "and customer feedback using appropriate access controls A successful"
+  },
+  {
+    "start": 410.44092283003437,
+    "end": 413.3307594761865,
+    "text": "deployment command is not the end of quality work"
+  },
+  {
+    "start": 414.1547307177312,
+    "end": 417.99989481661675,
+    "text": "Production observations can reveal conditions that the test environment"
+  },
+  {
+    "start": 418.01184003520734,
+    "end": 421.5942564031659,
+    "text": "did not reproduce and those observations should inform both"
+  },
+  {
+    "start": 421.6062007810767,
+    "end": 423.3257759044411,
+    "text": "fixes and future checks"
+  },
+  {
+    "start": 424.90075885924045,
+    "end": 428.29310686326414,
+    "text": "Your final exercise is to present a release recommendation"
+  },
+  {
+    "start": 428.30505552290697,
+    "end": 432.20483095351545,
+    "text": "for this platform Name the three highest risks give"
+  },
+  {
+    "start": 432.2167796131583,
+    "end": 435.21494630541434,
+    "text": "one piece of evidence for each and identify any"
+  },
+  {
+    "start": 435.22689412413524,
+    "end": 441.6174449800579,
+    "text": "remaining uncertainty A strong response connects duplicate-registration checks competing-booking"
+  },
+  {
+    "start": 441.6293583209798,
+    "end": 446.18039246435126,
+    "text": "results and payment-recovery verification to specific builds and conditions"
+  },
+  {
+    "start": 447.00460190773686,
+    "end": 449.9071835274601,
+    "text": "It also explains how the team will detect problems"
+  },
+  {
+    "start": 449.9191321871029,
+    "end": 454.1117931561485,
+    "text": "after release Look back at the whole course principles"
+  },
+  {
+    "start": 454.12374181579133,
+    "end": 459.5825856557956,
+    "text": "guided priorities methods shaped examples artifacts preserved evidence tools"
+  },
+  {
+    "start": 459.59453431543835,
+    "end": 464.36056360387545,
+    "text": "accelerated feedback and collaboration connected the work You now"
+  },
+  {
+    "start": 464.3724777857193,
+    "end": 467.27509472416347,
+    "text": "have a practical way to discuss Agile Testing as"
+  },
+  {
+    "start": 467.28704254288436,
+    "end": 470.3330021918678,
+    "text": "part of delivering a product from the first question"
+  },
+  {
+    "start": 470.3449500105887,
+    "end": 471.62304622246927,
+    "text": "through production learning"
+  },
+  {
+    "start": 473.2007453461315,
+    "end": 477.1118400050902,
+    "text": "Trace one defect across the entire case study A"
+  },
+  {
+    "start": 477.1237859038685,
+    "end": 482.39064926919724,
+    "text": "repeated payment notification creates two booking confirmations Start by"
+  },
+  {
+    "start": 482.4025960087624,
+    "end": 485.97355709624054,
+    "text": "reproducing the sequence with synthetic data in the sandbox"
+  },
+  {
+    "start": 486.7975987810864,
+    "end": 489.3533804401178,
+    "text": "Link the failure to the rule that one successful"
+  },
+  {
+    "start": 489.36536165194156,
+    "end": 494.7994011780105,
+    "text": "payment should confirm one reservation Investigate how event identifiers"
+  },
+  {
+    "start": 494.81134791757563,
+    "end": 499.098904863838,
+    "text": "and state transitions are handled After the fix repeat"
+  },
+  {
+    "start": 499.11085160340315,
+    "end": 502.9326126654305,
+    "text": "the original sequence test a delayed notification and verify"
+  },
+  {
+    "start": 502.94452409195026,
+    "end": 507.01708428774,
+    "text": "that a distinct legitimate payment still works Retain the"
+  },
+  {
+    "start": 507.0290310273051,
+    "end": 512.4392140688627,
+    "text": "build and results This evidence chain connects discovery implementation"
+  },
+  {
+    "start": 512.451159967641,
+    "end": 516.1773866301265,
+    "text": "and verification giving the release discussion more substance than"
+  },
+  {
+    "start": 516.1893333696917,
+    "end": 518.530152750509,
+    "text": "the statement that the ticket is now closed"
+  },
+  {
+    "start": 520.1007212605415,
+    "end": 525.3001627635375,
+    "text": "Finally prepare a post-release learning loop Identify which signals"
+  },
+  {
+    "start": 525.3121060807812,
+    "end": 529.6819985075455,
+    "text": "would reveal duplicate confirmations unusual payment failures or growing"
+  },
+  {
+    "start": 529.6939418247891,
+    "end": 533.74145042166,
+    "text": "booking errors Agree who reviews those signals and how"
+  },
+  {
+    "start": 533.7533937389037,
+    "end": 537.7770165418331,
+    "text": "a new issue enters the team's work Use operational"
+  },
+  {
+    "start": 537.7889598590767,
+    "end": 541.1678494646028,
+    "text": "data with the access and privacy controls appropriate to"
+  },
+  {
+    "start": 541.1797919413004,
+    "end": 545.5496852086108,
+    "text": "the product When an incident occurs examine the contributing"
+  },
+  {
+    "start": 545.5616276853085,
+    "end": 548.510683111407,
+    "text": "conditions and improve both the product and the relevant"
+  },
+  {
+    "start": 548.5226264286507,
+    "end": 553.4655963520861,
+    "text": "checks Production monitoring does not replace pre-release testing and"
+  },
+  {
+    "start": 553.4775741317133,
+    "end": 556.056508602419,
+    "text": "testing does not eliminate the need to observe a"
+  },
+  {
+    "start": 556.0684519196626,
+    "end": 560.5338522192632,
+    "text": "live service Together they provide feedback across the product's"
+  },
+  {
+    "start": 560.5457955365068,
+    "end": 563.3396298657345,
+    "text": "life and help the team adapt when real usage"
+  },
+  {
+    "start": 563.3515723424323,
+    "end": 564.6291315634709,
+    "text": "reveals a new risk"
+  },
+  {
+    "start": 566.200660579303,
+    "end": 569.8037894466186,
+    "text": "Agile Testing begins with clear requirements and continues through"
+  },
+  {
+    "start": 569.8157233017258,
+    "end": 576.3357852076226,
+    "text": "development integration exploration automation and production Quality is shared"
+  },
+  {
+    "start": 576.3476846252257,
+    "end": 582.4444180513747,
+    "text": "across the team Congratulations on completing the masterclass Thank"
+  },
+  {
+    "start": 582.456351906482,
+    "end": 585.5941889352966,
+    "text": "you for completing the Agile Testing Masterclass with Tech"
+  },
+  {
+    "start": 585.6061236303432,
+    "end": 589.7700168568967,
+    "text": "at sixty Keep your examples and evidence apply the"
+  },
+  {
+    "start": 589.7819515519433,
+    "end": 592.5380009703827,
+    "text": "approach to a small feature and share your most"
+  },
+  {
+    "start": 592.5499356654291,
+    "end": 596.9286080461068,
+    "text": "useful takeaway in the comments Subscribe for more practical"
+  },
+  {
+    "start": 596.9405427411533,
+    "end": 598.7540401899793,
+    "text": "software testing tutorials"
+  }
+]

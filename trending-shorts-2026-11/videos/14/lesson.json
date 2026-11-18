@@ -1,0 +1,38 @@
+{
+  "number": 14,
+  "slug": "passkeys",
+  "title": "Passkeys Explained: Sign In Without Typing a Password",
+  "category": "SECURITY",
+  "source": "https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/",
+  "headline": "Your face is not\nyour password.",
+  "meaning": "Unlock a passkey with your device.",
+  "example": "The website receives proof, not your fingerprint.",
+  "comparison": "Password: a shared secret. Passkey: cryptographic proof.",
+  "caution": "Keep account recovery options up to date.",
+  "question": "Would you try a passkey?",
+  "flow": [
+    "Website challenge",
+    "Device unlock",
+    "Signed response"
+  ],
+  "left": [
+    "PASSWORD",
+    "Type a shared secret"
+  ],
+  "right": [
+    "PASSKEY",
+    "Unlock and prove"
+  ],
+  "lines": [
+    "You unlock your phone with your face. A passkey can let you sign in the same way.",
+    "Instead of typing a password, your device uses a cryptographic key to prove the sign-in is yours.",
+    "The website sends a challenge. You approve with your fingerprint, face scan, or device pin.",
+    "The site receives a signed response, not your fingerprint. Passkeys are designed to resist phishing.",
+    "Recovery still matters. Check how your account restores access if your device is lost.",
+    "Would you try a passkey? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-29T20:00:00+05:30",
+  "publishAt": "2026-11-29T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#8ee4c8"
+}

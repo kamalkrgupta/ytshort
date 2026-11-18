@@ -1,0 +1,38 @@
+{
+  "number": 12,
+  "slug": "local-ai",
+  "title": "Local AI vs Cloud AI: Where Does Your Prompt Go?",
+  "category": "AI",
+  "source": "https://developers.googleblog.com/en/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4/",
+  "headline": "Where does\nyour prompt go?",
+  "meaning": "Local inference runs on your own device.",
+  "example": "A downloaded model can process a note locally.",
+  "comparison": "Cloud processing uses a remote server. Local uses your hardware.",
+  "caution": "Local apps can still have network-connected features.",
+  "question": "Which task would you keep local?",
+  "flow": [
+    "Your prompt",
+    "On-device model",
+    "Local result"
+  ],
+  "left": [
+    "LOCAL MODEL",
+    "Uses your device resources"
+  ],
+  "right": [
+    "CLOUD MODEL",
+    "Uses remote compute"
+  ],
+  "lines": [
+    "When you ask an A I a question, the answer does not always come from a distant server.",
+    "Local A I runs a downloaded model on your own phone or computer. Cloud A I processes requests remotely.",
+    "A local app might summarize a sample note without sending that note to a model server.",
+    "The tradeoff is hardware. Your memory and processor limit which models run comfortably.",
+    "Do not assume every feature stays offline. Check the app, downloads, and network settings.",
+    "Which task would you keep local? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-27T20:00:00+05:30",
+  "publishAt": "2026-11-27T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#8fc9ff"
+}

@@ -1,0 +1,86 @@
+
+=== LESSON 19 HTML Audio & Video ===
+
+scene                    voice   needs  scene is   status
+hook                     4.17s      5s        5s   ok
+idea                     7.63s    8.5s      8.5s   ok
+code                     5.91s      7s        7s   ok
+result                   8.56s    9.5s       10s   ok
+tip                      7.15s      8s        8s   ok
+caution                  8.22s      9s        9s   ok
+try                      6.50s    7.5s      7.5s   ok
+close                    3.93s      5s        5s   ok
+
+Speech 52.1s. Voiced scenes need at least 59.5s = 59.5s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 398 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-C7r9H7UK.css                               7.90 kB │ gzip:   2.55 kB
+dist/assets/index-CA-QJF05.js                              338.50 kB │ gzip: 115.19 kB
+✓ built in 5.42s
+still 01.png  t=4.27s  hook
+still 02.png  t=12.23s  idea
+still 03.png  t=19.47s  code
+still 04.png  t=29.00s  result
+still 05.png  t=37.30s  tip
+still 06.png  t=46.17s  caution
+still 07.png  t=53.87s  try
+still 08.png  t=59.27s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)
+Voiceover: 8 clip(s)
+Recording 1800 frames  1080x1920 @ 30fps  (9:16, 60.00s)
+  10%  (8s elapsed, ~74s left)
+  20%  (16s elapsed, ~65s left)
+  30%  (24s elapsed, ~56s left)
+  40%  (32s elapsed, ~48s left)
+  50%  (39s elapsed, ~39s left)
+  60%  (47s elapsed, ~32s left)
+  70%  (55s elapsed, ~24s left)
+  80%  (63s elapsed, ~16s left)
+  90%  (71s elapsed, ~8s left)
+  100%  (79s elapsed, ~0s left)
+
+Done in 80s -> ../videos/19/video.mp4 (4.5 MB)
+ffprobe: h264 yuv420p 1080x1920 30/1fps 1800 frames 60.00s  audio: aac ch=2
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 22%
+Upload 45%
+Upload 67%
+Upload 89%
+Uploaded: https://www.youtube.com/watch?v=OKr0Qgf5Eec
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "df4357cba239f25f24ee0dc3277b8b42208169ff06a40bec6c2b319ba97df9d9",
+  "title": "HTML Audio & Video | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-28T06:34:58Z",
+  "publishAt": "2026-10-28T10:30:00Z",
+  "videoId": "OKr0Qgf5Eec",
+  "url": "https://www.youtube.com/watch?v=OKr0Qgf5Eec",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-28T10:30:00Z"
+}
+Selected production batch complete.

@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-11-18T11:52:36.393722+05:30",
+  "episodes": [
+    {
+      "episode": 3,
+      "state": "published",
+      "videoId": "1oW6ocuUhWQ"
+    },
+    {
+      "episode": 4,
+      "state": "published",
+      "videoId": "4pedCCloISY"
+    },
+    {
+      "episode": 5,
+      "state": "published",
+      "videoId": "Ng8wTrGTul4"
+    },
+    {
+      "episode": 6,
+      "state": "published",
+      "videoId": "HH9gdETVS-E"
+    },
+    {
+      "episode": 7,
+      "state": "published",
+      "videoId": "_LSyyLx-ex0"
+    },
+    {
+      "episode": 8,
+      "state": "published",
+      "videoId": "BxdkMvdx7G8"
+    },
+    {
+      "episode": 9,
+      "state": "published",
+      "videoId": "t3WpRYW0lGg"
+    },
+    {
+      "episode": 10,
+      "state": "published",
+      "videoId": "X0hokSm8f2U"
+    },
+    {
+      "episode": 11,
+      "state": "published",
+      "videoId": "bQb0NnHMJt0"
+    },
+    {
+      "episode": 12,
+      "state": "published",
+      "videoId": "ETNKUsval9c"
+    }
+  ]
+}

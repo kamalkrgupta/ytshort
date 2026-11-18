@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "20545abcddb0616fe91d4bfd705c2225442ecaa25d4cb9f4695ecc52d8c346bf",
+  "title": "Vibe Coding: The Part You Still Need to Check",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:56:51Z",
+  "publishAt": "2026-12-02T14:30:00+00:00",
+  "videoId": "PsnmvWSmTHc",
+  "url": "https://www.youtube.com/watch?v=PsnmvWSmTHc",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-12-02T14:30:00Z"
+}

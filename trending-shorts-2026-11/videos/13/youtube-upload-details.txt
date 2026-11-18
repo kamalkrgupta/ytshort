@@ -1,0 +1,15 @@
+Matter Explained: A Common Language for Smart Homes
+
+Matter is a shared smart-home application protocol. Connect compatible products across supported ecosystems.
+
+Check device type, controller and supported features.
+
+Which smart-home device should work together?
+Subscribe to @Techat60 for clear, beginner-friendly tech explainers.
+
+Source checked November 16, 2026:
+https://csa-iot.org/all-solutions/matter/matter-faq/
+
+Original illustrative diagrams; not a product demonstration or benchmark.
+
+#Technology #TechExplained #Shorts

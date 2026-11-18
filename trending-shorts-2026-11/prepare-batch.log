@@ -1,0 +1,25 @@
+FAILED 1 
+FAILED 2 
+FAILED 3 
+FAILED 4 
+FAILED 5 
+FAILED 6 
+PREPARED 7 usb-c speech 40.0
+PREPARED 8 prompt-injection speech 40.3
+PREPARED 9 watermarks speech 39.5
+PREPARED 10 semantic-search speech 42.7
+PREPARED 11 small-models speech 40.3
+PREPARED 12 local-ai speech 37.6
+PREPARED 13 matter speech 42.3
+PREPARED 14 passkeys speech 38.2
+PREPARED 15 post-quantum speech 44.7
+PREPARED 16 vibe-coding speech 42.9
+PREPARED 17 smart-glasses speech 42.8
+PREPARED 18 world-models speech 43.3
+PREPARED 19 mcp speech 38.3
+PREPARED 20 digital-twins speech 40.8
+Traceback (most recent call last):
+  File "/Users/impulsiveweb/Documents/YT Short/trending-shorts-2026-11/pipeline.py", line 146, in <module>
+    if failures:raise RuntimeError(str(failures))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: [(1, ''), (2, ''), (3, ''), (4, ''), (5, ''), (6, '')]

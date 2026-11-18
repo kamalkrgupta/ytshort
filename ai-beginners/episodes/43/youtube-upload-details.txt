@@ -1,0 +1,19 @@
+Build a Simple FAQ Chatbot: Questions, Answers and Limits | Ep 43
+
+Build a Simple FAQ Chatbot: Questions, Answers and Limits. Learn with a simple example and a beginner exercise.
+
+AI for Beginners — Episode 43 of 50
+
+What you will learn: Combine a small faq with a question-answer interface.
+Example: answering opening hours from a sample FAQ.
+Try it: write five FAQ entries and test unknown questions.
+Remember: the bot must admit when the FAQ lacks an answer.
+
+Follow the series in episode order and practice with sample data. Share your question or exercise result in the comments.
+Subscribe to @Techat60 for practical AI tutorials.
+
+#AIForBeginners #ArtificialIntelligence #LearnAI
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk
+
+Tags: build a simple faq chatbot, AI for beginners, artificial intelligence tutorial, learn AI, AI tutorial English, Techat60

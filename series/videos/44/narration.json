@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "JavaScript Arrays. Let’s make it simple.",
+    "idea": "An array stores an ordered collection of values. Start by understanding the role it plays in a page.",
+    "code": "Array positions start at zero, so index zero gives the first item. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "Push appends an item, and length reports the number of items. Keep this detail in mind when writing your own example.",
+    "caution": "An array with three items has a last index of two. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Create an array of three skills and read its first item. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

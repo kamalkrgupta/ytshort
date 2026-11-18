@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "H T M L Buttons. Let’s make it simple.",
+    "idea": "A button is a control that people can activate. Start by understanding the role it plays in a page.",
+    "code": "Use the button element to create an accessible native control. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "JavaScript can listen for a click and perform an action. Keep this detail in mind when writing your own example.",
+    "caution": "Inside a form, specify the type to avoid accidental submission. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Create a button with a clear action label. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

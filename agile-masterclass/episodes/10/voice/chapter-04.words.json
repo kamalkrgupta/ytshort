@@ -1,0 +1,657 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 4829580,
+    "text": "Lead"
+  },
+  {
+    "offset": 5971660,
+    "duration": 3835410,
+    "text": "time"
+  },
+  {
+    "offset": 9948750,
+    "duration": 1704580,
+    "text": "is"
+  },
+  {
+    "offset": 11795410,
+    "duration": 4687500,
+    "text": "measured"
+  },
+  {
+    "offset": 16625000,
+    "duration": 2982910,
+    "text": "from"
+  },
+  {
+    "offset": 19750000,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 20460410,
+    "duration": 6250000,
+    "text": "defined"
+  },
+  {
+    "offset": 26852080,
+    "duration": 7102080,
+    "text": "request"
+  },
+  {
+    "offset": 34096660,
+    "duration": 2130830,
+    "text": "or"
+  },
+  {
+    "offset": 36369160,
+    "duration": 6818330,
+    "text": "commitment"
+  },
+  {
+    "offset": 43329580,
+    "duration": 3835410,
+    "text": "point"
+  },
+  {
+    "offset": 47306660,
+    "duration": 1278330,
+    "text": "to"
+  },
+  {
+    "offset": 48727080,
+    "duration": 8522910,
+    "text": "completion"
+  },
+  {
+    "offset": 59522910,
+    "duration": 5823750,
+    "text": "cycle"
+  },
+  {
+    "offset": 65488750,
+    "duration": 3693330,
+    "text": "time"
+  },
+  {
+    "offset": 69323750,
+    "duration": 1704580,
+    "text": "is"
+  },
+  {
+    "offset": 71170410,
+    "duration": 4971660,
+    "text": "measured"
+  },
+  {
+    "offset": 76284160,
+    "duration": 2556660,
+    "text": "from"
+  },
+  {
+    "offset": 78982910,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 80119160,
+    "duration": 4119160,
+    "text": "start"
+  },
+  {
+    "offset": 84380830,
+    "duration": 1846660,
+    "text": "of"
+  },
+  {
+    "offset": 86369160,
+    "duration": 3409160,
+    "text": "work"
+  },
+  {
+    "offset": 89920410,
+    "duration": 1420410,
+    "text": "to"
+  },
+  {
+    "offset": 91482910,
+    "duration": 8238750,
+    "text": "completion"
+  },
+  {
+    "offset": 109590830,
+    "duration": 5397910,
+    "text": "Agree"
+  },
+  {
+    "offset": 115130830,
+    "duration": 1846660,
+    "text": "on"
+  },
+  {
+    "offset": 117119160,
+    "duration": 6818330,
+    "text": "boundaries"
+  },
+  {
+    "offset": 124079580,
+    "duration": 5113750,
+    "text": "before"
+  },
+  {
+    "offset": 129335410,
+    "duration": 7102080,
+    "text": "comparing"
+  },
+  {
+    "offset": 136579580,
+    "duration": 6960410,
+    "text": "results"
+  },
+  {
+    "offset": 153198750,
+    "duration": 4687500,
+    "text": "Use"
+  },
+  {
+    "offset": 158028330,
+    "duration": 8948750,
+    "text": "timestamps"
+  },
+  {
+    "offset": 167119160,
+    "duration": 1562500,
+    "text": "to"
+  },
+  {
+    "offset": 168823750,
+    "duration": 5965830,
+    "text": "explain"
+  },
+  {
+    "offset": 174931660,
+    "duration": 3267080,
+    "text": "flow"
+  },
+  {
+    "offset": 178340830,
+    "duration": 7244160,
+    "text": "measures"
+  },
+  {
+    "offset": 195386250,
+    "duration": 1846660,
+    "text": "A"
+  },
+  {
+    "offset": 197375000,
+    "duration": 6392080,
+    "text": "request"
+  },
+  {
+    "offset": 203909160,
+    "duration": 5397910,
+    "text": "arrives"
+  },
+  {
+    "offset": 209448750,
+    "duration": 5965830,
+    "text": "Monday"
+  },
+  {
+    "offset": 217403330,
+    "duration": 6107910,
+    "text": "becomes"
+  },
+  {
+    "offset": 223653330,
+    "duration": 5255830,
+    "text": "active"
+  },
+  {
+    "offset": 229051250,
+    "duration": 6392080,
+    "text": "Wednesday"
+  },
+  {
+    "offset": 235585410,
+    "duration": 2698750,
+    "text": "and"
+  },
+  {
+    "offset": 238426250,
+    "duration": 6250000,
+    "text": "finishes"
+  },
+  {
+    "offset": 244818330,
+    "duration": 6676250,
+    "text": "Friday"
+  },
+  {
+    "offset": 261437500,
+    "duration": 2414580,
+    "text": "If"
+  },
+  {
+    "offset": 263994160,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 265415000,
+    "duration": 3835410,
+    "text": "team"
+  },
+  {
+    "offset": 269392080,
+    "duration": 5823750,
+    "text": "measures"
+  },
+  {
+    "offset": 275357910,
+    "duration": 10369160,
+    "text": "request-to-finish"
+  },
+  {
+    "offset": 285869160,
+    "duration": 4545410,
+    "text": "time"
+  },
+  {
+    "offset": 292119160,
+    "duration": 2840830,
+    "text": "that"
+  },
+  {
+    "offset": 295102500,
+    "duration": 5965830,
+    "text": "includes"
+  },
+  {
+    "offset": 301210410,
+    "duration": 1562500,
+    "text": "the"
+  },
+  {
+    "offset": 302915000,
+    "duration": 4971660,
+    "text": "waiting"
+  },
+  {
+    "offset": 308028330,
+    "duration": 4687500,
+    "text": "before"
+  },
+  {
+    "offset": 312857910,
+    "duration": 6676250,
+    "text": "Wednesday"
+  },
+  {
+    "offset": 329477500,
+    "duration": 2840830,
+    "text": "If"
+  },
+  {
+    "offset": 332460410,
+    "duration": 1846660,
+    "text": "its"
+  },
+  {
+    "offset": 334448750,
+    "duration": 8380830,
+    "text": "cycle-time"
+  },
+  {
+    "offset": 342971660,
+    "duration": 5681660,
+    "text": "boundary"
+  },
+  {
+    "offset": 348795410,
+    "duration": 5539580,
+    "text": "starts"
+  },
+  {
+    "offset": 354477500,
+    "duration": 2698750,
+    "text": "when"
+  },
+  {
+    "offset": 357318330,
+    "duration": 3409160,
+    "text": "work"
+  },
+  {
+    "offset": 360869160,
+    "duration": 5539580,
+    "text": "becomes"
+  },
+  {
+    "offset": 366551250,
+    "duration": 6250000,
+    "text": "active"
+  },
+  {
+    "offset": 374647910,
+    "duration": 1988750,
+    "text": "the"
+  },
+  {
+    "offset": 376778330,
+    "duration": 5397910,
+    "text": "earlier"
+  },
+  {
+    "offset": 382318330,
+    "duration": 4261250,
+    "text": "waiting"
+  },
+  {
+    "offset": 386721660,
+    "duration": 1846660,
+    "text": "is"
+  },
+  {
+    "offset": 388710410,
+    "duration": 6534160,
+    "text": "outside"
+  },
+  {
+    "offset": 395386250,
+    "duration": 2982910,
+    "text": "that"
+  },
+  {
+    "offset": 398511250,
+    "duration": 6107910,
+    "text": "measure"
+  },
+  {
+    "offset": 414562500,
+    "duration": 5397910,
+    "text": "State"
+  },
+  {
+    "offset": 420102500,
+    "duration": 3551250,
+    "text": "whether"
+  },
+  {
+    "offset": 423795410,
+    "duration": 1562500,
+    "text": "you"
+  },
+  {
+    "offset": 425500000,
+    "duration": 3835410,
+    "text": "use"
+  },
+  {
+    "offset": 429477500,
+    "duration": 5681660,
+    "text": "elapsed"
+  },
+  {
+    "offset": 435301250,
+    "duration": 5539580,
+    "text": "calendar"
+  },
+  {
+    "offset": 440982910,
+    "duration": 4545410,
+    "text": "time"
+  },
+  {
+    "offset": 445670410,
+    "duration": 2414580,
+    "text": "or"
+  },
+  {
+    "offset": 448227500,
+    "duration": 4687500,
+    "text": "working"
+  },
+  {
+    "offset": 453056660,
+    "duration": 4687500,
+    "text": "time"
+  },
+  {
+    "offset": 467545410,
+    "duration": 2130830,
+    "text": "The"
+  },
+  {
+    "offset": 469818330,
+    "duration": 4119160,
+    "text": "current"
+  },
+  {
+    "offset": 474079580,
+    "duration": 4261250,
+    "text": "Kanban"
+  },
+  {
+    "offset": 478482910,
+    "duration": 4119160,
+    "text": "Guide"
+  },
+  {
+    "offset": 482744160,
+    "duration": 9232910,
+    "text": "emphasizes"
+  },
+  {
+    "offset": 492119160,
+    "duration": 3267080,
+    "text": "work"
+  },
+  {
+    "offset": 495528330,
+    "duration": 1420410,
+    "text": "in"
+  },
+  {
+    "offset": 497090830,
+    "duration": 7386250,
+    "text": "progress"
+  },
+  {
+    "offset": 506040000,
+    "duration": 5965830,
+    "text": "throughput"
+  },
+  {
+    "offset": 514136250,
+    "duration": 3409160,
+    "text": "work"
+  },
+  {
+    "offset": 517687500,
+    "duration": 5397910,
+    "text": "item"
+  },
+  {
+    "offset": 523227500,
+    "duration": 3693330,
+    "text": "age"
+  },
+  {
+    "offset": 527062500,
+    "duration": 2272910,
+    "text": "and"
+  },
+  {
+    "offset": 529477500,
+    "duration": 5113750,
+    "text": "cycle"
+  },
+  {
+    "offset": 534732910,
+    "duration": 3693330,
+    "text": "time"
+  },
+  {
+    "offset": 538568330,
+    "duration": 2130830,
+    "text": "as"
+  },
+  {
+    "offset": 540840830,
+    "duration": 3125000,
+    "text": "flow"
+  },
+  {
+    "offset": 544107910,
+    "duration": 7670410,
+    "text": "metrics"
+  },
+  {
+    "offset": 561579580,
+    "duration": 4687500,
+    "text": "Lead"
+  },
+  {
+    "offset": 566409160,
+    "duration": 3693330,
+    "text": "time"
+  },
+  {
+    "offset": 570244160,
+    "duration": 1704580,
+    "text": "is"
+  },
+  {
+    "offset": 572090830,
+    "duration": 3693330,
+    "text": "also"
+  },
+  {
+    "offset": 575926250,
+    "duration": 4261250,
+    "text": "used"
+  },
+  {
+    "offset": 580329580,
+    "duration": 1420410,
+    "text": "in"
+  },
+  {
+    "offset": 581892080,
+    "duration": 6818330,
+    "text": "practice"
+  },
+  {
+    "offset": 590415000,
+    "duration": 1988750,
+    "text": "with"
+  },
+  {
+    "offset": 592545410,
+    "duration": 7102080,
+    "text": "boundaries"
+  },
+  {
+    "offset": 599790000,
+    "duration": 2698750,
+    "text": "that"
+  },
+  {
+    "offset": 602630830,
+    "duration": 3267080,
+    "text": "must"
+  },
+  {
+    "offset": 606040000,
+    "duration": 1420410,
+    "text": "be"
+  },
+  {
+    "offset": 607602500,
+    "duration": 6818330,
+    "text": "defined"
+  },
+  {
+    "offset": 624363750,
+    "duration": 6960410,
+    "text": "Unlabelled"
+  },
+  {
+    "offset": 631465830,
+    "duration": 6107910,
+    "text": "numbers"
+  },
+  {
+    "offset": 637715830,
+    "duration": 2556660,
+    "text": "from"
+  },
+  {
+    "offset": 640415000,
+    "duration": 4829580,
+    "text": "different"
+  },
+  {
+    "offset": 645386250,
+    "duration": 8238750,
+    "text": "workflows"
+  },
+  {
+    "offset": 653767080,
+    "duration": 2982910,
+    "text": "should"
+  },
+  {
+    "offset": 656892080,
+    "duration": 3125000,
+    "text": "not"
+  },
+  {
+    "offset": 660159160,
+    "duration": 1704580,
+    "text": "be"
+  },
+  {
+    "offset": 662005830,
+    "duration": 7102080,
+    "text": "compared"
+  },
+  {
+    "offset": 669250000,
+    "duration": 2556660,
+    "text": "as"
+  },
+  {
+    "offset": 671948750,
+    "duration": 1988750,
+    "text": "though"
+  },
+  {
+    "offset": 674079580,
+    "duration": 1846660,
+    "text": "they"
+  },
+  {
+    "offset": 676068330,
+    "duration": 6250000,
+    "text": "describe"
+  },
+  {
+    "offset": 682460410,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 683738750,
+    "duration": 3835410,
+    "text": "same"
+  },
+  {
+    "offset": 687715830,
+    "duration": 4687500,
+    "text": "thing"
+  }
+]

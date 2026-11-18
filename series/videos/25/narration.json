@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Backgrounds. Let’s make it simple.",
+    "idea": "Background properties paint the area behind an element. Start by understanding the role it plays in a page.",
+    "code": "Start with a solid color, or combine colors in a gradient. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "A background image can be sized and positioned separately. Keep this detail in mind when writing your own example.",
+    "caution": "Keep foreground text readable across the entire background. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Give a card a two-color gradient background. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

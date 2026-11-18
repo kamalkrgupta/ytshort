@@ -1,0 +1,139 @@
+{
+  "episode": 2,
+  "topic": "Agile Testing Methodologies",
+  "visual": {
+    "headline": "SCRUM vs KANBAN\n+ XP & LEAN",
+    "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+    "example": "Customer portal",
+    "steps": [
+      "Scrum: inspect & adapt",
+      "Kanban: manage flow",
+      "XP: fast code feedback"
+    ],
+    "checks": [
+      "Registration examples",
+      "Testing WIP limit: 3",
+      "Red → Green → Refactor"
+    ],
+    "result": "Choose practices for the problem",
+    "question": "What is slowing down useful feedback?"
+  },
+  "chapters": [
+    {
+      "title": "Introduction",
+      "text": "Agile is a set of values and principles rather than a single prescribed process. In this lesson, we examine Scrum, Kanban, Extreme Programming and Lean Software Development, and explain how testing changes with each approach. Start with a comparison that will remain useful throughout the course. Imagine a team building a customer portal while also receiving production support requests. Its planned feature work benefits from a clear short-term goal, but incoming incidents do not respect a sprint calendar. No single label solves both problems. The team must decide how to plan, how to visualize active work, and how to build reliable software. Scrum provides a framework for product work; Kanban helps manage flow; X P contributes engineering practices; Lean encourages attention to value and waste. Evaluate the problem before selecting the vocabulary.",
+      "direction": "Four methodology cards with short definitions.",
+      "id": "chapter-01",
+      "start": 0,
+      "duration": 56.7,
+      "speechDuration": 56.05,
+      "speed": 1.2884210526315787
+    },
+    {
+      "title": "Scrum",
+      "text": "Scrum organizes complex work into sprints, commonly one to four weeks. Consider a customer management portal. During planning, the team selects a registration story. The Product Owner clarifies acceptance criteria, including valid addresses, invalid addresses and duplicate registration. Developers and testers collaborate during the sprint, and stakeholders inspect the increment at the Sprint Review. The Retrospective identifies ways to improve. Testing is integrated throughout the sprint rather than postponed to its final days. Walk through a Scrum example. The Sprint Goal is to let new customers register safely. The team selects registration and email verification because they support that goal. A tester asks whether duplicate email addresses are allowed and what happens if a confirmation message arrives late. Developers and testers discuss these examples while work is still small. During the sprint they inspect progress and adapt their plan. If registration passes its happy path but bypasses verification, the team has not established the intended outcome. Finishing tasks is useful only when the increment meets the agreed quality conditions and supports the goal.",
+      "direction": "Animated two-week sprint timeline.",
+      "id": "chapter-02",
+      "start": 56.7,
+      "duration": 77.333333,
+      "speechDuration": 76.683333,
+      "speed": 1.2885198869810914
+    },
+    {
+      "title": "Kanban",
+      "text": "Kanban visualizes work and limits work in progress. A maintenance team may use Backlog, Ready, Development, Testing and Done columns. If Testing has a work in progress limit of three and already contains three items, the team focuses on completing existing work rather than starting more. This makes bottlenecks visible and supports steady delivery, especially for teams receiving unpredictable support requests. Now move the same work onto a Kanban board. Three registration fixes are already in Testing, and the team's illustrative testing limit is three. A developer has finished a fourth change. Simply pushing it into Testing hides the capacity problem. Instead, the team investigates why existing work has not finished. Perhaps accounts cannot receive verification messages in the test environment. Helping restore that environment may finish more valuable work than starting another feature. Work-in-progress limits are a signal to collaborate. They do not mean that an overloaded person must work faster, and they are not a substitute for understanding the system.",
+      "direction": "Kanban board with a three-item testing WIP limit.",
+      "id": "chapter-03",
+      "start": 134.033333,
+      "duration": 69.233333,
+      "speechDuration": 68.583333,
+      "speed": 1.2881263669501823
+    },
+    {
+      "title": "Extreme Programming",
+      "text": "Extreme Programming, or X P, emphasizes engineering practices including test-driven development, pair programming and continuous integration. In T D D, a developer writes a failing test, writes enough code to pass it and then refactors safely. This Red, Green, Refactor cycle works well for calculations and business rules. Testing becomes part of writing the software rather than a separate final checkpoint. Consider X P through a concrete calculation. The portal grants a ten-percent introductory discount on an eligible purchase of one thousand rupees. Write a test expecting a discount of one hundred. Run it and confirm it fails for the expected reason. Implement the smallest change that makes it pass. Then improve the code while the check stays green. Add an ineligible-customer case expecting zero discount. This creates a feedback loop in which examples guide the design. Refactoring matters: repeatedly adding special cases without improving the design can produce brittle code even when individual tests pass.",
+      "direction": "Red–Green–Refactor animation and unit-test example.",
+      "id": "chapter-04",
+      "start": 203.266667,
+      "duration": 68.5,
+      "speechDuration": 67.85,
+      "speed": 1.2886072218128226
+    },
+    {
+      "title": "Lean Software Development",
+      "text": "Lean focuses on customer value and reducing waste. Waste in testing might include waiting for test environments, duplicate paperwork or slow feedback from an oversized test suite. Lean does not mean skipping important tests. A team might run fast smoke tests on each commit and more comprehensive regression tests later, preserving coverage while reducing feedback time. Lean invites a different question: where does the customer wait without receiving additional value? Suppose every small change waits two days for a shared testing environment. Buying another reporting tool might not reduce that delay. The team could provide reproducible environments, isolate test data, or run a smaller set of checks earlier. Before changing the process, record the current delay and its cause. After the experiment, compare the results. Reducing waste does not mean removing evidence needed to judge quality. It means avoiding work and waiting that do not help deliver a useful, dependable outcome.",
+      "direction": "Before-and-after CI feedback timeline.",
+      "id": "chapter-05",
+      "start": 271.766667,
+      "duration": 64.6,
+      "speechDuration": 63.95,
+      "speed": 1.288381548084441
+    },
+    {
+      "title": "Choosing an approach",
+      "text": "A feature-development team may benefit from Scrum; a support operation may benefit from Kanban; a calculation-intensive product may benefit from X P practices. Teams can combine approaches. The right selection depends on delivery constraints, technical risk and team maturity. Here is a selection exercise with three fictional teams. Team A builds a new portal and needs frequent stakeholder feedback around a product goal. Scrum could help structure that inspection. Team B maintains several systems and receives unpredictable requests. Kanban could help expose queues and manage capacity. Team C changes financial calculations frequently. X P practices such as test-driven development and continuous integration could strengthen technical feedback. These are starting hypotheses, not universal prescriptions. Each team should inspect its constraints, run a small process experiment, and decide whether actual customer outcomes and feedback speed improve.",
+      "direction": "Three project cards and comparative matrix.",
+      "id": "chapter-06",
+      "start": 336.366667,
+      "duration": 63.733333,
+      "speechDuration": 63.083333,
+      "speed": 1.2882007926023777
+    },
+    {
+      "title": "Worked example",
+      "text": "Combining approaches requires clear policies. A Scrum team might visualize work with a Kanban board and limit the number of stories actively being developed. It might also use pair programming for risky calculations and run unit tests on every commit. None of those practices removes Scrum's accountabilities or events. Problems arise when a team adopts labels while dropping the useful feedback loops behind them. Write down how new work enters, when testing begins, what Done means, and how urgent incidents affect planned work. Those agreements are more actionable than saying the team is simply hybrid.",
+      "direction": "Customer portal",
+      "id": "chapter-07",
+      "start": 400.1,
+      "duration": 39.8,
+      "speechDuration": 39.15,
+      "speed": 1.2885823754789272
+    },
+    {
+      "title": "Guided practice",
+      "text": "For your practice task, imagine that ten support requests arrive while a portal team is implementing a planned registration improvement. Identify the most urgent customer risk, then describe how you would make the incoming work visible. Decide which active item you would finish before starting another. Finally, choose one engineering practice that could prevent the same defect returning. A strong answer connects the delivery process to a testing action and an observable result. For example, address a production access problem, add a focused regression check, and review whether interruption policies preserved visibility into the remaining feature work.",
+      "direction": "Customer portal",
+      "id": "chapter-08",
+      "start": 439.9,
+      "duration": 40.0,
+      "speechDuration": 39.35,
+      "speed": 1.2881321473951715
+    },
+    {
+      "title": "A closer look",
+      "text": "A useful way to compare approaches is to follow one change from request to feedback. Take an urgent password-reset defect. First identify the customer impact and make the work visible. Decide how it enters the team's current work under an explicit policy. Next agree on examples for a valid link, an expired link and a reused link. Use small technical checks to guide the fix, then verify the integrated recovery journey. Finally inspect the delay from recognizing the problem to obtaining reliable evidence. Scrum, Kanban, X P and Lean contribute different ideas to that same journey. None removes the need to clarify the rule, implement safely or evaluate the result.",
+      "direction": "Customer portal",
+      "id": "chapter-09",
+      "start": 479.9,
+      "duration": 46.2,
+      "speechDuration": 45.55,
+      "speed": 1.2887815587266738
+    },
+    {
+      "title": "Verify the outcome",
+      "text": "Now consider a misleading process improvement. A team shortens its sprint from two weeks to one week and expects quality to improve automatically. But its test environment still takes three days to restore, and stories still arrive without examples. The shorter calendar exposes the problem more often without removing it. A more useful experiment might make one environment reproducible or split one large story into independently verifiable slices. State the expected improvement before trying it, then inspect the outcome. This is how process choices become learning rather than ceremony. When discussing a methodology in an interview or a team meeting, connect it to a constraint and a concrete feedback loop.",
+      "direction": "Customer portal",
+      "id": "chapter-10",
+      "start": 526.1,
+      "duration": 46.166667,
+      "speechDuration": 45.516667,
+      "speed": 1.288670816550714
+    },
+    {
+      "title": "Recap",
+      "text": "Scrum emphasizes iterative inspection, Kanban focuses on flow, X P strengthens engineering discipline, and Lean reduces waste. Knowledge check: which approach would help a support team receiving unpredictable requests, and why? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+      "direction": "Four-key-takeaway recap slide.",
+      "id": "chapter-11",
+      "start": 572.266667,
+      "duration": 27.733333,
+      "speechDuration": 27.083333,
+      "speed": 1.2866953846153837
+    }
+  ],
+  "publishAt": null,
+  "plannedDate": "2026-10-23",
+  "status": "prepared",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-12%",
+  "duration": 600
+}

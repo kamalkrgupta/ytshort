@@ -1,0 +1,105 @@
+{
+  "episode": 4,
+  "topic": "How Generative AI Works",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "title": "Hook and promise",
+      "text": "Have you ever wondered how to make technology work for you instead of spending hours figuring everything out? Welcome to episode 4 of AI for Beginners. Today, we’re looking at how generative ai works. By the end, you’ll understand one practical idea, watch a realistic example, and try a small exercise yourself. You don’t need a technical background or expensive software. Bring your curiosity. We’ll work through it together. Here’s the example we’ll use: asking for a bedtime story about a robot. We’ll use that situation to make the topic concrete. Watch how we break the task into small steps, because the same thinking will help you use many different AI tools later in this course.",
+      "direction": "Presenter on right; large title “How Generative AI Works” on left; animated question mark and simple example icon.",
+      "cards": [
+        "One practical AI skill",
+        "How Generative AI Works",
+        "Try a beginner exercise"
+      ],
+      "summary": "Learn one practical idea, see an example, and try it yourself.",
+      "start": 0,
+      "duration": 59.666667,
+      "speechDuration": 54.408,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-02",
+      "title": "Explain the concept",
+      "text": "Let’s start with the main idea. generative models learn statistical relationships and generate new outputs.\n\nThink of AI as a tool that processes information and returns an output based on its training, instructions, and any relevant information it can access. It can save time on drafts and patterns, but it doesn’t automatically know what’s correct for your situation. The most useful habit is to define what you want before touching the tool.\n\nAsk yourself three questions: what’s my goal, what information does the tool need, and how will I check the result? Those questions work whether you’re writing a prompt, building a workflow, or reviewing a generated answer.",
+      "direction": "Full-width explainer diagram: INPUT → AI TOOL → OUTPUT → HUMAN CHECK. Highlight “generative models learn statistical relationships and generate new outputs”.",
+      "cards": [
+        "Generative models learn statistical relationships and generate new outputs.",
+        "Inputs shape the response",
+        "Human review remains essential"
+      ],
+      "summary": "Generative models learn statistical relationships and generate new outputs.",
+      "start": 59.666667,
+      "duration": 53.466667,
+      "speechDuration": 48.216,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-03",
+      "title": "On-screen demonstration",
+      "text": "Let’s try it with an example. Our example is asking for a bedtime story about a robot.\n\nStart by writing down the desired result in one sentence. Next, identify the input: what would a person need to know to do this task correctly? Then write a simple instruction with that context and a clear format. On screen, I am showing a sample request, followed by a possible output. Notice that we’re not judging the result by how impressive it sounds. We’re checking whether it actually meets the task. If the output is too broad, ask for a more specific version. If a fact matters, verify it from a reliable source.\n\nPause the video here if you’d like to copy the structure into your own notes.",
+      "direction": "Screen capture or mock interface showing: asking for a bedtime story about a robot. Zoom to prompt/input and result; blur account details.",
+      "cards": [
+        "Asking for a bedtime story about a robot",
+        "Define input and desired output",
+        "Compare the response with your goal"
+      ],
+      "summary": "Asking for a bedtime story about a robot",
+      "start": 113.133333,
+      "duration": 59.7,
+      "speechDuration": 54.456,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-04",
+      "title": "Guided beginner exercise",
+      "text": "Your turn. Try this exercise: generate and revise a three-sentence story. Begin with a very small example, not a complex project. Give yourself thirty seconds to decide what success would look like. Then complete the task once and inspect the result. What’s useful? What’s missing? What would you change? Make one improvement and compare the first and second versions. This simple before-and-after comparison teaches you more than copying a complicated prompt from the internet. If your chosen tool is unavailable, do the exercise on paper: sketch the input, the steps, and the output. The objective is to practice the underlying thinking, not to depend on one particular app.",
+      "direction": "Split screen: exercise instruction “generate and revise a three-sentence story” on left; worked sample on right; 10-second pause card.",
+      "cards": [
+        "Generate and revise a three-sentence story",
+        "Make one improvement",
+        "Compare your two attempts"
+      ],
+      "summary": "Generate and revise a three-sentence story",
+      "start": 172.833333,
+      "duration": 60.1,
+      "speechDuration": 54.864,
+      "speed": 1.0
+    },
+    {
+      "id": "chapter-05",
+      "title": "Limitations, recap and CTA",
+      "text": "Before we finish, remember this important limitation: generated content can sound plausible without being true. Responsible AI use means understanding the strengths of the tool and keeping yourself accountable for the final result. Today you learned that generative models learn statistical relationships and generate new outputs, saw the example of asking for a bedtime story about a robot, and practiced a small hands-on task. Here’s your challenge: repeat the exercise with a different topic and write down one thing that improved. In the comments, share the part you found easiest or the question you still have. If this helped, share it with someone learning AI. And subscribe to Tech at sixty for the next lesson. We’re building practical AI skills one simple step at a time. Thanks for watching. See you in the next lesson.",
+      "direction": "Three-point recap animation; caution banner “generated content can sound plausible without being true”; subscribe end screen with next-episode placeholder.",
+      "cards": [
+        "Generative models learn statistical relationships and generate new outputs.",
+        "Generated content can sound plausible without being true",
+        "Practice again with a new example"
+      ],
+      "summary": "Generated content can sound plausible without being true",
+      "start": 232.933333,
+      "duration": 67.066667,
+      "speechDuration": 61.8,
+      "speed": 1.0
+    }
+  ],
+  "visual": {
+    "example": "Asking for a bedtime story about a robot",
+    "question": "Generate and revise a three-sentence story?",
+    "steps": [
+      "Define your goal",
+      "Provide useful input",
+      "Review the output"
+    ],
+    "checks": [
+      "Check accuracy",
+      "Refine the response",
+      "Compare the result"
+    ],
+    "result": "Generated content can sound plausible without being true"
+  },
+  "publishAt": "2026-10-28T14:00:00+05:30",
+  "plannedDate": "2026-10-28",
+  "status": "prepared",
+  "duration": 300
+}

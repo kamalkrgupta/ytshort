@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "44c8c6e132ca91a11cd39e751728c7907fa7794c73fb36323bb90609b5d77ef2",
+  "title": "CSS Display Property | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-31T08:44:31Z",
+  "publishAt": "2026-11-02T05:30:00Z",
+  "videoId": "tozXzYirna4",
+  "url": "https://www.youtube.com/watch?v=tozXzYirna4",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-02T05:30:00Z"
+}

@@ -1,0 +1,271 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,620
+Welcome to episode 25 of AI for Beginners Today
+
+4
+00:00:12,774 --> 00:00:17,001
+we’re looking at better ai image prompts By the
+
+5
+00:00:17,014 --> 00:00:21,099
+end you’ll understand one practical idea watch a realistic
+
+6
+00:00:21,112 --> 00:00:25,944
+example and try a small exercise yourself You don’t
+
+7
+00:00:25,957 --> 00:00:30,687
+need a technical background or expensive software Bring your
+
+8
+00:00:30,700 --> 00:00:36,357
+curiosity We’ll work through it together Here’s the example
+
+9
+00:00:36,370 --> 00:00:39,991
+we’ll use a 16:9  thumbnail with a robot and
+
+10
+00:00:40,004 --> 00:00:44,398
+empty title space We’ll use that situation to make
+
+11
+00:00:44,411 --> 00:00:48,290
+the topic concrete Watch how we break the task
+
+12
+00:00:48,303 --> 00:00:51,640
+into small steps because the same thinking will help
+
+13
+00:00:51,653 --> 00:00:54,643
+you use many different AI tools later in this
+
+14
+00:00:54,656 --> 00:00:55,184
+course
+
+15
+00:01:01,450 --> 00:01:05,704
+Let’s start with the main idea iterate on framing
+
+16
+00:01:05,910 --> 00:01:09,892
+palette and aspect ratio Think of AI as a
+
+17
+00:01:09,905 --> 00:01:13,462
+tool that processes information and returns an output based
+
+18
+00:01:13,475 --> 00:01:17,650
+on its training instructions and any relevant information it
+
+19
+00:01:17,663 --> 00:01:21,361
+can access It can save time on drafts and
+
+20
+00:01:21,374 --> 00:01:24,944
+patterns but it doesn’t automatically know what’s correct for
+
+21
+00:01:24,957 --> 00:01:29,106
+your situation The most useful habit is to define
+
+22
+00:01:29,119 --> 00:01:33,037
+what you want before touching the tool Ask yourself
+
+23
+00:01:33,050 --> 00:01:36,735
+three questions what’s my goal what information does the
+
+24
+00:01:36,748 --> 00:01:39,403
+tool need and how will I check the result
+
+25
+00:01:40,305 --> 00:01:43,964
+Those questions work whether you’re writing a prompt building a
+
+26
+00:01:43,977 --> 00:01:46,851
+workflow or reviewing a generated answer
+
+27
+00:01:53,150 --> 00:01:57,121
+Let’s try it with an example Our example is
+
+28
+00:01:57,134 --> 00:02:00,652
+a 16:9  thumbnail with a robot and empty title
+
+29
+00:02:00,664 --> 00:02:04,981
+space Start by writing down the desired result in
+
+30
+00:02:04,994 --> 00:02:09,865
+one sentence Next identify the input what would a
+
+31
+00:02:09,878 --> 00:02:12,649
+person need to know to do this task correctly
+
+32
+00:02:13,551 --> 00:02:16,734
+Then write a simple instruction with that context and
+
+33
+00:02:16,747 --> 00:02:20,587
+a clear format On screen I am showing a
+
+34
+00:02:20,600 --> 00:02:25,664
+sample request followed by a possible output Notice that
+
+35
+00:02:25,677 --> 00:02:28,461
+we’re not judging the result by how impressive it
+
+36
+00:02:28,474 --> 00:02:32,971
+sounds We’re checking whether it actually meets the task
+
+37
+00:02:33,860 --> 00:02:36,450
+If the output is too broad ask for a
+
+38
+00:02:36,463 --> 00:02:41,103
+more specific version If a fact matters verify it
+
+39
+00:02:41,115 --> 00:02:44,788
+from a reliable source Pause the video here if
+
+40
+00:02:44,801 --> 00:02:47,262
+you’d like to copy the structure into your own
+
+41
+00:02:47,275 --> 00:02:47,778
+notes
+
+42
+00:02:54,050 --> 00:02:59,232
+Your turn Try this exercise refine one prompt across
+
+43
+00:02:59,245 --> 00:03:04,013
+three versions Begin with a very small example not
+
+44
+00:03:04,026 --> 00:03:08,768
+a complex project Give yourself thirty seconds to decide
+
+45
+00:03:08,781 --> 00:03:12,711
+what success would look like Then complete the task
+
+46
+00:03:12,724 --> 00:03:18,472
+once and inspect the result What’s useful What’s missing
+
+47
+00:03:19,361 --> 00:03:23,652
+What would you change Make one improvement and compare
+
+48
+00:03:23,665 --> 00:03:28,948
+the first and second versions This simple before-and-after comparison
+
+49
+00:03:28,961 --> 00:03:32,170
+teaches you more than copying a complicated prompt from
+
+50
+00:03:32,183 --> 00:03:36,384
+the internet If your chosen tool is unavailable do
+
+51
+00:03:36,397 --> 00:03:40,289
+the exercise on paper sketch the input the steps
+
+52
+00:03:40,418 --> 00:03:44,129
+and the output The objective is to practice the
+
+53
+00:03:44,142 --> 00:03:47,930
+underlying thinking not to depend on one particular app
+
+54
+00:03:54,250 --> 00:03:58,966
+Before we finish remember this important limitation image models
+
+55
+00:03:58,979 --> 00:04:04,032
+may distort text and small details Responsible AI use
+
+56
+00:04:04,045 --> 00:04:07,177
+means understanding the strengths of the tool and keeping
+
+57
+00:04:07,190 --> 00:04:11,610
+yourself accountable for the final result Today you learned
+
+58
+00:04:11,623 --> 00:04:15,141
+that iterate on framing palette and aspect ratio saw
+
+59
+00:04:15,154 --> 00:04:18,401
+the example of a 16:9  thumbnail with a robot
+
+60
+00:04:18,414 --> 00:04:22,228
+and empty title space and practiced a small hands-on
+
+61
+00:04:22,241 --> 00:04:26,636
+task Here’s your challenge repeat the exercise with a
+
+62
+00:04:26,648 --> 00:04:29,973
+different topic and write down one thing that improved
+
+63
+00:04:30,901 --> 00:04:34,007
+In the comments share the part you found easiest
+
+64
+00:04:34,020 --> 00:04:37,576
+or the question you still have If this helped
+
+65
+00:04:37,705 --> 00:04:41,984
+share it with someone learning AI And subscribe to
+
+66
+00:04:41,996 --> 00:04:45,914
+Tech at sixty for the next lesson We’re building
+
+67
+00:04:45,927 --> 00:04:49,329
+practical AI skills one simple step at a time
+
+68
+00:04:50,218 --> 00:04:54,071
+Thanks for watching See you in the next lesson

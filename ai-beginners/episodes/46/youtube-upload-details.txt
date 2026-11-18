@@ -1,0 +1,19 @@
+AI Coding Help: Explain, Generate and Debug Small Programs | Ep 46
+
+AI Coding Help: Explain, Generate and Debug Small Programs. Learn with a simple example and a beginner exercise.
+
+AI for Beginners — Episode 46 of 50
+
+What you will learn: Use ai to explain, generate and debug small programs.
+Example: fixing a Python loop that skips a number.
+Try it: request a fix and run a test.
+Remember: generated code may be insecure or incorrect.
+
+Follow the series in episode order and practice with sample data. Share your question or exercise result in the comments.
+Subscribe to @Techat60 for practical AI tutorials.
+
+#AIForBeginners #ArtificialIntelligence #LearnAI
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk
+
+Tags: ai for coding assistance, AI for beginners, artificial intelligence tutorial, learn AI, AI tutorial English, Techat60

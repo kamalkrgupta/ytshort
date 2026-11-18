@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "645dac454447063f1065772880f075cb910ef6ed73fba68e2fc3cf927a5e9aa0",
+  "title": "Matter Explained: A Common Language for Smart Homes",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:54:17Z",
+  "publishAt": "2026-11-29T14:30:00+00:00",
+  "videoId": "G0-bd_osQYU",
+  "url": "https://www.youtube.com/watch?v=G0-bd_osQYU",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-29T14:30:00Z"
+}

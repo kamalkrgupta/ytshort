@@ -1,0 +1,38 @@
+{
+  "number": 18,
+  "slug": "world-models",
+  "title": "AI World Models: Predicting What Happens Next",
+  "category": "AI",
+  "source": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+  "headline": "An AI that models\nwhat happens next.",
+  "meaning": "World models generate or predict changing environments.",
+  "example": "An action changes the next state of a simulated world.",
+  "comparison": "Interactive simulation differs from a fixed video clip.",
+  "caution": "A generated world is not guaranteed real-world physics.",
+  "question": "What would you try in a simulated world?",
+  "flow": [
+    "Current scene",
+    "Your action",
+    "Next scene"
+  ],
+  "left": [
+    "VIDEO CLIP",
+    "A fixed sequence"
+  ],
+  "right": [
+    "WORLD MODEL",
+    "Responds to actions"
+  ],
+  "lines": [
+    "A video plays the same sequence. A world model can generate a changing environment that responds to actions.",
+    "Give it a scene and an action, and it tries to model what happens next.",
+    "Imagine steering through a generated space rather than simply watching a prerecorded clip. This diagram is only an illustration.",
+    "Researchers explore these models for interactive experiences and environments where agents can practise.",
+    "A convincing world can still contain mistakes. Visual realism does not guarantee correct physics or reliable real world behavior.",
+    "What would you try in a simulated world? Subscribe to Tech at sixty for tech explained."
+  ],
+  "publishLocal": "2026-12-03T20:00:00+05:30",
+  "publishAt": "2026-12-03T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#8ee4c8"
+}

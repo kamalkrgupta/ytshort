@@ -1,0 +1,11 @@
+{
+  "approved": true,
+  "reviewer": "Codex",
+  "checks": [
+    "Visual review of scene stills",
+    "Original scripts checked against primary sources",
+    "120 measured voice clips fit their scenes",
+    "Corrected headings and SVG initialization validated"
+  ],
+  "note": "Timing checked by measurement, not by ear."
+}

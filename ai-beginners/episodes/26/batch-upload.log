@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 27%
+Upload 36%
+Upload 45%
+Upload 54%
+Upload 63%
+Upload 72%
+Upload 81%
+Upload 90%
+Upload 98%
+Uploaded: https://www.youtube.com/watch?v=4_Yu1Y5b5Os
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "b2f95c05662dbdc2affc1f6b95eed072b8b8a6b63fc614c03d3fc528d855d35a",
+  "title": "AI Video Generation for Beginners: Plan Scenes and Camera Motion | Ep 26",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:01:37Z",
+  "publishAt": "2026-11-08T14:00:00+05:30",
+  "videoId": "4_Yu1Y5b5Os",
+  "url": "https://www.youtube.com/watch?v=4_Yu1Y5b5Os",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-08T08:30:00Z"
+}

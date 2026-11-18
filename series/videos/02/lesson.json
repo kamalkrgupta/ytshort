@@ -1,0 +1,16 @@
+{
+  "videoNumber": 2,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "What Are HTML Tags?",
+  "description": "Understand opening, closing, and self-closing tags.",
+  "publishLocal": "2026-10-20T11:00:00+05:30",
+  "publishAt": "2026-10-20T05:30:00Z",
+  "status": "planned",
+  "definition": "Tags describe the role of content on a web page.",
+  "code": "<p>Hello, web!</p>",
+  "preview": "<p>Hello, web!</p>",
+  "rule": "Most elements have an opening tag, content, and a closing tag.",
+  "tip": "A slash marks the closing tag.",
+  "caution": "Void elements, like images, have no closing tag in HTML.",
+  "exercise": "Write a paragraph element containing your name."
+}

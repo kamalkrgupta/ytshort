@@ -1,0 +1,16 @@
+{
+  "videoNumber": 32,
+  "phase": "Phase 3 — Build Beautiful Websites with CSS",
+  "topic": "CSS Hover Effects",
+  "description": "Make buttons react when users hover.",
+  "publishLocal": "2026-11-04T11:00:00+05:30",
+  "publishAt": "2026-11-04T05:30:00Z",
+  "status": "planned",
+  "definition": "The hover selector styles an element while a pointer rests over it.",
+  "code": "button {\n transition: background .2s;\n}\nbutton:hover {\n background: coral;\n}",
+  "preview": "<button style=\"background:coral;color:#182338;padding:25px 45px\">Hover state</button>",
+  "rule": "Combine a hover rule with a transition for a smooth change.",
+  "tip": "Focus visible can provide a matching cue for keyboard users.",
+  "caution": "Hover is not reliable on touchscreens; keep essential actions accessible.",
+  "exercise": "Add hover and keyboard focus styles to one button."
+}

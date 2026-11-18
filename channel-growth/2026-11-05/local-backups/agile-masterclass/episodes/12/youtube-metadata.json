@@ -1,0 +1,18 @@
+{
+  "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+  "description": "Learn end-to-end agile testing case study with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 12 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Requirements\n\u2022 Sprint 1: Authentication\n\u2022 Sprint 2: Booking\n\u2022 Sprint 3: Payments\n\u2022 Regression and nonfunctional quality\n\u2022 Release and monitoring\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:55 Requirements\n01:56 Sprint 1: Authentication\n02:58 Sprint 2: Booking\n03:57 Sprint 3: Payments\n05:01 Regression and nonfunctional quality\n06:03 Release and monitoring\n07:04 Worked example\n07:52 A closer look\n08:39 Verify the outcome\n09:25 Course conclusion\n\nPractice: What evidence supports your release decision?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+  "tags": [
+    "agile testing",
+    "end-to-end agile testing case study",
+    "software testing tutorial",
+    "agile testing for beginners",
+    "QA tutorial",
+    "manual testing",
+    "software quality assurance",
+    "Techat60",
+    "agile testing masterclass"
+  ],
+  "video": "video.mp4",
+  "thumbnail": "thumbnail.jpg",
+  "publishAt": "2026-10-28T18:00:00+05:30"
+}

@@ -1,0 +1,14 @@
+[aist#1:0/pcm_s16le @ 0x714c1c600] Guessed Channel Layout: mono
+[aist#2:0/pcm_s16le @ 0x714c1c780] Guessed Channel Layout: mono
+[aist#3:0/pcm_s16le @ 0x714c1c900] Guessed Channel Layout: mono
+[aist#4:0/pcm_s16le @ 0x714c1ca80] Guessed Channel Layout: mono
+[aist#5:0/pcm_s16le @ 0x714c1cc00] Guessed Channel Layout: mono
+[aist#6:0/pcm_s16le @ 0x714c1cd80] Guessed Channel Layout: mono
+[aist#7:0/pcm_s16le @ 0x714c1cf00] Guessed Channel Layout: mono
+[aist#8:0/pcm_s16le @ 0x714c1d080] Guessed Channel Layout: mono
+[aist#9:0/pcm_s16le @ 0x714c1d200] Guessed Channel Layout: mono
+[aist#10:0/pcm_s16le @ 0x714c1d380] Guessed Channel Layout: mono
+[aist#11:0/pcm_s16le @ 0x714c1d500] Guessed Channel Layout: mono
+[swscaler @ 0x7166dc000] deprecated pixel format used, make sure you did set range correctly
+[out_#0:0 @ 0x715181bc0] 100 buffers queued in out_#0:0, something may be wrong.
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/02

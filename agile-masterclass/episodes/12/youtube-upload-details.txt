@@ -1,0 +1,44 @@
+Agile Testing Real Project Case Study | Booking & Payments | Episode 12
+
+Learn end-to-end agile testing case study with practical software testing examples, diagrams and a guided exercise.
+Agile Testing Masterclass — Episode 12 of 12 | English | 10-minute tutorial.
+
+In this lesson:
+• Introduction
+• Requirements
+• Sprint 1: Authentication
+• Sprint 2: Booking
+• Sprint 3: Payments
+• Regression and nonfunctional quality
+• Release and monitoring
+• Worked example
+
+CHAPTERS
+00:00 Introduction
+00:55 Requirements
+01:56 Sprint 1: Authentication
+02:58 Sprint 2: Booking
+03:57 Sprint 3: Payments
+05:01 Regression and nonfunctional quality
+06:03 Release and monitoring
+07:04 Worked example
+07:52 A closer look
+08:39 Verify the outcome
+09:25 Course conclusion
+
+Practice: What evidence supports your release decision?
+Examples use fictional applications and synthetic data.
+
+Subscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.
+
+References and further reading:
+https://agilemanifesto.org/
+https://scrumguides.org/scrum-guide.html
+https://kanbanguides.org/the-kanban-guide/2025.5/
+https://playwright.dev/docs/best-practices
+
+#AgileTesting #SoftwareTesting #QATutorial
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI
+
+Tags: agile testing, end-to-end agile testing case study, software testing tutorial, agile testing for beginners, QA tutorial, manual testing, software quality assurance, Techat60, agile testing masterclass

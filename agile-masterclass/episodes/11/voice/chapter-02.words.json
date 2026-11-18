@@ -1,0 +1,612 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 4687500,
+    "text": "Use"
+  },
+  {
+    "offset": 5829580,
+    "duration": 5397910,
+    "text": "Jira"
+  },
+  {
+    "offset": 13784160,
+    "duration": 4687500,
+    "text": "Azure"
+  },
+  {
+    "offset": 18613750,
+    "duration": 9232910,
+    "text": "DevOps"
+  },
+  {
+    "offset": 27988750,
+    "duration": 1846660,
+    "text": "or"
+  },
+  {
+    "offset": 29977080,
+    "duration": 4971660,
+    "text": "GitHub"
+  },
+  {
+    "offset": 35090830,
+    "duration": 4971660,
+    "text": "Issues"
+  },
+  {
+    "offset": 40204580,
+    "duration": 1704580,
+    "text": "to"
+  },
+  {
+    "offset": 42051250,
+    "duration": 4261250,
+    "text": "connect"
+  },
+  {
+    "offset": 46454580,
+    "duration": 6960410,
+    "text": "stories"
+  },
+  {
+    "offset": 54835410,
+    "duration": 6250000,
+    "text": "defects"
+  },
+  {
+    "offset": 61227080,
+    "duration": 2414580,
+    "text": "and"
+  },
+  {
+    "offset": 63784160,
+    "duration": 9375000,
+    "text": "verification"
+  },
+  {
+    "offset": 73301250,
+    "duration": 4261250,
+    "text": "work"
+  },
+  {
+    "offset": 87431660,
+    "duration": 2982910,
+    "text": "For"
+  },
+  {
+    "offset": 90556660,
+    "duration": 426250,
+    "text": "a"
+  },
+  {
+    "offset": 91125000,
+    "duration": 4971660,
+    "text": "login"
+  },
+  {
+    "offset": 96238750,
+    "duration": 5539580,
+    "text": "lockout"
+  },
+  {
+    "offset": 101920410,
+    "duration": 5681660,
+    "text": "defect"
+  },
+  {
+    "offset": 109022910,
+    "duration": 5965830,
+    "text": "record"
+  },
+  {
+    "offset": 115130830,
+    "duration": 7102080,
+    "text": "evidence"
+  },
+  {
+    "offset": 123653330,
+    "duration": 3693330,
+    "text": "link"
+  },
+  {
+    "offset": 127488750,
+    "duration": 1420410,
+    "text": "the"
+  },
+  {
+    "offset": 129051250,
+    "duration": 5823750,
+    "text": "story"
+  },
+  {
+    "offset": 135017080,
+    "duration": 3125000,
+    "text": "and"
+  },
+  {
+    "offset": 138284160,
+    "duration": 5255830,
+    "text": "retest"
+  },
+  {
+    "offset": 143681660,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 145102080,
+    "duration": 5539580,
+    "text": "fix"
+  },
+  {
+    "offset": 160443330,
+    "duration": 2982910,
+    "text": "For"
+  },
+  {
+    "offset": 163568330,
+    "duration": 426250,
+    "text": "a"
+  },
+  {
+    "offset": 164136250,
+    "duration": 9659160,
+    "text": "login-lockout"
+  },
+  {
+    "offset": 173937500,
+    "duration": 5823750,
+    "text": "defect"
+  },
+  {
+    "offset": 182460410,
+    "duration": 3125000,
+    "text": "use"
+  },
+  {
+    "offset": 185727080,
+    "duration": 1278330,
+    "text": "an"
+  },
+  {
+    "offset": 187147910,
+    "duration": 3267080,
+    "text": "issue"
+  },
+  {
+    "offset": 190556660,
+    "duration": 5113750,
+    "text": "tracker"
+  },
+  {
+    "offset": 195812500,
+    "duration": 1562500,
+    "text": "to"
+  },
+  {
+    "offset": 197517080,
+    "duration": 4829580,
+    "text": "connect"
+  },
+  {
+    "offset": 202488750,
+    "duration": 1704580,
+    "text": "the"
+  },
+  {
+    "offset": 204335410,
+    "duration": 5823750,
+    "text": "affected"
+  },
+  {
+    "offset": 210301250,
+    "duration": 6250000,
+    "text": "story"
+  },
+  {
+    "offset": 217971660,
+    "duration": 1846660,
+    "text": "the"
+  },
+  {
+    "offset": 219960410,
+    "duration": 5539580,
+    "text": "observed"
+  },
+  {
+    "offset": 225642080,
+    "duration": 6250000,
+    "text": "failure"
+  },
+  {
+    "offset": 232034160,
+    "duration": 2130830,
+    "text": "and"
+  },
+  {
+    "offset": 234306660,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 235443330,
+    "duration": 10085410,
+    "text": "verification"
+  },
+  {
+    "offset": 245670410,
+    "duration": 4545410,
+    "text": "work"
+  },
+  {
+    "offset": 260017080,
+    "duration": 6534160,
+    "text": "Include"
+  },
+  {
+    "offset": 266693330,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 267971660,
+    "duration": 4687500,
+    "text": "build"
+  },
+  {
+    "offset": 274363750,
+    "duration": 6960410,
+    "text": "synthetic"
+  },
+  {
+    "offset": 281465830,
+    "duration": 4687500,
+    "text": "account"
+  },
+  {
+    "offset": 286295410,
+    "duration": 5255830,
+    "text": "setup"
+  },
+  {
+    "offset": 291693330,
+    "duration": 1988750,
+    "text": "and"
+  },
+  {
+    "offset": 293823750,
+    "duration": 6392080,
+    "text": "expected"
+  },
+  {
+    "offset": 300357910,
+    "duration": 6960410,
+    "text": "policy"
+  },
+  {
+    "offset": 317261250,
+    "duration": 2698750,
+    "text": "An"
+  },
+  {
+    "offset": 320102500,
+    "duration": 3267080,
+    "text": "issue"
+  },
+  {
+    "offset": 323511250,
+    "duration": 5255830,
+    "text": "tracker"
+  },
+  {
+    "offset": 328909160,
+    "duration": 1846660,
+    "text": "can"
+  },
+  {
+    "offset": 330897910,
+    "duration": 3835410,
+    "text": "help"
+  },
+  {
+    "offset": 334875000,
+    "duration": 2982910,
+    "text": "make"
+  },
+  {
+    "offset": 338000000,
+    "duration": 11505830,
+    "text": "responsibility"
+  },
+  {
+    "offset": 349647910,
+    "duration": 3409160,
+    "text": "and"
+  },
+  {
+    "offset": 353198750,
+    "duration": 5539580,
+    "text": "status"
+  },
+  {
+    "offset": 358880830,
+    "duration": 6250000,
+    "text": "visible"
+  },
+  {
+    "offset": 366977500,
+    "duration": 2130830,
+    "text": "but"
+  },
+  {
+    "offset": 369250000,
+    "duration": 994160,
+    "text": "it"
+  },
+  {
+    "offset": 370386250,
+    "duration": 3409160,
+    "text": "does"
+  },
+  {
+    "offset": 373937500,
+    "duration": 2982910,
+    "text": "not"
+  },
+  {
+    "offset": 377062500,
+    "duration": 6676250,
+    "text": "determine"
+  },
+  {
+    "offset": 383880830,
+    "duration": 3693330,
+    "text": "whether"
+  },
+  {
+    "offset": 387715830,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 388852500,
+    "duration": 6534160,
+    "text": "policy"
+  },
+  {
+    "offset": 395528330,
+    "duration": 2130830,
+    "text": "is"
+  },
+  {
+    "offset": 397801250,
+    "duration": 5681660,
+    "text": "correct"
+  },
+  {
+    "offset": 413284160,
+    "duration": 6392080,
+    "text": "Avoid"
+  },
+  {
+    "offset": 419818330,
+    "duration": 5539580,
+    "text": "copying"
+  },
+  {
+    "offset": 425500000,
+    "duration": 6818330,
+    "text": "sensitive"
+  },
+  {
+    "offset": 432460410,
+    "duration": 9090830,
+    "text": "credentials"
+  },
+  {
+    "offset": 441693330,
+    "duration": 3693330,
+    "text": "into"
+  },
+  {
+    "offset": 445528330,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 446238750,
+    "duration": 5681660,
+    "text": "ticket"
+  },
+  {
+    "offset": 461863750,
+    "duration": 2840830,
+    "text": "When"
+  },
+  {
+    "offset": 464846660,
+    "duration": 852080,
+    "text": "the"
+  },
+  {
+    "offset": 465840830,
+    "duration": 3693330,
+    "text": "fix"
+  },
+  {
+    "offset": 469676250,
+    "duration": 1704580,
+    "text": "is"
+  },
+  {
+    "offset": 471522910,
+    "duration": 4971660,
+    "text": "ready"
+  },
+  {
+    "offset": 478056660,
+    "duration": 5397910,
+    "text": "record"
+  },
+  {
+    "offset": 483596660,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 484732910,
+    "duration": 5823750,
+    "text": "retest"
+  },
+  {
+    "offset": 490698750,
+    "duration": 5965830,
+    "text": "outcome"
+  },
+  {
+    "offset": 496806660,
+    "duration": 2698750,
+    "text": "and"
+  },
+  {
+    "offset": 499647910,
+    "duration": 5255830,
+    "text": "relevant"
+  },
+  {
+    "offset": 505045410,
+    "duration": 6392080,
+    "text": "regression"
+  },
+  {
+    "offset": 511579580,
+    "duration": 6960410,
+    "text": "results"
+  },
+  {
+    "offset": 528340830,
+    "duration": 4687500,
+    "text": "Whether"
+  },
+  {
+    "offset": 533170410,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 534448750,
+    "duration": 3693330,
+    "text": "team"
+  },
+  {
+    "offset": 538284160,
+    "duration": 5113750,
+    "text": "uses"
+  },
+  {
+    "offset": 543540000,
+    "duration": 5681660,
+    "text": "Jira"
+  },
+  {
+    "offset": 551778330,
+    "duration": 4545410,
+    "text": "Azure"
+  },
+  {
+    "offset": 556465830,
+    "duration": 9090830,
+    "text": "DevOps"
+  },
+  {
+    "offset": 565698750,
+    "duration": 1704580,
+    "text": "or"
+  },
+  {
+    "offset": 567545410,
+    "duration": 4971660,
+    "text": "GitHub"
+  },
+  {
+    "offset": 572659160,
+    "duration": 6107910,
+    "text": "Issues"
+  },
+  {
+    "offset": 581323750,
+    "duration": 1704580,
+    "text": "the"
+  },
+  {
+    "offset": 583170410,
+    "duration": 6392080,
+    "text": "important"
+  },
+  {
+    "offset": 589704580,
+    "duration": 8522910,
+    "text": "relationship"
+  },
+  {
+    "offset": 598369160,
+    "duration": 1562500,
+    "text": "is"
+  },
+  {
+    "offset": 600073750,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 601352500,
+    "duration": 5397910,
+    "text": "same"
+  },
+  {
+    "offset": 609448750,
+    "duration": 11505830,
+    "text": "expectation"
+  },
+  {
+    "offset": 622232910,
+    "duration": 7528330,
+    "text": "evidence"
+  },
+  {
+    "offset": 631323750,
+    "duration": 6392080,
+    "text": "defect"
+  },
+  {
+    "offset": 640272910,
+    "duration": 4545410,
+    "text": "fix"
+  },
+  {
+    "offset": 644960410,
+    "duration": 1846660,
+    "text": "and"
+  },
+  {
+    "offset": 646948750,
+    "duration": 9375000,
+    "text": "verification"
+  },
+  {
+    "offset": 656465830,
+    "duration": 5397910,
+    "text": "remain"
+  },
+  {
+    "offset": 662005830,
+    "duration": 9801250,
+    "text": "understandable"
+  },
+  {
+    "offset": 671948750,
+    "duration": 6818330,
+    "text": "together"
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "episode": 5,
+  "topic": "Agile Testing Principles and Attributes",
+  "visual": {
+    "headline": "5 PRINCIPLES\nOF AGILE TESTING",
+    "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+    "example": "Subscription cancellation",
+    "steps": [
+      "Agree on billing rules",
+      "Check changes early",
+      "Improve the process"
+    ],
+    "checks": [
+      "Cancellation effective date",
+      "No unexpected renewal",
+      "Accurate access end date"
+    ],
+    "result": "Match testing effort to consequences",
+    "question": "What happens when cancellation meets renewal?"
+  },
+  "chapters": [
+    {
+      "title": "Introduction",
+      "text": "Effective Agile Testing depends on continuous quality work, shared responsibility, adaptability, risk awareness and improvement. We will apply these principles to a subscription software as a service product. Use a subscription service as a running example. Customers can start a paid plan, renew it and cancel future renewals. A defect in a color choice is inconvenient; a defect that charges a cancelled account can damage trust and require financial correction. Agile Testing principles help the team choose what to clarify and investigate first. They do not guarantee a defect-free product. Their practical value comes from repeated conversations, focused examples and fast feedback. We will connect each principle to a concrete action on the subscription journey rather than leaving it as a slogan.",
+      "direction": "Five principle icons.",
+      "id": "chapter-01",
+      "start": 0,
+      "duration": 56.933333,
+      "speechDuration": 56.283333,
+      "speed": 1.1982232750962392
+    },
+    {
+      "title": "Continuous quality",
+      "text": "Clarify subscription rules during refinement, add unit tests during implementation, validate workflows during integration and execute regression checks after changes. Quality is evaluated repeatedly, not inspected only at release. During refinement, ask when a cancellation becomes effective. Does access continue until the paid period ends? What happens if cancellation arrives while renewal is processing? Write two examples with timestamps and expected billing outcomes. During implementation, developers can check the billing rule at a low level. During integration, the team checks notifications, payment-provider messages and account access. Before release, regression checks cover existing subscribers. The same rule receives attention at several points because different kinds of evidence become available at different times. Continuous quality is this repeated investigation across delivery.",
+      "direction": "Quality activities across delivery timeline.",
+      "id": "chapter-02",
+      "start": 56.933333,
+      "duration": 64.866667,
+      "speechDuration": 64.216667,
+      "speed": 1.1985673501167924
+    },
+    {
+      "title": "Shared responsibility",
+      "text": "Developers contribute reviews and tests; testers contribute risk analysis and exploration; Product Owners clarify expectations; operations and security specialists address operational concerns. A failed renewal may require joint investigation of code, rules and logs. Shared responsibility becomes visible when a renewal fails. The tester notices an incorrect charge. A developer examines the state transition. The Product Owner clarifies the cancellation rule. Operations helps locate a delayed provider message. A security specialist may check that only authorized people can change subscriptions. Collaboration does not mean everyone has identical skills or that nobody owns a task. It means the team uses its combined expertise to solve the customer problem. A handoff that says testing will handle quality at the end delays that shared understanding until changes are harder to make.",
+      "direction": "Cross-functional troubleshooting diagram.",
+      "id": "chapter-03",
+      "start": 121.8,
+      "duration": 64.466667,
+      "speechDuration": 63.816667,
+      "speed": 1.1985583703316791
+    },
+    {
+      "title": "Adaptability and feedback",
+      "text": "If cancellation rules change, update criteria, billing tests and notifications. Fast test results help developers act while code context is fresh. Speed matters, but meaningful coverage must remain. Suppose the business changes from immediate cancellation to access through the end of the paid period. Updating only the user interface leaves several risks. Review acceptance examples, billing logic, account permissions, scheduled renewal jobs and customer messages. Existing automated checks may now encode an obsolete rule. A failing test could indicate either a defect or an intentionally changed expectation; investigate before deleting it. Adaptability means keeping the explanation and the evidence aligned with the current agreement. Fast feedback is useful when it points to a meaningful difference, not when it merely produces a quick red result.",
+      "direction": "Change request to updated tests.",
+      "id": "chapter-04",
+      "start": 186.266667,
+      "duration": 60.833333,
+      "speechDuration": 60.183333,
+      "speed": 1.1987371919135974
+    },
+    {
+      "title": "Risk-based testing",
+      "text": "Prioritize by likelihood and impact. Billing, authentication and account permissions often deserve more intensive coverage than minor styling changes. Testing effort should reflect business consequences. Make risk prioritization concrete. Consider three features: a new theme color, cancellation handling and administrator access. Discuss both how a failure might occur and what its consequences would be. A cancellation defect may lead to unwanted charges; an access-control defect may expose customer information. Those consequences justify deeper scenarios than a minor styling change. A simple risk matrix can support the conversation, but numerical scores are estimates rather than precise predictions. Review the ranking when new information appears. Testing effort should respond to the product's actual exposure, not stay fixed because an early spreadsheet assigned a number.",
+      "direction": "Risk matrix for SaaS features.",
+      "id": "chapter-05",
+      "start": 247.1,
+      "duration": 63.2,
+      "speechDuration": 62.55,
+      "speed": 1.1986570743405274
+    },
+    {
+      "title": "Maintainable automation",
+      "text": "Fragile screen-coordinate tests break easily. Prefer stable selectors, independent data and clear assertions. Review and remove obsolete checks. Automation should provide dependable feedback rather than maximize script counts. Maintainable automation starts with clear intent. A browser test should identify the Cancel subscription button through a stable, meaningful locator, arrange its own synthetic customer and verify the resulting subscription state. A screen-coordinate click can break when the layout changes, even if the behavior remains correct. A test that relies on another test to create its account can fail for unrelated reasons. Keep setup independent and assertions connected to customer outcomes. When a check becomes flaky, investigate its data, synchronization and dependencies instead of teaching the team to ignore failures through repeated reruns.",
+      "direction": "Fragile versus robust browser test.",
+      "id": "chapter-06",
+      "start": 310.3,
+      "duration": 60.266667,
+      "speechDuration": 59.616667,
+      "speed": 1.1984568073804862
+    },
+    {
+      "title": "Continuous improvement",
+      "text": "If testing consistently starts late, investigate unclear criteria, oversized stories or unstable environments. Improve the process and observe whether results change in later sprints. Continuous improvement needs an experiment, an owner and a way to inspect results. If testing begins late every sprint, the team might split one large subscription story into smaller slices and clarify its examples before implementation. Observe whether those slices reach verification earlier and whether important misunderstandings decrease. Avoid changing five unrelated process rules at once, because it becomes difficult to learn which change helped. At the next retrospective, inspect what happened and adjust. Improvement is not the number of action items written on a board; it is a useful change that the team actually tries and evaluates.",
+      "direction": "Retrospective action and follow-up.",
+      "id": "chapter-07",
+      "start": 370.566667,
+      "duration": 58.466667,
+      "speechDuration": 57.816667,
+      "speed": 1.1984087633323723
+    },
+    {
+      "title": "Worked example",
+      "text": "Your exercise is to plan testing for a cancellation-rule change. Identify a business example, a technical check, a customer-facing observation and one regression risk. For instance, verify that a cancelled subscription keeps access until the agreed end date, prevents a later renewal and displays an accurate confirmation. Also investigate a delayed payment notification near the cancellation time. Explain which specialists should join the conversation. Finish by choosing one small process improvement that would make future billing changes easier to verify. This links continuous testing, shared responsibility, adaptation, risk awareness and improvement in one practical plan.",
+      "direction": "Subscription cancellation",
+      "id": "chapter-08",
+      "start": 429.033333,
+      "duration": 48.033333,
+      "speechDuration": 47.383333,
+      "speed": 1.1983960604994723
+    },
+    {
+      "title": "A closer look",
+      "text": "Take a closer look at cancellation near renewal. A subscription is active at eleven fifty-nine, a renewal job begins at midnight, and the customer's cancellation request arrives at nearly the same moment. The team must define which event determines the outcome and how timestamps, timezones and delayed messages are interpreted. A tester can expose this ambiguity with a sequence diagram before the behavior is implemented. Use an ordinary cancellation example first, then a near-boundary example and a delayed-message example. These are not invented billing policies; they are questions for the people responsible for the product's rules. Clear examples prevent different components from implementing different assumptions.",
+      "direction": "Subscription cancellation",
+      "id": "chapter-09",
+      "start": 477.066667,
+      "duration": 48.5,
+      "speechDuration": 47.85,
+      "speed": 1.198244514106583
+    },
+    {
+      "title": "Verify the outcome",
+      "text": "Once the rule is agreed, choose evidence at several layers. A focused check can verify the effective cancellation calculation. An integration check can verify that a delayed provider event does not incorrectly reactivate a cancelled subscription. A user-journey check can verify the displayed access end date. Exploration can investigate whether the wording makes the billing consequence clear. Each check addresses a different risk. If one fails, explain the affected outcome instead of reporting only a tool name or a red pipeline stage. This is the practical link between principles and execution: collaboration clarifies the rule, risk guides the examples and continuous feedback keeps the implementation aligned.",
+      "direction": "Subscription cancellation",
+      "id": "chapter-10",
+      "start": 525.566667,
+      "duration": 49.466667,
+      "speechDuration": 48.816667,
+      "speed": 1.1981153977466712
+    },
+    {
+      "title": "Recap",
+      "text": "Agile Testing is continuous, collaborative, adaptable and risk-aware. Knowledge check: which software as a service features carry the highest quality risk? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+      "direction": "Principles recap.",
+      "id": "chapter-11",
+      "start": 575.033333,
+      "duration": 24.966667,
+      "speechDuration": 24.316667,
+      "speed": 1.2001644962302933
+    }
+  ],
+  "publishAt": "2026-10-25T18:00:00+05:30",
+  "plannedDate": "2026-10-25",
+  "status": "prepared",
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "-12%",
+  "duration": 600
+}

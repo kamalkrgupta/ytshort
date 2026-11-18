@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 27%
+Upload 36%
+Upload 45%
+Upload 54%
+Upload 63%
+Upload 72%
+Upload 81%
+Upload 90%
+Upload 99%
+Uploaded: https://www.youtube.com/watch?v=1F3vAegKmUI
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "9dcb677046facaa72bc0a41a613406ef8382187962a835becb59dc892f0efa06",
+  "title": "AI Data Analysis for Beginners: Ask Better Questions of Your Data | Ep 40",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:14:21Z",
+  "publishAt": "2026-11-15T14:00:00+05:30",
+  "videoId": "1F3vAegKmUI",
+  "url": "https://www.youtube.com/watch?v=1F3vAegKmUI",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-15T08:30:00Z"
+}

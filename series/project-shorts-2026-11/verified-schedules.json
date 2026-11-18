@@ -1,0 +1,62 @@
+{
+  "verifiedAt": "2026-11-16T14:42:15.549779+05:30",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "complete": true,
+  "scheduled": [
+    {
+      "videoNumber": 47,
+      "title": "Build a Profile Card with HTML and CSS",
+      "videoId": "TK3KHtItPQM",
+      "url": "https://www.youtube.com/watch?v=TK3KHtItPQM",
+      "publishLocal": "2026-11-17T11:00:00+05:30",
+      "publishAt": "2026-11-17T05:30:00Z",
+      "processingStatus": "succeeded",
+      "voice": "en-US-GuyNeural"
+    },
+    {
+      "videoNumber": 48,
+      "title": "Responsive Navbar with CSS Flexbox: Make Links Wrap",
+      "videoId": "bxJ5Z69gJoQ",
+      "url": "https://www.youtube.com/watch?v=bxJ5Z69gJoQ",
+      "publishLocal": "2026-11-17T16:00:00+05:30",
+      "publishAt": "2026-11-17T10:30:00Z",
+      "processingStatus": "succeeded",
+      "voice": "en-US-GuyNeural"
+    },
+    {
+      "videoNumber": 49,
+      "title": "Build a JavaScript Counter: Click to Add One",
+      "videoId": "AZeSX3yJi_w",
+      "url": "https://www.youtube.com/watch?v=AZeSX3yJi_w",
+      "publishLocal": "2026-11-18T11:00:00+05:30",
+      "publishAt": "2026-11-18T05:30:00Z",
+      "processingStatus": "succeeded",
+      "voice": "en-US-GuyNeural"
+    },
+    {
+      "videoNumber": 50,
+      "title": "Build a JavaScript To-Do List: Add and Remove Tasks",
+      "videoId": "auJz7roR0e8",
+      "url": "https://www.youtube.com/watch?v=auJz7roR0e8",
+      "publishLocal": "2026-11-18T16:00:00+05:30",
+      "publishAt": "2026-11-18T10:30:00Z",
+      "processingStatus": "succeeded",
+      "voice": "en-US-GuyNeural"
+    },
+    {
+      "videoNumber": 51,
+      "title": "Publish a Website for Free with GitHub Pages",
+      "videoId": "kQDO06JTL9k",
+      "url": "https://www.youtube.com/watch?v=kQDO06JTL9k",
+      "publishLocal": "2026-11-19T11:00:00+05:30",
+      "publishAt": "2026-11-19T05:30:00Z",
+      "processingStatus": "succeeded",
+      "voice": "en-US-GuyNeural"
+    }
+  ],
+  "coursePlaylist": "https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+  "courseMembers": 51,
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "allProcessingSucceeded": true
+}

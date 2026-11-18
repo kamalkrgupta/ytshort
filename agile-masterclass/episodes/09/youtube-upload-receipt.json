@@ -1,0 +1,21 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "d3b16a3c583759b920ade3dcdcc259a2dd4ab7c34c7e70e607eb0eda6ace8053",
+  "title": "Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:49:30Z",
+  "publishAt": "2026-10-27T18:00:00+05:30",
+  "videoId": "t3WpRYW0lGg",
+  "url": "https://www.youtube.com/watch?v=t3WpRYW0lGg",
+  "actualVisibility": "public",
+  "thumbnailSet": true,
+  "thumbnailStatus": "applied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null,
+  "remoteAuditedAt": "2026-10-23T15:56:57.586217+00:00",
+  "thumbnailCampaign": "2026-11-05"
+}

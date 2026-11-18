@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "You describe an app, and an A I writes code. The first version appears quickly. Is the work finished?",
+    "idea": "People often call this vibe coding. The useful idea is describing a goal and iterating with a coding assistant.",
+    "demo": "Try a tiny example: a counter that adds one. Then test what reset does and what happens at the boundaries.",
+    "compare": "Generated code is a draft, not proof that the feature is correct or safe for real data.",
+    "takeaway": "Read changes, run tests, and check dependencies. Keep the project small enough to understand.",
+    "close": "What test would you run first? Subscribe to Tech at sixty for practical tech explained."
+  }
+}

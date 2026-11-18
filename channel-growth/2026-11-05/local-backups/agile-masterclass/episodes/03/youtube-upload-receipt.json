@@ -1,0 +1,20 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "ca78f6b4f1cbaa5f6588f2e64e94bb0d3a7742c3b13a1635b54bd6455e5ffb6f",
+  "title": "Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:43:00Z",
+  "publishAt": "2026-10-24T18:00:00+05:30",
+  "videoId": "1oW6ocuUhWQ",
+  "url": "https://www.youtube.com/watch?v=1oW6ocuUhWQ",
+  "actualVisibility": "public",
+  "thumbnailSet": false,
+  "thumbnailStatus": "permission_denied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null,
+  "remoteAuditedAt": "2026-10-23T15:56:57.579688+00:00"
+}

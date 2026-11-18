@@ -1,0 +1,18 @@
+JavaScript Loops | Web Development in 60 Seconds
+
+Loops repeat instructions without writing the same code repeatedly. Learn javascript loops with a quick example for beginners.
+
+A for loop can initialize a counter, check a condition, and update it.
+Each pass through the loop is called an iteration.
+
+Try it: Print the numbers from one through five with a loop.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 43
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: javascript loops, web development for beginners, learn to code, coding shorts, javascript tutorial

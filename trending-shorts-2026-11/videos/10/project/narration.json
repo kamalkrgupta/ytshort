@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "You search for a rainy trip, but the note says wet weekend. Exact word matching might miss the connection.",
+    "idea": "Semantic search uses embeddings: numerical representations that capture useful relationships between pieces of content.",
+    "demo": "A query and a document can be compared in that numerical space, even when their wording differs.",
+    "compare": "This helps retrieve related material. Some systems can compare images, audio, or video as well as text.",
+    "takeaway": "Similarity is not a guarantee of truth. Inspect the results and test how the search behaves.",
+    "close": "When would meaning based search help? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

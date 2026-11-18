@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "What Are H T M L Tags?. Let’s make it simple.",
+    "idea": "Tags describe the role of content on a web page. Start by understanding the role it plays in a page.",
+    "code": "Most elements have an opening tag, content, and a closing tag. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "A slash marks the closing tag. Keep this detail in mind when writing your own example.",
+    "caution": "Void elements, like images, have no closing tag in H T M L. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Write a paragraph element containing your name. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

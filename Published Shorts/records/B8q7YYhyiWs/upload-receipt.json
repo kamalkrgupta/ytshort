@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "cdfe484bd286009305983d53e589bbf62eea0b18af66c5fd5da8ed57805ea8e7",
+  "title": "JavaScript Arrays | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-09T09:25:26Z",
+  "publishAt": "2026-11-10T05:30:00Z",
+  "videoId": "B8q7YYhyiWs",
+  "url": "https://www.youtube.com/watch?v=B8q7YYhyiWs",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-10T05:30:00Z"
+}

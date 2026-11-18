@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Borders and Shadows. Let’s make it simple.",
+    "idea": "Borders define edges, while shadows can suggest depth. Start by understanding the role it plays in a page.",
+    "code": "A border has a width, style, and color. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "Border radius rounds the corners; box shadow paints a shadow. Keep this detail in mind when writing your own example.",
+    "caution": "Keep shadows subtle enough that text and boundaries remain clear. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Create a rounded card with a border and soft shadow. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 27%
+Upload 35%
+Upload 44%
+Upload 53%
+Upload 62%
+Upload 71%
+Upload 80%
+Upload 88%
+Upload 97%
+Uploaded: https://www.youtube.com/watch?v=1UbznXr-YkQ
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "2d764082cafde4b09bdeb2830f4dc2d01211f93466d77c12f2d0c876ebff1f5f",
+  "title": "AI Copyright Basics: Originality, Licensing and Attribution | Ep 33",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:08:42Z",
+  "publishAt": "2026-11-12T14:00:00+05:30",
+  "videoId": "1UbznXr-YkQ",
+  "url": "https://www.youtube.com/watch?v=1UbznXr-YkQ",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-12T08:30:00Z"
+}

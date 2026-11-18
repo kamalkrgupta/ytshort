@@ -1,0 +1,572 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 2000000,
+    "text": "It"
+  },
+  {
+    "offset": 3125000,
+    "duration": 1375000,
+    "text": "is"
+  },
+  {
+    "offset": 4625000,
+    "duration": 1500000,
+    "text": "your"
+  },
+  {
+    "offset": 6250000,
+    "duration": 4625000,
+    "text": "turn"
+  },
+  {
+    "offset": 19500000,
+    "duration": 3625000,
+    "text": "Try"
+  },
+  {
+    "offset": 23250000,
+    "duration": 2875000,
+    "text": "this"
+  },
+  {
+    "offset": 26250000,
+    "duration": 7625000,
+    "text": "exercise"
+  },
+  {
+    "offset": 36125000,
+    "duration": 4750000,
+    "text": "compare"
+  },
+  {
+    "offset": 41000000,
+    "duration": 500000,
+    "text": "a"
+  },
+  {
+    "offset": 41625000,
+    "duration": 6750000,
+    "text": "human-written"
+  },
+  {
+    "offset": 48500000,
+    "duration": 5875000,
+    "text": "sentence"
+  },
+  {
+    "offset": 54500000,
+    "duration": 1750000,
+    "text": "with"
+  },
+  {
+    "offset": 56375000,
+    "duration": 1750000,
+    "text": "an"
+  },
+  {
+    "offset": 58250000,
+    "duration": 3625000,
+    "text": "AI"
+  },
+  {
+    "offset": 62000000,
+    "duration": 6875000,
+    "text": "suggestion"
+  },
+  {
+    "offset": 77500000,
+    "duration": 5000000,
+    "text": "Begin"
+  },
+  {
+    "offset": 82625000,
+    "duration": 1375000,
+    "text": "with"
+  },
+  {
+    "offset": 84125000,
+    "duration": 500000,
+    "text": "a"
+  },
+  {
+    "offset": 84750000,
+    "duration": 3375000,
+    "text": "very"
+  },
+  {
+    "offset": 88250000,
+    "duration": 4500000,
+    "text": "small"
+  },
+  {
+    "offset": 92875000,
+    "duration": 7000000,
+    "text": "example"
+  },
+  {
+    "offset": 102250000,
+    "duration": 3125000,
+    "text": "not"
+  },
+  {
+    "offset": 105500000,
+    "duration": 500000,
+    "text": "a"
+  },
+  {
+    "offset": 106125000,
+    "duration": 5500000,
+    "text": "complex"
+  },
+  {
+    "offset": 111750000,
+    "duration": 6250000,
+    "text": "project"
+  },
+  {
+    "offset": 126875000,
+    "duration": 3375000,
+    "text": "Give"
+  },
+  {
+    "offset": 130375000,
+    "duration": 5375000,
+    "text": "yourself"
+  },
+  {
+    "offset": 135875000,
+    "duration": 3875000,
+    "text": "thirty"
+  },
+  {
+    "offset": 139875000,
+    "duration": 5125000,
+    "text": "seconds"
+  },
+  {
+    "offset": 145125000,
+    "duration": 1000000,
+    "text": "to"
+  },
+  {
+    "offset": 146250000,
+    "duration": 5250000,
+    "text": "decide"
+  },
+  {
+    "offset": 151625000,
+    "duration": 2375000,
+    "text": "what"
+  },
+  {
+    "offset": 154125000,
+    "duration": 5125000,
+    "text": "success"
+  },
+  {
+    "offset": 159375000,
+    "duration": 1750000,
+    "text": "would"
+  },
+  {
+    "offset": 161250000,
+    "duration": 2250000,
+    "text": "look"
+  },
+  {
+    "offset": 163625000,
+    "duration": 4250000,
+    "text": "like"
+  },
+  {
+    "offset": 176625000,
+    "duration": 3250000,
+    "text": "Then"
+  },
+  {
+    "offset": 180000000,
+    "duration": 4375000,
+    "text": "complete"
+  },
+  {
+    "offset": 184500000,
+    "duration": 875000,
+    "text": "the"
+  },
+  {
+    "offset": 185500000,
+    "duration": 4250000,
+    "text": "task"
+  },
+  {
+    "offset": 189875000,
+    "duration": 4500000,
+    "text": "once"
+  },
+  {
+    "offset": 194500000,
+    "duration": 1250000,
+    "text": "and"
+  },
+  {
+    "offset": 195875000,
+    "duration": 4625000,
+    "text": "inspect"
+  },
+  {
+    "offset": 200625000,
+    "duration": 1000000,
+    "text": "the"
+  },
+  {
+    "offset": 201750000,
+    "duration": 5750000,
+    "text": "result"
+  },
+  {
+    "offset": 216250000,
+    "duration": 3250000,
+    "text": "What"
+  },
+  {
+    "offset": 219625000,
+    "duration": 1500000,
+    "text": "is"
+  },
+  {
+    "offset": 221250000,
+    "duration": 5875000,
+    "text": "useful"
+  },
+  {
+    "offset": 235625000,
+    "duration": 3000000,
+    "text": "What"
+  },
+  {
+    "offset": 238750000,
+    "duration": 1375000,
+    "text": "is"
+  },
+  {
+    "offset": 240250000,
+    "duration": 5250000,
+    "text": "missing"
+  },
+  {
+    "offset": 254125000,
+    "duration": 3625000,
+    "text": "What"
+  },
+  {
+    "offset": 257875000,
+    "duration": 1625000,
+    "text": "would"
+  },
+  {
+    "offset": 259625000,
+    "duration": 1375000,
+    "text": "you"
+  },
+  {
+    "offset": 261125000,
+    "duration": 5000000,
+    "text": "change"
+  },
+  {
+    "offset": 274625000,
+    "duration": 3750000,
+    "text": "Make"
+  },
+  {
+    "offset": 278500000,
+    "duration": 2250000,
+    "text": "one"
+  },
+  {
+    "offset": 280875000,
+    "duration": 7625000,
+    "text": "improvement"
+  },
+  {
+    "offset": 288625000,
+    "duration": 2500000,
+    "text": "and"
+  },
+  {
+    "offset": 291250000,
+    "duration": 4500000,
+    "text": "compare"
+  },
+  {
+    "offset": 295875000,
+    "duration": 1000000,
+    "text": "the"
+  },
+  {
+    "offset": 297000000,
+    "duration": 4625000,
+    "text": "first"
+  },
+  {
+    "offset": 301750000,
+    "duration": 1875000,
+    "text": "and"
+  },
+  {
+    "offset": 303750000,
+    "duration": 3750000,
+    "text": "second"
+  },
+  {
+    "offset": 307625000,
+    "duration": 6875000,
+    "text": "versions"
+  },
+  {
+    "offset": 323125000,
+    "duration": 3250000,
+    "text": "This"
+  },
+  {
+    "offset": 326500000,
+    "duration": 4250000,
+    "text": "simple"
+  },
+  {
+    "offset": 330875000,
+    "duration": 8750000,
+    "text": "before-and-after"
+  },
+  {
+    "offset": 339750000,
+    "duration": 7375000,
+    "text": "comparison"
+  },
+  {
+    "offset": 347250000,
+    "duration": 5000000,
+    "text": "teaches"
+  },
+  {
+    "offset": 352375000,
+    "duration": 1125000,
+    "text": "you"
+  },
+  {
+    "offset": 353625000,
+    "duration": 2625000,
+    "text": "more"
+  },
+  {
+    "offset": 356375000,
+    "duration": 2000000,
+    "text": "than"
+  },
+  {
+    "offset": 358500000,
+    "duration": 5000000,
+    "text": "copying"
+  },
+  {
+    "offset": 363625000,
+    "duration": 625000,
+    "text": "a"
+  },
+  {
+    "offset": 364375000,
+    "duration": 7375000,
+    "text": "complicated"
+  },
+  {
+    "offset": 371875000,
+    "duration": 3875000,
+    "text": "prompt"
+  },
+  {
+    "offset": 375875000,
+    "duration": 2500000,
+    "text": "from"
+  },
+  {
+    "offset": 378500000,
+    "duration": 1250000,
+    "text": "the"
+  },
+  {
+    "offset": 379875000,
+    "duration": 6000000,
+    "text": "internet"
+  },
+  {
+    "offset": 394625000,
+    "duration": 2375000,
+    "text": "If"
+  },
+  {
+    "offset": 397125000,
+    "duration": 1250000,
+    "text": "your"
+  },
+  {
+    "offset": 398500000,
+    "duration": 4375000,
+    "text": "chosen"
+  },
+  {
+    "offset": 403000000,
+    "duration": 2750000,
+    "text": "tool"
+  },
+  {
+    "offset": 405875000,
+    "duration": 2125000,
+    "text": "is"
+  },
+  {
+    "offset": 408125000,
+    "duration": 8000000,
+    "text": "unavailable"
+  },
+  {
+    "offset": 417375000,
+    "duration": 1875000,
+    "text": "do"
+  },
+  {
+    "offset": 419375000,
+    "duration": 1500000,
+    "text": "the"
+  },
+  {
+    "offset": 421000000,
+    "duration": 6500000,
+    "text": "exercise"
+  },
+  {
+    "offset": 427625000,
+    "duration": 1625000,
+    "text": "on"
+  },
+  {
+    "offset": 429375000,
+    "duration": 5000000,
+    "text": "paper"
+  },
+  {
+    "offset": 437000000,
+    "duration": 4625000,
+    "text": "sketch"
+  },
+  {
+    "offset": 441750000,
+    "duration": 1875000,
+    "text": "the"
+  },
+  {
+    "offset": 443750000,
+    "duration": 4625000,
+    "text": "input"
+  },
+  {
+    "offset": 449750000,
+    "duration": 1500000,
+    "text": "the"
+  },
+  {
+    "offset": 451375000,
+    "duration": 5750000,
+    "text": "steps"
+  },
+  {
+    "offset": 458375000,
+    "duration": 2500000,
+    "text": "and"
+  },
+  {
+    "offset": 461000000,
+    "duration": 1250000,
+    "text": "the"
+  },
+  {
+    "offset": 462375000,
+    "duration": 6000000,
+    "text": "output"
+  },
+  {
+    "offset": 477000000,
+    "duration": 2250000,
+    "text": "The"
+  },
+  {
+    "offset": 479375000,
+    "duration": 5750000,
+    "text": "objective"
+  },
+  {
+    "offset": 485250000,
+    "duration": 1250000,
+    "text": "is"
+  },
+  {
+    "offset": 486625000,
+    "duration": 1125000,
+    "text": "to"
+  },
+  {
+    "offset": 487875000,
+    "duration": 5125000,
+    "text": "practice"
+  },
+  {
+    "offset": 493125000,
+    "duration": 1250000,
+    "text": "the"
+  },
+  {
+    "offset": 494500000,
+    "duration": 5500000,
+    "text": "underlying"
+  },
+  {
+    "offset": 500125000,
+    "duration": 5625000,
+    "text": "thinking"
+  },
+  {
+    "offset": 507500000,
+    "duration": 3125000,
+    "text": "not"
+  },
+  {
+    "offset": 510750000,
+    "duration": 1125000,
+    "text": "to"
+  },
+  {
+    "offset": 512000000,
+    "duration": 4375000,
+    "text": "depend"
+  },
+  {
+    "offset": 516500000,
+    "duration": 2000000,
+    "text": "on"
+  },
+  {
+    "offset": 518625000,
+    "duration": 2750000,
+    "text": "one"
+  },
+  {
+    "offset": 521500000,
+    "duration": 6375000,
+    "text": "particular"
+  },
+  {
+    "offset": 528000000,
+    "duration": 3250000,
+    "text": "app"
+  }
+]

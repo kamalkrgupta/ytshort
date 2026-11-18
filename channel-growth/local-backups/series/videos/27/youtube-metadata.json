@@ -1,0 +1,13 @@
+{
+  "title": "CSS Classes vs IDs | Web Development in 60 Seconds",
+  "description": "Classes and identifiers let C S S select particular elements. Learn css classes vs ids with a quick example for beginners.\n\nA dot selects a class; a hash selects an identifier.\nReuse a class to apply the same style to several elements.\n\nTry it: Style two elements with one shared class.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 27\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "css classes vs ids",
+    "web development for beginners",
+    "learn to code",
+    "coding shorts",
+    "css tutorial"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-01T10:30:00Z"
+}

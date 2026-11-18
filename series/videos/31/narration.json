@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Position Property. Let’s make it simple.",
+    "idea": "Position changes how an element is placed in a layout. Start by understanding the role it plays in a page.",
+    "code": "Relative positioning can establish a containing block for an absolute child.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Fixed positioning usually anchors to the viewport; sticky follows a scroll threshold. Keep this detail in mind when writing your own example.",
+    "caution": "Absolute elements leave normal flow, so reserve space when needed.",
+    "try": "Place a small badge in the corner of a card. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

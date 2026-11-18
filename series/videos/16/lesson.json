@@ -1,0 +1,16 @@
+{
+  "videoNumber": 16,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "HTML Checkboxes & Radio Buttons",
+  "description": "Let users select one or multiple options.",
+  "publishLocal": "2026-10-27T11:00:00+05:30",
+  "publishAt": "2026-10-27T05:30:00Z",
+  "status": "planned",
+  "definition": "Checkboxes allow independent choices; radio buttons select within a group.",
+  "code": "<input type=\"checkbox\"> CSS\n<input type=\"radio\"\n       name=\"level\"> Beginner",
+  "preview": "<p><input type=\"checkbox\" checked> HTML</p><p><input type=\"checkbox\" checked> CSS</p><p><input type=\"radio\" checked> Beginner</p>",
+  "rule": "Use the same name for radio buttons that belong to one group.",
+  "tip": "Checkboxes are useful when several options may be selected together.",
+  "caution": "Associate every control with a label, including checkboxes and radios.",
+  "exercise": "Create two skill checkboxes and a radio group for experience level."
+}

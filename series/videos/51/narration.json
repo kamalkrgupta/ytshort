@@ -1,0 +1,16 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "Your website works on your computer. Give it a public address with GitHub Pages.",
+    "idea": "For the free public repository option, upload your static files, including index dot H T M L.",
+    "code": "Open the repository settings, then Pages. Choose deploy from a branch.",
+    "result": "Select your source branch and folder, then save. Keep the entry file at that source root.",
+    "tip": "Wait for the deployment to finish. Pages shows the address you can visit and share.",
+    "caution": "Keep passwords and private files out. Pages serves static files, not a custom application server.",
+    "try": "Open the published address on your phone. Check the layout, links, and images.",
+    "close": "Subscribe to Tech at sixty and keep building."
+  }
+}

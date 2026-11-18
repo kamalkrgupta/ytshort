@@ -1,0 +1,67 @@
+/* ---- Design tokens: change these per video (palette, fonts) ---------------- */
+:root {
+  --bg: #101418;
+  --surface: #1b2229;
+  --ink: #f3f5f7;
+  --muted: #9aa7b4;
+  --accent: #ffb703;
+  --accent-2: #3ddc97;
+  --font-display: 'Inter Variable', system-ui, sans-serif;
+  --font-body: 'Inter Variable', system-ui, sans-serif;
+}
+
+/* ---- Engine layout: leave as is ------------------------------------------- */
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; }
+body { background: #000; overflow: hidden; -webkit-font-smoothing: antialiased; }
+.viewport.preview { height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+.viewport.capture { position: fixed; inset: 0; }
+.stage {
+  position: relative; overflow: hidden;
+  background: var(--bg); color: var(--ink);
+  font-family: var(--font-body);
+  /* --u is 1% of the short side (10.8px on every preset). Size type and spacing
+     in --u so a layout survives a ratio change. */
+  font-size: calc(var(--u) * 3.2);
+  line-height: 1.25;
+}
+.scene-frame { position: absolute; inset: 0; overflow: hidden; background: var(--bg); }
+.hud { position: fixed; left: 0; right: 0; bottom: 0; height: 32px; padding: 8px 12px; display: flex; gap: 16px; align-items: center; font: 12px/1 ui-monospace, monospace; color: #9aa7b4; background: #0b0d10; }
+.hud-bar { position: absolute; left: 0; right: 0; top: 0; height: 3px; background: #222; }
+.hud-bar > div { height: 100%; width: 0; background: #ffb703; }
+.hud-warn { color: #ff6b6b; }
+
+/* ---- Scene helpers --------------------------------------------------------- */
+/* .scene fills the frame; .safe is the padded area where text is allowed. */
+.scene { position: absolute; inset: 0; }
+.safe {
+  position: absolute;
+  top: var(--safe-top); right: var(--safe-right);
+  bottom: var(--safe-bottom); left: var(--safe-left);
+  display: flex; flex-direction: column; justify-content: center;
+  gap: calc(var(--u) * 3);
+}
+.display { font-family: var(--font-display); font-weight: 800; letter-spacing: -0.02em; line-height: 1.02; margin: 0; font-size: calc(var(--u) * 11); text-wrap: balance; }
+.title { font-family: var(--font-display); font-weight: 700; letter-spacing: -0.01em; line-height: 1.08; margin: 0; font-size: calc(var(--u) * 7); text-wrap: balance; }
+.body { margin: 0; font-size: calc(var(--u) * 3.6); color: var(--muted); max-width: 26em; text-wrap: pretty; }
+.split-word { display: inline-block; white-space: pre; }
+:root{--bg:#101317;--surface:#1d2429;--ink:#f7f5ef;--muted:#b6bdbb;--accent:#9bf7c5;--accent-2:#ff7f66}
+.story .safe{inset:0;width:100%;height:100%;padding:230px 84px 440px;justify-content:flex-start;gap:25px;position:absolute}
+.story .texture{position:absolute;inset:0;background-image:linear-gradient(#ffffff04 1px,transparent 1px),linear-gradient(90deg,#ffffff04 1px,transparent 1px);background-size:80px 80px;pointer-events:none}
+.story.light{background:#efece3;color:#141b1d;--accent:#12644c;--muted:#45524c;--surface:#fffdf6}
+.story.danger{background:#22191c;--accent:#ff9a86}
+.eyebrow{display:flex;justify-content:space-between;align-items:center;width:100%;font-size:25px;letter-spacing:2px;color:var(--muted);height:34px;flex-shrink:0}
+.eyebrow strong{color:inherit;font-size:28px;letter-spacing:1.5px}.eyebrow span{font-size:21px}
+.story h1{font-size:101px;line-height:1.02;letter-spacing:-5px;margin:25px 0 5px;font-weight:850;flex-shrink:0}.story h1 em{font-style:normal;color:var(--accent)}
+.drawline{height:3px;width:100%;background:currentColor;opacity:.3;flex-shrink:0}.visual{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:32px;flex:1;width:100%;min-height:0}
+.endline{position:absolute;bottom:360px;left:84px;right:84px;display:flex;justify-content:space-between;align-items:center;font-size:28px;color:var(--muted)}.dots{display:flex;gap:13px}.dots i{width:32px;height:6px;border-radius:4px;background:#7b85854d}.dots i.on{background:var(--accent)}
+.tag{padding:21px 28px;border:2px solid #8f9b944d;border-radius:60px;font-size:37px;line-height:1.25;text-align:center;max-width:100%;font-weight:550;flex-shrink:0}
+.split{width:100%;height:500px;position:relative;display:grid;place-items:center}.ai-disk{width:350px;height:350px;border-radius:50%;display:grid;place-items:center;position:relative;background:linear-gradient(115deg,#9bf7c5 0%,#9bf7c5 49%,#ff7f66 51%,#ff7f66 100%);color:#101317;box-shadow:0 0 100px #9bf7c519}.ai-disk span{font-size:155px;font-weight:850;letter-spacing:-8px}.halo{position:absolute;inset:-32px;border:2px dashed #b6bdbb88;border-radius:50%;animation:spin 25s linear infinite}.side{position:absolute;top:30px;font-size:40px;font-weight:800;letter-spacing:4px}.side.yes{left:20px;color:#9bf7c5}.side.no{right:20px;color:#ff9b87}
+.tasklist{display:flex;flex-direction:column;gap:25px;width:100%}.task{border:2px solid #c2c8bd;background:#fffdf6;border-radius:25px;min-height:147px;padding:30px;display:flex;align-items:center;gap:27px}.task b{font-size:52px;letter-spacing:-1px}.task svg{color:#12644c;flex-shrink:0}.taskcheck{margin-left:auto}
+.answer{position:relative;background:#f7f0e7;color:#24191b;border-radius:30px;width:100%;padding:43px 46px 47px;box-shadow:14px 14px 0 #ff7f6622}.tiny{display:block;font-size:28px;letter-spacing:2px;font-weight:650}.answer p{font-size:91px;font-weight:850;line-height:1.05;margin:65px 0}.answerline{height:3px;background:#24191b33;margin:30px 0}.stamp{position:absolute;top:185px;right:26px;border:7px solid #c23636;color:#c23636;background:#fff7efee;font-size:66px;font-weight:850;padding:14px 28px;letter-spacing:3px}
+.phone{border:3px solid #485451;border-radius:45px;background:#1c2427;width:620px;min-height:550px;padding:36px 25px;display:flex;align-items:center;flex-direction:column;gap:32px}.phone>svg{color:#9bf7c5}.phone b{font-size:39px;letter-spacing:2px}.wave{height:110px;display:flex;align-items:center;gap:13px}.wave i{width:13px;background:#9bf7c5;border-radius:8px;animation:wave 1.1s ease-in-out infinite alternate;transform-origin:center}.verifycall{display:flex;gap:15px;align-items:center;font-size:32px;background:#9bf7c5;color:#14251d;padding:17px 23px;border-radius:40px;font-weight:700}
+.transfer{height:580px;width:100%;position:relative;display:flex;align-items:center;flex-direction:column}.document{background:#fffdf6;border:3px solid #a7b0a5;box-shadow:15px 15px 0 #c7cfc0;border-radius:20px;width:290px;height:320px;display:flex;align-items:center;justify-content:center;gap:28px;flex-direction:column}.document b{font-size:35px;letter-spacing:2px}.inputbox{position:absolute;bottom:25px;left:0;right:0;border:3px dashed #60776a;border-radius:26px;display:flex;justify-content:space-between;padding:30px;font-size:40px;font-weight:650}.pause{z-index:2;position:absolute;top:300px;background:#1c624e;color:#fffdf6;border:8px solid #efece3;border-radius:100px;display:flex;align-items:center;gap:17px;font-size:47px;font-weight:850;padding:25px 35px;letter-spacing:2px}
+.steps{width:100%;display:flex;flex-direction:column;gap:26px}.step{border:2px solid #46534d;border-radius:25px;display:flex;gap:35px;align-items:center;padding:24px 31px;min-height:158px}.step>span{font-size:45px;color:var(--accent);font-weight:700}.step b{display:block;font-size:65px;letter-spacing:-2px}.step small{font-size:28px;letter-spacing:4px;color:var(--muted)}.step1{background:#9bf7c517}.step2{background:#9bf7c52c;border-color:#9bf7c5}
+.wheel{width:440px;height:440px;position:relative;color:#1c624e}.wheel svg{width:100%;height:100%}.wheel span{position:absolute;left:0;right:0;top:190px;text-align:center;font-size:42px;font-weight:800;color:#f7f0e7}.darktag{background:#1c624e;color:#fffdf6;border-color:#1c624e;font-weight:750}.takeaway{font-size:52px;letter-spacing:-1px;font-weight:800;margin:0}
+.choices{width:100%;display:flex;gap:24px;margin-top:10px}.choice{width:50%;padding:38px 15px;text-align:center;border-radius:25px;font-size:57px;font-weight:850;letter-spacing:-2px}.choice.friend{background:#9bf7c5;color:#183127}.choice.devil{background:#ff9a86;color:#3d211b}.comment{display:flex;align-items:center;gap:35px;margin-top:35px}.comment svg{color:var(--accent);flex-shrink:0}.comment p{font-size:63px;line-height:1.12;margin:0;letter-spacing:-2px}.comment b{color:var(--accent)}.signature{font-size:37px;letter-spacing:5px;color:var(--muted);margin-top:35px}
+@keyframes spin{to{transform:rotate(360deg)}}@keyframes wave{from{transform:scaleY(.45)}to{transform:scaleY(1)}}

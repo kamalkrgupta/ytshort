@@ -1,0 +1,44 @@
+Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4
+
+Learn agile testing activities and tracking with practical software testing examples, diagrams and a guided exercise.
+Agile Testing Masterclass — Episode 4 of 12 | English | 10-minute tutorial.
+
+In this lesson:
+• Introduction
+• Planning
+• Execution status
+• Defects
+• Metrics
+• Reporting
+• Tool walkthrough
+• Worked example
+
+CHAPTERS
+00:00 Introduction
+00:56 Planning
+01:58 Execution status
+03:02 Defects
+04:08 Metrics
+05:12 Reporting
+06:15 Tool walkthrough
+07:11 Worked example
+07:55 A closer look
+08:45 Verify the outcome
+09:33 Recap
+
+Practice: Which failure could block the release?
+Examples use fictional applications and synthetic data.
+
+Subscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.
+
+References and further reading:
+https://agilemanifesto.org/
+https://scrumguides.org/scrum-guide.html
+https://kanbanguides.org/the-kanban-guide/2025.5/
+https://playwright.dev/docs/best-practices
+
+#AgileTesting #SoftwareTesting #QATutorial
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI
+
+Tags: agile testing, agile testing activities and tracking, software testing tutorial, agile testing for beginners, QA tutorial, manual testing, software quality assurance, Techat60, agile testing masterclass

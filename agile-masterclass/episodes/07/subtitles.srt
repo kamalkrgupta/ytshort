@@ -1,0 +1,555 @@
+1
+00:00:00,339 --> 00:00:04,270
+How does testing fit into Scrum We will follow
+
+2
+00:00:04,283 --> 00:00:08,145
+a two-week sprint for an appointment-booking platform and distinguish
+
+3
+00:00:08,158 --> 00:00:13,807
+Scrum accountabilities from specialized testing skills Picture an appointment
+
+4
+00:00:13,820 --> 00:00:17,381
+platform with one available time slot and two customers
+
+5
+00:00:17,393 --> 00:00:21,621
+trying to reserve it The business goal sounds simple
+
+6
+00:00:21,910 --> 00:00:25,370
+but a screenshot of a successful booking cannot establish
+
+7
+00:00:25,383 --> 00:00:29,333
+that double booking is prevented Scrum gives the team
+
+8
+00:00:29,346 --> 00:00:34,052
+regular opportunities to clarify implement and inspect the outcome
+
+9
+00:00:34,920 --> 00:00:37,726
+It does not place testing in a separate final
+
+10
+00:00:37,738 --> 00:00:43,765
+phase Throughout this example distinguish the framework's accountabilities from
+
+11
+00:00:43,778 --> 00:00:47,917
+the specialist skills people bring A team member can
+
+12
+00:00:47,930 --> 00:00:52,258
+contribute deep testing knowledge while sharing responsibility for creating
+
+13
+00:00:52,270 --> 00:00:55,605
+a usable increment that meets the Definition of Done
+
+14
+00:00:57,239 --> 00:01:02,473
+Scrum defines Product Owner Scrum Master and Developers accountabilities
+
+15
+00:01:03,360 --> 00:01:07,022
+Testers may be members of the Developers group Scrum
+
+16
+00:01:07,034 --> 00:01:11,980
+does not prescribe a separate tester accountability Quality is
+
+17
+00:01:11,992 --> 00:01:16,736
+shared The Product Owner helps maximize product value and
+
+18
+00:01:16,749 --> 00:01:21,442
+manages the Product Backlog The Scrum Master helps establish
+
+19
+00:01:21,455 --> 00:01:26,765
+Scrum and improve team effectiveness Developers create the usable
+
+20
+00:01:26,778 --> 00:01:30,037
+increment and people with testing skills may be part
+
+21
+00:01:30,049 --> 00:01:33,950
+of that group This use of Developers is broader
+
+22
+00:01:33,963 --> 00:01:38,304
+than programmers alone A tester is not an external
+
+23
+00:01:38,317 --> 00:01:42,004
+gate that receives all work after everyone else finishes
+
+24
+00:01:42,872 --> 00:01:47,125
+During a booking discussion testing expertise can reveal concurrency
+
+25
+00:01:47,138 --> 00:01:51,391
+and cancellation risks while implementation choices are still open
+
+26
+00:01:52,259 --> 00:01:56,839
+Clear accountabilities help the conversation but quality still depends
+
+27
+00:01:56,852 --> 00:01:59,029
+on the team's actual collaboration
+
+28
+00:02:00,672 --> 00:02:05,994
+Clarify double booking cancellation payment failures and unavailable slots
+
+29
+00:02:06,869 --> 00:02:10,052
+Select work supporting the Sprint Goal and account for
+
+30
+00:02:10,065 --> 00:02:15,072
+implementation and verification within the sprint Refine the booking
+
+31
+00:02:15,085 --> 00:02:20,344
+story with explicit examples Given one available slot when
+
+32
+00:02:20,357 --> 00:02:24,031
+one customer completes a reservation then the slot becomes
+
+33
+00:02:24,044 --> 00:02:28,259
+unavailable to others Now ask what happens if two
+
+34
+00:02:28,271 --> 00:02:34,324
+requests arrive almost simultaneously Only one reservation should succeed
+
+35
+00:02:34,336 --> 00:02:38,614
+under our fictional rule Add a cancelled reservation and
+
+36
+00:02:38,627 --> 00:02:43,031
+an expired temporary hold These questions help the team
+
+37
+00:02:43,043 --> 00:02:47,888
+identify work needed to achieve the Sprint Goal Refinement
+
+38
+00:02:47,900 --> 00:02:51,474
+is an ongoing activity not a prescribed Scrum event
+
+39
+00:02:52,342 --> 00:02:55,764
+During Sprint Planning the team considers the effort to
+
+40
+00:02:55,777 --> 00:02:59,338
+implement and verify the selected work rather than treating
+
+41
+00:02:59,350 --> 00:03:01,640
+testing capacity as an afterthought
+
+42
+00:03:03,272 --> 00:03:07,034
+Validate availability A P I services before the user
+
+43
+00:03:07,046 --> 00:03:12,337
+interface is complete Test concurrent bookings user journeys and
+
+44
+00:03:12,349 --> 00:03:17,961
+regressions as increments emerge Fix defects collaboratively instead of
+
+45
+00:03:17,974 --> 00:03:22,604
+accumulating testing at the end During the sprint check
+
+46
+00:03:22,616 --> 00:03:25,812
+the availability A P I while the booking interface
+
+47
+00:03:25,825 --> 00:03:30,342
+is still being built Send two controlled reservation requests
+
+48
+00:03:30,354 --> 00:03:33,273
+for the same synthetic slot and inspect the stored
+
+49
+00:03:33,286 --> 00:03:37,866
+outcome Later connect the interface and verify that the
+
+50
+00:03:37,878 --> 00:03:41,112
+losing customer receives a clear message instead of an
+
+51
+00:03:41,124 --> 00:03:47,516
+unexplained error Run relevant regression checks after fixes This
+
+52
+00:03:47,529 --> 00:03:52,838
+sequence obtains different evidence as components become available A
+
+53
+00:03:52,851 --> 00:03:56,059
+timeline that assigns development to the first week and
+
+54
+00:03:56,072 --> 00:03:59,003
+all testing to the last days can hide unresolved
+
+55
+00:03:59,016 --> 00:04:01,469
+work until the sprint is nearly over
+
+56
+00:04:03,105 --> 00:04:07,284
+The Definition of Done formally describes quality conditions required
+
+57
+00:04:07,296 --> 00:04:12,047
+for an increment These may include reviews passing tests
+
+58
+00:04:12,224 --> 00:04:17,963
+accepted criteria and relevant documentation Coding completion alone does
+
+59
+00:04:17,975 --> 00:04:21,927
+not imply Done The Definition of Done provides a
+
+60
+00:04:21,940 --> 00:04:26,181
+shared quality baseline for the increment A team might
+
+61
+00:04:26,194 --> 00:04:31,165
+require reviewed code passing relevant automated checks completed security
+
+62
+00:04:31,178 --> 00:04:36,980
+conditions and updated operational information where needed Acceptance criteria
+
+63
+00:04:36,993 --> 00:04:41,700
+describe expectations for a particular backlog item the Definition
+
+64
+00:04:41,712 --> 00:04:46,168
+of Done describes quality conditions for the increment They
+
+65
+00:04:46,180 --> 00:04:51,114
+are related but serve different purposes If required verification
+
+66
+00:04:51,127 --> 00:04:54,663
+has not happened calling the work Done misrepresents its
+
+67
+00:04:54,676 --> 00:04:58,640
+state Make the gap visible and adapt the plan
+
+68
+00:04:59,509 --> 00:05:02,655
+Pressure to improve a completion chart should not change
+
+69
+00:05:02,668 --> 00:05:04,719
+the meaning of the shared agreement
+
+70
+00:05:06,339 --> 00:05:09,761
+At the Sprint Review inspect the outcome and adapt
+
+71
+00:05:09,774 --> 00:05:15,166
+the Product Backlog At the Retrospective improve team effectiveness
+
+72
+00:05:15,292 --> 00:05:20,615
+perhaps by stabilizing environments or preparing data earlier At
+
+73
+00:05:20,627 --> 00:05:24,529
+the Sprint Review stakeholders inspect the booking outcome and
+
+74
+00:05:24,541 --> 00:05:28,404
+discuss what to do next Perhaps users need a
+
+75
+00:05:28,417 --> 00:05:33,677
+clearer explanation when their chosen slot disappears That feedback
+
+76
+00:05:33,690 --> 00:05:38,182
+can influence the Product Backlog The Retrospective looks at
+
+77
+00:05:38,195 --> 00:05:40,623
+how the team worked and how to become more
+
+78
+00:05:40,636 --> 00:05:45,770
+effective If concurrency testing started late because the environment
+
+79
+00:05:45,783 --> 00:05:49,571
+lacked suitable data the team might automate creation of
+
+80
+00:05:49,583 --> 00:05:56,530
+isolated slots These conversations have different purposes A demonstration
+
+81
+00:05:56,542 --> 00:05:59,197
+alone is not the whole Sprint Review and a
+
+82
+00:05:59,210 --> 00:06:03,338
+list of complaints without a practical improvement experiment does
+
+83
+00:06:03,350 --> 00:06:05,502
+not make a useful Retrospective
+
+84
+00:06:07,139 --> 00:06:11,846
+Illustrative ten-day schedule plan and clarify implement A P
+
+85
+00:06:11,858 --> 00:06:16,163
+I services and prepare tests execute integrated testing and
+
+86
+00:06:16,175 --> 00:06:21,379
+resolve defects review results and improve Actual testing should
+
+87
+00:06:21,392 --> 00:06:25,218
+be continuous not tied to fixed days Use a
+
+88
+00:06:25,230 --> 00:06:29,497
+ten-working-day sprint as an illustration not a mandatory calendar
+
+89
+00:06:30,378 --> 00:06:33,738
+On the first days the team can clarify examples
+
+90
+00:06:33,751 --> 00:06:38,496
+while beginning small implementation slices As A P I
+
+91
+00:06:38,508 --> 00:06:42,888
+services emerge focused checks and code reviews provide feedback
+
+92
+00:06:43,756 --> 00:06:48,438
+Integrated journeys exploration and regression continue as the increment
+
+93
+00:06:48,451 --> 00:06:53,460
+grows The Daily Scrum helps Developers inspect progress toward
+
+94
+00:06:53,472 --> 00:06:57,009
+the Sprint Goal and adapt their plan It is
+
+95
+00:06:57,022 --> 00:07:00,860
+not simply a status report to a manager The
+
+96
+00:07:00,873 --> 00:07:05,605
+exact daily distribution changes with the work What matters
+
+97
+00:07:05,618 --> 00:07:09,758
+is maintaining transparency and finishing usable slices instead of
+
+98
+00:07:09,771 --> 00:07:12,917
+accumulating a late queue of unverified features
+
+99
+00:07:14,539 --> 00:07:17,497
+Your exercise is to assess a booking story at
+
+100
+00:07:17,509 --> 00:07:21,191
+the end of a sprint The main reservation journey
+
+101
+00:07:21,204 --> 00:07:25,282
+works but the required simultaneous-request check has not run
+
+102
+00:07:26,151 --> 00:07:28,769
+The team has no evidence that double booking is
+
+103
+00:07:28,781 --> 00:07:32,230
+prevented If that check is part of the agreed
+
+104
+00:07:32,243 --> 00:07:36,485
+quality conditions the work is not Done Explain the
+
+105
+00:07:36,498 --> 00:07:40,299
+missing evidence investigate whether the scope can be adapted
+
+106
+00:07:40,312 --> 00:07:45,334
+and avoid presenting uncertainty as success Then propose one
+
+107
+00:07:45,347 --> 00:07:49,249
+improvement for the next sprint such as preparing concurrency
+
+108
+00:07:49,261 --> 00:07:53,919
+data earlier This connects honest inspection with a concrete
+
+109
+00:07:53,932 --> 00:07:55,417
+way to improve delivery
+
+110
+00:07:57,172 --> 00:08:02,047
+Consider a common end-of-sprint conversation The code is finished
+
+111
+00:08:02,185 --> 00:08:07,117
+but required booking checks are incomplete One person suggests
+
+112
+00:08:07,129 --> 00:08:10,048
+moving the item to Done and creating a separate
+
+113
+00:08:10,061 --> 00:08:13,684
+testing ticket for next sprint That may make a
+
+114
+00:08:13,697 --> 00:08:17,182
+completion chart look better while hiding that the increment
+
+115
+00:08:17,194 --> 00:08:21,597
+has not met the shared quality conditions Represent the
+
+116
+00:08:21,610 --> 00:08:26,454
+actual state instead Discuss what remains whether a smaller
+
+117
+00:08:26,466 --> 00:08:29,599
+usable slice can be completed and how the Sprint
+
+118
+00:08:29,611 --> 00:08:34,166
+Goal is affected The framework relies on transparency so
+
+119
+00:08:34,178 --> 00:08:39,663
+that inspection can lead to sensible adaptation Redefining completion
+
+120
+00:08:39,676 --> 00:08:42,607
+after the fact removes the information the team needs
+
+121
+00:08:42,620 --> 00:08:43,274
+to improve
+
+122
+00:08:44,905 --> 00:08:50,197
+Now turn that situation into a retrospective experiment Perhaps
+
+123
+00:08:50,210 --> 00:08:54,803
+the story combined booking creation cancellation and notifications so
+
+124
+00:08:54,816 --> 00:08:59,636
+integrated feedback arrived too late Next sprint choose a
+
+125
+00:08:59,648 --> 00:09:03,336
+smaller slice that still delivers a coherent outcome and
+
+126
+00:09:03,348 --> 00:09:08,848
+clarify its examples earlier Prepare isolated booking data before
+
+127
+00:09:08,860 --> 00:09:13,429
+the implementation is ready Inspect whether the slice reaches
+
+128
+00:09:13,441 --> 00:09:16,852
+verification sooner and whether the team finishes it within
+
+129
+00:09:16,864 --> 00:09:21,483
+its quality agreement Do not interpret this example as
+
+130
+00:09:21,496 --> 00:09:23,937
+a demand for a separate testing phase or a
+
+131
+00:09:23,950 --> 00:09:27,952
+fixed number of days The improvement aims to make
+
+132
+00:09:27,964 --> 00:09:31,639
+collaboration and evidence available throughout the work with the
+
+133
+00:09:31,652 --> 00:09:34,823
+result judged by what actually becomes usable
+
+134
+00:09:36,438 --> 00:09:41,178
+Testing supports every stage of Scrum Knowledge check can
+
+135
+00:09:41,190 --> 00:09:44,982
+work be called Done if required verification is incomplete
+
+136
+00:09:45,861 --> 00:09:48,937
+Subscribe to Tech at sixty for the next episode
+
+137
+00:09:48,950 --> 00:09:53,595
+in this Agile Testing Masterclass Practice the example with
+
+138
+00:09:53,608 --> 00:09:56,897
+synthetic data and share the most important risk you
+
+139
+00:09:56,910 --> 00:09:58,730
+identified in the comments

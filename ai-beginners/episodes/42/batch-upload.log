@@ -1,0 +1,29 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 27%
+Upload 36%
+Upload 44%
+Upload 53%
+Upload 62%
+Upload 71%
+Upload 80%
+Upload 89%
+Upload 98%
+Uploaded: https://www.youtube.com/watch?v=bFd7LIUEI30
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "bd26441b468d4b8be703e70e42736f85378cf13c80509079ac8aed45d6918700",
+  "title": "AI and Python for Beginners: Variables, Strings and Functions | Ep 42",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T15:16:33Z",
+  "publishAt": "2026-11-16T14:00:00+05:30",
+  "videoId": "bFd7LIUEI30",
+  "url": "https://www.youtube.com/watch?v=bFd7LIUEI30",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-16T08:30:00Z"
+}

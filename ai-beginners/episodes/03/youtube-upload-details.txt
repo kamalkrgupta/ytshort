@@ -1,0 +1,26 @@
+AI vs Machine Learning vs Deep Learning: The Simple Difference | Ep 03
+
+AI vs Machine Learning vs Deep Learning: The Simple Difference. Learn with a simple example and a beginner exercise.
+
+AI for Beginners — Episode 03 of 50
+
+What you will learn: Ai is the broad field, machine learning learns from examples, and deep learning uses layered neural networks.
+Example: sorting photos of cats and dogs.
+Try it: draw three nested circles.
+Remember: these terms overlap but are not interchangeable.
+
+Follow the series in episode order and practice with sample data. Share your question or exercise result in the comments.
+Subscribe to @Techat60 for practical AI tutorials.
+
+#AIForBeginners #ArtificialIntelligence #LearnAI
+
+CHAPTERS
+00:00 Hook and promise
+00:59 Explain the concept
+01:54 On-screen demonstration
+02:53 Guided beginner exercise
+03:52 Limitations, recap and CTA
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk
+
+Tags: ai vs machine learning vs deep learning, AI for beginners, artificial intelligence tutorial, learn AI, AI tutorial English, Techat60

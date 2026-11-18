@@ -1,0 +1,24 @@
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 27%
+Upload 54%
+Upload 81%
+Uploaded: https://www.youtube.com/watch?v=cgF6ZsE0-TA
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+YouTube processing; visibility: private
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "5ff218081fd90cb7a8d9601f2f851f2e9f6fc35e0c30f5fdf1b0e60720a83de8",
+  "title": "Small Language Models: Why Smaller Can Be Useful",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:53:11Z",
+  "publishAt": "2026-11-27T14:30:00+00:00",
+  "videoId": "cgF6ZsE0-TA",
+  "url": "https://www.youtube.com/watch?v=cgF6ZsE0-TA",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-27T14:30:00Z"
+}

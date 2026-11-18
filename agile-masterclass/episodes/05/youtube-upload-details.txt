@@ -1,0 +1,44 @@
+Agile Testing Principles | Risk, Collaboration & Quality | Episode 5
+
+Learn agile testing principles and attributes with practical software testing examples, diagrams and a guided exercise.
+Agile Testing Masterclass — Episode 5 of 12 | English | 10-minute tutorial.
+
+In this lesson:
+• Introduction
+• Continuous quality
+• Shared responsibility
+• Adaptability and feedback
+• Risk-based testing
+• Maintainable automation
+• Continuous improvement
+• Worked example
+
+CHAPTERS
+00:00 Introduction
+00:56 Continuous quality
+02:01 Shared responsibility
+03:06 Adaptability and feedback
+04:07 Risk-based testing
+05:10 Maintainable automation
+06:10 Continuous improvement
+07:09 Worked example
+07:57 A closer look
+08:45 Verify the outcome
+09:35 Recap
+
+Practice: What happens when cancellation meets renewal?
+Examples use fictional applications and synthetic data.
+
+Subscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.
+
+References and further reading:
+https://agilemanifesto.org/
+https://scrumguides.org/scrum-guide.html
+https://kanbanguides.org/the-kanban-guide/2025.5/
+https://playwright.dev/docs/best-practices
+
+#AgileTesting #SoftwareTesting #QATutorial
+
+Watch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI
+
+Tags: agile testing, agile testing principles and attributes, software testing tutorial, agile testing for beginners, QA tutorial, manual testing, software quality assurance, Techat60, agile testing masterclass

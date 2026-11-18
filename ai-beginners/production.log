@@ -1,0 +1,765 @@
+Producing AI episode 1
+Voice E01 chapter-02
+Voice E01 chapter-03
+Voice E01 chapter-01
+Voice E01 chapter-04
+Voice E01 chapter-05
+E01: 645 words, raw 275.1s, tempo 0.927
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-DClDtWJb.js                              345.77 kB │ gzip: 118.03 kB
+✓ built in 6.22s
+E1 stills 1/5: Hook and promise
+E1 stills 2/5: Explain the concept
+E1 stills 3/5: On-screen demonstration
+E1 stills 4/5: Guided beginner exercise
+E1 stills 5/5: Limitations, recap and CTA
+STILLS PASSED /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/01
+Producing AI episode 1
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-Df4muKR3.js                              346.49 kB │ gzip: 118.23 kB
+✓ built in 6.32s
+E1 stills 1/5: Hook and promise
+E1 stills 2/5: Explain the concept
+E1 stills 3/5: On-screen demonstration
+E1 stills 4/5: Guided beginner exercise
+E1 stills 5/5: Limitations, recap and CTA
+STILLS PASSED /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/01
+Producing AI episode 1
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-Df4muKR3.js                              346.49 kB │ gzip: 118.23 kB
+✓ built in 5.93s
+E1 captured 1/5: Hook and promise
+E1 captured 2/5: Explain the concept
+E1 captured 3/5: On-screen demonstration
+E1 captured 4/5: Guided beginner exercise
+E1 captured 5/5: Limitations, recap and CTA
+CAPTURE COMPLETE /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/01/frames/frames.ffconcat
+[aist#1:0/pcm_s16le @ 0xacd014600] Guessed Channel Layout: mono
+[aist#2:0/pcm_s16le @ 0xacd014780] Guessed Channel Layout: mono
+[aist#3:0/pcm_s16le @ 0xacd014900] Guessed Channel Layout: mono
+[aist#4:0/pcm_s16le @ 0xacd014a80] Guessed Channel Layout: mono
+[aist#5:0/pcm_s16le @ 0xacd014c00] Guessed Channel Layout: mono
+[swscaler @ 0xacdccc000] deprecated pixel format used, make sure you did set range correctly
+[out_#0:0 @ 0xaccc9f600] 100 buffers queued in out_#0:0, something may be wrong.
+VERIFIED 1920x1080 / 300s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/01
+('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})
+Traceback (most recent call last):
+  File "/Users/impulsiveweb/Documents/YT Short/ai-beginners/worker.py", line 50, in <module>
+    except BlockingIOError:sys.exit(0)
+        ^^^^^^
+  File "/Users/impulsiveweb/Documents/YT Short/ai-beginners/worker.py", line 41, in main
+    if datetime.fromisoformat(row['publishAt'])<=datetime.now(Z):cmd+=['--publish-now']
+    ^^^^^^^^^^^^^^
+  File "/Users/impulsiveweb/Documents/YT Short/ai-beginners/worker.py", line 14, in run
+    def run(args,**kw):subprocess.run(list(map(str,args)),check=True,env=production_environment(),**kw)
+                       ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.15/lib/python3.15/subprocess.py", line 692, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['/Users/impulsiveweb/Documents/YT Short/.youtube-venv/bin/python', '/Users/impulsiveweb/Documents/YT Short/tools/youtube_upload.py', '--noninteractive', '--credentials', '/Users/impulsiveweb/Documents/YT Short/client_secret_441608537193-3jl587jtebmh2u6i9gpb182c24oasrv1.apps.googleusercontent.com.json', '--config', '/Users/impulsiveweb/Documents/YT Short/ai-beginners/youtube-publishing.json', '--metadata', '/Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/01/youtube-metadata.json', '--publish-now']' returned non-zero exit status 1.
+Sign-in not completed; installed hourly worker will retry after authorization.
+Producing AI episode 1
+VERIFIED 1920x1080 / 300s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/01
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 18%
+Upload 26%
+Upload 35%
+Upload 44%
+Upload 53%
+Upload 62%
+Upload 71%
+Upload 79%
+Upload 88%
+Upload 97%
+Uploaded: https://www.youtube.com/watch?v=z3Z_RcpRZrw
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "9f5b3f1b2344be9f7394d90bfd4237a444840ee79ca017b55cf370deed16386c",
+  "title": "What Is AI? A Simple Explanation with Everyday Examples | Ep 01",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-27T10:29:19Z",
+  "publishAt": null,
+  "videoId": "z3Z_RcpRZrw",
+  "url": "https://www.youtube.com/watch?v=z3Z_RcpRZrw",
+  "actualVisibility": "public",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null
+}
+Producing AI episode 2
+VERIFIED 1920x1080 / 300s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/02
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 17%
+Upload 26%
+Upload 35%
+Upload 43%
+Upload 52%
+Upload 61%
+Upload 69%
+Upload 78%
+Upload 87%
+Upload 95%
+Uploaded: https://www.youtube.com/watch?v=upGQIZplJPs
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+YouTube processing; visibility: public
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "4ec11e06fdac0d0cfe803595083a09f57c9ac4252c514d3ba8da66dd3e86789c",
+  "title": "AI in Everyday Life: Features You Already Use | Ep 02",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-27T10:30:12Z",
+  "publishAt": null,
+  "videoId": "upGQIZplJPs",
+  "url": "https://www.youtube.com/watch?v=upGQIZplJPs",
+  "actualVisibility": "public",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null
+}
+Producing AI episode 3
+Voice E03 chapter-03
+Voice E03 chapter-01
+Voice E03 chapter-04
+Voice E03 chapter-02
+Voice E03 chapter-05
+E03: 602 words, raw 276.1s, tempo 1.000
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-ChDiOqwT.js                              346.38 kB │ gzip: 118.05 kB
+✓ built in 6.03s
+E3 stills 1/5: Hook and promise
+E3 stills 2/5: Explain the concept
+E3 stills 3/5: On-screen demonstration
+E3 stills 4/5: Guided beginner exercise
+E3 stills 5/5: Limitations, recap and CTA
+STILLS PASSED /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/03
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-ChDiOqwT.js                              346.38 kB │ gzip: 118.05 kB
+✓ built in 6.23s
+E3 captured 1/5: Hook and promise
+E3 captured 2/5: Explain the concept
+E3 captured 3/5: On-screen demonstration
+E3 captured 4/5: Guided beginner exercise
+E3 captured 5/5: Limitations, recap and CTA
+CAPTURE COMPLETE /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/03/frames/frames.ffconcat
+[aist#1:0/pcm_s16le @ 0x987014600] Guessed Channel Layout: mono
+[aist#2:0/pcm_s16le @ 0x987014780] Guessed Channel Layout: mono
+[aist#3:0/pcm_s16le @ 0x987014900] Guessed Channel Layout: mono
+[aist#4:0/pcm_s16le @ 0x987014a80] Guessed Channel Layout: mono
+[aist#5:0/pcm_s16le @ 0x987014c00] Guessed Channel Layout: mono
+[swscaler @ 0x987898000] deprecated pixel format used, make sure you did set range correctly
+[out_#0:0 @ 0x987373d80] 100 buffers queued in out_#0:0, something may be wrong.
+VERIFIED 1920x1080 / 300s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/03
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 8%
+Upload 17%
+Upload 25%
+Upload 34%
+Upload 42%
+Upload 51%
+Upload 59%
+Upload 68%
+Upload 76%
+Upload 84%
+Upload 93%
+Uploaded: https://www.youtube.com/watch?v=Zvoo_4O7aRI
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "c5c7af96d851f3f0fc8c1261428217a0507cc76d34e65717889589b53acd8e5f",
+  "title": "AI vs Machine Learning vs Deep Learning: The Simple Difference | Ep 03",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-27T10:32:27Z",
+  "publishAt": "2026-10-28T14:00:00+05:30",
+  "videoId": "Zvoo_4O7aRI",
+  "url": "https://www.youtube.com/watch?v=Zvoo_4O7aRI",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-28T08:30:00Z"
+}
+Producing AI episode 4
+Voice E04 chapter-03
+Voice E04 chapter-02
+Voice E04 chapter-01
+Voice E04 chapter-04
+Voice E04 chapter-05
+E04: 592 words, raw 273.7s, tempo 1.000
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-yKmJ68Kw.js                              346.30 kB │ gzip: 118.03 kB
+✓ built in 6.24s
+E4 stills 1/5: Hook and promise
+E4 stills 2/5: Explain the concept
+E4 stills 3/5: On-screen demonstration
+E4 stills 4/5: Guided beginner exercise
+E4 stills 5/5: Limitations, recap and CTA
+STILLS PASSED /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/04
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-yKmJ68Kw.js                              346.30 kB │ gzip: 118.03 kB
+✓ built in 6.21s
+E4 captured 1/5: Hook and promise
+E4 captured 2/5: Explain the concept
+E4 captured 3/5: On-screen demonstration
+E4 captured 4/5: Guided beginner exercise
+E4 captured 5/5: Limitations, recap and CTA
+CAPTURE COMPLETE /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/04/frames/frames.ffconcat
+[aist#1:0/pcm_s16le @ 0x8bf014600] Guessed Channel Layout: mono
+[aist#2:0/pcm_s16le @ 0x8bf014780] Guessed Channel Layout: mono
+[aist#3:0/pcm_s16le @ 0x8bf014900] Guessed Channel Layout: mono
+[aist#4:0/pcm_s16le @ 0x8bf014a80] Guessed Channel Layout: mono
+[aist#5:0/pcm_s16le @ 0x8bf014c00] Guessed Channel Layout: mono
+[swscaler @ 0x8bf88c000] deprecated pixel format used, make sure you did set range correctly
+[out_#0:0 @ 0x8becafcc0] 100 buffers queued in out_#0:0, something may be wrong.
+VERIFIED 1920x1080 / 300s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/04
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 17%
+Upload 26%
+Upload 34%
+Upload 43%
+Upload 51%
+Upload 60%
+Upload 69%
+Upload 77%
+Upload 86%
+Upload 94%
+Uploaded: https://www.youtube.com/watch?v=zk1Z9Aieiys
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "99644fc0944e3dba3068a51e077bcf3b07abe32e07c816f27c60bac9e903f157",
+  "title": "How Generative AI Works: From Prompt to New Content | Ep 04",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-27T10:34:05Z",
+  "publishAt": "2026-10-28T14:00:00+05:30",
+  "videoId": "zk1Z9Aieiys",
+  "url": "https://www.youtube.com/watch?v=zk1Z9Aieiys",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-28T08:30:00Z"
+}
+Producing AI episode 5
+Voice E05 chapter-02
+Voice E05 chapter-03
+Voice E05 chapter-01
+Voice E05 chapter-04
+Voice E05 chapter-05
+E05: 589 words, raw 272.5s, tempo 1.000
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-Q06EHJAe.js                              346.20 kB │ gzip: 118.04 kB
+✓ built in 6.06s
+E5 stills 1/5: Hook and promise
+E5 stills 2/5: Explain the concept
+E5 stills 3/5: On-screen demonstration
+E5 stills 4/5: Guided beginner exercise
+E5 stills 5/5: Limitations, recap and CTA
+STILLS PASSED /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/05
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-Q06EHJAe.js                              346.20 kB │ gzip: 118.04 kB
+✓ built in 5.88s
+E5 captured 1/5: Hook and promise
+E5 captured 2/5: Explain the concept
+E5 captured 3/5: On-screen demonstration
+E5 captured 4/5: Guided beginner exercise
+E5 captured 5/5: Limitations, recap and CTA
+CAPTURE COMPLETE /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/05/frames/frames.ffconcat
+[aist#1:0/pcm_s16le @ 0x877014600] Guessed Channel Layout: mono
+[aist#2:0/pcm_s16le @ 0x877014780] Guessed Channel Layout: mono
+[aist#3:0/pcm_s16le @ 0x877014900] Guessed Channel Layout: mono
+[aist#4:0/pcm_s16le @ 0x877014a80] Guessed Channel Layout: mono
+[aist#5:0/pcm_s16le @ 0x877014c00] Guessed Channel Layout: mono
+[swscaler @ 0x877914000] deprecated pixel format used, make sure you did set range correctly
+[out_#0:0 @ 0x876cbfcc0] 100 buffers queued in out_#0:0, something may be wrong.
+VERIFIED 1920x1080 / 300s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/05
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 17%
+Upload 26%
+Upload 35%
+Upload 43%
+Upload 52%
+Upload 60%
+Upload 69%
+Upload 78%
+Upload 86%
+Upload 95%
+Uploaded: https://www.youtube.com/watch?v=QPEHgxu2Eto
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "4aafcba02350ceeac45cf12263c84f7cb9255bf8fd255856d56c7064b0602bad",
+  "title": "AI Myths and Realities: What Beginners Should Know | Ep 05",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-27T10:35:37Z",
+  "publishAt": "2026-10-29T14:00:00+05:30",
+  "videoId": "QPEHgxu2Eto",
+  "url": "https://www.youtube.com/watch?v=QPEHgxu2Eto",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-29T08:30:00Z"
+}
+Producing AI episode 6
+Voice E06 chapter-03
+Voice E06 chapter-01
+Voice E06 chapter-04
+Voice E06 chapter-02
+Voice E06 chapter-05
+E06: 593 words, raw 273.9s, tempo 1.000
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-C9wfqNRq.js                              346.33 kB │ gzip: 118.05 kB
+✓ built in 6.13s
+E6 stills 1/5: Hook and promise
+E6 stills 2/5: Explain the concept
+E6 stills 3/5: On-screen demonstration
+E6 stills 4/5: Guided beginner exercise
+E6 stills 5/5: Limitations, recap and CTA
+STILLS PASSED /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/06
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-C9wfqNRq.js                              346.33 kB │ gzip: 118.05 kB
+✓ built in 6.09s
+E6 captured 1/5: Hook and promise
+E6 captured 2/5: Explain the concept
+E6 captured 3/5: On-screen demonstration
+E6 captured 4/5: Guided beginner exercise
+E6 captured 5/5: Limitations, recap and CTA
+CAPTURE COMPLETE /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/06/frames/frames.ffconcat
+[aist#1:0/pcm_s16le @ 0x7d7014600] Guessed Channel Layout: mono
+[aist#2:0/pcm_s16le @ 0x7d7014780] Guessed Channel Layout: mono
+[aist#3:0/pcm_s16le @ 0x7d7014900] Guessed Channel Layout: mono
+[aist#4:0/pcm_s16le @ 0x7d7014a80] Guessed Channel Layout: mono
+[aist#5:0/pcm_s16le @ 0x7d7014c00] Guessed Channel Layout: mono
+[swscaler @ 0x7d85bc000] deprecated pixel format used, make sure you did set range correctly
+[out_#0:0 @ 0x7d7353d80] 100 buffers queued in out_#0:0, something may be wrong.
+VERIFIED 1920x1080 / 300s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/06
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 8%
+Upload 17%
+Upload 25%
+Upload 34%
+Upload 42%
+Upload 51%
+Upload 59%
+Upload 68%
+Upload 76%
+Upload 85%
+Upload 93%
+Uploaded: https://www.youtube.com/watch?v=d9z6XbshUDw
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "70fb4253df978fc47df9122fd24c74d9268e1c59ba32d610ee847934ae417d71",
+  "title": "ChatGPT for Beginners: Ask, Refine and Get Better Answers | Ep 06",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-27T10:37:12Z",
+  "publishAt": "2026-10-29T14:00:00+05:30",
+  "videoId": "d9z6XbshUDw",
+  "url": "https://www.youtube.com/watch?v=d9z6XbshUDw",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-29T08:30:00Z"
+}
+Producing AI episode 7
+Voice E07 chapter-03
+Voice E07 chapter-02
+Voice E07 chapter-05
+Voice E07 chapter-04
+Voice E07 chapter-01
+E07: 593 words, raw 273.0s, tempo 1.000
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-wtryaMAW.js                              346.21 kB │ gzip: 118.03 kB
+✓ built in 5.80s
+E7 stills 1/5: Hook and promise
+E7 stills 2/5: Explain the concept
+E7 stills 3/5: On-screen demonstration
+E7 stills 4/5: Guided beginner exercise
+E7 stills 5/5: Limitations, recap and CTA
+STILLS PASSED /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/07
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-wtryaMAW.js                              346.21 kB │ gzip: 118.03 kB
+✓ built in 5.83s
+E7 captured 1/5: Hook and promise
+E7 captured 2/5: Explain the concept
+E7 captured 3/5: On-screen demonstration
+E7 captured 4/5: Guided beginner exercise
+E7 captured 5/5: Limitations, recap and CTA
+CAPTURE COMPLETE /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/07/frames/frames.ffconcat
+[aist#1:0/pcm_s16le @ 0x9cb014600] Guessed Channel Layout: mono
+[aist#2:0/pcm_s16le @ 0x9cb014780] Guessed Channel Layout: mono
+[aist#3:0/pcm_s16le @ 0x9cb014900] Guessed Channel Layout: mono
+[aist#4:0/pcm_s16le @ 0x9cb014a80] Guessed Channel Layout: mono
+[aist#5:0/pcm_s16le @ 0x9cb014c00] Guessed Channel Layout: mono
+[swscaler @ 0x9cb79c000] deprecated pixel format used, make sure you did set range correctly
+[out_#0:0 @ 0x9cacffcc0] 100 buffers queued in out_#0:0, something may be wrong.
+VERIFIED 1920x1080 / 300s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/07
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 17%
+Upload 26%
+Upload 35%
+Upload 43%
+Upload 52%
+Upload 61%
+Upload 69%
+Upload 78%
+Upload 87%
+Upload 95%
+Uploaded: https://www.youtube.com/watch?v=GBCI10KLqWg
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "41a0e1852852e08080c88cebdf5d8c57fb4eee6f87cc9e2f98fe8b391a3b2114",
+  "title": "Write Better AI Prompts: Goal, Context, Audience and Format | Ep 07",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-27T10:38:42Z",
+  "publishAt": "2026-10-30T14:00:00+05:30",
+  "videoId": "GBCI10KLqWg",
+  "url": "https://www.youtube.com/watch?v=GBCI10KLqWg",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-30T08:30:00Z"
+}
+Producing AI episode 8
+Voice E08 chapter-03
+Voice E08 chapter-01
+Voice E08 chapter-04
+Voice E08 chapter-02
+Voice E08 chapter-05
+E08: 587 words, raw 273.6s, tempo 1.000
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-sI-5l-Aw.js                              346.25 kB │ gzip: 118.04 kB
+✓ built in 5.89s
+E8 stills 1/5: Hook and promise
+E8 stills 2/5: Explain the concept
+E8 stills 3/5: On-screen demonstration
+E8 stills 4/5: Guided beginner exercise
+E8 stills 5/5: Limitations, recap and CTA
+STILLS PASSED /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/08
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1943 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-BzjGSQnx.css                               6.08 kB │ gzip:   1.97 kB
+dist/assets/index-sI-5l-Aw.js                              346.25 kB │ gzip: 118.04 kB
+✓ built in 6.37s
+E8 captured 1/5: Hook and promise
+E8 captured 2/5: Explain the concept
+E8 captured 3/5: On-screen demonstration
+E8 captured 4/5: Guided beginner exercise
+E8 captured 5/5: Limitations, recap and CTA
+CAPTURE COMPLETE /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/08/frames/frames.ffconcat
+[aist#1:0/pcm_s16le @ 0x707014600] Guessed Channel Layout: mono
+[aist#2:0/pcm_s16le @ 0x707014780] Guessed Channel Layout: mono
+[aist#3:0/pcm_s16le @ 0x707014900] Guessed Channel Layout: mono
+[aist#4:0/pcm_s16le @ 0x707014a80] Guessed Channel Layout: mono
+[aist#5:0/pcm_s16le @ 0x707014c00] Guessed Channel Layout: mono
+[swscaler @ 0x707898000] deprecated pixel format used, make sure you did set range correctly
+[out_#0:0 @ 0x70714ff00] 100 buffers queued in out_#0:0, something may be wrong.
+VERIFIED 1920x1080 / 300s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/ai-beginners/episodes/08
+Verified channel: Tech at 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 9%
+Upload 17%
+Upload 26%
+Upload 34%
+Upload 43%
+Upload 51%
+Upload 60%
+Upload 68%
+Upload 77%
+Upload 86%
+Upload 94%
+Uploaded: https://www.youtube.com/watch?v=ymDU3K5DOUo
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "8a9b41110a07fd456f053c85cf7396e3f7d6f71d8f58a48646213f3a5f830e04",
+  "title": "Prompt Engineering for Beginners: Show AI an Example | Ep 08",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-27T10:40:17Z",
+  "publishAt": "2026-10-30T14:00:00+05:30",
+  "videoId": "ymDU3K5DOUo",
+  "url": "https://www.youtube.com/watch?v=ymDU3K5DOUo",
+  "actualVisibility": "private",
+  "uploadStatus": "uploaded",
+  "processingStatus": "processing",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-10-30T08:30:00Z"
+}

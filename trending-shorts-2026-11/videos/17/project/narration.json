@@ -1,0 +1,14 @@
+{
+  "voice": "en-US-GuyNeural",
+  "rate": "-15%",
+  "pitch": "+0Hz",
+  "leadIn": 0.25,
+  "scenes": {
+    "hook": "When you hear A I glasses, do you imagine a screen floating in front of your eyes? Not every pair has one.",
+    "idea": "Glasses can combine microphones, speakers, cameras, and an assistant. The exact features depend on the model.",
+    "demo": "An audio focused pair may answer through speakers without showing a visual interface in the lens.",
+    "compare": "An augmented reality display is a separate capability. The labels A I and A R are not interchangeable.",
+    "takeaway": "Before choosing, check the specific hardware, phone connection, available features, and recording indicators.",
+    "close": "Would you prefer audio or a display? Subscribe to Tech at sixty for clear tech explainers."
+  }
+}

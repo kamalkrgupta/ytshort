@@ -1,0 +1,18 @@
+{
+  "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+  "description": "Learn agile testing with kanban with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 10 of 12 | English | 10-minute tutorial.\n\nNext lesson: https://www.youtube.com/watch?v=bQb0NnHMJt0\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Visual workflow\n\u2022 WIP limits\n\u2022 Flow metrics\n\u2022 Bottlenecks\n\u2022 Classes of service\n\u2022 Maintenance example\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Visual workflow\n01:55 WIP limits\n02:57 Flow metrics\n04:01 Bottlenecks\n05:03 Classes of service\n06:06 Maintenance example\n07:09 Worked example\n07:53 A closer look\n08:44 Verify the outcome\n09:35 Recap\n\nPractice: Why is the Testing queue always full?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+  "tags": [
+    "agile testing",
+    "agile testing with kanban",
+    "software testing tutorial",
+    "agile testing for beginners",
+    "QA tutorial",
+    "manual testing",
+    "software quality assurance",
+    "Techat60",
+    "agile testing masterclass"
+  ],
+  "video": "video.mp4",
+  "thumbnail": "thumbnail.jpg",
+  "publishAt": "2026-10-27T18:00:00+05:30"
+}

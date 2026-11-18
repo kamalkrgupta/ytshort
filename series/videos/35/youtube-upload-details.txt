@@ -1,0 +1,18 @@
+CSS Media Queries | Web Development in 60 Seconds
+
+Media queries apply styles when specified conditions match. Learn css media queries with a quick example for beginners.
+
+A minimum width query can add a wider layout when space is available.
+Write the narrow layout first, then add larger-screen adjustments.
+
+Try it: Stack two cards on mobile and place them together on wider screens.
+
+What would you build with this? Tell us in the comments.
+Like, share, and subscribe to @Techat60 for more web development basics.
+
+Web Development in 60 Seconds • Lesson 35
+Learn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics
+
+#WebDevelopment #LearnToCode #Shorts
+
+Tags: css media queries, web development for beginners, learn to code, coding shorts, css tutorial

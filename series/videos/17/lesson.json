@@ -1,0 +1,16 @@
+{
+  "videoNumber": 17,
+  "phase": "Phase 2 — Advanced HTML & CSS Basics",
+  "topic": "HTML Dropdown Menus",
+  "description": "Create dropdown selections using <select>.",
+  "publishLocal": "2026-10-27T16:00:00+05:30",
+  "publishAt": "2026-10-27T10:30:00Z",
+  "status": "planned",
+  "definition": "A select element presents a list of choices.",
+  "code": "<label>Level\n <select name=\"level\">\n  <option>Beginner</option>\n  <option>Intermediate</option>\n </select>\n</label>",
+  "preview": "<label>Level <select><option>Beginner</option><option>Intermediate</option></select></label>",
+  "rule": "Each option inside the select becomes one available choice.",
+  "tip": "A value attribute can specify the data submitted for an option.",
+  "caution": "Use a label so the purpose of the selection is clear.",
+  "exercise": "Create a dropdown with three learning goals."
+}

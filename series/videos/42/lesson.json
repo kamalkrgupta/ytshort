@@ -1,0 +1,16 @@
+{
+  "videoNumber": 42,
+  "phase": "Phase 4 — JavaScript for Beginners",
+  "topic": "JavaScript If-Else",
+  "description": "Make decisions based on conditions.",
+  "publishLocal": "2026-11-09T11:00:00+05:30",
+  "publishAt": "2026-11-09T05:30:00Z",
+  "status": "planned",
+  "definition": "If and else let a program choose between actions.",
+  "code": "const score = 80;\nif (score >= 50) {\n console.log(\"Pass\");\n} else {\n console.log(\"Try again\");\n}",
+  "preview": "<h2>Score: 80</h2><p style=\"color:teal\">Pass ✓</p>",
+  "rule": "The if branch runs when its condition is truthy.",
+  "tip": "The else branch handles the alternative when that condition is false.",
+  "caution": "Use comparison operators in conditions, rather than accidental assignment.",
+  "exercise": "Display a different message depending on a practice score."
+}

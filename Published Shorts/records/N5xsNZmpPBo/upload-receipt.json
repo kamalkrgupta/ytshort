@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "b4c59b44b6a785dd78b12833cb73f4f27bb5d4d06cc77ec66761be213fb990c1",
+  "title": "JavaScript Variables | Web Development in 60 Seconds",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-04T10:03:42Z",
+  "publishAt": "2026-11-07T05:30:00Z",
+  "videoId": "N5xsNZmpPBo",
+  "url": "https://www.youtube.com/watch?v=N5xsNZmpPBo",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-07T05:30:00Z"
+}

@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "JavaScript Data Types. Let’s make it simple.",
+    "idea": "JavaScript values have different types with different behavior. Start by understanding the role it plays in a page.",
+    "code": "Text is a string, a numeric value is a number, and true is a boolean.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "The type of operator can help inspect the type of a value. Keep this detail in mind when writing your own example.",
+    "caution": "A number inside quotation marks is a string, which changes some operations.",
+    "try": "Create a string, a number, and a boolean. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

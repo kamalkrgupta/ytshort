@@ -1,0 +1,16 @@
+{
+  "videoNumber": 41,
+  "phase": "Phase 4 — JavaScript for Beginners",
+  "topic": "JavaScript Functions",
+  "description": "Create reusable blocks of code.",
+  "publishLocal": "2026-11-08T16:00:00+05:30",
+  "publishAt": "2026-11-08T10:30:00Z",
+  "status": "planned",
+  "definition": "A function groups instructions into a reusable operation.",
+  "code": "function greet(name) {\n return \"Hello, \" + name;\n}\ngreet(\"Alex\");",
+  "preview": "<h2>Hello, Alex</h2>",
+  "rule": "Parameters receive input, and return sends a result back to the caller.",
+  "tip": "Call the function with an argument to run its instructions.",
+  "caution": "Returning a value and displaying a value are different actions.",
+  "exercise": "Write a function that returns the sum of two numbers."
+}

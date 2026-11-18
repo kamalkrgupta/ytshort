@@ -1,0 +1,22 @@
+{
+  "videoNumber": 50,
+  "phase": "Phase 5 \u2014 Real-World Beginner Projects",
+  "topic": "Build a Simple To-Do List",
+  "description": "Add and remove tasks using JavaScript.",
+  "publishLocal": "2026-11-18T16:00:00+05:30",
+  "publishAt": "2026-11-18T10:30:00+00:00",
+  "status": "planned",
+  "definition": "A to-do list turns user input into items that can be managed.",
+  "code": "const text = input.value.trim();\nif (!text) return;\nconst item =\n  document.createElement(\"li\");\nitem.textContent = text;",
+  "preview": "<h2>Today</h2><p><input placeholder=\"New task\"> <button>Add</button></p><ul><li>Practice HTML</li><li>Learn CSS</li></ul>",
+  "rule": "Create the item, set text, append it.",
+  "tip": "Clear the input after adding the task.",
+  "caution": "Reject empty input; use textContent.",
+  "exercise": "Add a task and a remove button.",
+  "title": "Build a JavaScript To-Do List: Add and Remove Tasks",
+  "shortTitle": "Type a task.\nAdd it to your list.",
+  "hook": "Type \u2192 Add \u2192 Remove",
+  "idea": "An input becomes a new list item.",
+  "closing": "What is your first task?",
+  "code2": "const remove =\n  document.createElement(\"button\");\nremove.textContent = \"Remove\";\nremove.onclick = () => item.remove();\nitem.append(remove);\nlist.append(item);\ninput.value = \"\";"
+}

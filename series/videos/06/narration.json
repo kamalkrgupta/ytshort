@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "How to Add Images in H T M L. Let’s make it simple.",
+    "idea": "An image element embeds a picture in your page. Start by understanding the role it plays in a page.",
+    "code": "Source identifies the image file; alt provides a text alternative. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "Describe useful image content in the alternative text. Keep this detail in mind when writing your own example.",
+    "caution": "The image element is void, so it has no closing tag. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Add a local image with a useful text description. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

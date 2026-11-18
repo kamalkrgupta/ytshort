@@ -1,0 +1,22 @@
+{
+  "duration_seconds": 60.0,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "decoded_frames": 1800,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "audio": {
+    "mean_volume": -20.6,
+    "max_volume": -1.7
+  },
+  "voice_clips": 8,
+  "all_narration_fits": true,
+  "scene_safe_area_checks": "passed",
+  "file": "/Users/impulsiveweb/Documents/YT Short/special-shorts/ai-friend-or-devil/out/AI-Friend-or-Devil-REVIEW.mp4",
+  "sha256": "7ee826575558054136673106341b66036da624e6863f76f4b5c36871a5bbb811",
+  "bytes": 3386083,
+  "upload_performed": false,
+  "publish_performed": false
+}

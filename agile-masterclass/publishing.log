@@ -1,0 +1,38 @@
+Waiting for verified render E01
+VERIFIED 1920x1080 / 600s / 30 fps / H.264 + AAC /Users/impulsiveweb/Documents/YT Short/agile-masterclass/episodes/01
+Verified channel: Tech in 60 UC7F3e0NsVP37sqroVmYxiFw
+Upload 4%
+Upload 9%
+Upload 13%
+Upload 18%
+Upload 22%
+Upload 27%
+Upload 31%
+Upload 36%
+Upload 40%
+Upload 44%
+Upload 49%
+Upload 53%
+Upload 58%
+Upload 62%
+Upload 67%
+Upload 71%
+Upload 76%
+Upload 80%
+Upload 84%
+Upload 89%
+Upload 93%
+Upload 98%
+Uploaded: https://www.youtube.com/watch?v=reA35oDRHj8
+YouTube API request failed (HTTP 403). Check API enablement, permission, and quota. Existing upload state was retained.
+Traceback (most recent call last):
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/publish.py", line 59, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/publish.py", line 57, in main
+    publish(n)
+    ~~~~~~~^^^
+  File "/Users/impulsiveweb/Documents/YT Short/agile-masterclass/publish.py", line 35, in publish
+    if result.returncode:raise RuntimeError('Upload or verification needs attention; retained existing receipt')
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Upload or verification needs attention; retained existing receipt

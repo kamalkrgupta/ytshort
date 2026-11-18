@@ -1,0 +1,21 @@
+{
+  "state": "published",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "f98541f3191918424b581afda331a19b0e009a2cbe42ab7ee1083efcbbe726a4",
+  "title": "Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4",
+  "requestedVisibility": "public",
+  "startedAt": "2026-10-23T15:44:35Z",
+  "publishAt": "2026-10-24T18:00:00+05:30",
+  "videoId": "4pedCCloISY",
+  "url": "https://www.youtube.com/watch?v=4pedCCloISY",
+  "actualVisibility": "public",
+  "thumbnailSet": true,
+  "thumbnailStatus": "applied",
+  "thumbnailError": "Channel custom-thumbnail upload permission was denied; using a YouTube-generated thumbnail.",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": null,
+  "remoteAuditedAt": "2026-10-23T15:56:57.580623+00:00",
+  "thumbnailCampaign": "2026-11-05"
+}

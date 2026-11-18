@@ -1,0 +1,697 @@
+[
+  {
+    "start": 0.33857709750566894,
+    "end": 4.270181405895692,
+    "text": "How does testing fit into Scrum We will follow"
+  },
+  {
+    "start": 4.282767325680272,
+    "end": 8.145466624149659,
+    "text": "a two-week sprint for an appointment-booking platform and distinguish"
+  },
+  {
+    "start": 8.158015341553288,
+    "end": 13.80731469671202,
+    "text": "Scrum accountabilities from specialized testing skills Picture an appointment"
+  },
+  {
+    "start": 13.819900616496598,
+    "end": 17.380625531462588,
+    "text": "platform with one available time slot and two customers"
+  },
+  {
+    "start": 17.393174248866213,
+    "end": 21.62073678429705,
+    "text": "trying to reserve it The business goal sounds simple"
+  },
+  {
+    "start": 21.91012613378685,
+    "end": 25.370169005102042,
+    "text": "but a screenshot of a successful booking cannot establish"
+  },
+  {
+    "start": 25.382754924886623,
+    "end": 29.333477714002267,
+    "text": "that double booking is prevented Scrum gives the team"
+  },
+  {
+    "start": 29.34606274801588,
+    "end": 34.05172105300454,
+    "text": "regular opportunities to clarify implement and inspect the outcome"
+  },
+  {
+    "start": 34.919887329931974,
+    "end": 37.72567761479592,
+    "text": "It does not place testing in a separate final"
+  },
+  {
+    "start": 37.7382635345805,
+    "end": 43.76501204648526,
+    "text": "phase Throughout this example distinguish the framework's accountabilities from"
+  },
+  {
+    "start": 43.777597080498865,
+    "end": 47.91706260629252,
+    "text": "the specialist skills people bring A team member can"
+  },
+  {
+    "start": 47.929648526077095,
+    "end": 52.25785767431973,
+    "text": "contribute deep testing knowledge while sharing responsibility for creating"
+  },
+  {
+    "start": 52.27044359410431,
+    "end": 55.6046697845805,
+    "text": "a usable increment that meets the Definition of Done"
+  },
+  {
+    "start": 57.238586936072544,
+    "end": 62.473262515756105,
+    "text": "Scrum defines Product Owner Scrum Master and Developers accountabilities"
+  },
+  {
+    "start": 63.36012847951236,
+    "end": 67.02190580271476,
+    "text": "Testers may be members of the Developers group Scrum"
+  },
+  {
+    "start": 67.0344931204613,
+    "end": 71.97974809304097,
+    "text": "does not prescribe a separate tester accountability Quality is"
+  },
+  {
+    "start": 71.99233452491816,
+    "end": 76.73627568527297,
+    "text": "shared The Product Owner helps maximize product value and"
+  },
+  {
+    "start": 76.74886300301952,
+    "end": 81.44245666412688,
+    "text": "manages the Product Backlog The Scrum Master helps establish"
+  },
+  {
+    "start": 81.45504398187343,
+    "end": 86.76523903868946,
+    "text": "Scrum and improve team effectiveness Developers create the usable"
+  },
+  {
+    "start": 86.77779003579224,
+    "end": 90.03690252803176,
+    "text": "increment and people with testing skills may be part"
+  },
+  {
+    "start": 90.04948984577831,
+    "end": 93.95030484206268,
+    "text": "of that group This use of Developers is broader"
+  },
+  {
+    "start": 93.96289127393987,
+    "end": 98.30416848920119,
+    "text": "than programmers alone A tester is not an external"
+  },
+  {
+    "start": 98.31675492107837,
+    "end": 102.00366878739135,
+    "text": "gate that receives all work after everyone else finishes"
+  },
+  {
+    "start": 102.87193238044173,
+    "end": 107.1251010290853,
+    "text": "During a booking discussion testing expertise can reveal concurrency"
+  },
+  {
+    "start": 107.13768834683185,
+    "end": 111.39089508785793,
+    "text": "and cancellation risks while implementation choices are still open"
+  },
+  {
+    "start": 112.2591205885258,
+    "end": 116.83947091164353,
+    "text": "Clear accountabilities help the conversation but quality still depends"
+  },
+  {
+    "start": 116.85205822939008,
+    "end": 119.02900777034654,
+    "text": "on the team's actual collaboration"
+  },
+  {
+    "start": 120.67191432166551,
+    "end": 125.99433932381034,
+    "text": "Clarify double booking cancellation payment failures and unavailable slots"
+  },
+  {
+    "start": 126.86856015642873,
+    "end": 130.0519385388069,
+    "text": "Select work supporting the Sprint Goal and account for"
+  },
+  {
+    "start": 130.06452501143903,
+    "end": 135.07234046056394,
+    "text": "implementation and verification within the sprint Refine the booking"
+  },
+  {
+    "start": 135.0849632514013,
+    "end": 140.3444231154198,
+    "text": "story with explicit examples Given one available slot when"
+  },
+  {
+    "start": 140.35700870224204,
+    "end": 144.03112664579044,
+    "text": "one customer completes a reservation then the slot becomes"
+  },
+  {
+    "start": 144.04371223261268,
+    "end": 148.2588385623999,
+    "text": "unavailable to others Now ask what happens if two"
+  },
+  {
+    "start": 148.27142503503202,
+    "end": 154.32364665479867,
+    "text": "requests arrive almost simultaneously Only one reservation should succeed"
+  },
+  {
+    "start": 154.33623312743077,
+    "end": 158.614251073124,
+    "text": "under our fictional rule Add a cancelled reservation and"
+  },
+  {
+    "start": 158.62687474977122,
+    "end": 163.03075122111645,
+    "text": "an expired temporary hold These questions help the team"
+  },
+  {
+    "start": 163.04333769374855,
+    "end": 167.88761049316517,
+    "text": "identify work needed to achieve the Sprint Goal Refinement"
+  },
+  {
+    "start": 167.9001969657973,
+    "end": 171.47362667152825,
+    "text": "is an ongoing activity not a prescribed Scrum event"
+  },
+  {
+    "start": 172.3417947652139,
+    "end": 175.76426829386867,
+    "text": "During Sprint Planning the team considers the effort to"
+  },
+  {
+    "start": 175.77685476650078,
+    "end": 179.3376997712194,
+    "text": "implement and verify the selected work rather than treating"
+  },
+  {
+    "start": 179.3502862438515,
+    "end": 181.64028904069434,
+    "text": "testing capacity as an afterthought"
+  },
+  {
+    "start": 183.27190992177523,
+    "end": 187.03386746787197,
+    "text": "Validate availability A P I services before the user"
+  },
+  {
+    "start": 187.04649051749084,
+    "end": 192.3369106157208,
+    "text": "interface is complete Test concurrent bookings user journeys and"
+  },
+  {
+    "start": 192.3494964631725,
+    "end": 197.9610075802702,
+    "text": "regressions as increments emerge Fix defects collaboratively instead of"
+  },
+  {
+    "start": 197.9735934277219,
+    "end": 202.60375034921776,
+    "text": "accumulating testing at the end During the sprint check"
+  },
+  {
+    "start": 202.6163353109036,
+    "end": 205.81214141971984,
+    "text": "the availability A P I while the booking interface"
+  },
+  {
+    "start": 205.82472726717154,
+    "end": 210.34161599043145,
+    "text": "is still being built Send two controlled reservation requests"
+  },
+  {
+    "start": 210.35420183788315,
+    "end": 213.27320610781848,
+    "text": "for the same synthetic slot and inspect the stored"
+  },
+  {
+    "start": 213.2857910695043,
+    "end": 217.86557005632383,
+    "text": "outcome Later connect the interface and verify that the"
+  },
+  {
+    "start": 217.8781922201768,
+    "end": 221.11171689764927,
+    "text": "losing customer receives a clear message instead of an"
+  },
+  {
+    "start": 221.12430274510098,
+    "end": 227.5159149627335,
+    "text": "unexplained error Run relevant regression checks after fixes This"
+  },
+  {
+    "start": 227.5285008101852,
+    "end": 232.83807648143159,
+    "text": "sequence obtains different evidence as components become available A"
+  },
+  {
+    "start": 232.85066232888332,
+    "end": 236.05901619721823,
+    "text": "timeline that assigns development to the first week and"
+  },
+  {
+    "start": 236.07160204466993,
+    "end": 239.00319127629112,
+    "text": "all testing to the last days can hide unresolved"
+  },
+  {
+    "start": 239.01577712374282,
+    "end": 241.4692742192489,
+    "text": "work until the sprint is nearly over"
+  },
+  {
+    "start": 243.1052714539208,
+    "end": 247.28379879280402,
+    "text": "The Definition of Done formally describes quality conditions required"
+  },
+  {
+    "start": 247.29638864702497,
+    "end": 252.04730291156983,
+    "text": "for an increment These may include reviews passing tests"
+  },
+  {
+    "start": 252.2235156822215,
+    "end": 257.96266926463926,
+    "text": "accepted criteria and relevant documentation Coding completion alone does"
+  },
+  {
+    "start": 257.9752591188602,
+    "end": 261.92721692835164,
+    "text": "not imply Done The Definition of Done provides a"
+  },
+  {
+    "start": 261.9398431105354,
+    "end": 266.1812807344169,
+    "text": "shared quality baseline for the increment A team might"
+  },
+  {
+    "start": 266.19386970258995,
+    "end": 271.1653363454242,
+    "text": "require reviewed code passing relevant automated checks completed security"
+  },
+  {
+    "start": 271.17788898563447,
+    "end": 276.97998829496544,
+    "text": "conditions and updated operational information where needed Acceptance criteria"
+  },
+  {
+    "start": 276.9925781491864,
+    "end": 281.6997074720618,
+    "text": "describe expectations for a particular backlog item the Definition"
+  },
+  {
+    "start": 281.71229644023487,
+    "end": 286.16771462533507,
+    "text": "of Done describes quality conditions for the increment They"
+  },
+  {
+    "start": 286.18030359350814,
+    "end": 291.11396611781254,
+    "text": "are related but serve different purposes If required verification"
+  },
+  {
+    "start": 291.1265550859856,
+    "end": 294.6631779552233,
+    "text": "has not happened calling the work Done misrepresents its"
+  },
+  {
+    "start": 294.67576780944427,
+    "end": 298.64035180111944,
+    "text": "state Make the gap visible and adapt the plan"
+  },
+  {
+    "start": 299.50875314423115,
+    "end": 302.65525622357194,
+    "text": "Pressure to improve a completion chart should not change"
+  },
+  {
+    "start": 302.6678460777929,
+    "end": 304.7193047426568,
+    "text": "the meaning of the shared agreement"
+  },
+  {
+    "start": 306.3385913750442,
+    "end": 309.76146621155885,
+    "text": "At the Sprint Review inspect the outcome and adapt"
+  },
+  {
+    "start": 309.77401695166134,
+    "end": 315.1660202545069,
+    "text": "the Product Backlog At the Retrospective improve team effectiveness"
+  },
+  {
+    "start": 315.2918572154472,
+    "end": 320.6148690990633,
+    "text": "perhaps by stabilizing environments or preparing data earlier At"
+  },
+  {
+    "start": 320.6274570475433,
+    "end": 324.52850383085894,
+    "text": "the Sprint Review stakeholders inspect the booking outcome and"
+  },
+  {
+    "start": 324.541091779339,
+    "end": 328.40441369741956,
+    "text": "discuss what to do next Perhaps users need a"
+  },
+  {
+    "start": 328.4169644375221,
+    "end": 333.67711365323436,
+    "text": "clearer explanation when their chosen slot disappears That feedback"
+  },
+  {
+    "start": 333.68966439333684,
+    "end": 338.18217023020503,
+    "text": "can influence the Product Backlog The Retrospective looks at"
+  },
+  {
+    "start": 338.19475729277127,
+    "end": 340.6234526312301,
+    "text": "how the team worked and how to become more"
+  },
+  {
+    "start": 340.63604057971014,
+    "end": 345.7703165120184,
+    "text": "effective If concurrency testing started late because the environment"
+  },
+  {
+    "start": 345.7829044604984,
+    "end": 349.5706650229763,
+    "text": "lacked suitable data the team might automate creation of"
+  },
+  {
+    "start": 349.5832529714563,
+    "end": 356.52962827191584,
+    "text": "isolated slots These conversations have different purposes A demonstration"
+  },
+  {
+    "start": 356.5422162203959,
+    "end": 359.1974467921527,
+    "text": "alone is not the whole Sprint Review and a"
+  },
+  {
+    "start": 359.21003474063275,
+    "end": 363.33757954886886,
+    "text": "list of complaints without a practical improvement experiment does"
+  },
+  {
+    "start": 363.3501674973489,
+    "end": 365.5020156747084,
+    "text": "not make a useful Retrospective"
+  },
+  {
+    "start": 367.1386030582988,
+    "end": 371.84563964439315,
+    "text": "Illustrative ten-day schedule plan and clarify implement A P"
+  },
+  {
+    "start": 371.8582292529468,
+    "end": 376.1625286118191,
+    "text": "I services and prepare tests execute integrated testing and"
+  },
+  {
+    "start": 376.1751182203727,
+    "end": 381.37903366916214,
+    "text": "resolve defects review results and improve Actual testing should"
+  },
+  {
+    "start": 381.39162327771584,
+    "end": 385.2176504161357,
+    "text": "be continuous not tied to fixed days Use a"
+  },
+  {
+    "start": 385.2302400246894,
+    "end": 389.4967714439312,
+    "text": "ten-working-day sprint as an illustration not a mandatory calendar"
+  },
+  {
+    "start": 390.3777817776362,
+    "end": 393.7381635174419,
+    "text": "On the first days the team can clarify examples"
+  },
+  {
+    "start": 393.7507531259956,
+    "end": 398.4955204384358,
+    "text": "while beginning small implementation slices As A P I"
+  },
+  {
+    "start": 398.5081091609589,
+    "end": 402.8879435130615,
+    "text": "services emerge focused checks and code reviews provide feedback"
+  },
+  {
+    "start": 403.75632702492834,
+    "end": 408.43818616597645,
+    "text": "Integrated journeys exploration and regression continue as the increment"
+  },
+  {
+    "start": 408.45077577453014,
+    "end": 413.459875248885,
+    "text": "grows The Daily Scrum helps Developers inspect progress toward"
+  },
+  {
+    "start": 413.4724648574387,
+    "end": 417.00905504340557,
+    "text": "the Sprint Goal and adapt their plan It is"
+  },
+  {
+    "start": 417.0216074386748,
+    "end": 420.8602613989328,
+    "text": "not simply a status report to a manager The"
+  },
+  {
+    "start": 420.8728501214559,
+    "end": 425.60502871137305,
+    "text": "exact daily distribution changes with the work What matters"
+  },
+  {
+    "start": 425.61761831992675,
+    "end": 429.7583342824148,
+    "text": "is maintaining transparency and finishing usable slices instead of"
+  },
+  {
+    "start": 429.77088667768396,
+    "end": 432.9173283589519,
+    "text": "accumulating a late queue of unverified features"
+  },
+  {
+    "start": 434.5386173027131,
+    "end": 437.4966992003687,
+    "text": "Your exercise is to assess a booking story at"
+  },
+  {
+    "start": 437.50932716600533,
+    "end": 441.1909330072189,
+    "text": "the end of a sprint The main reservation journey"
+  },
+  {
+    "start": 441.2035609728555,
+    "end": 445.2819507869667,
+    "text": "works but the required simultaneous-request check has not run"
+  },
+  {
+    "start": 446.15051112518296,
+    "end": 448.7687465531071,
+    "text": "The team has no evidence that double booking is"
+  },
+  {
+    "start": 448.78133729947655,
+    "end": 452.2303599403355,
+    "text": "prevented If that check is part of the agreed"
+  },
+  {
+    "start": 452.242950686705,
+    "end": 456.4849874152173,
+    "text": "quality conditions the work is not Done Explain the"
+  },
+  {
+    "start": 456.4975781615868,
+    "end": 460.29903890471974,
+    "text": "missing evidence investigate whether the scope can be adapted"
+  },
+  {
+    "start": 460.31166687035636,
+    "end": 465.33412605397956,
+    "text": "and avoid presenting uncertainty as success Then propose one"
+  },
+  {
+    "start": 465.3467176865221,
+    "end": 469.2489061729568,
+    "text": "improvement for the next sprint such as preparing concurrency"
+  },
+  {
+    "start": 469.2614978054993,
+    "end": 473.91892814047907,
+    "text": "data earlier This connects honest inspection with a concrete"
+  },
+  {
+    "start": 473.9315188868485,
+    "end": 475.41689198504173,
+    "text": "way to improve delivery"
+  },
+  {
+    "start": 477.17190243290696,
+    "end": 482.0467075887259,
+    "text": "Consider a common end-of-sprint conversation The code is finished"
+  },
+  {
+    "start": 482.1850976925007,
+    "end": 487.11680938048664,
+    "text": "but required booking checks are incomplete One person suggests"
+  },
+  {
+    "start": 487.12939416384506,
+    "end": 490.04815164127166,
+    "text": "moving the item to Done and creating a separate"
+  },
+  {
+    "start": 490.06073553893907,
+    "end": 493.684023890143,
+    "text": "testing ticket for next sprint That may make a"
+  },
+  {
+    "start": 493.6965714744796,
+    "end": 497.1815060352396,
+    "text": "completion chart look better while hiding that the increment"
+  },
+  {
+    "start": 497.19405450526716,
+    "end": 501.597340802922,
+    "text": "has not met the shared quality conditions Represent the"
+  },
+  {
+    "start": 501.60992470058943,
+    "end": 506.4535473335215,
+    "text": "actual state instead Discuss what remains whether a smaller"
+  },
+  {
+    "start": 506.4661321168799,
+    "end": 509.59878396977683,
+    "text": "usable slice can be completed and how the Sprint"
+  },
+  {
+    "start": 509.6113315541134,
+    "end": 514.1655909675195,
+    "text": "Goal is affected The framework relies on transparency so"
+  },
+  {
+    "start": 514.1781757508779,
+    "end": 519.6634071121771,
+    "text": "that inspection can lead to sensible adaptation Redefining completion"
+  },
+  {
+    "start": 519.6760282088663,
+    "end": 522.6073704696514,
+    "text": "after the fact removes the information the team needs"
+  },
+  {
+    "start": 522.619918053988,
+    "end": 523.2741106800227,
+    "text": "to improve"
+  },
+  {
+    "start": 524.905264196499,
+    "end": 530.1969722735873,
+    "text": "Now turn that situation into a retrospective experiment Perhaps"
+  },
+  {
+    "start": 530.2095238856388,
+    "end": 534.8030107776733,
+    "text": "the story combined booking creation cancellation and notifications so"
+  },
+  {
+    "start": 534.815598714712,
+    "end": 539.6355993673678,
+    "text": "integrated feedback arrived too late Next sprint choose a"
+  },
+  {
+    "start": 539.6481881903817,
+    "end": 543.3355801710429,
+    "text": "smaller slice that still delivers a coherent outcome and"
+  },
+  {
+    "start": 543.3481317830942,
+    "end": 548.8477499114896,
+    "text": "clarify its examples earlier Prepare isolated booking data before"
+  },
+  {
+    "start": 548.8603378485282,
+    "end": 553.4286479805104,
+    "text": "the implementation is ready Inspect whether the slice reaches"
+  },
+  {
+    "start": 553.441235917549,
+    "end": 556.8517234065214,
+    "text": "verification sooner and whether the team finishes it within"
+  },
+  {
+    "start": 556.8643122295352,
+    "end": 561.4829386706599,
+    "text": "its quality agreement Do not interpret this example as"
+  },
+  {
+    "start": 561.4955266076985,
+    "end": 563.937016711067,
+    "text": "a demand for a separate testing phase or a"
+  },
+  {
+    "start": 563.9496046481056,
+    "end": 567.9515913956216,
+    "text": "fixed number of days The improvement aims to make"
+  },
+  {
+    "start": 567.9641802186354,
+    "end": 571.6389470512955,
+    "text": "collaboration and evidence available throughout the work with the"
+  },
+  {
+    "start": 571.6515358743094,
+    "end": 574.8229579906092,
+    "text": "result judged by what actually becomes usable"
+  },
+  {
+    "start": 576.4383895985402,
+    "end": 581.177765625,
+    "text": "Testing supports every stage of Scrum Knowledge check can"
+  },
+  {
+    "start": 581.1903249030565,
+    "end": 584.9820539461679,
+    "text": "work be called Done if required verification is incomplete"
+  },
+  {
+    "start": 585.8609046532847,
+    "end": 588.9369722855839,
+    "text": "Subscribe to Tech at sixty for the next episode"
+  },
+  {
+    "start": 588.9495315636406,
+    "end": 593.5950307652829,
+    "text": "in this Agile Testing Masterclass Practice the example with"
+  },
+  {
+    "start": 593.607552919708,
+    "end": 596.8970823163777,
+    "text": "synthetic data and share the most important risk you"
+  },
+  {
+    "start": 596.909604470803,
+    "end": 598.7301349794708,
+    "text": "identified in the comments"
+  }
+]

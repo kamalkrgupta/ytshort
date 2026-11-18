@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "JavaScript If-Else. Let’s make it simple.",
+    "idea": "If and else let a program choose between actions. Start by understanding the role it plays in a page.",
+    "code": "The if branch runs when its condition is truthy. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "The else branch handles the alternative when that condition is false. Keep this detail in mind when writing your own example.",
+    "caution": "Use comparison operators in conditions, rather than accidental assignment. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Display a different message depending on a practice score. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

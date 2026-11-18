@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "H T M L Forms Introduction. Let’s make it simple.",
+    "idea": "A form groups controls that collect information from a user. Start by understanding the role it plays in a page.",
+    "code": "Give controls labels so people can understand what to enter. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "The name attribute identifies a field when form data is submitted. Keep this detail in mind when writing your own example.",
+    "caution": "A form alone does not save data; it needs a submission handler. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Create a labeled email field and a submit button. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

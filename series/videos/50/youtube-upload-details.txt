@@ -1,0 +1,15 @@
+Build a JavaScript To-Do List: Add and Remove Tasks
+
+Type a task, click Add, and put it in a list. Here is the basic idea. An input becomes a new list item. Create the item, set text, append it.
+
+Try it: Add a task and a remove button.
+
+Reject empty input; use textContent.
+
+Find the complete Web Development for Beginners playlist on @Techat60. Subscribe for practical HTML, CSS and JavaScript projects.
+
+Web Development in 60 Seconds • Lesson 50
+
+Reference: https://developer.mozilla.org/en-US/docs/Learn_web_development
+
+#WebDevelopment #LearnToCode #Shorts

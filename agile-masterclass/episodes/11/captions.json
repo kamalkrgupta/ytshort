@@ -1,0 +1,697 @@
+[
+  {
+    "start": 0.33760127314814814,
+    "end": 5.258674625289352,
+    "text": "Tools help Agile teams obtain reliable feedback quickly We"
+  },
+  {
+    "start": 5.271158682725694,
+    "end": 8.6930825390625,
+    "text": "cover issue tracking A P I tests browser and"
+  },
+  {
+    "start": 8.70552980396412,
+    "end": 14.093482025462963,
+    "text": "mobile automation performance security and continuous integration and delivery"
+  },
+  {
+    "start": 15.014281783854164,
+    "end": 18.15000527271412,
+    "text": "Imagine a team with many testing products but slow"
+  },
+  {
+    "start": 18.16245253761574,
+    "end": 22.965629468315974,
+    "text": "feedback and frequent escaped payment defects More tools would"
+  },
+  {
+    "start": 22.9780408166956,
+    "end": 27.146583315972222,
+    "text": "not automatically fix the problem The team must first"
+  },
+  {
+    "start": 27.159030580873843,
+    "end": 30.19521712311921,
+    "text": "identify what evidence it needs and where a tool"
+  },
+  {
+    "start": 30.20766438802083,
+    "end": 34.51304708405671,
+    "text": "can produce it reliably In this lesson connect tools"
+  },
+  {
+    "start": 34.52549434895833,
+    "end": 38.333192311921295,
+    "text": "to activities tracking helps communicate work A P I"
+  },
+  {
+    "start": 38.345603660300924,
+    "end": 43.061654116753466,
+    "text": "clients inspect service behavior browser and mobile frameworks repeat"
+  },
+  {
+    "start": 43.07410138165509,
+    "end": 47.404377731481475,
+    "text": "journeys performance tools explore load and CI coordinates checks"
+  },
+  {
+    "start": 48.25053332103588,
+    "end": 51.709761303530094,
+    "text": "Product interfaces change over time so focus on the"
+  },
+  {
+    "start": 51.72220856843172,
+    "end": 56.674672960792826,
+    "text": "underlying workflow A good toolchain makes important outcomes easier"
+  },
+  {
+    "start": 56.68712022569444,
+    "end": 59.9224174537037,
+    "text": "to investigate and failures easier to understand"
+  },
+  {
+    "start": 61.537616144018585,
+    "end": 65.50772266986063,
+    "text": "Use Jira Azure DevOps or GitHub Issues to connect"
+  },
+  {
+    "start": 65.52017117160278,
+    "end": 70.36742481925087,
+    "text": "stories defects and verification work For a login lockout"
+  },
+  {
+    "start": 70.37987332099303,
+    "end": 74.15083536077236,
+    "text": "defect record evidence link the story and retest the"
+  },
+  {
+    "start": 74.16328473867597,
+    "end": 78.59388682273519,
+    "text": "fix For a login-lockout defect use an issue tracker"
+  },
+  {
+    "start": 78.6063362006388,
+    "end": 81.96663348795006,
+    "text": "to connect the affected story the observed failure and"
+  },
+  {
+    "start": 81.97904606707317,
+    "end": 86.99459543263647,
+    "text": "the verification work Include the build synthetic account setup"
+  },
+  {
+    "start": 87.00704481054007,
+    "end": 91.05180730037748,
+    "text": "and expected policy An issue tracker can help make"
+  },
+  {
+    "start": 91.06425667828107,
+    "end": 95.07170958551103,
+    "text": "responsibility and status visible but it does not determine"
+  },
+  {
+    "start": 95.0841580872532,
+    "end": 100.13701703542392,
+    "text": "whether the policy is correct Avoid copying sensitive credentials"
+  },
+  {
+    "start": 100.14946641332753,
+    "end": 103.80842523156214,
+    "text": "into a ticket When the fix is ready record"
+  },
+  {
+    "start": 103.82087460946573,
+    "end": 108.26388927264809,
+    "text": "the retest outcome and relevant regression results Whether the"
+  },
+  {
+    "start": 108.27633865055168,
+    "end": 112.53269412819395,
+    "text": "team uses Jira Azure DevOps or GitHub Issues the"
+  },
+  {
+    "start": 112.54514262993612,
+    "end": 117.94649479094076,
+    "text": "important relationship is the same expectation evidence defect fix"
+  },
+  {
+    "start": 117.95894416884437,
+    "end": 120.92095423635308,
+    "text": "and verification remain understandable together"
+  },
+  {
+    "start": 122.53761441218396,
+    "end": 126.66943649467328,
+    "text": "Postman can send requests and inspect status codes payloads"
+  },
+  {
+    "start": 126.68188562650049,
+    "end": 132.23842756911623,
+    "text": "and authentication behavior Test valid login invalid login missing"
+  },
+  {
+    "start": 132.25087670094342,
+    "end": 135.4617258714551,
+    "text": "fields and expired tokens against the agreed A P"
+  },
+  {
+    "start": 135.4741741271382,
+    "end": 139.34464942723574,
+    "text": "I specification Use an A P I client to"
+  },
+  {
+    "start": 139.35709855906296,
+    "end": 142.8044339225092,
+    "text": "send a fictional login request in a test environment"
+  },
+  {
+    "start": 143.66312788187412,
+    "end": 147.5833988331364,
+    "text": "Check a valid account an incorrect password missing required"
+  },
+  {
+    "start": 147.59584708881948,
+    "end": 150.89383580140108,
+    "text": "fields and an expired token where the contract defines"
+  },
+  {
+    "start": 150.9062849332283,
+    "end": 155.9963896489797,
+    "text": "that behavior Inspect the status response body and resulting"
+  },
+  {
+    "start": 156.00880198275377,
+    "end": 160.5015227234789,
+    "text": "state The exact expected status codes must come from"
+  },
+  {
+    "start": 160.51397185530612,
+    "end": 163.97375547443545,
+    "text": "the A P I specification do not assume every"
+  },
+  {
+    "start": 163.98620373011855,
+    "end": 169.27541219755796,
+    "text": "product uses identical codes A successful response alone does"
+  },
+  {
+    "start": 169.28786132938518,
+    "end": 173.09609447492312,
+    "text": "not prove permissions are correct Follow it with an"
+  },
+  {
+    "start": 173.10854360675032,
+    "end": 176.69277561308988,
+    "text": "authorized operation and an operation the account must not"
+  },
+  {
+    "start": 176.7052247449171,
+    "end": 181.62112309649075,
+    "text": "perform Use synthetic secrets and keep environment files with"
+  },
+  {
+    "start": 181.63353543026483,
+    "end": 183.86124050191313,
+    "text": "credentials out of shared reports"
+  },
+  {
+    "start": 185.47093902584257,
+    "end": 189.65210204462903,
+    "text": "Selenium and Playwright can automate web journeys Appium supports"
+  },
+  {
+    "start": 189.66454993747766,
+    "end": 195.29522360366798,
+    "text": "mobile automation Use stable selectors independent data and meaningful"
+  },
+  {
+    "start": 195.30767062045967,
+    "end": 199.77505019724305,
+    "text": "assertions to avoid fragile scripts A browser check can"
+  },
+  {
+    "start": 199.78749721403477,
+    "end": 204.34200766047397,
+    "text": "visit the login page fill clearly identified controls submit"
+  },
+  {
+    "start": 204.35445555332262,
+    "end": 209.7053744573955,
+    "text": "and verify a meaningful signed-in outcome Prefer user-facing locators"
+  },
+  {
+    "start": 209.7178214741872,
+    "end": 215.37981417544955,
+    "text": "or stable test identifiers over fragile page coordinates Arrange"
+  },
+  {
+    "start": 215.39226119224128,
+    "end": 218.7646055309932,
+    "text": "independent data so one failed test does not break"
+  },
+  {
+    "start": 218.777016629451,
+    "end": 223.07020630359057,
+    "text": "the next For mobile choose a framework compatible with"
+  },
+  {
+    "start": 223.0826541964392,
+    "end": 227.0771811718471,
+    "text": "the application and required platforms Appium is one option"
+  },
+  {
+    "start": 227.9358273416101,
+    "end": 232.24142811420745,
+    "text": "Decide which journeys justify the cost of end-to-end execution"
+  },
+  {
+    "start": 233.12496744149695,
+    "end": 236.85817452066212,
+    "text": "Repeating every arithmetic rule through a full browser session"
+  },
+  {
+    "start": 236.8705856191199,
+    "end": 240.96469135703225,
+    "text": "makes feedback slower and can introduce unrelated failure points"
+  },
+  {
+    "start": 240.97710245549004,
+    "end": 243.37881163957366,
+    "text": "that a focused lower-level check avoids"
+  },
+  {
+    "start": 244.97097073805966,
+    "end": 248.86732887581869,
+    "text": "JMeter and k6 can help measure response time throughput"
+  },
+  {
+    "start": 248.87978127465624,
+    "end": 252.707453596461,
+    "text": "and error rates under load OWASP ZAP can help"
+  },
+  {
+    "start": 252.71990599529855,
+    "end": 258.33417723557966,
+    "text": "discover some web vulnerabilities No scanner proves complete security"
+  },
+  {
+    "start": 259.2055857474913,
+    "end": 262.80317307417937,
+    "text": "For performance work define a realistic scenario and an"
+  },
+  {
+    "start": 262.81562547301695,
+    "end": 265.9152876515043,
+    "text": "agreed target before running a tool such as k6"
+  },
+  {
+    "start": 265.9277760693152,
+    "end": 271.76610635676394,
+    "text": "or JMeter Track errors and response-time distributions alongside throughput"
+  },
+  {
+    "start": 272.63751486867557,
+    "end": 277.96546769672335,
+    "text": "Averages can hide slow experiences for some requests Security"
+  },
+  {
+    "start": 277.97791921918684,
+    "end": 281.550604377322,
+    "text": "tools such as OWASP ZAP can identify some classes"
+  },
+  {
+    "start": 281.5630927074955,
+    "end": 284.87439842966023,
+    "text": "of web issues in an authorized environment but a"
+  },
+  {
+    "start": 284.8868140207878,
+    "end": 289.89112892417364,
+    "text": "scan is not a complete security assessment Business-rule abuse"
+  },
+  {
+    "start": 289.9035804466372,
+    "end": 295.4804962431537,
+    "text": "and access-control mistakes may require targeted investigation Tool output"
+  },
+  {
+    "start": 295.49294864199123,
+    "end": 300.2731668141254,
+    "text": "is a starting point for interpretation Confirm important findings"
+  },
+  {
+    "start": 300.28561921296296,
+    "end": 303.3354736364855,
+    "text": "and explain the conditions under which a measurement or"
+  },
+  {
+    "start": 303.347925158949,
+    "end": 305.0160295424949,
+    "text": "observation was collected"
+  },
+  {
+    "start": 306.63761593791406,
+    "end": 310.9561687190044,
+    "text": "A code commit triggers build unit tests integration tests"
+  },
+  {
+    "start": 310.9686171914632,
+    "end": 314.57780943521675,
+    "text": "and potentially deployment to a test environment followed by"
+  },
+  {
+    "start": 314.59025878383494,
+    "end": 319.44994950146696,
+    "text": "end-to-end checks Jenkins and GitHub Actions can orchestrate these"
+  },
+  {
+    "start": 319.4623988500852,
+    "end": 323.25824896413025,
+    "text": "steps A CI pipeline can begin when a commit"
+  },
+  {
+    "start": 323.27069831274844,
+    "end": 327.82574140497826,
+    "text": "is pushed Build the application run focused unit checks"
+  },
+  {
+    "start": 328.09954121095967,
+    "end": 331.47224314357373,
+    "text": "run integration checks and deploy to an isolated test"
+  },
+  {
+    "start": 331.4846924921919,
+    "end": 336.10197969903464,
+    "text": "environment if appropriate Then execute a smaller set of"
+  },
+  {
+    "start": 336.11439137279956,
+    "end": 341.5281801765096,
+    "text": "critical end-to-end journeys Jenkins and GitHub Actions can orchestrate"
+  },
+  {
+    "start": 341.54062952512777,
+    "end": 345.6476257386902,
+    "text": "such stages while actual capabilities depend on the configured"
+  },
+  {
+    "start": 345.66007508730837,
+    "end": 350.0657330053947,
+    "text": "project When a check fails retain useful logs and"
+  },
+  {
+    "start": 350.0781814778535,
+    "end": 354.8447811376112,
+    "text": "sanitized artifacts Keep fast feedback close to the change"
+  },
+  {
+    "start": 354.9692684906777,
+    "end": 357.7695097889457,
+    "text": "and avoid making every commit wait for a long"
+  },
+  {
+    "start": 357.78192233887,
+    "end": 362.32451695864097,
+    "text": "experiment that could run at another appropriate point The"
+  },
+  {
+    "start": 362.33696543109977,
+    "end": 366.41906469974447,
+    "text": "pipeline should provide reliable signals rather than merely execute"
+  },
+  {
+    "start": 366.4315140483627,
+    "end": 367.38981336929777,
+    "text": "many commands"
+  },
+  {
+    "start": 369.0042994927617,
+    "end": 375.2964091416287,
+    "text": "Prioritize authentication permissions billing and payments Put many business-rule"
+  },
+  {
+    "start": 375.3088968193473,
+    "end": 378.3959453948221,
+    "text": "checks at unit and A P I layers retain"
+  },
+  {
+    "start": 378.40839714308197,
+    "end": 381.8439684785627,
+    "text": "a smaller number of critical end-to-end checks and review"
+  },
+  {
+    "start": 381.85645615628124,
+    "end": 387.89366382224443,
+    "text": "flaky tests regularly Prioritize automation by risk repeatability and"
+  },
+  {
+    "start": 387.9061155705043,
+    "end": 393.29604527472327,
+    "text": "maintenance cost Stable billing calculations often suit focused unit"
+  },
+  {
+    "start": 393.30846021719617,
+    "end": 397.9266006113703,
+    "text": "tests Service contracts suit A P I and integration"
+  },
+  {
+    "start": 397.9390514833019,
+    "end": 402.4576190788256,
+    "text": "checks A small number of critical customer journeys suit"
+  },
+  {
+    "start": 402.47007082708546,
+    "end": 407.5239286432301,
+    "text": "browser or mobile checks Human exploration remains valuable for"
+  },
+  {
+    "start": 407.5363435857029,
+    "end": 413.0631987043671,
+    "text": "new behavior and unexpected interactions Review flaky tests because"
+  },
+  {
+    "start": 413.0756504526269,
+    "end": 415.8266280163557,
+    "text": "a check that randomly fails can teach people to"
+  },
+  {
+    "start": 415.83907888828725,
+    "end": 420.9426683332408,
+    "text": "ignore real failures A retry may help diagnose instability"
+  },
+  {
+    "start": 421.20410684864305,
+    "end": 425.18738334721763,
+    "text": "but it should not erase the evidence Assign ownership"
+  },
+  {
+    "start": 425.19983509547745,
+    "end": 429.0338071665926,
+    "text": "to important checks and remove obsolete expectations when product"
+  },
+  {
+    "start": 429.0462221090655,
+    "end": 431.1499208347218,
+    "text": "behavior intentionally changes"
+  },
+  {
+    "start": 432.7709501557632,
+    "end": 435.57121972352024,
+    "text": "Your exercise is to design a toolchain for a"
+  },
+  {
+    "start": 435.5836323987539,
+    "end": 441.84976849688474,
+    "text": "subscription checkout change Identify one tracking artifact one calculation"
+  },
+  {
+    "start": 441.86218117211837,
+    "end": 445.1976072819315,
+    "text": "check one A P I scenario and one end-to-end"
+  },
+  {
+    "start": 445.2100558800623,
+    "end": 449.565999805296,
+    "text": "journey Add a controlled performance question if traffic is"
+  },
+  {
+    "start": 449.5784484034268,
+    "end": 453.71038502725855,
+    "text": "a material risk Explain where each check runs and"
+  },
+  {
+    "start": 453.7228336253894,
+    "end": 457.4440655179128,
+    "text": "what a failure would tell the team For example"
+  },
+  {
+    "start": 457.5560696066978,
+    "end": 462.2605085669782,
+    "text": "verify fee arithmetic quickly verify payment-state transitions at the"
+  },
+  {
+    "start": 462.27292124221185,
+    "end": 465.8572527258567,
+    "text": "A P I layer and verify one complete sandbox"
+  },
+  {
+    "start": 465.86970132398756,
+    "end": 470.8105961838006,
+    "text": "purchase through the interface This plan produces clearer feedback"
+  },
+  {
+    "start": 470.8230456580997,
+    "end": 474.56913882398754,
+    "text": "than automating every rule only through the browser because"
+  },
+  {
+    "start": 474.5815882982866,
+    "end": 478.0539148169782,
+    "text": "failures can be investigated closer to the component and"
+  },
+  {
+    "start": 478.06636429127724,
+    "end": 479.0371218847352,
+    "text": "risk involved"
+  },
+  {
+    "start": 480.6709327687965,
+    "end": 483.80659047696946,
+    "text": "Read a failed automated check as evidence not a"
+  },
+  {
+    "start": 483.8190374807544,
+    "end": 488.00588841448547,
+    "text": "verdict A browser timeout might mean the application was"
+  },
+  {
+    "start": 488.01833541827045,
+    "end": 491.91300544296894,
+    "text": "slow the selector was wrong the environment was unavailable"
+  },
+  {
+    "start": 491.92545244675387,
+    "end": 495.5464110273928,
+    "text": "or the test waited for the wrong event Preserve"
+  },
+  {
+    "start": 495.5588580311778,
+    "end": 500.49877240377214,
+    "text": "the trace request information and relevant screenshot then investigate"
+  },
+  {
+    "start": 501.3697665826276,
+    "end": 504.25656918655375,
+    "text": "A blind rerun that passes does not explain the"
+  },
+  {
+    "start": 504.2690161903387,
+    "end": 510.1421562567359,
+    "text": "first failure Repeatedly ignoring intermittent failures reduces confidence in"
+  },
+  {
+    "start": 510.1546032605209,
+    "end": 513.9746683500128,
+    "text": "the suite Classify the cause and improve the check"
+  },
+  {
+    "start": 513.9870785620349,
+    "end": 519.2505265576084,
+    "text": "or product as appropriate Reliable automation includes ownership of"
+  },
+  {
+    "start": 519.2629735613933,
+    "end": 522.5230592596869,
+    "text": "the feedback loop not just the initial effort of"
+  },
+  {
+    "start": 522.5355053874775,
+    "end": 525.2356484863357,
+    "text": "recording a sequence of actions in a tool"
+  },
+  {
+    "start": 526.8376432541439,
+    "end": 532.0474501324948,
+    "text": "Consider a practical pipeline budget Focused calculation checks can"
+  },
+  {
+    "start": 532.0599024860435,
+    "end": 536.2304067344818,
+    "text": "run frequently because they are fast and isolated A"
+  },
+  {
+    "start": 536.2428599644632,
+    "end": 539.52948199486,
+    "text": "P I and integration checks add evidence about service"
+  },
+  {
+    "start": 539.5419343484089,
+    "end": 544.5465464579952,
+    "text": "boundaries A small critical browser suite checks complete customer"
+  },
+  {
+    "start": 544.5589996879764,
+    "end": 549.4142527931484,
+    "text": "journeys Longer performance experiments can run when an appropriate"
+  },
+  {
+    "start": 549.4267060231297,
+    "end": 554.6056177779623,
+    "text": "environment and workload are available The exact cadence depends"
+  },
+  {
+    "start": 554.6180710079435,
+    "end": 557.6557125762382,
+    "text": "on risk and delivery needs there is no universal"
+  },
+  {
+    "start": 557.6681658062196,
+    "end": 561.9009335752669,
+    "text": "schedule Record what each stage covers and what it"
+  },
+  {
+    "start": 561.9133859288156,
+    "end": 565.8598152986818,
+    "text": "omits This lets the team interpret a green build"
+  },
+  {
+    "start": 565.8722685286631,
+    "end": 570.5158631750775,
+    "text": "honestly and decide when additional human investigation or specialized"
+  },
+  {
+    "start": 570.5283164050588,
+    "end": 573.379205098126,
+    "text": "testing is needed before a significant release"
+  },
+  {
+    "start": 575.004196217494,
+    "end": 578.6968491430259,
+    "text": "Choose tools to support quality risks and team workflow"
+  },
+  {
+    "start": 579.573129358747,
+    "end": 582.9176693829787,
+    "text": "Knowledge check why is it inefficient to test every"
+  },
+  {
+    "start": 582.9301064568558,
+    "end": 587.3314563953901,
+    "text": "rule only through browser automation Subscribe to Tech at"
+  },
+  {
+    "start": 587.3438567068558,
+    "end": 590.402466573286,
+    "text": "sixty for the next episode in this Agile Testing"
+  },
+  {
+    "start": 590.4148677600473,
+    "end": 595.363277391253,
+    "text": "Masterclass Practice the example with synthetic data and share"
+  },
+  {
+    "start": 595.37571446513,
+    "end": 598.732653925532,
+    "text": "the most important risk you identified in the comments"
+  }
+]

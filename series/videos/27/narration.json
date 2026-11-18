@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "C S S Classes vs identifiers. Let’s make it simple.",
+    "idea": "Classes and identifiers let C S S select particular elements. Start by understanding the role it plays in a page.",
+    "code": "A dot selects a class; a hash selects an identifier.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Reuse a class to apply the same style to several elements. Keep this detail in mind when writing your own example.",
+    "caution": "Keep identifiers unique, and avoid unnecessary selector specificity.",
+    "try": "Style two elements with one shared class. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

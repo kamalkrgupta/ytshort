@@ -1,0 +1,16 @@
+{
+  "videoNumber": 10,
+  "phase": "Phase 1 — HTML Fundamentals",
+  "topic": "HTML Div vs Span",
+  "description": "Understand block and inline containers.",
+  "publishLocal": "2026-10-24T11:00:00+05:30",
+  "publishAt": "2026-10-24T05:30:00Z",
+  "status": "planned",
+  "definition": "Div and span are generic containers for grouping content.",
+  "code": "<div>\n  A <span>special</span> word\n</div>",
+  "preview": "<div>A <span style=\"background:#ffcc99\">special</span> word</div>",
+  "rule": "A div is block level by default; a span is inline.",
+  "tip": "Use a span to group words within a line of text.",
+  "caution": "Prefer a meaningful semantic element when one fits your content.",
+  "exercise": "Wrap a sentence in a div and one word in a span."
+}

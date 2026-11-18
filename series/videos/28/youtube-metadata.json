@@ -1,0 +1,13 @@
+{
+  "title": "CSS Display: Block vs Inline vs Inline-Block",
+  "description": "See how block, inline and inline-block affect a CSS layout. Compare a block container with inline-block labels.\n\nWhich display value lets a label flow inline and accept width and height?\n\nNext lesson: https://www.youtube.com/watch?v=c_JdeG3Iq3o\nFull beginner course: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU\n\nBlock elements normally start a new line; inline elements flow with text.\nInline block boxes flow inline while accepting width and height.\n\nTry it: Compare a block container with two inline block labels.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 28\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts",
+  "tags": [
+    "coding shorts",
+    "css display property",
+    "css tutorial",
+    "learn to code",
+    "web development for beginners"
+  ],
+  "video": "video.mp4",
+  "publishAt": "2026-11-02T05:30:00Z"
+}

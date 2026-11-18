@@ -1,0 +1,15 @@
+Build a Profile Card with HTML and CSS
+
+Build this profile card with a name, a short bio, and one useful link. HTML adds structure. CSS adds style. Use a class to style the card.
+
+Try it: Add your name, bio and a useful link.
+
+Keep text readable against the background.
+
+Find the complete Web Development for Beginners playlist on @Techat60. Subscribe for practical HTML, CSS and JavaScript projects.
+
+Web Development in 60 Seconds • Lesson 47
+
+Reference: https://developer.mozilla.org/en-US/docs/Learn_web_development
+
+#WebDevelopment #LearnToCode #Shorts

@@ -1,0 +1,762 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 4875000,
+    "text": "Before"
+  },
+  {
+    "offset": 6000000,
+    "duration": 1000000,
+    "text": "we"
+  },
+  {
+    "offset": 7125000,
+    "duration": 5000000,
+    "text": "finish"
+  },
+  {
+    "offset": 13875000,
+    "duration": 5125000,
+    "text": "remember"
+  },
+  {
+    "offset": 19125000,
+    "duration": 2250000,
+    "text": "this"
+  },
+  {
+    "offset": 21500000,
+    "duration": 5750000,
+    "text": "important"
+  },
+  {
+    "offset": 27375000,
+    "duration": 7000000,
+    "text": "limitation"
+  },
+  {
+    "offset": 36500000,
+    "duration": 5375000,
+    "text": "AI"
+  },
+  {
+    "offset": 42000000,
+    "duration": 1750000,
+    "text": "is"
+  },
+  {
+    "offset": 43875000,
+    "duration": 2625000,
+    "text": "not"
+  },
+  {
+    "offset": 46625000,
+    "duration": 500000,
+    "text": "a"
+  },
+  {
+    "offset": 47250000,
+    "duration": 3750000,
+    "text": "human"
+  },
+  {
+    "offset": 51125000,
+    "duration": 4375000,
+    "text": "brain"
+  },
+  {
+    "offset": 55625000,
+    "duration": 2500000,
+    "text": "and"
+  },
+  {
+    "offset": 58250000,
+    "duration": 1875000,
+    "text": "can"
+  },
+  {
+    "offset": 60250000,
+    "duration": 1125000,
+    "text": "be"
+  },
+  {
+    "offset": 61500000,
+    "duration": 8000000,
+    "text": "confidently"
+  },
+  {
+    "offset": 69625000,
+    "duration": 4375000,
+    "text": "wrong"
+  },
+  {
+    "offset": 82625000,
+    "duration": 9125000,
+    "text": "Responsible"
+  },
+  {
+    "offset": 91875000,
+    "duration": 3375000,
+    "text": "AI"
+  },
+  {
+    "offset": 95375000,
+    "duration": 3250000,
+    "text": "use"
+  },
+  {
+    "offset": 98750000,
+    "duration": 4250000,
+    "text": "means"
+  },
+  {
+    "offset": 103125000,
+    "duration": 7125000,
+    "text": "understanding"
+  },
+  {
+    "offset": 110375000,
+    "duration": 875000,
+    "text": "the"
+  },
+  {
+    "offset": 111375000,
+    "duration": 4875000,
+    "text": "strengths"
+  },
+  {
+    "offset": 116375000,
+    "duration": 1000000,
+    "text": "of"
+  },
+  {
+    "offset": 117500000,
+    "duration": 875000,
+    "text": "the"
+  },
+  {
+    "offset": 118500000,
+    "duration": 4000000,
+    "text": "tool"
+  },
+  {
+    "offset": 122625000,
+    "duration": 2375000,
+    "text": "and"
+  },
+  {
+    "offset": 125125000,
+    "duration": 4000000,
+    "text": "keeping"
+  },
+  {
+    "offset": 129250000,
+    "duration": 5375000,
+    "text": "yourself"
+  },
+  {
+    "offset": 134750000,
+    "duration": 7375000,
+    "text": "accountable"
+  },
+  {
+    "offset": 142250000,
+    "duration": 1750000,
+    "text": "for"
+  },
+  {
+    "offset": 144125000,
+    "duration": 750000,
+    "text": "the"
+  },
+  {
+    "offset": 145000000,
+    "duration": 4500000,
+    "text": "final"
+  },
+  {
+    "offset": 149625000,
+    "duration": 5375000,
+    "text": "result"
+  },
+  {
+    "offset": 163625000,
+    "duration": 3500000,
+    "text": "Today"
+  },
+  {
+    "offset": 167250000,
+    "duration": 1125000,
+    "text": "you"
+  },
+  {
+    "offset": 168500000,
+    "duration": 3875000,
+    "text": "learned"
+  },
+  {
+    "offset": 172500000,
+    "duration": 2625000,
+    "text": "that"
+  },
+  {
+    "offset": 175250000,
+    "duration": 3375000,
+    "text": "AI"
+  },
+  {
+    "offset": 178750000,
+    "duration": 5250000,
+    "text": "systems"
+  },
+  {
+    "offset": 184125000,
+    "duration": 5875000,
+    "text": "recognize"
+  },
+  {
+    "offset": 190125000,
+    "duration": 5750000,
+    "text": "patterns"
+  },
+  {
+    "offset": 196000000,
+    "duration": 1625000,
+    "text": "and"
+  },
+  {
+    "offset": 197750000,
+    "duration": 4250000,
+    "text": "produce"
+  },
+  {
+    "offset": 202125000,
+    "duration": 6500000,
+    "text": "predictions"
+  },
+  {
+    "offset": 208750000,
+    "duration": 1500000,
+    "text": "or"
+  },
+  {
+    "offset": 210375000,
+    "duration": 6125000,
+    "text": "content"
+  },
+  {
+    "offset": 218125000,
+    "duration": 2625000,
+    "text": "saw"
+  },
+  {
+    "offset": 220875000,
+    "duration": 1375000,
+    "text": "the"
+  },
+  {
+    "offset": 222375000,
+    "duration": 5875000,
+    "text": "example"
+  },
+  {
+    "offset": 228375000,
+    "duration": 1375000,
+    "text": "of"
+  },
+  {
+    "offset": 229875000,
+    "duration": 375000,
+    "text": "a"
+  },
+  {
+    "offset": 230375000,
+    "duration": 3500000,
+    "text": "phone"
+  },
+  {
+    "offset": 234000000,
+    "duration": 6500000,
+    "text": "suggesting"
+  },
+  {
+    "offset": 240625000,
+    "duration": 750000,
+    "text": "the"
+  },
+  {
+    "offset": 241500000,
+    "duration": 3875000,
+    "text": "next"
+  },
+  {
+    "offset": 245500000,
+    "duration": 3375000,
+    "text": "word"
+  },
+  {
+    "offset": 249000000,
+    "duration": 2250000,
+    "text": "while"
+  },
+  {
+    "offset": 251375000,
+    "duration": 1250000,
+    "text": "you"
+  },
+  {
+    "offset": 252750000,
+    "duration": 4500000,
+    "text": "type"
+  },
+  {
+    "offset": 258500000,
+    "duration": 2625000,
+    "text": "and"
+  },
+  {
+    "offset": 261250000,
+    "duration": 5500000,
+    "text": "practiced"
+  },
+  {
+    "offset": 266875000,
+    "duration": 750000,
+    "text": "a"
+  },
+  {
+    "offset": 267750000,
+    "duration": 4500000,
+    "text": "small"
+  },
+  {
+    "offset": 272375000,
+    "duration": 5500000,
+    "text": "hands-on"
+  },
+  {
+    "offset": 278000000,
+    "duration": 5125000,
+    "text": "task"
+  },
+  {
+    "offset": 291750000,
+    "duration": 5000000,
+    "text": "Here"
+  },
+  {
+    "offset": 296875000,
+    "duration": 1500000,
+    "text": "is"
+  },
+  {
+    "offset": 298500000,
+    "duration": 1500000,
+    "text": "your"
+  },
+  {
+    "offset": 300125000,
+    "duration": 5875000,
+    "text": "challenge"
+  },
+  {
+    "offset": 307875000,
+    "duration": 4625000,
+    "text": "repeat"
+  },
+  {
+    "offset": 312625000,
+    "duration": 1250000,
+    "text": "the"
+  },
+  {
+    "offset": 314000000,
+    "duration": 6875000,
+    "text": "exercise"
+  },
+  {
+    "offset": 321000000,
+    "duration": 1500000,
+    "text": "with"
+  },
+  {
+    "offset": 322625000,
+    "duration": 500000,
+    "text": "a"
+  },
+  {
+    "offset": 323250000,
+    "duration": 4500000,
+    "text": "different"
+  },
+  {
+    "offset": 327875000,
+    "duration": 4000000,
+    "text": "topic"
+  },
+  {
+    "offset": 332000000,
+    "duration": 2125000,
+    "text": "and"
+  },
+  {
+    "offset": 334250000,
+    "duration": 2750000,
+    "text": "write"
+  },
+  {
+    "offset": 337125000,
+    "duration": 3500000,
+    "text": "down"
+  },
+  {
+    "offset": 340750000,
+    "duration": 3125000,
+    "text": "one"
+  },
+  {
+    "offset": 344000000,
+    "duration": 2750000,
+    "text": "thing"
+  },
+  {
+    "offset": 346875000,
+    "duration": 2000000,
+    "text": "that"
+  },
+  {
+    "offset": 349000000,
+    "duration": 6250000,
+    "text": "improved"
+  },
+  {
+    "offset": 364125000,
+    "duration": 2000000,
+    "text": "In"
+  },
+  {
+    "offset": 366250000,
+    "duration": 875000,
+    "text": "the"
+  },
+  {
+    "offset": 367250000,
+    "duration": 5875000,
+    "text": "comments"
+  },
+  {
+    "offset": 374375000,
+    "duration": 3250000,
+    "text": "share"
+  },
+  {
+    "offset": 377750000,
+    "duration": 1000000,
+    "text": "the"
+  },
+  {
+    "offset": 378875000,
+    "duration": 3250000,
+    "text": "part"
+  },
+  {
+    "offset": 382250000,
+    "duration": 1000000,
+    "text": "you"
+  },
+  {
+    "offset": 383375000,
+    "duration": 4500000,
+    "text": "found"
+  },
+  {
+    "offset": 388000000,
+    "duration": 6250000,
+    "text": "easiest"
+  },
+  {
+    "offset": 394375000,
+    "duration": 1625000,
+    "text": "or"
+  },
+  {
+    "offset": 396125000,
+    "duration": 875000,
+    "text": "the"
+  },
+  {
+    "offset": 397125000,
+    "duration": 4625000,
+    "text": "question"
+  },
+  {
+    "offset": 401875000,
+    "duration": 1250000,
+    "text": "you"
+  },
+  {
+    "offset": 403250000,
+    "duration": 3250000,
+    "text": "still"
+  },
+  {
+    "offset": 406625000,
+    "duration": 4125000,
+    "text": "have"
+  },
+  {
+    "offset": 419375000,
+    "duration": 2500000,
+    "text": "If"
+  },
+  {
+    "offset": 422000000,
+    "duration": 1500000,
+    "text": "you"
+  },
+  {
+    "offset": 423625000,
+    "duration": 4875000,
+    "text": "enjoyed"
+  },
+  {
+    "offset": 428625000,
+    "duration": 2250000,
+    "text": "this"
+  },
+  {
+    "offset": 431000000,
+    "duration": 7250000,
+    "text": "tutorial"
+  },
+  {
+    "offset": 439875000,
+    "duration": 3375000,
+    "text": "please"
+  },
+  {
+    "offset": 443375000,
+    "duration": 2375000,
+    "text": "like"
+  },
+  {
+    "offset": 445875000,
+    "duration": 2625000,
+    "text": "this"
+  },
+  {
+    "offset": 448625000,
+    "duration": 4500000,
+    "text": "video"
+  },
+  {
+    "offset": 454250000,
+    "duration": 3250000,
+    "text": "share"
+  },
+  {
+    "offset": 457625000,
+    "duration": 1000000,
+    "text": "it"
+  },
+  {
+    "offset": 458750000,
+    "duration": 1750000,
+    "text": "with"
+  },
+  {
+    "offset": 460625000,
+    "duration": 4750000,
+    "text": "someone"
+  },
+  {
+    "offset": 465500000,
+    "duration": 1375000,
+    "text": "who"
+  },
+  {
+    "offset": 467000000,
+    "duration": 3625000,
+    "text": "wants"
+  },
+  {
+    "offset": 470750000,
+    "duration": 1125000,
+    "text": "to"
+  },
+  {
+    "offset": 472000000,
+    "duration": 4125000,
+    "text": "learn"
+  },
+  {
+    "offset": 476250000,
+    "duration": 5625000,
+    "text": "AI"
+  },
+  {
+    "offset": 483250000,
+    "duration": 2750000,
+    "text": "and"
+  },
+  {
+    "offset": 486125000,
+    "duration": 6375000,
+    "text": "subscribe"
+  },
+  {
+    "offset": 492625000,
+    "duration": 1250000,
+    "text": "to"
+  },
+  {
+    "offset": 494000000,
+    "duration": 9000000,
+    "text": "Techat60"
+  },
+  {
+    "offset": 503125000,
+    "duration": 2000000,
+    "text": "for"
+  },
+  {
+    "offset": 505250000,
+    "duration": 3625000,
+    "text": "more"
+  },
+  {
+    "offset": 509000000,
+    "duration": 8500000,
+    "text": "easy-to-follow"
+  },
+  {
+    "offset": 517625000,
+    "duration": 4000000,
+    "text": "AI"
+  },
+  {
+    "offset": 521750000,
+    "duration": 8500000,
+    "text": "tutorials"
+  },
+  {
+    "offset": 538875000,
+    "duration": 3125000,
+    "text": "We"
+  },
+  {
+    "offset": 542125000,
+    "duration": 1000000,
+    "text": "are"
+  },
+  {
+    "offset": 543250000,
+    "duration": 3875000,
+    "text": "building"
+  },
+  {
+    "offset": 547250000,
+    "duration": 6375000,
+    "text": "practical"
+  },
+  {
+    "offset": 553750000,
+    "duration": 3500000,
+    "text": "AI"
+  },
+  {
+    "offset": 557375000,
+    "duration": 4125000,
+    "text": "skills"
+  },
+  {
+    "offset": 561625000,
+    "duration": 3000000,
+    "text": "one"
+  },
+  {
+    "offset": 564750000,
+    "duration": 4500000,
+    "text": "simple"
+  },
+  {
+    "offset": 569375000,
+    "duration": 3625000,
+    "text": "step"
+  },
+  {
+    "offset": 573125000,
+    "duration": 1875000,
+    "text": "at"
+  },
+  {
+    "offset": 575125000,
+    "duration": 500000,
+    "text": "a"
+  },
+  {
+    "offset": 575750000,
+    "duration": 4250000,
+    "text": "time"
+  },
+  {
+    "offset": 588625000,
+    "duration": 4375000,
+    "text": "Thanks"
+  },
+  {
+    "offset": 593125000,
+    "duration": 1500000,
+    "text": "for"
+  },
+  {
+    "offset": 594750000,
+    "duration": 5500000,
+    "text": "watching"
+  },
+  {
+    "offset": 601625000,
+    "duration": 2250000,
+    "text": "and"
+  },
+  {
+    "offset": 604000000,
+    "duration": 1375000,
+    "text": "I"
+  },
+  {
+    "offset": 605500000,
+    "duration": 1375000,
+    "text": "will"
+  },
+  {
+    "offset": 607000000,
+    "duration": 2250000,
+    "text": "see"
+  },
+  {
+    "offset": 609375000,
+    "duration": 1875000,
+    "text": "you"
+  },
+  {
+    "offset": 611375000,
+    "duration": 1375000,
+    "text": "in"
+  },
+  {
+    "offset": 612875000,
+    "duration": 750000,
+    "text": "the"
+  },
+  {
+    "offset": 613750000,
+    "duration": 3500000,
+    "text": "next"
+  },
+  {
+    "offset": 617375000,
+    "duration": 4500000,
+    "text": "lesson"
+  }
+]

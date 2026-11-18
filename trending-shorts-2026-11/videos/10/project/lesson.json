@@ -1,0 +1,38 @@
+{
+  "number": 10,
+  "slug": "semantic-search",
+  "title": "Semantic Search: Finding Meaning Instead of Exact Words",
+  "category": "AI",
+  "source": "https://developers.googleblog.com/en/embeddinggemma-2-the-developer-guide/",
+  "headline": "Search for meaning,\nnot just matching words.",
+  "meaning": "Embeddings represent content as numerical vectors.",
+  "example": "A query about a rainy trip may find a relevant note.",
+  "comparison": "Similar meaning can match different wording.",
+  "caution": "Similarity does not guarantee truth or relevance.",
+  "question": "When would meaning-based search help?",
+  "flow": [
+    "Your question",
+    "Embedding comparison",
+    "Related content"
+  ],
+  "left": [
+    "KEYWORD SEARCH",
+    "Matches words and phrases"
+  ],
+  "right": [
+    "SEMANTIC SEARCH",
+    "Compares learned meaning"
+  ],
+  "lines": [
+    "You search for a rainy trip, but the note says wet weekend. Exact word matching might miss the connection.",
+    "Semantic search uses embeddings: numerical representations that capture useful relationships between pieces of content.",
+    "A query and a document can be compared in that numerical space, even when their wording differs.",
+    "This helps retrieve related material. Some systems can compare images, audio, or video as well as text.",
+    "Similarity is not a guarantee of truth. Inspect the results and test how the search behaves.",
+    "When would meaning based search help? Subscribe to Tech at sixty for clear tech explainers."
+  ],
+  "publishLocal": "2026-11-25T20:00:00+05:30",
+  "publishAt": "2026-11-25T14:30:00+00:00",
+  "status": "planned",
+  "accent": "#8ee4c8"
+}

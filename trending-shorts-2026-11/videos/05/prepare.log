@@ -1,0 +1,38 @@
+
+scene                    voice   needs  scene is   status
+hook                     8.27s      9s     11.5s   ok
+idea                     6.03s      7s      9.5s   ok
+demo                     6.25s      7s      9.5s   ok
+compare                  5.20s      6s      8.5s   ok
+takeaway                 7.58s    8.5s       11s   ok
+close                    6.69s    7.5s       10s   ok
+
+Speech 40.0s. Voiced scenes need at least 45s = 45s of the 60s video.
+All clips fit. tools/record.mjs will mix them into the MP4.
+
+> topic-video@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 397 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                              0.43 kB │ gzip:   0.28 kB
+dist/assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2     10.25 kB
+dist/assets/inter-greek-ext-wght-normal-DlzME5K_.woff2      11.23 kB
+dist/assets/inter-cyrillic-wght-normal-DqGufNeO.woff2       18.75 kB
+dist/assets/inter-greek-wght-normal-CkhJZR-_.woff2          19.00 kB
+dist/assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2   25.96 kB
+dist/assets/inter-latin-wght-normal-Dx4kXJAl.woff2          48.26 kB
+dist/assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2      85.07 kB
+dist/assets/index-DTcI_Xdx.css                              14.77 kB │ gzip:   4.27 kB
+dist/assets/index-B_PzVsOP.js                              344.25 kB │ gzip: 117.13 kB
+✓ built in 6.13s
+still 01.png  t=9.77s  hook
+still 02.png  t=19.57s  idea
+still 03.png  t=29.07s  demo
+still 04.png  t=37.73s  compare
+still 05.png  t=48.37s  takeaway
+still 06.png  t=58.50s  close
+contact sheet: out/stills/contact.png (5x2, scenes in reading order)

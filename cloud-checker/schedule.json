@@ -1,0 +1,705 @@
+{
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "releases": [
+    {
+      "course": "Shorts",
+      "episode": 2,
+      "title": "What Are HTML Tags? | Web Development in 60 Seconds",
+      "publishAt": "2026-10-20T05:30:00Z",
+      "videoId": "GjtwEy6C0BY"
+    },
+    {
+      "course": "Shorts",
+      "episode": 3,
+      "title": "HTML Headings Explained | Web Development in 60 Seconds",
+      "publishAt": "2026-10-20T10:30:00Z",
+      "videoId": "iJj3UEqr3mM"
+    },
+    {
+      "course": "Shorts",
+      "episode": 4,
+      "title": "HTML Paragraphs | Web Development in 60 Seconds",
+      "publishAt": "2026-10-21T05:30:00Z",
+      "videoId": "XpPqAg6oUPQ"
+    },
+    {
+      "course": "Shorts",
+      "episode": 5,
+      "title": "How to Add Links in HTML | Web Development in 60 Seconds",
+      "publishAt": "2026-10-21T10:30:00Z",
+      "videoId": "NwK_T8Qxams"
+    },
+    {
+      "course": "Shorts",
+      "episode": 6,
+      "title": "How to Add Images in HTML | Web Development in 60 Seconds",
+      "publishAt": "2026-10-22T05:30:00Z",
+      "videoId": "UdFrS1p0n2Q"
+    },
+    {
+      "course": "Shorts",
+      "episode": 7,
+      "title": "HTML Lists Explained | Web Development in 60 Seconds",
+      "publishAt": "2026-10-22T10:30:00Z",
+      "videoId": "ZCMbUuFgbHw"
+    },
+    {
+      "course": "Shorts",
+      "episode": 8,
+      "title": "HTML Buttons | Web Development in 60 Seconds",
+      "publishAt": "2026-10-23T05:30:00Z",
+      "videoId": "emkJjvrZTeE"
+    },
+    {
+      "course": "Shorts",
+      "episode": 9,
+      "title": "HTML Attributes | Web Development in 60 Seconds",
+      "publishAt": "2026-10-23T10:30:00Z",
+      "videoId": "5gQr8gC3yno"
+    },
+    {
+      "course": "Shorts",
+      "episode": 10,
+      "title": "HTML Div vs Span | Web Development in 60 Seconds",
+      "publishAt": "2026-10-24T05:30:00Z",
+      "videoId": "uX0pUdeNRhs"
+    },
+    {
+      "course": "Shorts",
+      "episode": 11,
+      "title": "HTML Comments | Web Development in 60 Seconds",
+      "publishAt": "2026-10-24T10:30:00Z",
+      "videoId": "PMmOSKNzM18"
+    },
+    {
+      "course": "Shorts",
+      "episode": 12,
+      "title": "HTML Line Breaks | Web Development in 60 Seconds",
+      "publishAt": "2026-10-25T05:30:00Z",
+      "videoId": "s8vTrnbddoo"
+    },
+    {
+      "course": "Shorts",
+      "episode": 13,
+      "title": "HTML Tables | Web Development in 60 Seconds",
+      "publishAt": "2026-10-25T10:30:00Z",
+      "videoId": "yP-l14vRQME"
+    },
+    {
+      "course": "Shorts",
+      "episode": 14,
+      "title": "HTML Forms Introduction | Web Development in 60 Seconds",
+      "publishAt": "2026-10-26T05:30:00Z",
+      "videoId": "PZeEmk-S7_w"
+    },
+    {
+      "course": "Shorts",
+      "episode": 15,
+      "title": "HTML Input Types | Web Development in 60 Seconds",
+      "publishAt": "2026-10-26T10:30:00Z",
+      "videoId": "MEEDwR24JOw"
+    },
+    {
+      "course": "Shorts",
+      "episode": 16,
+      "title": "HTML Checkboxes & Radio Buttons | Web Development in 60 Seconds",
+      "publishAt": "2026-10-27T05:30:00Z",
+      "videoId": "LYJz6pp8g9Y"
+    },
+    {
+      "course": "Shorts",
+      "episode": 17,
+      "title": "HTML Dropdown Menus | Web Development in 60 Seconds",
+      "publishAt": "2026-10-27T10:30:00Z",
+      "videoId": "TgIcPIs9y34"
+    },
+    {
+      "course": "Shorts",
+      "episode": 18,
+      "title": "Semantic HTML | Web Development in 60 Seconds",
+      "publishAt": "2026-10-28T05:30:00Z",
+      "videoId": "oBrUM1-EbwI"
+    },
+    {
+      "course": "Shorts",
+      "episode": 19,
+      "title": "HTML Audio & Video | Web Development in 60 Seconds",
+      "publishAt": "2026-10-28T10:30:00Z",
+      "videoId": "OKr0Qgf5Eec"
+    },
+    {
+      "course": "Shorts",
+      "episode": 20,
+      "title": "HTML Meta Tags | Web Development in 60 Seconds",
+      "publishAt": "2026-10-29T05:30:00Z",
+      "videoId": "3OFT8MUb6Gw"
+    },
+    {
+      "course": "Shorts",
+      "episode": 21,
+      "title": "What Is CSS? | Web Development in 60 Seconds",
+      "publishAt": "2026-10-29T10:30:00Z",
+      "videoId": "M7XIh0LLmWw"
+    },
+    {
+      "course": "Shorts",
+      "episode": 22,
+      "title": "Three Ways to Add CSS | Web Development in 60 Seconds",
+      "publishAt": "2026-10-30T05:30:00Z",
+      "videoId": "XI8c12LzDI8"
+    },
+    {
+      "course": "Shorts",
+      "episode": 23,
+      "title": "CSS Colors Explained | Web Development in 60 Seconds",
+      "publishAt": "2026-10-30T10:30:00Z",
+      "videoId": "BeC8jK5dAHU"
+    },
+    {
+      "course": "Shorts",
+      "episode": 24,
+      "title": "CSS Fonts and Text Styling | Web Development in 60 Seconds",
+      "publishAt": "2026-10-31T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 25,
+      "title": "CSS Backgrounds | Web Development in 60 Seconds",
+      "publishAt": "2026-10-31T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 26,
+      "title": "CSS Box Model | Web Development in 60 Seconds",
+      "publishAt": "2026-11-01T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 27,
+      "title": "CSS Classes vs IDs | Web Development in 60 Seconds",
+      "publishAt": "2026-11-01T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 28,
+      "title": "CSS Display Property | Web Development in 60 Seconds",
+      "publishAt": "2026-11-02T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 29,
+      "title": "CSS Flexbox in 60 Seconds | Web Development in 60 Seconds",
+      "publishAt": "2026-11-02T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 30,
+      "title": "CSS Grid Explained | Web Development in 60 Seconds",
+      "publishAt": "2026-11-03T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 31,
+      "title": "CSS Position Property | Web Development in 60 Seconds",
+      "publishAt": "2026-11-03T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 32,
+      "title": "CSS Hover Effects | Web Development in 60 Seconds",
+      "publishAt": "2026-11-04T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 33,
+      "title": "CSS Borders and Shadows | Web Development in 60 Seconds",
+      "publishAt": "2026-11-04T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 34,
+      "title": "Responsive Web Design | Web Development in 60 Seconds",
+      "publishAt": "2026-11-05T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 35,
+      "title": "CSS Media Queries | Web Development in 60 Seconds",
+      "publishAt": "2026-11-05T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 36,
+      "title": "CSS Animations | Web Development in 60 Seconds",
+      "publishAt": "2026-11-06T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 37,
+      "title": "What Is JavaScript? | Web Development in 60 Seconds",
+      "publishAt": "2026-11-06T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 38,
+      "title": "JavaScript Variables | Web Development in 60 Seconds",
+      "publishAt": "2026-11-07T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 39,
+      "title": "JavaScript Data Types | Web Development in 60 Seconds",
+      "publishAt": "2026-11-07T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 40,
+      "title": "JavaScript Operators | Web Development in 60 Seconds",
+      "publishAt": "2026-11-08T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 41,
+      "title": "JavaScript Functions | Web Development in 60 Seconds",
+      "publishAt": "2026-11-08T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 42,
+      "title": "JavaScript If-Else | Web Development in 60 Seconds",
+      "publishAt": "2026-11-09T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 43,
+      "title": "JavaScript Loops | Web Development in 60 Seconds",
+      "publishAt": "2026-11-09T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 44,
+      "title": "JavaScript Arrays | Web Development in 60 Seconds",
+      "publishAt": "2026-11-10T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 45,
+      "title": "JavaScript Objects | Web Development in 60 Seconds",
+      "publishAt": "2026-11-10T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 46,
+      "title": "JavaScript DOM Manipulation | Web Development in 60 Seconds",
+      "publishAt": "2026-11-11T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 47,
+      "title": "Build a Personal Profile Card | Web Development in 60 Seconds",
+      "publishAt": "2026-11-11T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 48,
+      "title": "Build a Responsive Navigation Bar | Web Development in 60 Seconds",
+      "publishAt": "2026-11-12T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 49,
+      "title": "Build a JavaScript Counter | Web Development in 60 Seconds",
+      "publishAt": "2026-11-12T10:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 50,
+      "title": "Build a Simple To-Do List | Web Development in 60 Seconds",
+      "publishAt": "2026-11-13T05:30:00Z"
+    },
+    {
+      "course": "Shorts",
+      "episode": 51,
+      "title": "Publish Your First Website for Free | Web Development in 60 Seconds",
+      "publishAt": "2026-11-13T10:30:00Z"
+    },
+    {
+      "course": "AI",
+      "episode": 1,
+      "title": "What Is AI? A Simple Explanation with Everyday Examples | Ep 01",
+      "publishAt": "2026-10-27T14:00:00+05:30",
+      "videoId": "z3Z_RcpRZrw"
+    },
+    {
+      "course": "AI",
+      "episode": 2,
+      "title": "AI in Everyday Life: Features You Already Use | Ep 02",
+      "publishAt": "2026-10-27T14:00:00+05:30",
+      "videoId": "upGQIZplJPs"
+    },
+    {
+      "course": "AI",
+      "episode": 3,
+      "title": "AI vs Machine Learning vs Deep Learning: The Simple Difference | Ep 03",
+      "publishAt": "2026-10-28T14:00:00+05:30",
+      "videoId": "Zvoo_4O7aRI"
+    },
+    {
+      "course": "AI",
+      "episode": 4,
+      "title": "How Generative AI Works: From Prompt to New Content | Ep 04",
+      "publishAt": "2026-10-28T14:00:00+05:30",
+      "videoId": "zk1Z9Aieiys"
+    },
+    {
+      "course": "AI",
+      "episode": 5,
+      "title": "AI Myths and Realities: What Beginners Should Know | Ep 05",
+      "publishAt": "2026-10-29T14:00:00+05:30",
+      "videoId": "QPEHgxu2Eto"
+    },
+    {
+      "course": "AI",
+      "episode": 6,
+      "title": "ChatGPT for Beginners: Ask, Refine and Get Better Answers | Ep 06",
+      "publishAt": "2026-10-29T14:00:00+05:30",
+      "videoId": "d9z6XbshUDw"
+    },
+    {
+      "course": "AI",
+      "episode": 7,
+      "title": "Write Better AI Prompts: Goal, Context, Audience and Format | Ep 07",
+      "publishAt": "2026-10-30T14:00:00+05:30",
+      "videoId": "GBCI10KLqWg"
+    },
+    {
+      "course": "AI",
+      "episode": 8,
+      "title": "Prompt Engineering for Beginners: Show AI an Example | Ep 08",
+      "publishAt": "2026-10-30T14:00:00+05:30",
+      "videoId": "ymDU3K5DOUo"
+    },
+    {
+      "course": "AI",
+      "episode": 9,
+      "title": "Role Prompting Explained: Give AI the Context It Needs | Ep 09",
+      "publishAt": "2026-10-31T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 10,
+      "title": "Better AI Answers Start with Better Follow-Up Prompts | Ep 10",
+      "publishAt": "2026-10-31T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 11,
+      "title": "AI Research for Beginners: Find Sources and Verify Claims | Ep 11",
+      "publishAt": "2026-11-01T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 12,
+      "title": "AI Hallucinations: How to Spot and Check Confident Errors | Ep 12",
+      "publishAt": "2026-11-01T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 13,
+      "title": "Reusable AI Prompt Templates: Stop Starting from Scratch | Ep 13",
+      "publishAt": "2026-11-02T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 14,
+      "title": "Write Better Emails with AI: Clear Drafts in Simple Steps | Ep 14",
+      "publishAt": "2026-11-02T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 15,
+      "title": "AI for Students: Build a Tutor, Not an Answer Machine | Ep 15",
+      "publishAt": "2026-11-03T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 16,
+      "title": "AI for Job Seekers: Improve Your Resume and Interview Practice | Ep 16",
+      "publishAt": "2026-11-03T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 17,
+      "title": "AI at Work: Turn Meeting Notes into Clear Action Items | Ep 17",
+      "publishAt": "2026-11-04T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 18,
+      "title": "AI for Spreadsheets: Understand Formulas and Check Results | Ep 18",
+      "publishAt": "2026-11-04T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 19,
+      "title": "AI Presentations: Turn One Idea into a Clear Slide Outline | Ep 19",
+      "publishAt": "2026-11-05T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 20,
+      "title": "AI Time Management: Prioritize Tasks That Actually Matter | Ep 20",
+      "publishAt": "2026-11-05T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 21,
+      "title": "Learn a Language with AI: Vocabulary and Conversation Practice | Ep 21",
+      "publishAt": "2026-11-06T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 22,
+      "title": "AI Social Media Captions: Write a Hook That Fits Your Audience | Ep 22",
+      "publishAt": "2026-11-06T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 23,
+      "title": "AI for YouTube Creators: Plan Titles, Scripts and Descriptions | Ep 23",
+      "publishAt": "2026-11-07T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 24,
+      "title": "AI Image Generation for Beginners: Your First Image Prompt | Ep 24",
+      "publishAt": "2026-11-07T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 25,
+      "title": "Better AI Image Prompts: Framing, Color and Aspect Ratio | Ep 25",
+      "publishAt": "2026-11-08T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 26,
+      "title": "AI Video Generation for Beginners: Plan Scenes and Camera Motion | Ep 26",
+      "publishAt": "2026-11-08T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 27,
+      "title": "AI Voiceovers Explained: Prepare a Script for Text to Speech | Ep 27",
+      "publishAt": "2026-11-09T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 28,
+      "title": "AI Music and Sound Effects: Choose Audio That Fits Your Video | Ep 28",
+      "publishAt": "2026-11-09T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 29,
+      "title": "AI Graphic Design: Turn a Rough Draft into a Clear Layout | Ep 29",
+      "publishAt": "2026-11-10T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 30,
+      "title": "AI Translation and Subtitles: Check Meaning Before You Publish | Ep 30",
+      "publishAt": "2026-11-10T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 31,
+      "title": "AI Search vs Traditional Search: Answers, Sources and Verification | Ep 31",
+      "publishAt": "2026-11-11T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 32,
+      "title": "AI Privacy: What to Check Before Sharing Personal Data | Ep 32",
+      "publishAt": "2026-11-11T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 33,
+      "title": "AI Copyright Basics: Originality, Licensing and Attribution | Ep 33",
+      "publishAt": "2026-11-12T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 34,
+      "title": "AI Scams and Deepfakes: Warning Signs You Can Check | Ep 34",
+      "publishAt": "2026-11-12T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 35,
+      "title": "Responsible AI: Spot Bias and Missing Perspectives | Ep 35",
+      "publishAt": "2026-11-13T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 36,
+      "title": "No-Code AI Automation: Connect a Trigger, Action and Human Check | Ep 36",
+      "publishAt": "2026-11-13T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 37,
+      "title": "Build an AI Workflow: Inputs, Outputs and Review Steps | Ep 37",
+      "publishAt": "2026-11-14T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 38,
+      "title": "AI Customer Support: Better FAQ Answers and Human Handoffs | Ep 38",
+      "publishAt": "2026-11-14T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 39,
+      "title": "AI for Small Business: Find Repetitive Tasks Worth Automating | Ep 39",
+      "publishAt": "2026-11-15T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 40,
+      "title": "AI Data Analysis for Beginners: Ask Better Questions of Your Data | Ep 40",
+      "publishAt": "2026-11-15T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 41,
+      "title": "What Is an AI API? Requests and Responses Explained Simply | Ep 41",
+      "publishAt": "2026-11-16T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 42,
+      "title": "AI and Python for Beginners: Variables, Strings and Functions | Ep 42",
+      "publishAt": "2026-11-16T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 43,
+      "title": "Build a Simple FAQ Chatbot: Questions, Answers and Limits | Ep 43",
+      "publishAt": "2026-11-17T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 44,
+      "title": "What Are AI Agents? Planning, Tools and Human Oversight | Ep 44",
+      "publishAt": "2026-11-17T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 45,
+      "title": "RAG Explained for Beginners: Give AI Relevant Documents | Ep 45",
+      "publishAt": "2026-11-18T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 46,
+      "title": "AI Coding Help: Explain, Generate and Debug Small Programs | Ep 46",
+      "publishAt": "2026-11-18T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 47,
+      "title": "Your First AI Project: Pick a Useful Goal and Keep It Small | Ep 47",
+      "publishAt": "2026-11-19T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 48,
+      "title": "Build an AI Study Assistant: Prompts, Examples and Fact Checks | Ep 48",
+      "publishAt": "2026-11-19T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 49,
+      "title": "AI Content Workflow: Take an Educational Video from Idea to Upload | Ep 49",
+      "publishAt": "2026-11-20T14:00:00+05:30"
+    },
+    {
+      "course": "AI",
+      "episode": 50,
+      "title": "Learn AI in 30 Days: A Practical Beginner Practice Plan | Ep 50",
+      "publishAt": "2026-11-20T14:00:00+05:30"
+    },
+    {
+      "course": "Agile",
+      "episode": 3,
+      "title": "Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3",
+      "publishAt": "2026-10-24T18:00:00+05:30",
+      "videoId": "1oW6ocuUhWQ"
+    },
+    {
+      "course": "Agile",
+      "episode": 4,
+      "title": "Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4",
+      "publishAt": "2026-10-24T18:00:00+05:30",
+      "videoId": "4pedCCloISY"
+    },
+    {
+      "course": "Agile",
+      "episode": 5,
+      "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+      "publishAt": "2026-10-25T18:00:00+05:30",
+      "videoId": "Ng8wTrGTul4"
+    },
+    {
+      "course": "Agile",
+      "episode": 6,
+      "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+      "publishAt": "2026-10-25T18:00:00+05:30",
+      "videoId": "HH9gdETVS-E"
+    },
+    {
+      "course": "Agile",
+      "episode": 7,
+      "title": "Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7",
+      "publishAt": "2026-10-26T18:00:00+05:30",
+      "videoId": "_LSyyLx-ex0"
+    },
+    {
+      "course": "Agile",
+      "episode": 8,
+      "title": "TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8",
+      "publishAt": "2026-10-26T18:00:00+05:30",
+      "videoId": "BxdkMvdx7G8"
+    },
+    {
+      "course": "Agile",
+      "episode": 9,
+      "title": "Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9",
+      "publishAt": "2026-10-27T18:00:00+05:30",
+      "videoId": "t3WpRYW0lGg"
+    },
+    {
+      "course": "Agile",
+      "episode": 10,
+      "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+      "publishAt": "2026-10-27T18:00:00+05:30",
+      "videoId": "X0hokSm8f2U"
+    },
+    {
+      "course": "Agile",
+      "episode": 11,
+      "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+      "publishAt": "2026-10-28T18:00:00+05:30",
+      "videoId": "bQb0NnHMJt0"
+    },
+    {
+      "course": "Agile",
+      "episode": 12,
+      "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+      "publishAt": "2026-10-28T18:00:00+05:30",
+      "videoId": "ETNKUsval9c"
+    }
+  ]
+}

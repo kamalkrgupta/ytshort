@@ -1,0 +1,16 @@
+{
+  "state": "scheduled",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "sha256": "e864fee076f7684cffee18ae03a75220049dbb687670f4954afe95acb67dc48e",
+  "title": "CPU vs GPU vs NPU: What Does an AI Chip Do?",
+  "requestedVisibility": "public",
+  "startedAt": "2026-11-17T05:47:45Z",
+  "publishAt": "2026-11-18T14:30:00+00:00",
+  "videoId": "Tk7OJdGctAw",
+  "url": "https://www.youtube.com/watch?v=Tk7OJdGctAw",
+  "actualVisibility": "private",
+  "uploadStatus": "processed",
+  "processingStatus": "succeeded",
+  "madeForKids": false,
+  "verifiedPublishAt": "2026-11-18T14:30:00Z"
+}

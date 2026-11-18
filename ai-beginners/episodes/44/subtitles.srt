@@ -1,0 +1,263 @@
+1
+00:00:00,350 --> 00:00:03,378
+Have you ever wondered how to make technology work
+
+2
+00:00:03,391 --> 00:00:06,780
+for you instead of spending hours figuring everything out
+
+3
+00:00:07,684 --> 00:00:12,697
+Welcome to episode 44 of AI for Beginners Today
+
+4
+00:00:12,826 --> 00:00:16,692
+we’re looking at what are ai agents By the
+
+5
+00:00:16,705 --> 00:00:20,790
+end you’ll understand one practical idea watch a realistic
+
+6
+00:00:20,803 --> 00:00:25,635
+example and try a small exercise yourself You don’t
+
+7
+00:00:25,648 --> 00:00:30,377
+need a technical background or expensive software Bring your
+
+8
+00:00:30,390 --> 00:00:36,125
+curiosity We’ll work through it together Here’s the example
+
+9
+00:00:36,138 --> 00:00:40,081
+we’ll use an assistant preparing a draft travel checklist
+
+10
+00:00:40,970 --> 00:00:44,346
+We’ll use that situation to make the topic concrete
+
+11
+00:00:45,248 --> 00:00:48,225
+Watch how we break the task into small steps
+
+12
+00:00:48,341 --> 00:00:51,099
+because the same thinking will help you use many
+
+13
+00:00:51,112 --> 00:00:53,818
+different AI tools later in this course
+
+14
+00:01:00,917 --> 00:01:05,377
+Let’s start with the main idea understand systems that
+
+15
+00:01:05,390 --> 00:01:09,488
+plan steps and use tools Think of AI as
+
+16
+00:01:09,501 --> 00:01:12,684
+a tool that processes information and returns an output
+
+17
+00:01:12,697 --> 00:01:17,142
+based on its training instructions and any relevant information
+
+18
+00:01:17,155 --> 00:01:20,828
+it can access It can save time on drafts
+
+19
+00:01:20,841 --> 00:01:24,423
+and patterns but it doesn’t automatically know what’s correct
+
+20
+00:01:24,436 --> 00:01:28,238
+for your situation The most useful habit is to
+
+21
+00:01:28,251 --> 00:01:32,168
+define what you want before touching the tool Ask
+
+22
+00:01:32,181 --> 00:01:36,279
+yourself three questions what’s my goal what information does
+
+23
+00:01:36,292 --> 00:01:38,457
+the tool need and how will I check the
+
+24
+00:01:38,470 --> 00:01:42,916
+result Those questions work whether you’re writing a prompt
+
+25
+00:01:43,083 --> 00:01:46,511
+building a workflow or reviewing a generated answer
+
+26
+00:01:53,617 --> 00:01:57,729
+Let’s try it with an example Our example is
+
+27
+00:01:57,742 --> 00:02:02,226
+an assistant preparing a draft travel checklist Start by
+
+28
+00:02:02,239 --> 00:02:06,878
+writing down the desired result in one sentence Next
+
+29
+00:02:07,033 --> 00:02:10,126
+identify the input what would a person need to
+
+30
+00:02:10,139 --> 00:02:13,708
+know to do this task correctly Then write a
+
+31
+00:02:13,721 --> 00:02:17,239
+simple instruction with that context and a clear format
+
+32
+00:02:18,141 --> 00:02:21,891
+On screen I am showing a sample request followed
+
+33
+00:02:21,904 --> 00:02:26,041
+by a possible output Notice that we’re not judging
+
+34
+00:02:26,054 --> 00:02:30,177
+the result by how impressive it sounds We’re checking
+
+35
+00:02:30,190 --> 00:02:34,134
+whether it actually meets the task If the output
+
+36
+00:02:34,147 --> 00:02:37,355
+is too broad ask for a more specific version
+
+37
+00:02:38,244 --> 00:02:41,427
+If a fact matters verify it from a reliable
+
+38
+00:02:41,440 --> 00:02:44,830
+source Pause the video here if you’d like to
+
+39
+00:02:44,842 --> 00:02:47,201
+copy the structure into your own notes
+
+40
+00:02:54,317 --> 00:02:59,357
+Your turn Try this exercise draw a plan-act-check loop
+
+41
+00:03:00,233 --> 00:03:03,751
+Begin with a very small example not a complex
+
+42
+00:03:03,764 --> 00:03:08,661
+project Give yourself thirty seconds to decide what success
+
+43
+00:03:08,674 --> 00:03:12,424
+would look like Then complete the task once and
+
+44
+00:03:12,437 --> 00:03:19,009
+inspect the result What’s useful What’s missing What would
+
+45
+00:03:19,022 --> 00:03:23,352
+you change Make one improvement and compare the first
+
+46
+00:03:23,365 --> 00:03:28,700
+and second versions This simple before-and-after comparison teaches you
+
+47
+00:03:28,713 --> 00:03:32,037
+more than copying a complicated prompt from the internet
+
+48
+00:03:32,939 --> 00:03:36,328
+If your chosen tool is unavailable do the exercise
+
+49
+00:03:36,341 --> 00:03:39,911
+on paper sketch the input the steps and the
+
+50
+00:03:39,924 --> 00:03:44,396
+output The objective is to practice the underlying thinking
+
+51
+00:03:44,576 --> 00:03:47,024
+not to depend on one particular app
+
+52
+00:03:54,150 --> 00:03:58,841
+Before we finish remember this important limitation agent actions
+
+53
+00:03:58,854 --> 00:04:04,293
+need limits approvals and monitoring Responsible AI use means
+
+54
+00:04:04,306 --> 00:04:07,554
+understanding the strengths of the tool and keeping yourself
+
+55
+00:04:07,567 --> 00:04:11,664
+accountable for the final result Today you learned that
+
+56
+00:04:11,677 --> 00:04:15,350
+understand systems that plan steps and use tools saw
+
+57
+00:04:15,363 --> 00:04:18,533
+the example of an assistant preparing a draft travel
+
+58
+00:04:18,546 --> 00:04:23,404
+checklist and practiced a small hands-on task Here’s your
+
+59
+00:04:23,417 --> 00:04:26,935
+challenge repeat the exercise with a different topic and
+
+60
+00:04:26,948 --> 00:04:30,981
+write down one thing that improved In the comments
+
+61
+00:04:31,110 --> 00:04:33,932
+share the part you found easiest or the question
+
+62
+00:04:33,945 --> 00:04:37,528
+you still have If this helped share it with
+
+63
+00:04:37,541 --> 00:04:42,154
+someone learning AI And subscribe to Tech at sixty
+
+64
+00:04:42,167 --> 00:04:46,548
+for the next lesson We’re building practical AI skills
+
+65
+00:04:46,561 --> 00:04:50,646
+one simple step at a time Thanks for watching
+
+66
+00:04:51,536 --> 00:04:53,224
+See you in the next lesson

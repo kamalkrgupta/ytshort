@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "H T M L Paragraphs. Let’s make it simple.",
+    "idea": "A paragraph element groups a piece of text into a paragraph. Start by understanding the role it plays in a page.",
+    "code": "Wrap each paragraph in opening and closing P tags. Read the example from top to bottom.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw. Small changes in code can change the output.",
+    "tip": "Browsers normally leave space between paragraphs. Keep this detail in mind when writing your own example.",
+    "caution": "Extra spaces and line breaks in source code usually collapse. Understanding this helps you avoid a common beginner mistake.",
+    "try": "Write two paragraphs about something you enjoy. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}

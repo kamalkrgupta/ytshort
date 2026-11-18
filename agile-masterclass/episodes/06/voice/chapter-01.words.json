@@ -1,0 +1,622 @@
+[
+  {
+    "offset": 1000000,
+    "duration": 2982910,
+    "text": "The"
+  },
+  {
+    "offset": 4125000,
+    "duration": 5539580,
+    "text": "Agile"
+  },
+  {
+    "offset": 9806660,
+    "duration": 5539580,
+    "text": "Testing"
+  },
+  {
+    "offset": 15488750,
+    "duration": 5681660,
+    "text": "Quadrants"
+  },
+  {
+    "offset": 21312500,
+    "duration": 3409160,
+    "text": "help"
+  },
+  {
+    "offset": 24863750,
+    "duration": 4545410,
+    "text": "select"
+  },
+  {
+    "offset": 29551250,
+    "duration": 9232910,
+    "text": "complementary"
+  },
+  {
+    "offset": 38926250,
+    "duration": 6392080,
+    "text": "tests"
+  },
+  {
+    "offset": 55187500,
+    "duration": 2130830,
+    "text": "The"
+  },
+  {
+    "offset": 57460410,
+    "duration": 8806660,
+    "text": "dimensions"
+  },
+  {
+    "offset": 66409160,
+    "duration": 1278330,
+    "text": "are"
+  },
+  {
+    "offset": 67829580,
+    "duration": 9517080,
+    "text": "business-facing"
+  },
+  {
+    "offset": 77488750,
+    "duration": 5113750,
+    "text": "versus"
+  },
+  {
+    "offset": 82744160,
+    "duration": 13352080,
+    "text": "technology-facing"
+  },
+  {
+    "offset": 96238750,
+    "duration": 2130830,
+    "text": "and"
+  },
+  {
+    "offset": 98511250,
+    "duration": 6676250,
+    "text": "supporting"
+  },
+  {
+    "offset": 105329580,
+    "duration": 8096660,
+    "text": "development"
+  },
+  {
+    "offset": 113568330,
+    "duration": 5965830,
+    "text": "versus"
+  },
+  {
+    "offset": 119676250,
+    "duration": 6676250,
+    "text": "critiquing"
+  },
+  {
+    "offset": 126494160,
+    "duration": 852080,
+    "text": "the"
+  },
+  {
+    "offset": 127488750,
+    "duration": 6534160,
+    "text": "product"
+  },
+  {
+    "offset": 143823750,
+    "duration": 2840830,
+    "text": "They"
+  },
+  {
+    "offset": 146806660,
+    "duration": 1136250,
+    "text": "are"
+  },
+  {
+    "offset": 148085410,
+    "duration": 3551250,
+    "text": "not"
+  },
+  {
+    "offset": 151778330,
+    "duration": 7386250,
+    "text": "sequential"
+  },
+  {
+    "offset": 159306660,
+    "duration": 7670410,
+    "text": "stages"
+  },
+  {
+    "offset": 176778330,
+    "duration": 5965830,
+    "text": "Start"
+  },
+  {
+    "offset": 182886250,
+    "duration": 1988750,
+    "text": "with"
+  },
+  {
+    "offset": 185017080,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 185727080,
+    "duration": 5965830,
+    "text": "delivery"
+  },
+  {
+    "offset": 191835410,
+    "duration": 4687500,
+    "text": "rule"
+  },
+  {
+    "offset": 199079580,
+    "duration": 5113750,
+    "text": "orders"
+  },
+  {
+    "offset": 204335410,
+    "duration": 4687500,
+    "text": "above"
+  },
+  {
+    "offset": 209164580,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 210017080,
+    "duration": 6107910,
+    "text": "defined"
+  },
+  {
+    "offset": 216267080,
+    "duration": 7954580,
+    "text": "qualifying"
+  },
+  {
+    "offset": 224363750,
+    "duration": 5113750,
+    "text": "amount"
+  },
+  {
+    "offset": 229619160,
+    "duration": 4687500,
+    "text": "receive"
+  },
+  {
+    "offset": 234448750,
+    "duration": 3125000,
+    "text": "free"
+  },
+  {
+    "offset": 237715830,
+    "duration": 5823750,
+    "text": "shipping"
+  },
+  {
+    "offset": 253340830,
+    "duration": 1846660,
+    "text": "A"
+  },
+  {
+    "offset": 255329580,
+    "duration": 7954580,
+    "text": "developer"
+  },
+  {
+    "offset": 263426250,
+    "duration": 2272910,
+    "text": "can"
+  },
+  {
+    "offset": 265840830,
+    "duration": 3835410,
+    "text": "test"
+  },
+  {
+    "offset": 269818330,
+    "duration": 1278330,
+    "text": "the"
+  },
+  {
+    "offset": 271238750,
+    "duration": 9517080,
+    "text": "calculation"
+  },
+  {
+    "offset": 282886250,
+    "duration": 1420410,
+    "text": "a"
+  },
+  {
+    "offset": 284448750,
+    "duration": 4687500,
+    "text": "product"
+  },
+  {
+    "offset": 289278330,
+    "duration": 7954580,
+    "text": "specialist"
+  },
+  {
+    "offset": 297375000,
+    "duration": 2130830,
+    "text": "can"
+  },
+  {
+    "offset": 299647910,
+    "duration": 7528330,
+    "text": "clarify"
+  },
+  {
+    "offset": 307318330,
+    "duration": 2840830,
+    "text": "what"
+  },
+  {
+    "offset": 310301250,
+    "duration": 4687500,
+    "text": "counts"
+  },
+  {
+    "offset": 315130830,
+    "duration": 4829580,
+    "text": "toward"
+  },
+  {
+    "offset": 320102500,
+    "duration": 1420410,
+    "text": "the"
+  },
+  {
+    "offset": 321665000,
+    "duration": 5539580,
+    "text": "amount"
+  },
+  {
+    "offset": 329619160,
+    "duration": 1420410,
+    "text": "a"
+  },
+  {
+    "offset": 331181660,
+    "duration": 6534160,
+    "text": "customer"
+  },
+  {
+    "offset": 337857910,
+    "duration": 1988750,
+    "text": "can"
+  },
+  {
+    "offset": 339988750,
+    "duration": 6676250,
+    "text": "explore"
+  },
+  {
+    "offset": 346806660,
+    "duration": 3693330,
+    "text": "whether"
+  },
+  {
+    "offset": 350642080,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 351778330,
+    "duration": 5539580,
+    "text": "message"
+  },
+  {
+    "offset": 357460410,
+    "duration": 2272910,
+    "text": "is"
+  },
+  {
+    "offset": 359875000,
+    "duration": 10795410,
+    "text": "understandable"
+  },
+  {
+    "offset": 371948750,
+    "duration": 3409160,
+    "text": "and"
+  },
+  {
+    "offset": 375500000,
+    "duration": 1278330,
+    "text": "an"
+  },
+  {
+    "offset": 376920410,
+    "duration": 6534160,
+    "text": "engineer"
+  },
+  {
+    "offset": 383596660,
+    "duration": 2414580,
+    "text": "can"
+  },
+  {
+    "offset": 386153330,
+    "duration": 4687500,
+    "text": "measure"
+  },
+  {
+    "offset": 390982910,
+    "duration": 6392080,
+    "text": "checkout"
+  },
+  {
+    "offset": 397517080,
+    "duration": 3125000,
+    "text": "under"
+  },
+  {
+    "offset": 400784160,
+    "duration": 4545410,
+    "text": "load"
+  },
+  {
+    "offset": 415272910,
+    "duration": 4829580,
+    "text": "These"
+  },
+  {
+    "offset": 420244160,
+    "duration": 1562500,
+    "text": "are"
+  },
+  {
+    "offset": 421948750,
+    "duration": 8522910,
+    "text": "complementary"
+  },
+  {
+    "offset": 430613750,
+    "duration": 4119160,
+    "text": "views"
+  },
+  {
+    "offset": 434875000,
+    "duration": 1846660,
+    "text": "of"
+  },
+  {
+    "offset": 436863750,
+    "duration": 6960410,
+    "text": "quality"
+  },
+  {
+    "offset": 453767080,
+    "duration": 2272910,
+    "text": "The"
+  },
+  {
+    "offset": 456181660,
+    "duration": 6250000,
+    "text": "quadrants"
+  },
+  {
+    "offset": 462573750,
+    "duration": 6676250,
+    "text": "organize"
+  },
+  {
+    "offset": 469392080,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 470670410,
+    "duration": 6534160,
+    "text": "questions"
+  },
+  {
+    "offset": 477346660,
+    "duration": 2414580,
+    "text": "so"
+  },
+  {
+    "offset": 479903330,
+    "duration": 710410,
+    "text": "a"
+  },
+  {
+    "offset": 480755830,
+    "duration": 3835410,
+    "text": "team"
+  },
+  {
+    "offset": 484732910,
+    "duration": 6107910,
+    "text": "notices"
+  },
+  {
+    "offset": 490982910,
+    "duration": 6107910,
+    "text": "gaps"
+  },
+  {
+    "offset": 506892080,
+    "duration": 2556660,
+    "text": "They"
+  },
+  {
+    "offset": 509590830,
+    "duration": 1562500,
+    "text": "do"
+  },
+  {
+    "offset": 511295410,
+    "duration": 3267080,
+    "text": "not"
+  },
+  {
+    "offset": 514704580,
+    "duration": 6534160,
+    "text": "prescribe"
+  },
+  {
+    "offset": 521380830,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 522090830,
+    "duration": 5823750,
+    "text": "testing"
+  },
+  {
+    "offset": 528056660,
+    "duration": 4829580,
+    "text": "order"
+  },
+  {
+    "offset": 533028330,
+    "duration": 2272910,
+    "text": "or"
+  },
+  {
+    "offset": 535443330,
+    "duration": 4829580,
+    "text": "assign"
+  },
+  {
+    "offset": 540415000,
+    "duration": 8380830,
+    "text": "exclusive"
+  },
+  {
+    "offset": 548937500,
+    "duration": 6676250,
+    "text": "ownership"
+  },
+  {
+    "offset": 555755830,
+    "duration": 1420410,
+    "text": "to"
+  },
+  {
+    "offset": 557318330,
+    "duration": 7528330,
+    "text": "particular"
+  },
+  {
+    "offset": 564988750,
+    "duration": 3551250,
+    "text": "job"
+  },
+  {
+    "offset": 568681660,
+    "duration": 7954580,
+    "text": "titles"
+  },
+  {
+    "offset": 586437500,
+    "duration": 4403330,
+    "text": "Use"
+  },
+  {
+    "offset": 590982910,
+    "duration": 994160,
+    "text": "the"
+  },
+  {
+    "offset": 592119160,
+    "duration": 4971660,
+    "text": "model"
+  },
+  {
+    "offset": 597232910,
+    "duration": 2414580,
+    "text": "as"
+  },
+  {
+    "offset": 599790000,
+    "duration": 568330,
+    "text": "a"
+  },
+  {
+    "offset": 600500000,
+    "duration": 9232910,
+    "text": "conversation"
+  },
+  {
+    "offset": 609875000,
+    "duration": 3977080,
+    "text": "aid"
+  },
+  {
+    "offset": 613994160,
+    "duration": 2414580,
+    "text": "and"
+  },
+  {
+    "offset": 616551250,
+    "duration": 5113750,
+    "text": "adapt"
+  },
+  {
+    "offset": 621806660,
+    "duration": 1988750,
+    "text": "the"
+  },
+  {
+    "offset": 623937500,
+    "duration": 8096660,
+    "text": "examples"
+  },
+  {
+    "offset": 632176250,
+    "duration": 1136250,
+    "text": "to"
+  },
+  {
+    "offset": 633454580,
+    "duration": 852080,
+    "text": "the"
+  },
+  {
+    "offset": 634448750,
+    "duration": 4545410,
+    "text": "risks"
+  },
+  {
+    "offset": 639136250,
+    "duration": 1136250,
+    "text": "of"
+  },
+  {
+    "offset": 640415000,
+    "duration": 1136250,
+    "text": "the"
+  },
+  {
+    "offset": 641693330,
+    "duration": 5539580,
+    "text": "feature"
+  },
+  {
+    "offset": 647375000,
+    "duration": 2414580,
+    "text": "you"
+  },
+  {
+    "offset": 649931660,
+    "duration": 1278330,
+    "text": "are"
+  },
+  {
+    "offset": 651352500,
+    "duration": 5397910,
+    "text": "building"
+  }
+]

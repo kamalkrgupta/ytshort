@@ -1,0 +1,539 @@
+1
+00:00:00,338 --> 00:00:05,286
+The Agile Testing Quadrants help select complementary tests The
+
+2
+00:00:05,299 --> 00:00:10,753
+dimensions are business-facing versus technology-facing and supporting development versus
+
+3
+00:00:10,766 --> 00:00:16,307
+critiquing the product They are not sequential stages Start
+
+4
+00:00:16,320 --> 00:00:19,952
+with a delivery rule orders above a defined qualifying
+
+5
+00:00:19,964 --> 00:00:24,071
+amount receive free shipping A developer can test the
+
+6
+00:00:24,083 --> 00:00:28,364
+calculation a product specialist can clarify what counts toward
+
+7
+00:00:28,377 --> 00:00:31,647
+the amount a customer can explore whether the message
+
+8
+00:00:31,659 --> 00:00:35,454
+is understandable and an engineer can measure checkout under
+
+9
+00:00:35,466 --> 00:00:40,883
+load These are complementary views of quality The quadrants
+
+10
+00:00:40,895 --> 00:00:45,014
+organize the questions so a team notices gaps They
+
+11
+00:00:45,027 --> 00:00:48,472
+do not prescribe a testing order or assign exclusive
+
+12
+00:00:48,484 --> 00:00:52,940
+ownership to particular job titles Use the model as
+
+13
+00:00:52,952 --> 00:00:55,985
+a conversation aid and adapt the examples to the
+
+14
+00:00:55,998 --> 00:00:57,957
+risks of the feature you are building
+
+15
+00:00:59,571 --> 00:01:04,601
+Technology-facing tests that support development include unit and component
+
+16
+00:01:04,613 --> 00:01:09,412
+tests A shopping-cart unit test can verify a subtotal
+
+17
+00:01:09,424 --> 00:01:14,841
+or discount calculation These automated checks offer fast focused
+
+18
+00:01:14,854 --> 00:01:20,220
+technical feedback For quadrant one isolate a shipping calculation
+
+19
+00:01:21,081 --> 00:01:24,052
+Suppose the agreed rule gives free delivery when the
+
+20
+00:01:24,064 --> 00:01:28,345
+discounted subtotal is at least one thousand rupees A
+
+21
+00:01:28,358 --> 00:01:31,840
+low-level test checks nine hundred and ninety-nine one thousand
+
+22
+00:01:31,852 --> 00:01:35,646
+and one thousand and one Each test runs without
+
+23
+00:01:35,659 --> 00:01:39,103
+opening a browser or contacting a real payment service
+
+24
+00:01:39,965 --> 00:01:43,160
+When one fails the feedback points closely to the
+
+25
+00:01:43,172 --> 00:01:48,701
+calculation Such tests support development by making small changes
+
+26
+00:01:48,714 --> 00:01:52,707
+easier to evaluate They still cannot tell us whether
+
+27
+00:01:52,720 --> 00:01:55,341
+the team chose the correct threshold or whether the
+
+28
+00:01:55,353 --> 00:01:57,750
+customer understands the final total
+
+29
+00:01:59,371 --> 00:02:05,431
+Business-facing tests that support development include acceptance examples For
+
+30
+00:02:05,444 --> 00:02:09,638
+free delivery above a threshold clarify whether taxes and
+
+31
+00:02:09,651 --> 00:02:13,832
+discounts count Agree on examples and use them to
+
+32
+00:02:13,845 --> 00:02:17,927
+verify the business rule Quadrant two makes the business
+
+33
+00:02:17,939 --> 00:02:22,995
+rule explicit Ask whether taxes gift cards and discount
+
+34
+00:02:23,008 --> 00:02:28,512
+reductions affect eligibility Use a concrete example a basket
+
+35
+00:02:28,525 --> 00:02:32,520
+worth eleven hundred receives a two-hundred-rupee discount leaving a
+
+36
+00:02:32,532 --> 00:02:37,238
+qualifying subtotal of nine hundred Under our fictional rule
+
+37
+00:02:37,375 --> 00:02:42,331
+free shipping does not apply Product development and testing
+
+38
+00:02:42,344 --> 00:02:47,212
+participants should agree on that result before implementation The
+
+39
+00:02:47,224 --> 00:02:50,907
+example can become an acceptance check but the conversation
+
+40
+00:02:50,919 --> 00:02:56,599
+is valuable even before automation exists An executable scenario
+
+41
+00:02:56,612 --> 00:03:00,232
+with an ambiguous expected result will simply automate an
+
+42
+00:03:00,244 --> 00:03:02,117
+unresolved business question
+
+43
+00:03:03,738 --> 00:03:08,157
+Business-facing tests that critique the product include exploratory and
+
+44
+00:03:08,169 --> 00:03:13,031
+usability testing A checkout button may function correctly yet
+
+45
+00:03:13,044 --> 00:03:18,100
+be difficult to find Realistic exploration reveals problems that
+
+46
+00:03:18,112 --> 00:03:22,743
+predefined checks can miss In quadrant three explore the
+
+47
+00:03:22,756 --> 00:03:27,674
+actual customer journey Add items until shipping becomes free
+
+48
+00:03:27,824 --> 00:03:30,870
+then apply a coupon that lowers the subtotal below
+
+49
+00:03:30,882 --> 00:03:35,326
+the threshold Does the page explain why shipping reappeared
+
+50
+00:03:36,200 --> 00:03:41,318
+Does the total update consistently Try keyboard navigation and
+
+51
+00:03:41,331 --> 00:03:45,700
+a smaller display You might find that every calculation
+
+52
+00:03:45,712 --> 00:03:50,157
+is correct while the message leaves people confused Record
+
+53
+00:03:50,169 --> 00:03:53,564
+the situation the user's difficulty and the effect on
+
+54
+00:03:53,577 --> 00:03:59,094
+completing checkout Exploration critiques the product by following observations
+
+55
+00:03:59,107 --> 00:04:02,041
+and questions that a predefined rule check may never
+
+56
+00:04:02,053 --> 00:04:02,989
+have considered
+
+57
+00:04:04,605 --> 00:04:09,735
+Technology-facing tests that critique the product include performance security
+
+58
+00:04:09,897 --> 00:04:15,907
+reliability and scalability testing Evaluate behavior under heavy traffic
+
+59
+00:04:16,131 --> 00:04:21,861
+unauthorized access attempts and system failures Quadrant four examines
+
+60
+00:04:21,873 --> 00:04:26,417
+technical qualities A promotion may send many shoppers through
+
+61
+00:04:26,429 --> 00:04:31,347
+the same calculation and checkout services at once Define
+
+62
+00:04:31,360 --> 00:04:34,880
+a realistic load model and an agreed response-time target
+
+63
+00:04:34,892 --> 00:04:40,035
+before judging the result Investigate errors resource use and
+
+64
+00:04:40,047 --> 00:04:44,953
+recovery as well as average response time Security testing
+
+65
+00:04:44,965 --> 00:04:48,597
+might check that one customer cannot modify another customer's
+
+66
+00:04:48,610 --> 00:04:54,189
+basket Reliability testing might simulate a temporary dependency failure
+
+67
+00:04:55,075 --> 00:05:00,905
+These activities require appropriate environments and authorization A single
+
+68
+00:05:00,917 --> 00:05:03,588
+passing scan or load run is evidence about the
+
+69
+00:05:03,601 --> 00:05:07,333
+tested conditions not proof that every technical risk is
+
+70
+00:05:07,345 --> 00:05:08,094
+eliminated
+
+71
+00:05:09,705 --> 00:05:14,349
+For payments quadrant one tests calculations quadrant two verifies
+
+72
+00:05:14,362 --> 00:05:19,556
+business outcomes quadrant three explores interrupted payment journeys quadrant
+
+73
+00:05:19,569 --> 00:05:24,831
+four checks concurrency resilience and security The quadrants work
+
+74
+00:05:24,844 --> 00:05:29,476
+together Map a payment feature across all four views
+
+75
+00:05:30,325 --> 00:05:34,883
+Quadrant one checks fee and total calculations Quadrant two
+
+76
+00:05:34,895 --> 00:05:40,727
+uses examples of successful declined and refundable payments Quadrant
+
+77
+00:05:40,739 --> 00:05:46,158
+three explores interrupted journeys confusing messages and unexpected navigation
+
+78
+00:05:47,032 --> 00:05:51,977
+Quadrant four examines concurrent requests access control and resilience
+
+79
+00:05:52,838 --> 00:05:56,047
+Some checks can reasonably fit more than one discussion
+
+80
+00:05:56,060 --> 00:06:00,367
+because intent matters Do not spend a meeting arguing
+
+81
+00:06:00,380 --> 00:06:04,026
+about the perfect quadrant label while a duplicate-charge risk
+
+82
+00:06:04,038 --> 00:06:08,184
+remains untested The model succeeds when it helps the
+
+83
+00:06:08,196 --> 00:06:11,318
+team ask a missing question and choose an effective
+
+84
+00:06:11,330 --> 00:06:12,779
+way to investigate it
+
+85
+00:06:14,405 --> 00:06:18,679
+Avoid treating the matrix as four equal budgets A
+
+86
+00:06:18,691 --> 00:06:22,098
+simple internal tool and a public payment platform face
+
+87
+00:06:22,111 --> 00:06:27,677
+different risks One feature may need extensive security investigation
+
+88
+00:06:27,926 --> 00:06:33,305
+another may need more usability exploration Automation also crosses
+
+89
+00:06:33,318 --> 00:06:38,522
+the model Unit tests are commonly automated acceptance checks
+
+90
+00:06:38,534 --> 00:06:42,365
+may be automated and performance tools can automate technical
+
+91
+00:06:42,378 --> 00:06:47,532
+experiments Human judgment remains necessary when deciding what the
+
+92
+00:06:47,545 --> 00:06:52,125
+results mean and what to investigate next Describe the
+
+93
+00:06:52,137 --> 00:06:56,405
+risk select an appropriate activity and identify the evidence
+
+94
+00:06:56,418 --> 00:06:59,987
+you want Then use the quadrant model to check
+
+95
+00:06:59,999 --> 00:07:02,820
+whether an important perspective has been missed
+
+96
+00:07:04,438 --> 00:07:08,033
+For your practice task take a password-reset feature and
+
+97
+00:07:08,045 --> 00:07:12,795
+propose one activity for each quadrant A possible low-level
+
+98
+00:07:12,807 --> 00:07:18,924
+check verifies token-expiry calculations A business example specifies what
+
+99
+00:07:18,936 --> 00:07:23,468
+happens when an expired link is opened Exploratory testing
+
+100
+00:07:23,480 --> 00:07:29,509
+investigates whether recovery messages are understandable and accessible Technical
+
+101
+00:07:29,522 --> 00:07:33,978
+investigation examines unauthorized token reuse and behavior under a
+
+102
+00:07:33,991 --> 00:07:39,670
+controlled request spike Explain why each activity exists rather
+
+103
+00:07:39,683 --> 00:07:43,765
+than only naming a category Finish by answering the
+
+104
+00:07:43,777 --> 00:07:47,809
+lesson question response times during a traffic spike belong
+
+105
+00:07:47,822 --> 00:07:52,240
+naturally in the technology-facing critique represented by quadrant four
+
+106
+00:07:53,871 --> 00:07:57,367
+Use a gap-finding exercise to test whether the quadrants
+
+107
+00:07:57,379 --> 00:08:01,604
+are helping A team has hundreds of calculation checks
+
+108
+00:08:01,617 --> 00:08:05,836
+and dozens of acceptance scenarios but customers still abandon
+
+109
+00:08:05,849 --> 00:08:11,578
+checkout because discount messages are confusing Adding another calculation
+
+110
+00:08:11,591 --> 00:08:14,949
+check may be inexpensive yet it does not address
+
+111
+00:08:14,961 --> 00:08:19,505
+the reported problem The missing evidence concerns people using
+
+112
+00:08:19,518 --> 00:08:24,848
+the integrated product A purposeful exploratory or usability session
+
+113
+00:08:24,861 --> 00:08:27,969
+can investigate the message timing and effect on the
+
+114
+00:08:27,981 --> 00:08:33,461
+customer's task Conversely a beautifully usable checkout can still
+
+115
+00:08:33,474 --> 00:08:38,492
+fail under a promotion's traffic The model encourages complementary
+
+116
+00:08:38,505 --> 00:08:42,761
+investigation strong coverage of one perspective should not make
+
+117
+00:08:42,774 --> 00:08:44,609
+another perspective invisible
+
+118
+00:08:46,238 --> 00:08:48,897
+Do not confuse a quadrant with a tool or
+
+119
+00:08:48,910 --> 00:08:53,011
+an owner The same browser framework might automate an
+
+120
+00:08:53,024 --> 00:08:57,244
+acceptance example supporting development or collect evidence for a
+
+121
+00:08:57,256 --> 00:09:03,112
+technical experiment A developer can participate in exploratory testing
+
+122
+00:09:03,249 --> 00:09:07,232
+and a tester can help design low-level checks Ask
+
+123
+00:09:07,245 --> 00:09:10,628
+what question the activity answers and when its feedback
+
+124
+00:09:10,641 --> 00:09:14,374
+is useful For a new payment feature list the
+
+125
+00:09:14,386 --> 00:09:18,120
+risks first choose activities second and use the matrix
+
+126
+00:09:18,132 --> 00:09:22,153
+third to inspect balance If an activity crosses a
+
+127
+00:09:22,165 --> 00:09:26,884
+boundary describe its purpose clearly and move on The
+
+128
+00:09:26,897 --> 00:09:30,281
+useful outcome is a better plan not a perfectly
+
+129
+00:09:30,293 --> 00:09:33,839
+categorized spreadsheet with unresolved customer risks
+
+130
+00:09:35,471 --> 00:09:39,148
+Use the quadrants to balance business and technical risks
+
+131
+00:09:40,017 --> 00:09:43,982
+Knowledge check which quadrant addresses response times during a
+
+132
+00:09:43,995 --> 00:09:47,959
+traffic spike Subscribe to Tech at sixty for the
+
+133
+00:09:47,972 --> 00:09:52,837
+next episode in this Agile Testing Masterclass Practice the
+
+134
+00:09:52,849 --> 00:09:56,414
+example with synthetic data and share the most important
+
+135
+00:09:56,426 --> 00:09:58,727
+risk you identified in the comments

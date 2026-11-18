@@ -1,0 +1,16 @@
+{
+  "voice": "en-IN-NeerjaNeural",
+  "rate": "+8%",
+  "pitch": "+0Hz",
+  "leadIn": 0.35,
+  "scenes": {
+    "hook": "JavaScript Operators. Let’s make it simple.",
+    "idea": "Operators perform actions such as arithmetic and comparisons. Start by understanding the role it plays in a page.",
+    "code": "Plus can add numbers, and comparison operators return boolean results.",
+    "result": "Here’s an illustration of the result. Compare it with the example you just saw.",
+    "tip": "Strict equality compares values without converting their types. Keep this detail in mind when writing your own example.",
+    "caution": "Plus can also join strings, so check the types of your inputs.",
+    "try": "Calculate a total and compare it with a target value. Change one part, then compare your result.",
+    "close": "Like, share, and subscribe for more web development basics."
+  }
+}
