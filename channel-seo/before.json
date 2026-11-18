@@ -1,0 +1,3339 @@
+{
+  "channel": {
+    "kind": "youtube#channel",
+    "etag": "xTFB4J4dgr__RQP2v1n5VNyv0tI",
+    "id": "UC7F3e0NsVP37sqroVmYxiFw",
+    "snippet": {
+      "title": "Tech at 60",
+      "description": "\ud83d\ude80 Welcome to Tech@60 \u2013 Tech in 60 Seconds!\n\nYour daily dose of technology, simplified in just 60 seconds! \u26a1\n\nAt Tech@60, we make technology easy, exciting, and accessible for everyone. From the latest AI innovations to smart gadgets, trending tech news, useful apps, and game-changing digital tools \u2014 we bring you quick, informative, and engaging YouTube Shorts.\n\n\ud83d\udd25 What You'll Discover:\n- \ud83e\udd16 Artificial Intelligence & AI Tools\n- \ud83d\udcf1 Latest Gadgets & Tech Innovations\n- \ud83d\udca1 Smart Tech Tips, Tricks & Hacks\n- \ud83c\udf10 Trending Technology News\n- \ud83d\ude80 Future Tech & Digital Trends\n- \u26a1 Useful Apps, Websites & Productivity Tools\n\nNo lengthy explanations. No complicated jargon. Just valuable tech knowledge in 60 seconds!\n\n\ud83d\udd14 Subscribe to Tech@60 and stay one minute ahead of the future.\n\n\ud83d\udccc Tech@60 \u2013 Big Tech. Small Videos. Smart You.\n\n#techat60 #techshorts  #artificialintelligence  #technews  #gadgets  #aitools  #technology \n",
+      "customUrl": "@techat60",
+      "publishedAt": "2025-09-08T09:46:30.169104Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/viY47nGiNjlc3FwtIwTajVHsa1TItaqH700Bp8kb_2_B3ITU9oz4HDKUjf_oq6zsAmS1fVQd9A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/viY47nGiNjlc3FwtIwTajVHsa1TItaqH700Bp8kb_2_B3ITU9oz4HDKUjf_oq6zsAmS1fVQd9A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/viY47nGiNjlc3FwtIwTajVHsa1TItaqH700Bp8kb_2_B3ITU9oz4HDKUjf_oq6zsAmS1fVQd9A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Tech at 60",
+        "description": "\ud83d\ude80 Welcome to Tech@60 \u2013 Tech in 60 Seconds!\n\nYour daily dose of technology, simplified in just 60 seconds! \u26a1\n\nAt Tech@60, we make technology easy, exciting, and accessible for everyone. From the latest AI innovations to smart gadgets, trending tech news, useful apps, and game-changing digital tools \u2014 we bring you quick, informative, and engaging YouTube Shorts.\n\n\ud83d\udd25 What You'll Discover:\n- \ud83e\udd16 Artificial Intelligence & AI Tools\n- \ud83d\udcf1 Latest Gadgets & Tech Innovations\n- \ud83d\udca1 Smart Tech Tips, Tricks & Hacks\n- \ud83c\udf10 Trending Technology News\n- \ud83d\ude80 Future Tech & Digital Trends\n- \u26a1 Useful Apps, Websites & Productivity Tools\n\nNo lengthy explanations. No complicated jargon. Just valuable tech knowledge in 60 seconds!\n\n\ud83d\udd14 Subscribe to Tech@60 and stay one minute ahead of the future.\n\n\ud83d\udccc Tech@60 \u2013 Big Tech. Small Videos. Smart You.\n\n#techat60 #techshorts  #artificialintelligence  #technews  #gadgets  #aitools  #technology \n"
+      },
+      "country": "IN"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "LL",
+        "uploads": "UU7F3e0NsVP37sqroVmYxiFw"
+      }
+    },
+    "statistics": {
+      "viewCount": "637",
+      "subscriberCount": "14",
+      "hiddenSubscriberCount": false,
+      "videoCount": "27"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Tech at 60",
+        "description": "\ud83d\ude80 Welcome to Tech@60 \u2013 Tech in 60 Seconds!\n\nYour daily dose of technology, simplified in just 60 seconds! \u26a1\n\nAt Tech@60, we make technology easy, exciting, and accessible for everyone. From the latest AI innovations to smart gadgets, trending tech news, useful apps, and game-changing digital tools \u2014 we bring you quick, informative, and engaging YouTube Shorts.\n\n\ud83d\udd25 What You'll Discover:\n- \ud83e\udd16 Artificial Intelligence & AI Tools\n- \ud83d\udcf1 Latest Gadgets & Tech Innovations\n- \ud83d\udca1 Smart Tech Tips, Tricks & Hacks\n- \ud83c\udf10 Trending Technology News\n- \ud83d\ude80 Future Tech & Digital Trends\n- \u26a1 Useful Apps, Websites & Productivity Tools\n\nNo lengthy explanations. No complicated jargon. Just valuable tech knowledge in 60 seconds!\n\n\ud83d\udd14 Subscribe to Tech@60 and stay one minute ahead of the future.\n\n\ud83d\udccc Tech@60 \u2013 Big Tech. Small Videos. Smart You.\n\n#techat60 #techshorts  #artificialintelligence  #technews  #gadgets  #aitools  #technology \n",
+        "keywords": "\"Tech at 60\" Techat60 technology \"tech tips\" \"tech tutorials\" \"mobile tips and tricks\" \"Android tips\" \"useful apps\" \"AI tools\" \"how to tutorials\" \"internet tips\" \"computer tips\" \"Hindi tech\" \"technology in India\" india cjp bjp modi neha bora latent",
+        "country": "IN"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/ToQa2JlRpVkraoHKxrsKqUyHLUg-u9OybNRY5e1wKsZgsy_j6ZttAZcP6VoxtpKiEboS1HpVJg"
+      }
+    }
+  },
+  "videos": [
+    {
+      "kind": "youtube#video",
+      "etag": "g5SDvdm_4O88W446984CzoSA-lQ",
+      "id": "ymDU3K5DOUo",
+      "snippet": {
+        "publishedAt": "2026-10-27T10:40:17Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Prompt Engineering for Beginners: Show AI an Example | Ep 08",
+        "description": "Prompt Engineering for Beginners: Show AI an Example. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 08 of 50\n\nWhat you will learn: Use examples to establish tone, structure and quality.\nExample: giving two examples of short professional headlines.\nTry it: compare outputs with and without examples.\nRemember: examples guide style but do not guarantee accuracy.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/ymDU3K5DOUo/default.jpg?sqp=CLCIgtcG&rs=AOn4CLCsW0jYpHHBp8XtnykEH9rwAzQhNQ",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/ymDU3K5DOUo/mqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLB-6bke0Vtcos9B_xToLadfsmqeTg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/ymDU3K5DOUo/hqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLBkF67Z6yNps407fFHKzsJCgG5bTA",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/ymDU3K5DOUo/sddefault.jpg?sqp=CLCIgtcG&rs=AOn4CLAm8Ahotbq8lLvL0yNg7rjKQroicA",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/ymDU3K5DOUo/maxresdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLBwbCBLDQS1wB8BpFdCqU4ThmfZCQ",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "AI for beginners",
+          "AI prompts",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "prompt engineering",
+          "prompt engineering with examples"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Prompt Engineering for Beginners: Show AI an Example | Ep 08",
+          "description": "Prompt Engineering for Beginners: Show AI an Example. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 08 of 50\n\nWhat you will learn: Use examples to establish tone, structure and quality.\nExample: giving two examples of short professional headlines.\nTry it: compare outputs with and without examples.\nRemember: examples guide style but do not guarantee accuracy.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "private",
+        "publishAt": "2026-10-30T08:30:00Z",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c5SfZVWr4FE_Wqvl6E3sqpaB5mI",
+      "id": "GBCI10KLqWg",
+      "snippet": {
+        "publishedAt": "2026-10-27T10:38:42Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Write Better AI Prompts: Goal, Context, Audience and Format | Ep 07",
+        "description": "Write Better AI Prompts: Goal, Context, Audience and Format. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 07 of 50\n\nWhat you will learn: Specify goal, context, audience and output format.\nExample: asking for a polite email about a delayed delivery.\nTry it: rewrite a vague request into a specific prompt.\nRemember: vague prompts often lead to generic answers.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/GBCI10KLqWg/default.jpg?sqp=CLCIgtcG&rs=AOn4CLC65mvB5kX9SRlfH-3cJ88LPFuWFg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/GBCI10KLqWg/mqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLDyyBNMnK4B8QOwLe0WhtU6pw6Y7Q",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/GBCI10KLqWg/hqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLAhRx8r8--42ac2klDl7e26Eqe8aQ",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/GBCI10KLqWg/sddefault.jpg?sqp=CLCIgtcG&rs=AOn4CLDyONSDO6E8uQDjKFSvVg47KYPnJA",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/GBCI10KLqWg/maxresdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLA15mdEqyF_Z7ihq7BGUuv4qfDLQw",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "AI for beginners",
+          "AI prompts",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "prompt engineering",
+          "writing your first great prompt"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Write Better AI Prompts: Goal, Context, Audience and Format | Ep 07",
+          "description": "Write Better AI Prompts: Goal, Context, Audience and Format. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 07 of 50\n\nWhat you will learn: Specify goal, context, audience and output format.\nExample: asking for a polite email about a delayed delivery.\nTry it: rewrite a vague request into a specific prompt.\nRemember: vague prompts often lead to generic answers.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "private",
+        "publishAt": "2026-10-30T08:30:00Z",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ocECYfiAyPn-kgLTkifH7s87dUY",
+      "id": "d9z6XbshUDw",
+      "snippet": {
+        "publishedAt": "2026-10-27T10:37:13Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "ChatGPT for Beginners: Ask, Refine and Get Better Answers | Ep 06",
+        "description": "ChatGPT for Beginners: Ask, Refine and Get Better Answers. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 06 of 50\n\nWhat you will learn: Use a conversational interface to ask, refine and iterate.\nExample: requesting a beginner-friendly explanation of cloud computing.\nTry it: start a new chat and ask a clear question.\nRemember: features and limits vary by account and can change.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/d9z6XbshUDw/default.jpg?sqp=CLCIgtcG&rs=AOn4CLDGTvqvcmY2qTPpmBM37p8_LJ-mbA",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/d9z6XbshUDw/mqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLAgmDrkRvA-nOO44f_yvYq7MBg61A",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/d9z6XbshUDw/hqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLDbc1rVRcwEWYnYLW5GcFkyr3sKkA",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/d9z6XbshUDw/sddefault.jpg?sqp=CLCIgtcG&rs=AOn4CLDcwL6uN8g4EWnODhSILOLaXwRtHg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/d9z6XbshUDw/maxresdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLAvDgkjIzSL_RzFeURKmGBbMyrkag",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "getting started with chatgpt",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "ChatGPT for Beginners: Ask, Refine and Get Better Answers | Ep 06",
+          "description": "ChatGPT for Beginners: Ask, Refine and Get Better Answers. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 06 of 50\n\nWhat you will learn: Use a conversational interface to ask, refine and iterate.\nExample: requesting a beginner-friendly explanation of cloud computing.\nTry it: start a new chat and ask a clear question.\nRemember: features and limits vary by account and can change.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "private",
+        "publishAt": "2026-10-29T08:30:00Z",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EAlmzSbYGSqEtyQ66Vb56b9H6hY",
+      "id": "QPEHgxu2Eto",
+      "snippet": {
+        "publishedAt": "2026-10-27T10:35:37Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "AI Myths and Realities: What Beginners Should Know | Ep 05",
+        "description": "AI Myths and Realities: What Beginners Should Know. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 05 of 50\n\nWhat you will learn: Separate marketing claims from real capabilities.\nExample: a chatbot claiming to know tomorrow's weather without checking.\nTry it: make a myth-versus-fact table.\nRemember: AI is neither magic nor guaranteed to replace every job.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/QPEHgxu2Eto/default.jpg?sqp=CLCIgtcG&rs=AOn4CLA984FBxhOR-off_UUWkGQRqe2hDg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/QPEHgxu2Eto/mqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLDBpIWwqCbvtYJSlUNzCDj8KCylcA",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/QPEHgxu2Eto/hqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLD31qwInT8ftwSkQNWmE6tFXSBECA",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/QPEHgxu2Eto/sddefault.jpg?sqp=CLCIgtcG&rs=AOn4CLBC2LHsGupJhvUi71STzTrXdFUzcQ",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/QPEHgxu2Eto/maxresdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLBwDhSg4l9H4wPPaJwg0cfoMHurcQ",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai myths and realities",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "AI Myths and Realities: What Beginners Should Know | Ep 05",
+          "description": "AI Myths and Realities: What Beginners Should Know. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 05 of 50\n\nWhat you will learn: Separate marketing claims from real capabilities.\nExample: a chatbot claiming to know tomorrow's weather without checking.\nTry it: make a myth-versus-fact table.\nRemember: AI is neither magic nor guaranteed to replace every job.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "private",
+        "publishAt": "2026-10-29T08:30:00Z",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dkNOzaaolVSW3q6xcI-EyATZKYE",
+      "id": "zk1Z9Aieiys",
+      "snippet": {
+        "publishedAt": "2026-10-27T10:34:06Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "How Generative AI Works: From Prompt to New Content | Ep 04",
+        "description": "How Generative AI Works: From Prompt to New Content. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 04 of 50\n\nWhat you will learn: Generative models learn statistical relationships and generate new outputs.\nExample: asking for a bedtime story about a robot.\nTry it: generate and revise a three-sentence story.\nRemember: generated content can sound plausible without being true.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:53 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/zk1Z9Aieiys/default.jpg?sqp=CLCIgtcG&rs=AOn4CLD0rSJCN1uGFgJ9lIEV7GEvoUI_Mg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/zk1Z9Aieiys/mqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLDHSwhtzN5Hnsx1sEKEkzXHYEf-mw",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/zk1Z9Aieiys/hqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLB_d_rs8LNjXYZN1LGUWjohpzHm4g",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/zk1Z9Aieiys/sddefault.jpg?sqp=CLCIgtcG&rs=AOn4CLCWXtSyJthe9ZHmNb7ewVwPbIPMTw",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/zk1Z9Aieiys/maxresdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLD9-pe0aUJgg-T9-FxZJBW77kGvMA",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "how generative ai works",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How Generative AI Works: From Prompt to New Content | Ep 04",
+          "description": "How Generative AI Works: From Prompt to New Content. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 04 of 50\n\nWhat you will learn: Generative models learn statistical relationships and generate new outputs.\nExample: asking for a bedtime story about a robot.\nTry it: generate and revise a three-sentence story.\nRemember: generated content can sound plausible without being true.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:53 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "private",
+        "publishAt": "2026-10-28T08:30:00Z",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "D7pamE2nKX3SiR5K6361-uhZ3Os",
+      "id": "Zvoo_4O7aRI",
+      "snippet": {
+        "publishedAt": "2026-10-27T10:32:27Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "AI vs Machine Learning vs Deep Learning: The Simple Difference | Ep 03",
+        "description": "AI vs Machine Learning vs Deep Learning: The Simple Difference. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 03 of 50\n\nWhat you will learn: Ai is the broad field, machine learning learns from examples, and deep learning uses layered neural networks.\nExample: sorting photos of cats and dogs.\nTry it: draw three nested circles.\nRemember: these terms overlap but are not interchangeable.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:54 On-screen demonstration\n02:53 Guided beginner exercise\n03:52 Limitations, recap and CTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/Zvoo_4O7aRI/default.jpg?sqp=CLCIgtcG&rs=AOn4CLDTiTzBKQh5T7b6hkqr6KiP3RoxRg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/Zvoo_4O7aRI/mqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLDqa2S7Z7lHYtnT4vr-XViQrwZxGA",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/Zvoo_4O7aRI/hqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLAQn-9OV5SaIrfGcFWj-DkhW_UbBg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/Zvoo_4O7aRI/sddefault.jpg?sqp=CLCIgtcG&rs=AOn4CLB-ukFqYr2flnFDA-SSbzXpdOViZg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/Zvoo_4O7aRI/maxresdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLDnCTScWVNWNgD-lE2zg0MEsyE4Gg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai vs machine learning vs deep learning",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "AI vs Machine Learning vs Deep Learning: The Simple Difference | Ep 03",
+          "description": "AI vs Machine Learning vs Deep Learning: The Simple Difference. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 03 of 50\n\nWhat you will learn: Ai is the broad field, machine learning learns from examples, and deep learning uses layered neural networks.\nExample: sorting photos of cats and dogs.\nTry it: draw three nested circles.\nRemember: these terms overlap but are not interchangeable.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:54 On-screen demonstration\n02:53 Guided beginner exercise\n03:52 Limitations, recap and CTA"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "private",
+        "publishAt": "2026-10-28T08:30:00Z",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MrjyWHUigaqBwjQyq7PR8psLCck",
+      "id": "upGQIZplJPs",
+      "snippet": {
+        "publishedAt": "2026-10-27T10:30:58Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "AI in Everyday Life: Features You Already Use | Ep 02",
+        "description": "AI in Everyday Life: Features You Already Use. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 02 of 50\n\nWhat you will learn: Recommendations, maps, spam filters and cameras use ai.\nExample: a video platform suggesting a tutorial.\nTry it: identify three AI features on your phone.\nRemember: recommendations optimize patterns rather than understanding your needs perfectly.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:51 Guided beginner exercise\n03:52 Limitations, recap and CTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/upGQIZplJPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/upGQIZplJPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/upGQIZplJPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/upGQIZplJPs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/upGQIZplJPs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai in everyday life",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "AI in Everyday Life: Features You Already Use | Ep 02",
+          "description": "AI in Everyday Life: Features You Already Use. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 02 of 50\n\nWhat you will learn: Recommendations, maps, spam filters and cameras use ai.\nExample: a video platform suggesting a tutorial.\nTry it: identify three AI features on your phone.\nRemember: recommendations optimize patterns rather than understanding your needs perfectly.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:51 Guided beginner exercise\n03:52 Limitations, recap and CTA"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "likeCount": "2",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NDC2thvH6ivh9-bZsgDI9fkuIVI",
+      "id": "TgIcPIs9y34",
+      "snippet": {
+        "publishedAt": "2026-10-27T10:30:21Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Dropdown Menus | Web Development in 60 Seconds",
+        "description": "A select element presents a list of choices. Learn html dropdown menus with a quick example for beginners.\n\nEach option inside the select becomes one available choice.\nA value attribute can specify the data submitted for an option.\n\nTry it: Create a dropdown with three learning goals.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 17\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TgIcPIs9y34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TgIcPIs9y34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TgIcPIs9y34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TgIcPIs9y34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TgIcPIs9y34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "bjp",
+          "cjp",
+          "coding shorts",
+          "congree",
+          "elon mask",
+          "html dropdown menus",
+          "html tutorial",
+          "learn to code",
+          "neha bora",
+          "trump",
+          "usa",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Dropdown Menus | Web Development in 60 Seconds",
+          "description": "A select element presents a list of choices. Learn html dropdown menus with a quick example for beginners.\n\nEach option inside the select becomes one available choice.\nA value attribute can specify the data submitted for an option.\n\nTry it: Create a dropdown with three learning goals.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 17\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QT_ZZrNt_l7uTsUJkH06lP04Q80",
+      "id": "z3Z_RcpRZrw",
+      "snippet": {
+        "publishedAt": "2026-10-27T10:30:06Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "What Is AI? A Simple Explanation with Everyday Examples | Ep 01",
+        "description": "What Is AI? A Simple Explanation with Everyday Examples. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 01 of 50\n\nWhat you will learn: Ai systems recognize patterns and produce predictions or content.\nExample: a phone suggesting the next word while you type.\nTry it: compare a human-written sentence with an AI suggestion.\nRemember: AI is not a human brain and can be confidently wrong.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "what is artificial intelligence?"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What Is AI? A Simple Explanation with Everyday Examples | Ep 01",
+          "description": "What Is AI? A Simple Explanation with Everyday Examples. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 01 of 50\n\nWhat you will learn: Ai systems recognize patterns and produce predictions or content.\nExample: a phone suggesting the next word while you type.\nTry it: compare a human-written sentence with an AI suggestion.\nRemember: AI is not a human brain and can be confidently wrong.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2r0f2Tgq0as_5pV6BHthKeNOH80",
+      "id": "LYJz6pp8g9Y",
+      "snippet": {
+        "publishedAt": "2026-10-27T05:30:12Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Checkboxes & Radio Buttons | Web Development in 60 Seconds",
+        "description": "Checkboxes allow independent choices; radio buttons select within a group. Learn html checkboxes & radio buttons with a quick example for beginners.\n\nUse the same name for radio buttons that belong to one group.\nCheckboxes are useful when several options may be selected together.\n\nTry it: Create two skill checkboxes and a radio group for experience level.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 16\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LYJz6pp8g9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LYJz6pp8g9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LYJz6pp8g9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LYJz6pp8g9Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LYJz6pp8g9Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "bjp",
+          "cjp",
+          "coding shorts",
+          "congree",
+          "elon mask",
+          "html checkboxes & radio buttons",
+          "html tutorial",
+          "learn to code",
+          "neha bora",
+          "trump",
+          "usa",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Checkboxes & Radio Buttons | Web Development in 60 Seconds",
+          "description": "Checkboxes allow independent choices; radio buttons select within a group. Learn html checkboxes & radio buttons with a quick example for beginners.\n\nUse the same name for radio buttons that belong to one group.\nCheckboxes are useful when several options may be selected together.\n\nTry it: Create two skill checkboxes and a radio group for experience level.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 16\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7",
+        "likeCount": "3",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xorCEpwQdjGueTDdJIY_84ESUzQ",
+      "id": "BxdkMvdx7G8",
+      "snippet": {
+        "publishedAt": "2026-10-26T12:30:33Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8",
+        "description": "Learn agile testing methods and techniques with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 8 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 TDD\n\u2022 BDD\n\u2022 ATDD\n\u2022 Exploratory testing\n\u2022 Test design\n\u2022 Combining methods\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:58 TDD\n01:56 BDD\n02:59 ATDD\n04:03 Exploratory testing\n05:06 Test design\n06:11 Combining methods\n07:08 Worked example\n07:56 A closer look\n08:44 Verify the outcome\n09:35 Recap\n\nPractice: What changes after an item is removed?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "agile testing methods and techniques",
+          "cjp",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8",
+          "description": "Learn agile testing methods and techniques with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 8 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 TDD\n\u2022 BDD\n\u2022 ATDD\n\u2022 Exploratory testing\n\u2022 Test design\n\u2022 Combining methods\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:58 TDD\n01:56 BDD\n02:59 ATDD\n04:03 Exploratory testing\n05:06 Test design\n06:11 Combining methods\n07:08 Worked example\n07:56 A closer look\n08:44 Verify the outcome\n09:35 Recap\n\nPractice: What changes after an item is removed?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        },
+        "defaultAudioLanguage": "bn"
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LQH5IMaOwvnE5WJGzbaGfzEivGo",
+      "id": "_LSyyLx-ex0",
+      "snippet": {
+        "publishedAt": "2026-10-26T12:30:15Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7",
+        "description": "Learn agile testing in scrum with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 7 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Accountabilities\n\u2022 Refinement and planning\n\u2022 During the sprint\n\u2022 Definition of Done\n\u2022 Review and retrospective\n\u2022 Sprint walkthrough\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Accountabilities\n02:00 Refinement and planning\n03:02 During the sprint\n04:02 Definition of Done\n05:06 Review and retrospective\n06:06 Sprint walkthrough\n07:14 Worked example\n07:56 A closer look\n08:44 Verify the outcome\n09:36 Recap\n\nPractice: Is unverified work really Done?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing in scrum",
+          "agile testing masterclass",
+          "cjp",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7",
+          "description": "Learn agile testing in scrum with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 7 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Accountabilities\n\u2022 Refinement and planning\n\u2022 During the sprint\n\u2022 Definition of Done\n\u2022 Review and retrospective\n\u2022 Sprint walkthrough\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Accountabilities\n02:00 Refinement and planning\n03:02 During the sprint\n04:02 Definition of Done\n05:06 Review and retrospective\n06:06 Sprint walkthrough\n07:14 Worked example\n07:56 A closer look\n08:44 Verify the outcome\n09:36 Recap\n\nPractice: Is unverified work really Done?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "likeCount": "2",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "z-HSzr8Chfjn4FG3yxmj1ItM3_Q",
+      "id": "MEEDwR24JOw",
+      "snippet": {
+        "publishedAt": "2026-10-26T10:30:07Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Input Types | Web Development in 60 Seconds",
+        "description": "Input types tell a browser what kind of value to collect. Learn html input types with a quick example for beginners.\n\nEmail, password, and number types offer different input behavior.\nAn email field can participate in browser validation.\n\nTry it: Try three input types and compare their behavior.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 15\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MEEDwR24JOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MEEDwR24JOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MEEDwR24JOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MEEDwR24JOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MEEDwR24JOw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "bjp",
+          "cjp",
+          "coding shorts",
+          "congree",
+          "elon mask",
+          "html input types",
+          "html tutorial",
+          "learn to code",
+          "neha bora",
+          "trump",
+          "usa",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Input Types | Web Development in 60 Seconds",
+          "description": "Input types tell a browser what kind of value to collect. Learn html input types with a quick example for beginners.\n\nEmail, password, and number types offer different input behavior.\nAn email field can participate in browser validation.\n\nTry it: Try three input types and compare their behavior.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 15\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        },
+        "defaultAudioLanguage": "bn"
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12",
+        "likeCount": "4",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FEyIbYkvQmfmRv1u_Fa9DtiRPXE",
+      "id": "PZeEmk-S7_w",
+      "snippet": {
+        "publishedAt": "2026-10-26T05:30:06Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Forms Introduction | Web Development in 60 Seconds",
+        "description": "A form groups controls that collect information from a user. Learn html forms introduction with a quick example for beginners.\n\nGive controls labels so people can understand what to enter.\nThe name attribute identifies a field when form data is submitted.\n\nTry it: Create a labeled email field and a submit button.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 14\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PZeEmk-S7_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PZeEmk-S7_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PZeEmk-S7_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PZeEmk-S7_w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PZeEmk-S7_w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "bjp",
+          "cjp",
+          "coding shorts",
+          "congree",
+          "elon mask",
+          "html forms introduction",
+          "html tutorial",
+          "learn to code",
+          "neha bora",
+          "trump",
+          "usa",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Forms Introduction | Web Development in 60 Seconds",
+          "description": "A form groups controls that collect information from a user. Learn html forms introduction with a quick example for beginners.\n\nGive controls labels so people can understand what to enter.\nThe name attribute identifies a field when form data is submitted.\n\nTry it: Create a labeled email field and a submit button.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 14\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9",
+        "likeCount": "2",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Epll1irOr3Ir7Nzum1V3bx_UKeI",
+      "id": "9enXNnWJxG0",
+      "snippet": {
+        "publishedAt": "2026-10-25T17:17:01Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Semantic HTML | Web Development in 60 Seconds",
+        "description": "Semantic HTML describes the purpose of your content. Learn semantic html with a quick example for beginners.\n\nHeader, navigation, main, and footer give sections meaningful roles.\nThese landmarks help assistive technology users navigate a page.\n\nTry it: Replace generic page containers with suitable semantic elements.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 18\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/9enXNnWJxG0/default.jpg?sqp=CLCIgtcG&rs=AOn4CLANDrsbgO-Ev-RKgqWq4cF7wB6xog",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/9enXNnWJxG0/mqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLCWPcX0jwaBO4aactDd39ac4BBgZw",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/9enXNnWJxG0/hqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLCNBmwnFR3FN6_GAAjccBCYGADZeA",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "bjp",
+          "cjp",
+          "coding shorts",
+          "congree",
+          "elon mask",
+          "html tutorial",
+          "learn to code",
+          "neha bora",
+          "semantic html",
+          "trump",
+          "usa",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Semantic HTML | Web Development in 60 Seconds",
+          "description": "Semantic HTML describes the purpose of your content. Learn semantic html with a quick example for beginners.\n\nHeader, navigation, main, and footer give sections meaningful roles.\nThese landmarks help assistive technology users navigate a page.\n\nTry it: Replace generic page containers with suitable semantic elements.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 18\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "private",
+        "publishAt": "2026-10-28T05:30:00Z",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BOdrphv2F8Gadd1GShhjV3oN36I",
+      "id": "Ng8wTrGTul4",
+      "snippet": {
+        "publishedAt": "2026-10-25T12:30:32Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+        "description": "Learn agile testing principles and attributes with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 5 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Continuous quality\n\u2022 Shared responsibility\n\u2022 Adaptability and feedback\n\u2022 Risk-based testing\n\u2022 Maintainable automation\n\u2022 Continuous improvement\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Continuous quality\n02:01 Shared responsibility\n03:06 Adaptability and feedback\n04:07 Risk-based testing\n05:10 Maintainable automation\n06:10 Continuous improvement\n07:09 Worked example\n07:57 A closer look\n08:45 Verify the outcome\n09:35 Recap\n\nPractice: What happens when cancellation meets renewal?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ng8wTrGTul4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ng8wTrGTul4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ng8wTrGTul4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ng8wTrGTul4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ng8wTrGTul4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "agile testing principles and attributes",
+          "cjp",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+          "description": "Learn agile testing principles and attributes with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 5 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Continuous quality\n\u2022 Shared responsibility\n\u2022 Adaptability and feedback\n\u2022 Risk-based testing\n\u2022 Maintainable automation\n\u2022 Continuous improvement\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Continuous quality\n02:01 Shared responsibility\n03:06 Adaptability and feedback\n04:07 Risk-based testing\n05:10 Maintainable automation\n06:10 Continuous improvement\n07:09 Worked example\n07:57 A closer look\n08:45 Verify the outcome\n09:35 Recap\n\nPractice: What happens when cancellation meets renewal?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "2",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "P3z23--ZplFYW4o-jDf0BCYYaoc",
+      "id": "HH9gdETVS-E",
+      "snippet": {
+        "publishedAt": "2026-10-25T12:30:01Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+        "description": "Learn four agile testing quadrants with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 6 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Quadrant 1\n\u2022 Quadrant 2\n\u2022 Quadrant 3\n\u2022 Quadrant 4\n\u2022 Combined example\n\u2022 Worked example\n\u2022 Guided practice\n\nCHAPTERS\n00:00 Introduction\n00:59 Quadrant 1\n01:59 Quadrant 2\n03:03 Quadrant 3\n04:04 Quadrant 4\n05:09 Combined example\n06:14 Worked example\n07:04 Guided practice\n07:53 A closer look\n08:45 Verify the outcome\n09:35 Recap\n\nPractice: Which important perspective is missing?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HH9gdETVS-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HH9gdETVS-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HH9gdETVS-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HH9gdETVS-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HH9gdETVS-E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "cjp",
+          "four agile testing quadrants",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+          "description": "Learn four agile testing quadrants with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 6 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Quadrant 1\n\u2022 Quadrant 2\n\u2022 Quadrant 3\n\u2022 Quadrant 4\n\u2022 Combined example\n\u2022 Worked example\n\u2022 Guided practice\n\nCHAPTERS\n00:00 Introduction\n00:59 Quadrant 1\n01:59 Quadrant 2\n03:03 Quadrant 3\n04:04 Quadrant 4\n05:09 Combined example\n06:14 Worked example\n07:04 Guided practice\n07:53 A closer look\n08:45 Verify the outcome\n09:35 Recap\n\nPractice: Which important perspective is missing?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XrQZeTKc02zweYeDpGuJw5RB3mM",
+      "id": "yP-l14vRQME",
+      "snippet": {
+        "publishedAt": "2026-10-25T10:30:00Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Tables | Web Development in 60 Seconds",
+        "description": "Tables organize data into rows and columns. Learn html tables with a quick example for beginners.\n\nT R defines a row, T H a header, and T D a cell.\nA caption can describe what the table contains.\n\nTry it: Create a table showing two skills and their practice time.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 13\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yP-l14vRQME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yP-l14vRQME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yP-l14vRQME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yP-l14vRQME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yP-l14vRQME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "html tables",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Tables | Web Development in 60 Seconds",
+          "description": "Tables organize data into rows and columns. Learn html tables with a quick example for beginners.\n\nT R defines a row, T H a header, and T D a cell.\nA caption can describe what the table contains.\n\nTry it: Create a table showing two skills and their practice time.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 13\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "19",
+        "likeCount": "3",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7YC1AaIBDIlKOXJzAawdb4uZvrQ",
+      "id": "s8vTrnbddoo",
+      "snippet": {
+        "publishedAt": "2026-10-25T06:20:04Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Line Breaks | Web Development in 60 Seconds",
+        "description": "Line breaks and thematic breaks have different meanings. Learn html line breaks with a quick example for beginners.\n\nB R creates a line break; H R marks a thematic break.\nA line break suits addresses and lines of a poem.\n\nTry it: Write a two-line address, then add a thematic break below it.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 12\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s8vTrnbddoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s8vTrnbddoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s8vTrnbddoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s8vTrnbddoo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s8vTrnbddoo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "html line breaks",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners",
+          "cjp",
+          "bjp",
+          "congree",
+          "neha bora",
+          "trump",
+          "tesla",
+          "elon mask"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Line Breaks | Web Development in 60 Seconds",
+          "description": "Line breaks and thematic breaks have different meanings. Learn html line breaks with a quick example for beginners.\n\nB R creates a line break; H R marks a thematic break.\nA line break suits addresses and lines of a poem.\n\nTry it: Write a two-line address, then add a thematic break below it.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 12\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "24",
+        "likeCount": "3",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Dw4fb6pgH8ZyVKBNVI5U_TOU5hI",
+      "id": "PMmOSKNzM18",
+      "snippet": {
+        "publishedAt": "2026-10-24T16:46:13Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Comments | Web Development in 60 Seconds",
+        "description": "HTML comments are notes that browsers do not display as page content. Learn html comments with a quick example for beginners.\n\nA comment begins with an angle bracket, exclamation mark, and two hyphens.\nIt ends with two hyphens and a closing angle bracket.\n\nTry it: Add a short comment explaining the next section of your page.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 11\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PMmOSKNzM18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PMmOSKNzM18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PMmOSKNzM18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PMmOSKNzM18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PMmOSKNzM18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "html comments",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners",
+          "cjp",
+          "bjp",
+          "latent",
+          "neha bora"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Comments | Web Development in 60 Seconds",
+          "description": "HTML comments are notes that browsers do not display as page content. Learn html comments with a quick example for beginners.\n\nA comment begins with an angle bracket, exclamation mark, and two hyphens.\nIt ends with two hyphens and a closing angle bracket.\n\nTry it: Add a short comment explaining the next section of your page.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 11\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "15",
+        "likeCount": "3",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "09hjH9xtjuCynCYaviFKiYprH1Q",
+      "id": "uX0pUdeNRhs",
+      "snippet": {
+        "publishedAt": "2026-10-24T16:45:35Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Div vs Span | Web Development in 60 Seconds",
+        "description": "Div and span are generic containers for grouping content. Learn html div vs span with a quick example for beginners.\n\nA div is block level by default; a span is inline.\nUse a span to group words within a line of text.\n\nTry it: Wrap a sentence in a div and one word in a span.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 10\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uX0pUdeNRhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uX0pUdeNRhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uX0pUdeNRhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uX0pUdeNRhs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uX0pUdeNRhs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "html div vs span",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Div vs Span | Web Development in 60 Seconds",
+          "description": "Div and span are generic containers for grouping content. Learn html div vs span with a quick example for beginners.\n\nA div is block level by default; a span is inline.\nUse a span to group words within a line of text.\n\nTry it: Wrap a sentence in a div and one word in a span.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 10\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "26",
+        "likeCount": "5",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A7NebnjO8tpG7xFRMdhTKB9x9mk",
+      "id": "ETNKUsval9c",
+      "snippet": {
+        "publishedAt": "2026-10-24T16:45:27Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+        "description": "Learn end-to-end agile testing case study with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 12 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Requirements\n\u2022 Sprint 1: Authentication\n\u2022 Sprint 2: Booking\n\u2022 Sprint 3: Payments\n\u2022 Regression and nonfunctional quality\n\u2022 Release and monitoring\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:55 Requirements\n01:56 Sprint 1: Authentication\n02:58 Sprint 2: Booking\n03:57 Sprint 3: Payments\n05:01 Regression and nonfunctional quality\n06:03 Release and monitoring\n07:04 Worked example\n07:52 A closer look\n08:39 Verify the outcome\n09:25 Course conclusion\n\nPractice: What evidence supports your release decision?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/ETNKUsval9c/default.jpg?sqp=CLCIgtcG&rs=AOn4CLBKxz-kTi4lQ8KmgjjGHs6ZU_7_ww",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/ETNKUsval9c/mqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLCm9iDwwOxJW-cj8J0q9OHh7xqZzg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/ETNKUsval9c/hqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLDcXUTzyqu_obTk_-Y30VMjMF_cIw",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/ETNKUsval9c/sddefault.jpg?sqp=CLCIgtcG&rs=AOn4CLCc3KT-PJsE9XJActhcmUQ8hLBpQw",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/ETNKUsval9c/maxresdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLCt4s1OC2wMUrUS956ANuNVLO5ggQ",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "cjp",
+          "end-to-end agile testing case study",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+          "description": "Learn end-to-end agile testing case study with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 12 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Requirements\n\u2022 Sprint 1: Authentication\n\u2022 Sprint 2: Booking\n\u2022 Sprint 3: Payments\n\u2022 Regression and nonfunctional quality\n\u2022 Release and monitoring\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:55 Requirements\n01:56 Sprint 1: Authentication\n02:58 Sprint 2: Booking\n03:57 Sprint 3: Payments\n05:01 Regression and nonfunctional quality\n06:03 Release and monitoring\n07:04 Worked example\n07:52 A closer look\n08:39 Verify the outcome\n09:25 Course conclusion\n\nPractice: What evidence supports your release decision?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "private",
+        "publishAt": "2026-10-28T12:30:00Z",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KaKo87snXblVAyTAFeYds9XGWR4",
+      "id": "bQb0NnHMJt0",
+      "snippet": {
+        "publishedAt": "2026-10-24T16:45:07Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+        "description": "Learn agile testing tools and automation with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 11 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Issue tracking\n\u2022 API testing\n\u2022 Web and mobile automation\n\u2022 Performance and security\n\u2022 Continuous integration\n\u2022 Automation strategy\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n01:01 Issue tracking\n02:02 API testing\n03:05 Web and mobile automation\n04:04 Performance and security\n05:06 Continuous integration\n06:08 Automation strategy\n07:12 Worked example\n08:00 A closer look\n08:46 Verify the outcome\n09:34 Recap\n\nPractice: What does a green build actually prove?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/bQb0NnHMJt0/default.jpg?sqp=CLCIgtcG&rs=AOn4CLAYszLnL39W4a2UEJOVrQK6fIHx7A",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/bQb0NnHMJt0/mqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLD_2zIb7Rzvdi94PMXsZnQAJZENMg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/bQb0NnHMJt0/hqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLCQibYZBTRovjF-C9J4UiWOoxEXig",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/bQb0NnHMJt0/sddefault.jpg?sqp=CLCIgtcG&rs=AOn4CLAxB02j73Ncp4z7bmQLgYfF6uJH9g",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/bQb0NnHMJt0/maxresdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLDHW09Z8BbLczqC9JOoCQfc_pcMFA",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "agile testing tools and automation",
+          "cjp",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+          "description": "Learn agile testing tools and automation with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 11 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Issue tracking\n\u2022 API testing\n\u2022 Web and mobile automation\n\u2022 Performance and security\n\u2022 Continuous integration\n\u2022 Automation strategy\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n01:01 Issue tracking\n02:02 API testing\n03:05 Web and mobile automation\n04:04 Performance and security\n05:06 Continuous integration\n06:08 Automation strategy\n07:12 Worked example\n08:00 A closer look\n08:46 Verify the outcome\n09:34 Recap\n\nPractice: What does a green build actually prove?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "private",
+        "publishAt": "2026-10-28T12:30:00Z",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-byqQZNz1FCNzVuHTJuHJxdtJfE",
+      "id": "4pedCCloISY",
+      "snippet": {
+        "publishedAt": "2026-10-24T12:30:26Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4",
+        "description": "Learn agile testing activities and tracking with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 4 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Planning\n\u2022 Execution status\n\u2022 Defects\n\u2022 Metrics\n\u2022 Reporting\n\u2022 Tool walkthrough\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Planning\n01:58 Execution status\n03:02 Defects\n04:08 Metrics\n05:12 Reporting\n06:15 Tool walkthrough\n07:11 Worked example\n07:55 A closer look\n08:45 Verify the outcome\n09:33 Recap\n\nPractice: Which failure could block the release?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4pedCCloISY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4pedCCloISY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4pedCCloISY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4pedCCloISY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4pedCCloISY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing activities and tracking",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "cjp",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4",
+          "description": "Learn agile testing activities and tracking with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 4 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Planning\n\u2022 Execution status\n\u2022 Defects\n\u2022 Metrics\n\u2022 Reporting\n\u2022 Tool walkthrough\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Planning\n01:58 Execution status\n03:02 Defects\n04:08 Metrics\n05:12 Reporting\n06:15 Tool walkthrough\n07:11 Worked example\n07:55 A closer look\n08:45 Verify the outcome\n09:33 Recap\n\nPractice: Which failure could block the release?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1Hcl5qed6iFqpNBZbIzcFmBSmzk",
+      "id": "1oW6ocuUhWQ",
+      "snippet": {
+        "publishedAt": "2026-10-24T12:30:14Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3",
+        "description": "Learn role of a tester in agile with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 3 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Requirements refinement\n\u2022 Developer collaboration\n\u2022 Test execution\n\u2022 Communication\n\u2022 Technical skills\n\u2022 Effectiveness\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:59 Requirements refinement\n01:58 Developer collaboration\n03:01 Test execution\n04:05 Communication\n05:05 Technical skills\n06:09 Effectiveness\n07:11 Worked example\n07:54 A closer look\n08:43 Verify the outcome\n09:30 Recap\n\nPractice: Could retrying debit the account twice?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "cjp",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "role of a tester in agile",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3",
+          "description": "Learn role of a tester in agile with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 3 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Requirements refinement\n\u2022 Developer collaboration\n\u2022 Test execution\n\u2022 Communication\n\u2022 Technical skills\n\u2022 Effectiveness\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:59 Requirements refinement\n01:58 Developer collaboration\n03:01 Test execution\n04:05 Communication\n05:05 Technical skills\n06:09 Effectiveness\n07:11 Worked example\n07:54 A closer look\n08:43 Verify the outcome\n09:30 Recap\n\nPractice: Could retrying debit the account twice?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "py7q6QRkkHSlzI2VEckETzq-8cg",
+      "id": "X0hokSm8f2U",
+      "snippet": {
+        "publishedAt": "2026-10-23T15:49:51Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+        "description": "Learn agile testing with kanban with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 10 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Visual workflow\n\u2022 WIP limits\n\u2022 Flow metrics\n\u2022 Bottlenecks\n\u2022 Classes of service\n\u2022 Maintenance example\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Visual workflow\n01:55 WIP limits\n02:57 Flow metrics\n04:01 Bottlenecks\n05:03 Classes of service\n06:06 Maintenance example\n07:09 Worked example\n07:53 A closer look\n08:44 Verify the outcome\n09:35 Recap\n\nPractice: Why is the Testing queue always full?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/X0hokSm8f2U/default.jpg?sqp=CLCIgtcG&rs=AOn4CLDXFIlkeVY4Df186Id3-l6bgZvMvg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/X0hokSm8f2U/mqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLBl82GnlwTV_GnXRpdJ69n-ybOsaw",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/X0hokSm8f2U/hqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLA3UCzPA0tI5qrgiQdXpkmyBLvYhw",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/X0hokSm8f2U/sddefault.jpg?sqp=CLCIgtcG&rs=AOn4CLC8C8HBz0bpM1L9BoPqHKEGcrmD_A",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/X0hokSm8f2U/maxresdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLAqTflPg0eBDr8JTyfFbPM4Dvla5Q",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "agile testing with kanban",
+          "cjp",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+          "description": "Learn agile testing with kanban with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 10 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Visual workflow\n\u2022 WIP limits\n\u2022 Flow metrics\n\u2022 Bottlenecks\n\u2022 Classes of service\n\u2022 Maintenance example\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Visual workflow\n01:55 WIP limits\n02:57 Flow metrics\n04:01 Bottlenecks\n05:03 Classes of service\n06:06 Maintenance example\n07:09 Worked example\n07:53 A closer look\n08:44 Verify the outcome\n09:35 Recap\n\nPractice: Why is the Testing queue always full?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "private",
+        "publishAt": "2026-10-27T12:30:00Z",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "d_mbqtIaeGyR39H0O7UuYlB181U",
+      "id": "t3WpRYW0lGg",
+      "snippet": {
+        "publishedAt": "2026-10-23T15:49:31Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9",
+        "description": "Learn agile testing artifacts and documentation with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 9 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Stories and criteria\n\u2022 Test cases\n\u2022 Defect reports\n\u2022 Plans and charters\n\u2022 Traceability\n\u2022 Practical document set\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:58 Stories and criteria\n01:56 Test cases\n03:01 Defect reports\n04:07 Plans and charters\n05:07 Traceability\n06:06 Practical document set\n07:11 Worked example\n07:58 A closer look\n08:47 Verify the outcome\n09:37 Recap\n\nPractice: Can another person reproduce the result?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i9.ytimg.com/vi/t3WpRYW0lGg/default.jpg?sqp=CLCIgtcG&rs=AOn4CLCthVCXsQAhQOTB3KQ20gqxGj7HOQ",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i9.ytimg.com/vi/t3WpRYW0lGg/mqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLCBjOBFw5UmniJEx-7f8ybHhprOlQ",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i9.ytimg.com/vi/t3WpRYW0lGg/hqdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLB2OEGao_toj_XIrFF60DXIyv6jmA",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/vi/t3WpRYW0lGg/sddefault.jpg?sqp=CLCIgtcG&rs=AOn4CLDxIOMlFTY9gstIuPMYKFvM-9FMaQ",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/vi/t3WpRYW0lGg/maxresdefault.jpg?sqp=CLCIgtcG&rs=AOn4CLCeGFCD9FipzkEjQCzusH6NDdTQMA",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing artifacts and documentation",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "cjp",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9",
+          "description": "Learn agile testing artifacts and documentation with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 9 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Stories and criteria\n\u2022 Test cases\n\u2022 Defect reports\n\u2022 Plans and charters\n\u2022 Traceability\n\u2022 Practical document set\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:58 Stories and criteria\n01:56 Test cases\n03:01 Defect reports\n04:07 Plans and charters\n05:07 Traceability\n06:06 Practical document set\n07:11 Worked example\n07:58 A closer look\n08:47 Verify the outcome\n09:37 Recap\n\nPractice: Can another person reproduce the result?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "private",
+        "publishAt": "2026-10-27T12:30:00Z",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AgrDalW2pp7sOZNrRX0KXCHthyU",
+      "id": "aVPTY_zbmlU",
+      "snippet": {
+        "publishedAt": "2026-10-23T15:42:53Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+        "description": "Learn agile testing methodologies with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 2 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Scrum\n\u2022 Kanban\n\u2022 Extreme Programming\n\u2022 Lean Software Development\n\u2022 Choosing an approach\n\u2022 Worked example\n\u2022 Guided practice\n\nCHAPTERS\n00:00 Introduction\n00:56 Scrum\n02:14 Kanban\n03:23 Extreme Programming\n04:31 Lean Software Development\n05:36 Choosing an approach\n06:40 Worked example\n07:19 Guided practice\n07:59 A closer look\n08:46 Verify the outcome\n09:32 Recap\n\nPractice: What is slowing down useful feedback?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aVPTY_zbmlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aVPTY_zbmlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aVPTY_zbmlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aVPTY_zbmlU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aVPTY_zbmlU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "agile testing methodologies",
+          "cjp",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+          "description": "Learn agile testing methodologies with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 2 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Scrum\n\u2022 Kanban\n\u2022 Extreme Programming\n\u2022 Lean Software Development\n\u2022 Choosing an approach\n\u2022 Worked example\n\u2022 Guided practice\n\nCHAPTERS\n00:00 Introduction\n00:56 Scrum\n02:14 Kanban\n03:23 Extreme Programming\n04:31 Lean Software Development\n05:36 Choosing an approach\n06:40 Worked example\n07:19 Guided practice\n07:59 A closer look\n08:46 Verify the outcome\n09:32 Recap\n\nPractice: What is slowing down useful feedback?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "13",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vfbtYYJ55HczYkEmlIY7RpIL7AE",
+      "id": "reA35oDRHj8",
+      "snippet": {
+        "publishedAt": "2026-10-23T15:38:27Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Agile Testing Explained for Beginners | Real Examples | Episode 1",
+        "description": "Learn agile testing fundamentals with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 1 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Hook and introduction\n\u2022 What is Agile Testing?\n\u2022 Agile versus traditional testing\n\u2022 Five core principles\n\u2022 Agile Testing in Scrum\n\u2022 Four Agile Testing quadrants\n\u2022 Real-world example\n\u2022 Tools and automation\n\nCHAPTERS\n00:00 Hook and introduction\n00:43 What is Agile Testing?\n02:08 Agile versus traditional testing\n02:57 Five core principles\n04:22 Agile Testing in Scrum\n05:15 Four Agile Testing quadrants\n06:51 Real-world example\n08:18 Tools and automation\n09:04 Recap and outro\n\nPractice: Which failure would you investigate first?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing fundamentals",
+          "agile testing masterclass",
+          "cjp",
+          "latent",
+          "manual testing",
+          "modi",
+          "neha bora",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Agile Testing Explained for Beginners | Real Examples | Episode 1",
+          "description": "Learn agile testing fundamentals with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 1 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Hook and introduction\n\u2022 What is Agile Testing?\n\u2022 Agile versus traditional testing\n\u2022 Five core principles\n\u2022 Agile Testing in Scrum\n\u2022 Four Agile Testing quadrants\n\u2022 Real-world example\n\u2022 Tools and automation\n\nCHAPTERS\n00:00 Hook and introduction\n00:43 What is Agile Testing?\n02:08 Agile versus traditional testing\n02:57 Five core principles\n04:22 Agile Testing in Scrum\n05:15 Four Agile Testing quadrants\n06:51 Real-world example\n08:18 Tools and automation\n09:04 Recap and outro\n\nPractice: Which failure would you investigate first?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8",
+        "likeCount": "3",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3DI8xyCP8S6Fk1d1QWnCR264lE4",
+      "id": "5gQr8gC3yno",
+      "snippet": {
+        "publishedAt": "2026-10-23T10:30:31Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Attributes | Web Development in 60 Seconds",
+        "description": "Attributes provide additional information about an element. Learn html attributes with a quick example for beginners.\n\nWrite attributes inside the opening tag, commonly as name and value.\nAn I D identifies one element; a class can group several.\n\nTry it: Give two paragraphs the same class and different identifiers.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 9\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5gQr8gC3yno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5gQr8gC3yno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5gQr8gC3yno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5gQr8gC3yno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5gQr8gC3yno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "html attributes",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Attributes | Web Development in 60 Seconds",
+          "description": "Attributes provide additional information about an element. Learn html attributes with a quick example for beginners.\n\nWrite attributes inside the opening tag, commonly as name and value.\nAn I D identifies one element; a class can group several.\n\nTry it: Give two paragraphs the same class and different identifiers.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 9\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "43",
+        "likeCount": "5",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0Qku5kVxs2TjFMuNxj2uV29dqBo",
+      "id": "emkJjvrZTeE",
+      "snippet": {
+        "publishedAt": "2026-10-23T05:30:28Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Buttons | Web Development in 60 Seconds",
+        "description": "A button is a control that people can activate. Learn html buttons with a quick example for beginners.\n\nUse the button element to create an accessible native control.\nJavaScript can listen for a click and perform an action.\n\nTry it: Create a button with a clear action label.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 8\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/emkJjvrZTeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/emkJjvrZTeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/emkJjvrZTeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/emkJjvrZTeE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/emkJjvrZTeE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "html buttons",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Buttons | Web Development in 60 Seconds",
+          "description": "A button is a control that people can activate. Learn html buttons with a quick example for beginners.\n\nUse the button element to create an accessible native control.\nJavaScript can listen for a click and perform an action.\n\nTry it: Create a button with a clear action label.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 8\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "52",
+        "likeCount": "4",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-GR5bLtuFMYL5DGjqvIy9WwCD9o",
+      "id": "ZCMbUuFgbHw",
+      "snippet": {
+        "publishedAt": "2026-10-22T10:30:07Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Lists Explained | Web Development in 60 Seconds",
+        "description": "Lists group related items in a meaningful order. Learn html lists explained with a quick example for beginners.\n\nUse an unordered list for bullets, and an ordered list for numbering.\nEach list item belongs inside an L I element.\n\nTry it: Create a numbered list of three steps in your morning routine.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 7\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZCMbUuFgbHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZCMbUuFgbHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZCMbUuFgbHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZCMbUuFgbHw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZCMbUuFgbHw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "html lists explained",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Lists Explained | Web Development in 60 Seconds",
+          "description": "Lists group related items in a meaningful order. Learn html lists explained with a quick example for beginners.\n\nUse an unordered list for bullets, and an ordered list for numbering.\nEach list item belongs inside an L I element.\n\nTry it: Create a numbered list of three steps in your morning routine.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 7\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "38",
+        "likeCount": "4",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SPYeIHd_wcppKHqQGow3PGdpw2s",
+      "id": "UdFrS1p0n2Q",
+      "snippet": {
+        "publishedAt": "2026-10-22T05:30:19Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "How to Add Images in HTML | Web Development in 60 Seconds",
+        "description": "An image element embeds a picture in your page. Learn how to add images in html with a quick example for beginners.\n\nSource identifies the image file; alt provides a text alternative.\nDescribe useful image content in the alternative text.\n\nTry it: Add a local image with a useful text description.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 6\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UdFrS1p0n2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UdFrS1p0n2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UdFrS1p0n2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UdFrS1p0n2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UdFrS1p0n2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "how to add images in html",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How to Add Images in HTML | Web Development in 60 Seconds",
+          "description": "An image element embeds a picture in your page. Learn how to add images in html with a quick example for beginners.\n\nSource identifies the image file; alt provides a text alternative.\nDescribe useful image content in the alternative text.\n\nTry it: Add a local image with a useful text description.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 6\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "47",
+        "likeCount": "3",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Zz4O0Zi2ZOOMpbIuh__e3aBNn8Q",
+      "id": "NwK_T8Qxams",
+      "snippet": {
+        "publishedAt": "2026-10-21T10:30:22Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "How to Add Links in HTML | Web Development in 60 Seconds",
+        "description": "Links connect your page to other pages or resources. Learn how to add links in html with a quick example for beginners.\n\nThe anchor element creates the link; H ref supplies its destination.\nThe text between the tags becomes the clickable label.\n\nTry it: Add a link to a website you find useful.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 5\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NwK_T8Qxams/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NwK_T8Qxams/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NwK_T8Qxams/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NwK_T8Qxams/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NwK_T8Qxams/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "how to add links in html",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How to Add Links in HTML | Web Development in 60 Seconds",
+          "description": "Links connect your page to other pages or resources. Learn how to add links in html with a quick example for beginners.\n\nThe anchor element creates the link; H ref supplies its destination.\nThe text between the tags becomes the clickable label.\n\nTry it: Add a link to a website you find useful.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 5\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "105",
+        "likeCount": "5",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v8QSdi3cvGoMnN3rWCKRWJd3aCk",
+      "id": "XpPqAg6oUPQ",
+      "snippet": {
+        "publishedAt": "2026-10-21T05:30:06Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Paragraphs | Web Development in 60 Seconds",
+        "description": "A paragraph element groups a piece of text into a paragraph. Learn html paragraphs with a quick example for beginners.\n\nWrap each paragraph in opening and closing P tags.\nBrowsers normally leave space between paragraphs.\n\nTry it: Write two paragraphs about something you enjoy.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 4\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XpPqAg6oUPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XpPqAg6oUPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XpPqAg6oUPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XpPqAg6oUPQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XpPqAg6oUPQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "html paragraphs",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Paragraphs | Web Development in 60 Seconds",
+          "description": "A paragraph element groups a piece of text into a paragraph. Learn html paragraphs with a quick example for beginners.\n\nWrap each paragraph in opening and closing P tags.\nBrowsers normally leave space between paragraphs.\n\nTry it: Write two paragraphs about something you enjoy.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 4\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "29",
+        "likeCount": "3",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "at4rxy_llImqSKmGeKBV55TnWfQ",
+      "id": "iJj3UEqr3mM",
+      "snippet": {
+        "publishedAt": "2026-10-20T10:30:18Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Headings Explained | Web Development in 60 Seconds",
+        "description": "Headings organize a page into meaningful sections. Learn html headings explained with a quick example for beginners.\n\nH one is the highest heading level; H six is the lowest.\nUse heading levels to describe the hierarchy of your content.\n\nTry it: Create a page title and a heading for its first section.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 3\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iJj3UEqr3mM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iJj3UEqr3mM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iJj3UEqr3mM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iJj3UEqr3mM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iJj3UEqr3mM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "html headings explained",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners",
+          "cjp",
+          "modi",
+          "latent",
+          "delhi"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Headings Explained | Web Development in 60 Seconds",
+          "description": "Headings organize a page into meaningful sections. Learn html headings explained with a quick example for beginners.\n\nH one is the highest heading level; H six is the lowest.\nUse heading levels to describe the hierarchy of your content.\n\nTry it: Create a page title and a heading for its first section.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 3\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "17",
+        "likeCount": "3",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1mr6fd42LBgk5p1ZLkk8Kik0IlU",
+      "id": "GjtwEy6C0BY",
+      "snippet": {
+        "publishedAt": "2026-10-20T05:30:05Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "What Are HTML Tags? | Web Development in 60 Seconds",
+        "description": "Tags describe the role of content on a web page. Learn what are html tags? with a quick example for beginners.\n\nMost elements have an opening tag, content, and a closing tag.\nA slash marks the closing tag.\n\nTry it: Write a paragraph element containing your name.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 2\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GjtwEy6C0BY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GjtwEy6C0BY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GjtwEy6C0BY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GjtwEy6C0BY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GjtwEy6C0BY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "html tutorial",
+          "learn to code",
+          "web development for beginners",
+          "what are html tags?"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What Are HTML Tags? | Web Development in 60 Seconds",
+          "description": "Tags describe the role of content on a web page. Learn what are html tags? with a quick example for beginners.\n\nMost elements have an opening tag, content, and a closing tag.\nA slash marks the closing tag.\n\nTry it: Write a paragraph element containing your name.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 2\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content\n\n#WebDevelopment #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "32",
+        "likeCount": "3",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zHrb2lHPikYkxgDiUObv1kbWQCA",
+      "id": "Vi_gc4jOFAw",
+      "snippet": {
+        "publishedAt": "2026-10-19T11:44:07Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "HTML Explained in 60 Seconds | HTML for Beginners",
+        "description": "Learn HTML basics in 60 seconds! See how tags turn code into a web page, with simple examples of headings, paragraphs, and links.\n\nYou\u2019ll learn:\n\u2022 What HTML means\n\u2022 Opening and closing tags\n\u2022 Headings and paragraphs\n\u2022 Links and the href attribute\n\u2022 How HTML, CSS, and JavaScript work together\n\nTry it: write a heading and paragraph, save your file as index.html, and open it in your browser.\n\nWhat will your first web page be about? Tell us in the comments.\nLike, share, and subscribe for more beginner web development lessons.\n\n#HTML #LearnToCode #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vi_gc4jOFAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vi_gc4jOFAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vi_gc4jOFAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vi_gc4jOFAw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vi_gc4jOFAw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "tags": [
+          "coding shorts",
+          "first web page",
+          "html",
+          "html basics",
+          "html css javascript",
+          "html for beginners",
+          "html in 60 seconds",
+          "html introduction",
+          "html tags",
+          "html tutorial",
+          "learn html",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HTML Explained in 60 Seconds | HTML for Beginners",
+          "description": "Learn HTML basics in 60 seconds! See how tags turn code into a web page, with simple examples of headings, paragraphs, and links.\n\nYou\u2019ll learn:\n\u2022 What HTML means\n\u2022 Opening and closing tags\n\u2022 Headings and paragraphs\n\u2022 Links and the href attribute\n\u2022 How HTML, CSS, and JavaScript work together\n\nTry it: write a heading and paragraph, save your file as index.html, and open it in your browser.\n\nWhat will your first web page be about? Tell us in the comments.\nLike, share, and subscribe for more beginner web development lessons.\n\n#HTML #LearnToCode #Shorts"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular",
+        "hasCustomThumbnail": false
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "statistics": {
+        "viewCount": "133",
+        "likeCount": "7",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "BJVcjAU4zvS1x9suImxoG9H1tbo",
+      "id": "PLXqX5lBoONpI",
+      "snippet": {
+        "publishedAt": "2026-10-27T10:39:16.602018Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "Agile Testing Masterclass | TECH AT 60 | Complete Course",
+        "description": "Learn Agile Testing with TECH AT 60. Follow these 12 episodes in order: Agile fundamentals, frameworks, tester responsibilities, reporting, testing quadrants, Scrum, test methods, documentation, Kanban, tools, automation and a practical project. Scheduled episodes become visible when published.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/reA35oDRHj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Agile Testing Masterclass | TECH AT 60 | Complete Course",
+          "description": "Learn Agile Testing with TECH AT 60. Follow these 12 episodes in order: Agile fundamentals, frameworks, tester responsibilities, reporting, testing quadrants, Scrum, test methods, documentation, Kanban, tools, automation and a practical project. Scheduled episodes become visible when published."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 12
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LhpU0gKG1p2CFpt462pGnp2t3Sw",
+      "id": "PLHH8ZgwKrWFk",
+      "snippet": {
+        "publishedAt": "2026-10-27T10:35:44.621693Z",
+        "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+        "title": "AI for Beginners | TECH AT 60 | Complete 50-Episode Course",
+        "description": "Learn AI step by step with TECH AT 60. Watch these 50 beginner-friendly episodes in order: AI basics, prompting, productivity, creative tools, privacy, automation, APIs, agents and RAG. New episodes release in pairs at 2 PM IST. Future episodes appear as they are published.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech at 60",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "AI for Beginners | TECH AT 60 | Complete 50-Episode Course",
+          "description": "Learn AI step by step with TECH AT 60. Watch these 50 beginner-friendly episodes in order: AI basics, prompting, productivity, creative tools, privacy, automation, APIs, agents and RAG. New episodes release in pairs at 2 PM IST. Future episodes appear as they are published."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    }
+  ],
+  "sections": []
+}

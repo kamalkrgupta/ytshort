@@ -1,0 +1,3008 @@
+{
+  "createdAt": "2026-11-16T08:51:30.878037+00:00",
+  "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+  "changes": [
+    {
+      "id": "n8KtvhK8ScQ",
+      "kind": "coding-title-and-description",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "xiOHnPKP1GjNphGlW7fmZK9oSVs",
+        "id": "n8KtvhK8ScQ",
+        "snippet": {
+          "publishedAt": "2026-11-08T10:30:26Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "JavaScript Functions | Web Development in 60 Seconds",
+          "description": "A function groups instructions into a reusable operation. Learn javascript functions with a quick example for beginners.\n\nParameters receive input, and return sends a result back to the caller.\nCall the function with an argument to run its instructions.\n\nTry it: Write a function that returns the sum of two numbers.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 41\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/n8KtvhK8ScQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/n8KtvhK8ScQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/n8KtvhK8ScQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/n8KtvhK8ScQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/n8KtvhK8ScQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "coding shorts",
+            "javascript functions",
+            "javascript tutorial",
+            "learn to code",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "JavaScript Functions | Web Development in 60 Seconds",
+            "description": "A function groups instructions into a reusable operation. Learn javascript functions with a quick example for beginners.\n\nParameters receive input, and return sends a result back to the caller.\nCall the function with an argument to run its instructions.\n\nTry it: Write a function that returns the sum of two numbers.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 41\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "15",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "JavaScript Functions: Parameters, Return and Your First Function",
+        "description": "Write a reusable JavaScript function, pass in two numbers and return their sum. Learn how parameters, arguments and return work together.\n\nTry answering: What should add(2, 3) return?\n\nContinue learning: open the JavaScript for Beginners playlist on @Techat60.\nSubscribe to TECH AT 60 for practical beginner coding lessons.\n\nParameters receive input, and return sends a result back to the caller.\nCall the function with an argument to run its instructions.\n\nTry it: Write a function that returns the sum of two numbers.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 41\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "coding shorts",
+          "javascript functions",
+          "javascript tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "vgVn3gu5lhI",
+      "kind": "coding-title-and-description",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "PS3kFskTK5cxwLrNb_g-pmV9LfU",
+        "id": "vgVn3gu5lhI",
+        "snippet": {
+          "publishedAt": "2026-11-09T05:30:28Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "JavaScript If-Else | Web Development in 60 Seconds",
+          "description": "If and else let a program choose between actions. Learn javascript if-else with a quick example for beginners.\n\nThe if branch runs when its condition is truthy.\nThe else branch handles the alternative when that condition is false.\n\nTry it: Display a different message depending on a practice score.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 42\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vgVn3gu5lhI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vgVn3gu5lhI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vgVn3gu5lhI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vgVn3gu5lhI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vgVn3gu5lhI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "coding shorts",
+            "javascript if-else",
+            "javascript tutorial",
+            "learn to code",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "JavaScript If-Else | Web Development in 60 Seconds",
+            "description": "If and else let a program choose between actions. Learn javascript if-else with a quick example for beginners.\n\nThe if branch runs when its condition is truthy.\nThe else branch handles the alternative when that condition is false.\n\nTry it: Display a different message depending on a practice score.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 42\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "15",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "JavaScript If Else: Choose a Message Based on a Score",
+        "description": "Use JavaScript if and else to display a different message depending on a practice score. See how a condition chooses which branch runs.\n\nTry answering: What message would you show when a score is below your target?\n\nContinue learning: open the JavaScript for Beginners playlist on @Techat60.\nSubscribe to TECH AT 60 for practical beginner coding lessons.\n\nThe if branch runs when its condition is truthy.\nThe else branch handles the alternative when that condition is false.\n\nTry it: Display a different message depending on a practice score.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 42\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "coding shorts",
+          "javascript if-else",
+          "javascript tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "_3T2NZM_2Ac",
+      "kind": "coding-title-and-description",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "0LgKXnb5Ns0QM0pNkPjHZiy_tN4",
+        "id": "_3T2NZM_2Ac",
+        "snippet": {
+          "publishedAt": "2026-11-09T10:30:35Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "JavaScript Loops | Web Development in 60 Seconds",
+          "description": "Loops repeat instructions without writing the same code repeatedly. Learn javascript loops with a quick example for beginners.\n\nA for loop can initialize a counter, check a condition, and update it.\nEach pass through the loop is called an iteration.\n\nTry it: Print the numbers from one through five with a loop.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 43\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_3T2NZM_2Ac/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_3T2NZM_2Ac/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_3T2NZM_2Ac/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_3T2NZM_2Ac/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_3T2NZM_2Ac/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "coding shorts",
+            "javascript loops",
+            "javascript tutorial",
+            "learn to code",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "JavaScript Loops | Web Development in 60 Seconds",
+            "description": "Loops repeat instructions without writing the same code repeatedly. Learn javascript loops with a quick example for beginners.\n\nA for loop can initialize a counter, check a condition, and update it.\nEach pass through the loop is called an iteration.\n\nTry it: Print the numbers from one through five with a loop.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 43\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "14",
+          "likeCount": "3",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "JavaScript For Loops: Print 1 to 5 with One Loop",
+        "description": "Repeat an instruction with a JavaScript for loop. Learn the counter, condition and update by printing the numbers from one through five.\n\nTry answering: Which part of a for loop changes the counter?\n\nContinue learning: open the JavaScript for Beginners playlist on @Techat60.\nSubscribe to TECH AT 60 for practical beginner coding lessons.\n\nA for loop can initialize a counter, check a condition, and update it.\nEach pass through the loop is called an iteration.\n\nTry it: Print the numbers from one through five with a loop.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 43\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "coding shorts",
+          "javascript loops",
+          "javascript tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "B8q7YYhyiWs",
+      "kind": "coding-title-and-description",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "d6iMKMJIZ47iWxqVCzF99RIqlac",
+        "id": "B8q7YYhyiWs",
+        "snippet": {
+          "publishedAt": "2026-11-10T05:30:32Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "JavaScript Arrays | Web Development in 60 Seconds",
+          "description": "An array stores an ordered collection of values. Learn javascript arrays with a quick example for beginners.\n\nArray positions start at zero, so index zero gives the first item.\nPush appends an item, and length reports the number of items.\n\nTry it: Create an array of three skills and read its first item.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 44\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B8q7YYhyiWs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B8q7YYhyiWs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B8q7YYhyiWs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/B8q7YYhyiWs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/B8q7YYhyiWs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "coding shorts",
+            "javascript arrays",
+            "javascript tutorial",
+            "learn to code",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "JavaScript Arrays | Web Development in 60 Seconds",
+            "description": "An array stores an ordered collection of values. Learn javascript arrays with a quick example for beginners.\n\nArray positions start at zero, so index zero gives the first item.\nPush appends an item, and length reports the number of items.\n\nTry it: Create an array of three skills and read its first item.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 44\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "17",
+          "likeCount": "3",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "JavaScript Arrays: Index 0, Push and Length Explained",
+        "description": "Store three skills in a JavaScript array, read the first item with index 0 and learn what push and length do.\n\nTry answering: Which index gives you the first item in an array?\n\nContinue learning: open the JavaScript for Beginners playlist on @Techat60.\nSubscribe to TECH AT 60 for practical beginner coding lessons.\n\nArray positions start at zero, so index zero gives the first item.\nPush appends an item, and length reports the number of items.\n\nTry it: Create an array of three skills and read its first item.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 44\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "coding shorts",
+          "javascript arrays",
+          "javascript tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "Ka2cK0AVxJA",
+      "kind": "coding-title-and-description",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "cOMpEowFYZMJMchyZdlM-LHyrX0",
+        "id": "Ka2cK0AVxJA",
+        "snippet": {
+          "publishedAt": "2026-11-05T05:30:10Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Responsive Web Design | Web Development in 60 Seconds",
+          "description": "Responsive design adapts a page to different screen sizes. Learn responsive web design with a quick example for beginners.\n\nUse flexible layouts so content can rearrange as space changes.\nResponsive images and a viewport declaration support mobile layouts.\n\nTry it: Make a card layout that works on a phone and desktop.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 34\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ka2cK0AVxJA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ka2cK0AVxJA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ka2cK0AVxJA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ka2cK0AVxJA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ka2cK0AVxJA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "coding shorts",
+            "css tutorial",
+            "learn to code",
+            "responsive web design",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Responsive Web Design | Web Development in 60 Seconds",
+            "description": "Responsive design adapts a page to different screen sizes. Learn responsive web design with a quick example for beginners.\n\nUse flexible layouts so content can rearrange as space changes.\nResponsive images and a viewport declaration support mobile layouts.\n\nTry it: Make a card layout that works on a phone and desktop.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 34\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "20",
+          "likeCount": "3",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Responsive Web Design: Make a Layout Fit Phone and Desktop",
+        "description": "Learn how flexible layouts, responsive images and a viewport declaration help a page adapt to phones and desktops. Try a responsive card layout.\n\nTry answering: What should happen to side-by-side cards on a narrow phone screen?\n\nContinue learning: open the CSS for Beginners playlist on @Techat60.\nSubscribe to TECH AT 60 for practical beginner coding lessons.\n\nUse flexible layouts so content can rearrange as space changes.\nResponsive images and a viewport declaration support mobile layouts.\n\nTry it: Make a card layout that works on a phone and desktop.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 34\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "coding shorts",
+          "css tutorial",
+          "learn to code",
+          "responsive web design",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "ubZHLFw_rP4",
+      "kind": "coding-title-and-description",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "zJXCrOViixgNU2sTIz7CgYdoTA8",
+        "id": "ubZHLFw_rP4",
+        "snippet": {
+          "publishedAt": "2026-11-05T10:30:28Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "CSS Media Queries | Web Development in 60 Seconds",
+          "description": "Media queries apply styles when specified conditions match. Learn css media queries with a quick example for beginners.\n\nA minimum width query can add a wider layout when space is available.\nWrite the narrow layout first, then add larger-screen adjustments.\n\nTry it: Stack two cards on mobile and place them together on wider screens.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 35\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ubZHLFw_rP4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ubZHLFw_rP4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ubZHLFw_rP4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ubZHLFw_rP4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ubZHLFw_rP4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "coding shorts",
+            "css media queries",
+            "css tutorial",
+            "learn to code",
+            "web development for beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CSS Media Queries | Web Development in 60 Seconds",
+            "description": "Media queries apply styles when specified conditions match. Learn css media queries with a quick example for beginners.\n\nA minimum width query can add a wider layout when space is available.\nWrite the narrow layout first, then add larger-screen adjustments.\n\nTry it: Stack two cards on mobile and place them together on wider screens.\n\nWhat would you build with this? Tell us in the comments.\nLike, share, and subscribe to @Techat60 for more web development basics.\n\nWeb Development in 60 Seconds \u2022 Lesson 35\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLEJDqf_3IqMU"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "11",
+          "likeCount": "4",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "CSS Media Queries: Change Your Layout at a Breakpoint",
+        "description": "Start with a narrow-screen layout, then use a min-width media query to adjust the layout on wider screens. Try stacking cards on mobile.\n\nTry answering: Would you start with the narrow layout or the desktop layout?\n\nContinue learning: open the CSS for Beginners playlist on @Techat60.\nSubscribe to TECH AT 60 for practical beginner coding lessons.\n\nA minimum width query can add a wider layout when space is available.\nWrite the narrow layout first, then add larger-screen adjustments.\n\nTry it: Stack two cards on mobile and place them together on wider screens.\n\n\nWeb Development in 60 Seconds \u2022 Lesson 35\nLearn more: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics\n\n#WebDevelopment #LearnToCode #Shorts",
+        "tags": [
+          "coding shorts",
+          "css media queries",
+          "css tutorial",
+          "learn to code",
+          "web development for beginners"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "1nBnoc5tdqM",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "AD7Sj6HPz1VdWyruZsFg5kVDR40",
+        "id": "1nBnoc5tdqM",
+        "snippet": {
+          "publishedAt": "2026-11-04T08:30:24Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI for Spreadsheets: Understand Formulas and Check Results | Ep 18",
+          "description": "AI for Spreadsheets: Understand Formulas and Check Results. Learn with a simple example and a beginner exercise.\n\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 18 of 50\n\nWhat you will learn: Explain formulas and help analyze tabular data.\nExample: calculating monthly expenses with SUMIF.\nTry it: create a small budget and request a formula.\nRemember: validate formulas on sample rows.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1nBnoc5tdqM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1nBnoc5tdqM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1nBnoc5tdqM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1nBnoc5tdqM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1nBnoc5tdqM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai with spreadsheets",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI for Spreadsheets: Understand Formulas and Check Results | Ep 18",
+            "description": "AI for Spreadsheets: Understand Formulas and Check Results. Learn with a simple example and a beginner exercise.\n\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 18 of 50\n\nWhat you will learn: Explain formulas and help analyze tabular data.\nExample: calculating monthly expenses with SUMIF.\nTry it: create a small budget and request a formula.\nRemember: validate formulas on sample rows.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "2",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI for Spreadsheets: Understand Formulas and Check Results | Ep 18",
+        "description": "AI for Spreadsheets: Understand Formulas and Check Results. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=VzWitlOEaZ0\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\n\nAI for Beginners \u2014 Episode 18 of 50\n\nWhat you will learn: Explain formulas and help analyze tabular data.\nExample: calculating monthly expenses with SUMIF.\nTry it: create a small budget and request a formula.\nRemember: validate formulas on sample rows.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai with spreadsheets",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "id": "VzWitlOEaZ0",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "HESN0Rx5TP74YDj38DxfyGtczYQ",
+        "id": "VzWitlOEaZ0",
+        "snippet": {
+          "publishedAt": "2026-11-05T08:30:36Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Presentations: Turn One Idea into a Clear Slide Outline | Ep 19",
+          "description": "AI Presentations: Turn One Idea into a Clear Slide Outline. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 19 of 50\n\nWhat you will learn: Outline a slide deck around one key message.\nExample: a six-slide presentation about recycling.\nTry it: generate slide titles and speaker notes.\nRemember: verify facts and use licensed visuals.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:09 Explain the concept\n02:11 On-screen demonstration\n03:21 Guided beginner exercise\n04:09 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VzWitlOEaZ0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VzWitlOEaZ0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VzWitlOEaZ0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VzWitlOEaZ0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VzWitlOEaZ0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai for presentations",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Presentations: Turn One Idea into a Clear Slide Outline | Ep 19",
+            "description": "AI Presentations: Turn One Idea into a Clear Slide Outline. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 19 of 50\n\nWhat you will learn: Outline a slide deck around one key message.\nExample: a six-slide presentation about recycling.\nTry it: generate slide titles and speaker notes.\nRemember: verify facts and use licensed visuals.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:09 Explain the concept\n02:11 On-screen demonstration\n03:21 Guided beginner exercise\n04:09 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Presentations: Turn One Idea into a Clear Slide Outline | Ep 19",
+        "description": "AI Presentations: Turn One Idea into a Clear Slide Outline. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=xM1t-tT5zY0\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 19 of 50\n\nWhat you will learn: Outline a slide deck around one key message.\nExample: a six-slide presentation about recycling.\nTry it: generate slide titles and speaker notes.\nRemember: verify facts and use licensed visuals.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:09 Explain the concept\n02:11 On-screen demonstration\n03:21 Guided beginner exercise\n04:09 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai for presentations",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "xM1t-tT5zY0",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "56BFyv4E-wMfmGRSmJajtaF1FWs",
+        "id": "xM1t-tT5zY0",
+        "snippet": {
+          "publishedAt": "2026-11-05T08:30:15Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Time Management: Prioritize Tasks That Actually Matter | Ep 20",
+          "description": "AI Time Management: Prioritize Tasks That Actually Matter. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 20 of 50\n\nWhat you will learn: Prioritize tasks using urgency and impact.\nExample: planning a busy Monday.\nTry it: sort five tasks into priorities.\nRemember: AI cannot know your actual calendar unless you supply it or connect it.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:14 Explain the concept\n02:23 On-screen demonstration\n03:38 Guided beginner exercise\n04:17 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xM1t-tT5zY0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xM1t-tT5zY0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xM1t-tT5zY0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xM1t-tT5zY0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xM1t-tT5zY0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai for time management",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Time Management: Prioritize Tasks That Actually Matter | Ep 20",
+            "description": "AI Time Management: Prioritize Tasks That Actually Matter. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 20 of 50\n\nWhat you will learn: Prioritize tasks using urgency and impact.\nExample: planning a busy Monday.\nTry it: sort five tasks into priorities.\nRemember: AI cannot know your actual calendar unless you supply it or connect it.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:14 Explain the concept\n02:23 On-screen demonstration\n03:38 Guided beginner exercise\n04:17 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Time Management: Prioritize Tasks That Actually Matter | Ep 20",
+        "description": "AI Time Management: Prioritize Tasks That Actually Matter. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=hPHKOypob18\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 20 of 50\n\nWhat you will learn: Prioritize tasks using urgency and impact.\nExample: planning a busy Monday.\nTry it: sort five tasks into priorities.\nRemember: AI cannot know your actual calendar unless you supply it or connect it.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:14 Explain the concept\n02:23 On-screen demonstration\n03:38 Guided beginner exercise\n04:17 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai for time management",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "hPHKOypob18",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "DA56uOqGfR0ZPXgPIkBdd298DH0",
+        "id": "hPHKOypob18",
+        "snippet": {
+          "publishedAt": "2026-11-06T08:30:18Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Learn a Language with AI: Vocabulary and Conversation Practice | Ep 21",
+          "description": "Learn a Language with AI: Vocabulary and Conversation Practice. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 21 of 50\n\nWhat you will learn: Practice vocabulary, conversation and pronunciation.\nExample: ordering coffee in English.\nTry it: role-play a short conversation.\nRemember: AI language corrections may miss regional nuance.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hPHKOypob18/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hPHKOypob18/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hPHKOypob18/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hPHKOypob18/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hPHKOypob18/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai for learning languages",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Learn a Language with AI: Vocabulary and Conversation Practice | Ep 21",
+            "description": "Learn a Language with AI: Vocabulary and Conversation Practice. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 21 of 50\n\nWhat you will learn: Practice vocabulary, conversation and pronunciation.\nExample: ordering coffee in English.\nTry it: role-play a short conversation.\nRemember: AI language corrections may miss regional nuance.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "2",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Learn a Language with AI: Vocabulary and Conversation Practice | Ep 21",
+        "description": "Learn a Language with AI: Vocabulary and Conversation Practice. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=V8hRbZE7KDU\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 21 of 50\n\nWhat you will learn: Practice vocabulary, conversation and pronunciation.\nExample: ordering coffee in English.\nTry it: role-play a short conversation.\nRemember: AI language corrections may miss regional nuance.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai for learning languages",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "V8hRbZE7KDU",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "8u6t5D7xaqVaWoXiEjIbrYaMVbI",
+        "id": "V8hRbZE7KDU",
+        "snippet": {
+          "publishedAt": "2026-11-06T08:30:05Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Social Media Captions: Write a Hook That Fits Your Audience | Ep 22",
+          "description": "AI Social Media Captions: Write a Hook That Fits Your Audience. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 22 of 50\n\nWhat you will learn: Write platform-appropriate captions with a clear hook.\nExample: a caption for a small bakery launch.\nTry it: draft three caption styles.\nRemember: avoid misleading claims and repetitive spam.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V8hRbZE7KDU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V8hRbZE7KDU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V8hRbZE7KDU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/V8hRbZE7KDU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/V8hRbZE7KDU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai for social media captions",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Social Media Captions: Write a Hook That Fits Your Audience | Ep 22",
+            "description": "AI Social Media Captions: Write a Hook That Fits Your Audience. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 22 of 50\n\nWhat you will learn: Write platform-appropriate captions with a clear hook.\nExample: a caption for a small bakery launch.\nTry it: draft three caption styles.\nRemember: avoid misleading claims and repetitive spam.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "10",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Social Media Captions: Write a Hook That Fits Your Audience | Ep 22",
+        "description": "AI Social Media Captions: Write a Hook That Fits Your Audience. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=5MiJQnO2NHI\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 22 of 50\n\nWhat you will learn: Write platform-appropriate captions with a clear hook.\nExample: a caption for a small bakery launch.\nTry it: draft three caption styles.\nRemember: avoid misleading claims and repetitive spam.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai for social media captions",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "5MiJQnO2NHI",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "U6V2lt0ArjFyx98E05hf2sfq8o8",
+        "id": "5MiJQnO2NHI",
+        "snippet": {
+          "publishedAt": "2026-11-07T08:30:34Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI for YouTube Creators: Plan Titles, Scripts and Descriptions | Ep 23",
+          "description": "AI for YouTube Creators: Plan Titles, Scripts and Descriptions. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 23 of 50\n\nWhat you will learn: Plan titles, scripts, chapters and descriptions.\nExample: a beginner video about password security.\nTry it: create a title, hook and chapter list.\nRemember: clickbait that misrepresents content harms trust.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5MiJQnO2NHI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5MiJQnO2NHI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5MiJQnO2NHI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5MiJQnO2NHI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5MiJQnO2NHI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai for youtube creators",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI for YouTube Creators: Plan Titles, Scripts and Descriptions | Ep 23",
+            "description": "AI for YouTube Creators: Plan Titles, Scripts and Descriptions. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 23 of 50\n\nWhat you will learn: Plan titles, scripts, chapters and descriptions.\nExample: a beginner video about password security.\nTry it: create a title, hook and chapter list.\nRemember: clickbait that misrepresents content harms trust.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI for YouTube Creators: Plan Titles, Scripts and Descriptions | Ep 23",
+        "description": "AI for YouTube Creators: Plan Titles, Scripts and Descriptions. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=67LGri4ql4o\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 23 of 50\n\nWhat you will learn: Plan titles, scripts, chapters and descriptions.\nExample: a beginner video about password security.\nTry it: create a title, hook and chapter list.\nRemember: clickbait that misrepresents content harms trust.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai for youtube creators",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "67LGri4ql4o",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "SDyflY34lzxk2BmJINMrCI9AyK8",
+        "id": "67LGri4ql4o",
+        "snippet": {
+          "publishedAt": "2026-11-07T08:30:28Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Image Generation for Beginners: Your First Image Prompt | Ep 24",
+          "description": "AI Image Generation for Beginners: Your First Image Prompt. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 24 of 50\n\nWhat you will learn: Describe subject, composition, lighting and style.\nExample: a watercolor city skyline at sunrise.\nTry it: write a detailed image prompt.\nRemember: check commercial usage terms and avoid deceptive images.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/67LGri4ql4o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/67LGri4ql4o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/67LGri4ql4o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/67LGri4ql4o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/67LGri4ql4o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "introduction to ai image generation",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Image Generation for Beginners: Your First Image Prompt | Ep 24",
+            "description": "AI Image Generation for Beginners: Your First Image Prompt. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 24 of 50\n\nWhat you will learn: Describe subject, composition, lighting and style.\nExample: a watercolor city skyline at sunrise.\nTry it: write a detailed image prompt.\nRemember: check commercial usage terms and avoid deceptive images.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "3",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Image Generation for Beginners: Your First Image Prompt | Ep 24",
+        "description": "AI Image Generation for Beginners: Your First Image Prompt. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=sgVAvy3WLEo\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 24 of 50\n\nWhat you will learn: Describe subject, composition, lighting and style.\nExample: a watercolor city skyline at sunrise.\nTry it: write a detailed image prompt.\nRemember: check commercial usage terms and avoid deceptive images.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "introduction to ai image generation",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "sgVAvy3WLEo",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "-y8jBg-U7e92MoEGjeBP164jKMA",
+        "id": "sgVAvy3WLEo",
+        "snippet": {
+          "publishedAt": "2026-11-08T08:30:04Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Better AI Image Prompts: Framing, Color and Aspect Ratio | Ep 25",
+          "description": "Better AI Image Prompts: Framing, Color and Aspect Ratio. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 25 of 50\n\nWhat you will learn: Iterate on framing, palette and aspect ratio.\nExample: a 16:9 thumbnail with a robot and empty title space.\nTry it: refine one prompt across three versions.\nRemember: image models may distort text and small details.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sgVAvy3WLEo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sgVAvy3WLEo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sgVAvy3WLEo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sgVAvy3WLEo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sgVAvy3WLEo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "better ai image prompts",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Better AI Image Prompts: Framing, Color and Aspect Ratio | Ep 25",
+            "description": "Better AI Image Prompts: Framing, Color and Aspect Ratio. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 25 of 50\n\nWhat you will learn: Iterate on framing, palette and aspect ratio.\nExample: a 16:9 thumbnail with a robot and empty title space.\nTry it: refine one prompt across three versions.\nRemember: image models may distort text and small details.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "7",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Better AI Image Prompts: Framing, Color and Aspect Ratio | Ep 25",
+        "description": "Better AI Image Prompts: Framing, Color and Aspect Ratio. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=4_Yu1Y5b5Os\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 25 of 50\n\nWhat you will learn: Iterate on framing, palette and aspect ratio.\nExample: a 16:9 thumbnail with a robot and empty title space.\nTry it: refine one prompt across three versions.\nRemember: image models may distort text and small details.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "better ai image prompts",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "4_Yu1Y5b5Os",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "7S6tv87VEgVQsbV-IGZLw78dR1c",
+        "id": "4_Yu1Y5b5Os",
+        "snippet": {
+          "publishedAt": "2026-11-08T08:30:22Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Video Generation for Beginners: Plan Scenes and Camera Motion | Ep 26",
+          "description": "AI Video Generation for Beginners: Plan Scenes and Camera Motion. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 26 of 50\n\nWhat you will learn: Plan scenes, motion, camera and duration.\nExample: a five-second clip of a paper airplane flying.\nTry it: write a two-shot video storyboard.\nRemember: motion and character consistency can be imperfect.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4_Yu1Y5b5Os/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4_Yu1Y5b5Os/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4_Yu1Y5b5Os/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4_Yu1Y5b5Os/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4_Yu1Y5b5Os/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai video generation basics",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Video Generation for Beginners: Plan Scenes and Camera Motion | Ep 26",
+            "description": "AI Video Generation for Beginners: Plan Scenes and Camera Motion. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 26 of 50\n\nWhat you will learn: Plan scenes, motion, camera and duration.\nExample: a five-second clip of a paper airplane flying.\nTry it: write a two-shot video storyboard.\nRemember: motion and character consistency can be imperfect.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "0",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Video Generation for Beginners: Plan Scenes and Camera Motion | Ep 26",
+        "description": "AI Video Generation for Beginners: Plan Scenes and Camera Motion. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=Jf6FjiiKUaU\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 26 of 50\n\nWhat you will learn: Plan scenes, motion, camera and duration.\nExample: a five-second clip of a paper airplane flying.\nTry it: write a two-shot video storyboard.\nRemember: motion and character consistency can be imperfect.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai video generation basics",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "Jf6FjiiKUaU",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "ThRXfUjtc0-jS9d9816cdXM-JfI",
+        "id": "Jf6FjiiKUaU",
+        "snippet": {
+          "publishedAt": "2026-11-09T08:30:01Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Voiceovers Explained: Prepare a Script for Text to Speech | Ep 27",
+          "description": "AI Voiceovers Explained: Prepare a Script for Text to Speech. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 27 of 50\n\nWhat you will learn: Prepare narration for clear synthetic speech.\nExample: a 20-second educational voiceover.\nTry it: mark pauses and emphasis in a short script.\nRemember: get consent before cloning a real person's voice.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jf6FjiiKUaU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jf6FjiiKUaU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jf6FjiiKUaU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Jf6FjiiKUaU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Jf6FjiiKUaU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai voiceovers and text to speech",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Voiceovers Explained: Prepare a Script for Text to Speech | Ep 27",
+            "description": "AI Voiceovers Explained: Prepare a Script for Text to Speech. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 27 of 50\n\nWhat you will learn: Prepare narration for clear synthetic speech.\nExample: a 20-second educational voiceover.\nTry it: mark pauses and emphasis in a short script.\nRemember: get consent before cloning a real person's voice.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Voiceovers Explained: Prepare a Script for Text to Speech | Ep 27",
+        "description": "AI Voiceovers Explained: Prepare a Script for Text to Speech. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=te8aPsCX-NA\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 27 of 50\n\nWhat you will learn: Prepare narration for clear synthetic speech.\nExample: a 20-second educational voiceover.\nTry it: mark pauses and emphasis in a short script.\nRemember: get consent before cloning a real person's voice.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai voiceovers and text to speech",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "te8aPsCX-NA",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "vi2elZxzjHw6CKcUT6Ej__q04qM",
+        "id": "te8aPsCX-NA",
+        "snippet": {
+          "publishedAt": "2026-11-09T08:30:02Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Music and Sound Effects: Choose Audio That Fits Your Video | Ep 28",
+          "description": "AI Music and Sound Effects: Choose Audio That Fits Your Video. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 28 of 50\n\nWhat you will learn: Choose appropriate background audio for educational videos.\nExample: a subtle electronic intro sound.\nTry it: build an audio cue sheet.\nRemember: license terms differ and may restrict monetization.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/te8aPsCX-NA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/te8aPsCX-NA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/te8aPsCX-NA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/te8aPsCX-NA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/te8aPsCX-NA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai music and sound effects",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Music and Sound Effects: Choose Audio That Fits Your Video | Ep 28",
+            "description": "AI Music and Sound Effects: Choose Audio That Fits Your Video. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 28 of 50\n\nWhat you will learn: Choose appropriate background audio for educational videos.\nExample: a subtle electronic intro sound.\nTry it: build an audio cue sheet.\nRemember: license terms differ and may restrict monetization.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Music and Sound Effects: Choose Audio That Fits Your Video | Ep 28",
+        "description": "AI Music and Sound Effects: Choose Audio That Fits Your Video. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=-tLkerCNNbw\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 28 of 50\n\nWhat you will learn: Choose appropriate background audio for educational videos.\nExample: a subtle electronic intro sound.\nTry it: build an audio cue sheet.\nRemember: license terms differ and may restrict monetization.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai music and sound effects",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "-tLkerCNNbw",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "pRtphSxp2MCsT71bwW4S7Y8DvBg",
+        "id": "-tLkerCNNbw",
+        "snippet": {
+          "publishedAt": "2026-11-10T08:30:17Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Graphic Design: Turn a Rough Draft into a Clear Layout | Ep 29",
+          "description": "AI Graphic Design: Turn a Rough Draft into a Clear Layout. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 29 of 50\n\nWhat you will learn: Combine ai drafts with deliberate human layout.\nExample: a clean course thumbnail with high-contrast text.\nTry it: sketch a thumbnail layout with safe margins.\nRemember: always check readability on mobile screens.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-tLkerCNNbw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-tLkerCNNbw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-tLkerCNNbw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-tLkerCNNbw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-tLkerCNNbw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai graphic design workflows",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Graphic Design: Turn a Rough Draft into a Clear Layout | Ep 29",
+            "description": "AI Graphic Design: Turn a Rough Draft into a Clear Layout. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 29 of 50\n\nWhat you will learn: Combine ai drafts with deliberate human layout.\nExample: a clean course thumbnail with high-contrast text.\nTry it: sketch a thumbnail layout with safe margins.\nRemember: always check readability on mobile screens.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "3",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Graphic Design: Turn a Rough Draft into a Clear Layout | Ep 29",
+        "description": "AI Graphic Design: Turn a Rough Draft into a Clear Layout. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=RsKD5c7vbag\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 29 of 50\n\nWhat you will learn: Combine ai drafts with deliberate human layout.\nExample: a clean course thumbnail with high-contrast text.\nTry it: sketch a thumbnail layout with safe margins.\nRemember: always check readability on mobile screens.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai graphic design workflows",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "RsKD5c7vbag",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "LphfNyFX0ldrId_Smujg13QuHeI",
+        "id": "RsKD5c7vbag",
+        "snippet": {
+          "publishedAt": "2026-11-10T08:30:12Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Translation and Subtitles: Check Meaning Before You Publish | Ep 30",
+          "description": "AI Translation and Subtitles: Check Meaning Before You Publish. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 30 of 50\n\nWhat you will learn: Translate meaning and review captions for accuracy.\nExample: subtitling a short English tutorial in Hindi.\nTry it: proofread five translated subtitle lines.\nRemember: names, jargon and idioms need manual review.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RsKD5c7vbag/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RsKD5c7vbag/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RsKD5c7vbag/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RsKD5c7vbag/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RsKD5c7vbag/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai translation and subtitles",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Translation and Subtitles: Check Meaning Before You Publish | Ep 30",
+            "description": "AI Translation and Subtitles: Check Meaning Before You Publish. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 30 of 50\n\nWhat you will learn: Translate meaning and review captions for accuracy.\nExample: subtitling a short English tutorial in Hindi.\nTry it: proofread five translated subtitle lines.\nRemember: names, jargon and idioms need manual review.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "7",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Translation and Subtitles: Check Meaning Before You Publish | Ep 30",
+        "description": "AI Translation and Subtitles: Check Meaning Before You Publish. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=vOGFMQIvMhg\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 30 of 50\n\nWhat you will learn: Translate meaning and review captions for accuracy.\nExample: subtitling a short English tutorial in Hindi.\nTry it: proofread five translated subtitle lines.\nRemember: names, jargon and idioms need manual review.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai translation and subtitles",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "vOGFMQIvMhg",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "qbgUSkmGM2g49qVHqvoavhT4k_o",
+        "id": "vOGFMQIvMhg",
+        "snippet": {
+          "publishedAt": "2026-11-11T08:30:09Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Search vs Traditional Search: Answers, Sources and Verification | Ep 31",
+          "description": "AI Search vs Traditional Search: Answers, Sources and Verification. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 31 of 50\n\nWhat you will learn: Compare conversational answers with traditional search results.\nExample: finding an official software installation guide.\nTry it: compare one AI answer with a primary source.\nRemember: search summaries can omit context or cite weak sources.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vOGFMQIvMhg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vOGFMQIvMhg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vOGFMQIvMhg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vOGFMQIvMhg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vOGFMQIvMhg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "how ai search is different",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Search vs Traditional Search: Answers, Sources and Verification | Ep 31",
+            "description": "AI Search vs Traditional Search: Answers, Sources and Verification. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 31 of 50\n\nWhat you will learn: Compare conversational answers with traditional search results.\nExample: finding an official software installation guide.\nTry it: compare one AI answer with a primary source.\nRemember: search summaries can omit context or cite weak sources.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "2",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Search vs Traditional Search: Answers, Sources and Verification | Ep 31",
+        "description": "AI Search vs Traditional Search: Answers, Sources and Verification. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=cUOu4YeaJNk\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 31 of 50\n\nWhat you will learn: Compare conversational answers with traditional search results.\nExample: finding an official software installation guide.\nTry it: compare one AI answer with a primary source.\nRemember: search summaries can omit context or cite weak sources.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "how ai search is different",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "cUOu4YeaJNk",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "S4vTKMXUulB0adolSucbGGJOgN0",
+        "id": "cUOu4YeaJNk",
+        "snippet": {
+          "publishedAt": "2026-11-11T08:30:06Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Privacy: What to Check Before Sharing Personal Data | Ep 32",
+          "description": "AI Privacy: What to Check Before Sharing Personal Data. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 32 of 50\n\nWhat you will learn: Minimize sensitive information in prompts and uploads.\nExample: summarizing meeting notes after removing names.\nTry it: redact a sample note before using AI.\nRemember: avoid sharing passwords, IDs and private records.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cUOu4YeaJNk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cUOu4YeaJNk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cUOu4YeaJNk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cUOu4YeaJNk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cUOu4YeaJNk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai privacy and personal data",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Privacy: What to Check Before Sharing Personal Data | Ep 32",
+            "description": "AI Privacy: What to Check Before Sharing Personal Data. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 32 of 50\n\nWhat you will learn: Minimize sensitive information in prompts and uploads.\nExample: summarizing meeting notes after removing names.\nTry it: redact a sample note before using AI.\nRemember: avoid sharing passwords, IDs and private records.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "2",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Privacy: What to Check Before Sharing Personal Data | Ep 32",
+        "description": "AI Privacy: What to Check Before Sharing Personal Data. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=1UbznXr-YkQ\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 32 of 50\n\nWhat you will learn: Minimize sensitive information in prompts and uploads.\nExample: summarizing meeting notes after removing names.\nTry it: redact a sample note before using AI.\nRemember: avoid sharing passwords, IDs and private records.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai privacy and personal data",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "1UbznXr-YkQ",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "smZEsLlO67D3VQrVWhBNfKvL5k0",
+        "id": "1UbznXr-YkQ",
+        "snippet": {
+          "publishedAt": "2026-11-12T08:30:00Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Copyright Basics: Originality, Licensing and Attribution | Ep 33",
+          "description": "AI Copyright Basics: Originality, Licensing and Attribution. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 33 of 50\n\nWhat you will learn: Distinguish originality, licensing and attribution.\nExample: using an AI-created illustration in a video.\nTry it: create a content rights checklist.\nRemember: copyright law and platform rules differ by location.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1UbznXr-YkQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1UbznXr-YkQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1UbznXr-YkQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1UbznXr-YkQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1UbznXr-YkQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai copyright and fair use basics",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Copyright Basics: Originality, Licensing and Attribution | Ep 33",
+            "description": "AI Copyright Basics: Originality, Licensing and Attribution. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 33 of 50\n\nWhat you will learn: Distinguish originality, licensing and attribution.\nExample: using an AI-created illustration in a video.\nTry it: create a content rights checklist.\nRemember: copyright law and platform rules differ by location.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Copyright Basics: Originality, Licensing and Attribution | Ep 33",
+        "description": "AI Copyright Basics: Originality, Licensing and Attribution. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=MEt8xAd042s\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 33 of 50\n\nWhat you will learn: Distinguish originality, licensing and attribution.\nExample: using an AI-created illustration in a video.\nTry it: create a content rights checklist.\nRemember: copyright law and platform rules differ by location.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai copyright and fair use basics",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "MEt8xAd042s",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "8v705eJjj9G22QH8HxHNhypcSio",
+        "id": "MEt8xAd042s",
+        "snippet": {
+          "publishedAt": "2026-11-12T08:30:00Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Scams and Deepfakes: Warning Signs You Can Check | Ep 34",
+          "description": "AI Scams and Deepfakes: Warning Signs You Can Check. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 34 of 50\n\nWhat you will learn: Recognize urgency, impersonation and manipulated media.\nExample: a fake voice message asking for a transfer.\nTry it: list warning signs in a sample scam.\nRemember: verify requests using an independent trusted channel.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MEt8xAd042s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MEt8xAd042s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MEt8xAd042s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MEt8xAd042s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MEt8xAd042s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "learn AI",
+            "spotting ai scams and deepfakes"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Scams and Deepfakes: Warning Signs You Can Check | Ep 34",
+            "description": "AI Scams and Deepfakes: Warning Signs You Can Check. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 34 of 50\n\nWhat you will learn: Recognize urgency, impersonation and manipulated media.\nExample: a fake voice message asking for a transfer.\nTry it: list warning signs in a sample scam.\nRemember: verify requests using an independent trusted channel.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "12",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Scams and Deepfakes: Warning Signs You Can Check | Ep 34",
+        "description": "AI Scams and Deepfakes: Warning Signs You Can Check. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=72woOhZMsWM\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 34 of 50\n\nWhat you will learn: Recognize urgency, impersonation and manipulated media.\nExample: a fake voice message asking for a transfer.\nTry it: list warning signs in a sample scam.\nRemember: verify requests using an independent trusted channel.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "spotting ai scams and deepfakes"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "72woOhZMsWM",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "F3pJhSNy9JV3Gyau8Zdicc-1auw",
+        "id": "72woOhZMsWM",
+        "snippet": {
+          "publishedAt": "2026-11-13T08:30:15Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Responsible AI: Spot Bias and Missing Perspectives | Ep 35",
+          "description": "Responsible AI: Spot Bias and Missing Perspectives. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 35 of 50\n\nWhat you will learn: Test outputs for stereotypes and missing perspectives.\nExample: an AI-generated hiring job description.\nTry it: rewrite biased wording inclusively.\nRemember: training data can encode unfair patterns.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/72woOhZMsWM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/72woOhZMsWM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/72woOhZMsWM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/72woOhZMsWM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/72woOhZMsWM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "learn AI",
+            "responsible ai and bias"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Responsible AI: Spot Bias and Missing Perspectives | Ep 35",
+            "description": "Responsible AI: Spot Bias and Missing Perspectives. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 35 of 50\n\nWhat you will learn: Test outputs for stereotypes and missing perspectives.\nExample: an AI-generated hiring job description.\nTry it: rewrite biased wording inclusively.\nRemember: training data can encode unfair patterns.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "0",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Responsible AI: Spot Bias and Missing Perspectives | Ep 35",
+        "description": "Responsible AI: Spot Bias and Missing Perspectives. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=9UUlB1US9Hg\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 35 of 50\n\nWhat you will learn: Test outputs for stereotypes and missing perspectives.\nExample: an AI-generated hiring job description.\nTry it: rewrite biased wording inclusively.\nRemember: training data can encode unfair patterns.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:01 Explain the concept\n01:53 On-screen demonstration\n02:54 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "responsible ai and bias"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "9UUlB1US9Hg",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "YFpF4z2j3RSS8ddQHHcqcPgpk4M",
+        "id": "9UUlB1US9Hg",
+        "snippet": {
+          "publishedAt": "2026-11-13T08:30:18Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "No-Code AI Automation: Connect a Trigger, Action and Human Check | Ep 36",
+          "description": "No-Code AI Automation: Connect a Trigger, Action and Human Check. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 36 of 50\n\nWhat you will learn: Connect a trigger, action and review step.\nExample: saving form responses into a summary draft.\nTry it: diagram a simple trigger-to-action flow.\nRemember: automations need permissions and error handling.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9UUlB1US9Hg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9UUlB1US9Hg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9UUlB1US9Hg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9UUlB1US9Hg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9UUlB1US9Hg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "learn AI",
+            "no-code ai automation"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "No-Code AI Automation: Connect a Trigger, Action and Human Check | Ep 36",
+            "description": "No-Code AI Automation: Connect a Trigger, Action and Human Check. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 36 of 50\n\nWhat you will learn: Connect a trigger, action and review step.\nExample: saving form responses into a summary draft.\nTry it: diagram a simple trigger-to-action flow.\nRemember: automations need permissions and error handling.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "0",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "No-Code AI Automation: Connect a Trigger, Action and Human Check | Ep 36",
+        "description": "No-Code AI Automation: Connect a Trigger, Action and Human Check. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=wuVRGnMScOw\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 36 of 50\n\nWhat you will learn: Connect a trigger, action and review step.\nExample: saving form responses into a summary draft.\nTry it: diagram a simple trigger-to-action flow.\nRemember: automations need permissions and error handling.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "no-code ai automation"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "wuVRGnMScOw",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "RVoR2oaPrnUkQ7j6jS34brS4G84",
+        "id": "wuVRGnMScOw",
+        "snippet": {
+          "publishedAt": "2026-11-14T08:30:13Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Build an AI Workflow: Inputs, Outputs and Review Steps | Ep 37",
+          "description": "Build an AI Workflow: Inputs, Outputs and Review Steps. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 37 of 50\n\nWhat you will learn: Define inputs, outputs, checks and handoffs.\nExample: summarizing support tickets into categories.\nTry it: design a workflow on a whiteboard.\nRemember: keep a human approval step for external messages.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wuVRGnMScOw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wuVRGnMScOw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wuVRGnMScOw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wuVRGnMScOw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wuVRGnMScOw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "building an ai workflow",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Build an AI Workflow: Inputs, Outputs and Review Steps | Ep 37",
+            "description": "Build an AI Workflow: Inputs, Outputs and Review Steps. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 37 of 50\n\nWhat you will learn: Define inputs, outputs, checks and handoffs.\nExample: summarizing support tickets into categories.\nTry it: design a workflow on a whiteboard.\nRemember: keep a human approval step for external messages.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "0",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Build an AI Workflow: Inputs, Outputs and Review Steps | Ep 37",
+        "description": "Build an AI Workflow: Inputs, Outputs and Review Steps. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=N8PoXt_1fPE\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 37 of 50\n\nWhat you will learn: Define inputs, outputs, checks and handoffs.\nExample: summarizing support tickets into categories.\nTry it: design a workflow on a whiteboard.\nRemember: keep a human approval step for external messages.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "building an ai workflow",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "N8PoXt_1fPE",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "UGoiTN0Pk1fyN0r-68J-tTExmbU",
+        "id": "N8PoXt_1fPE",
+        "snippet": {
+          "publishedAt": "2026-11-14T08:30:25Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Customer Support: Better FAQ Answers and Human Handoffs | Ep 38",
+          "description": "AI Customer Support: Better FAQ Answers and Human Handoffs. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 38 of 50\n\nWhat you will learn: Draft faq answers with escalation paths.\nExample: responding to a delayed-order inquiry.\nTry it: write a response and an escalation rule.\nRemember: never promise refunds or policies not verified.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N8PoXt_1fPE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N8PoXt_1fPE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N8PoXt_1fPE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/N8PoXt_1fPE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/N8PoXt_1fPE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai for customer support",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Customer Support: Better FAQ Answers and Human Handoffs | Ep 38",
+            "description": "AI Customer Support: Better FAQ Answers and Human Handoffs. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 38 of 50\n\nWhat you will learn: Draft faq answers with escalation paths.\nExample: responding to a delayed-order inquiry.\nTry it: write a response and an escalation rule.\nRemember: never promise refunds or policies not verified.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "0",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Customer Support: Better FAQ Answers and Human Handoffs | Ep 38",
+        "description": "AI Customer Support: Better FAQ Answers and Human Handoffs. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=nt95kmBsRq4\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 38 of 50\n\nWhat you will learn: Draft faq answers with escalation paths.\nExample: responding to a delayed-order inquiry.\nTry it: write a response and an escalation rule.\nRemember: never promise refunds or policies not verified.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai for customer support",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      }
+    },
+    {
+      "id": "nt95kmBsRq4",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "NauoB8bTh8cguGkzcB_OOsscWbg",
+        "id": "nt95kmBsRq4",
+        "snippet": {
+          "publishedAt": "2026-11-15T08:30:10Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI for Small Business: Find Repetitive Tasks Worth Automating | Ep 39",
+          "description": "AI for Small Business: Find Repetitive Tasks Worth Automating. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 39 of 50\n\nWhat you will learn: Identify repetitive tasks with measurable value.\nExample: drafting weekly product descriptions.\nTry it: choose one workflow and define success metrics.\nRemember: start small and track time saved and errors.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nt95kmBsRq4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nt95kmBsRq4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nt95kmBsRq4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nt95kmBsRq4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nt95kmBsRq4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai for small businesses",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI for Small Business: Find Repetitive Tasks Worth Automating | Ep 39",
+            "description": "AI for Small Business: Find Repetitive Tasks Worth Automating. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 39 of 50\n\nWhat you will learn: Identify repetitive tasks with measurable value.\nExample: drafting weekly product descriptions.\nTry it: choose one workflow and define success metrics.\nRemember: start small and track time saved and errors.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI for Small Business: Find Repetitive Tasks Worth Automating | Ep 39",
+        "description": "AI for Small Business: Find Repetitive Tasks Worth Automating. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=1F3vAegKmUI\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 39 of 50\n\nWhat you will learn: Identify repetitive tasks with measurable value.\nExample: drafting weekly product descriptions.\nTry it: choose one workflow and define success metrics.\nRemember: start small and track time saved and errors.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai for small businesses",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "id": "1F3vAegKmUI",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "zReurHuMc-xVCZCsPvWfnqXLRRg",
+        "id": "1F3vAegKmUI",
+        "snippet": {
+          "publishedAt": "2026-11-15T08:30:37Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Data Analysis for Beginners: Ask Better Questions of Your Data | Ep 40",
+          "description": "AI Data Analysis for Beginners: Ask Better Questions of Your Data. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 40 of 50\n\nWhat you will learn: Ask questions of clean data and visualize findings.\nExample: analyzing a tiny weekly sales table.\nTry it: calculate a total and compare categories.\nRemember: correlation does not prove causation.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1F3vAegKmUI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1F3vAegKmUI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1F3vAegKmUI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1F3vAegKmUI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1F3vAegKmUI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai data analysis basics",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Data Analysis for Beginners: Ask Better Questions of Your Data | Ep 40",
+            "description": "AI Data Analysis for Beginners: Ask Better Questions of Your Data. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 40 of 50\n\nWhat you will learn: Ask questions of clean data and visualize findings.\nExample: analyzing a tiny weekly sales table.\nTry it: calculate a total and compare categories.\nRemember: correlation does not prove causation.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Data Analysis for Beginners: Ask Better Questions of Your Data | Ep 40",
+        "description": "AI Data Analysis for Beginners: Ask Better Questions of Your Data. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=DW8w75cuN7A\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 40 of 50\n\nWhat you will learn: Ask questions of clean data and visualize findings.\nExample: analyzing a tiny weekly sales table.\nTry it: calculate a total and compare categories.\nRemember: correlation does not prove causation.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai data analysis basics",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "id": "DW8w75cuN7A",
+      "kind": "AI-course-navigation",
+      "before": {
+        "kind": "youtube#video",
+        "etag": "eTgq2A_E5QMm3pGFjyx9gSgUnqU",
+        "id": "DW8w75cuN7A",
+        "snippet": {
+          "publishedAt": "2026-11-16T08:30:35Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "What Is an AI API? Requests and Responses Explained Simply | Ep 41",
+          "description": "What Is an AI API? Requests and Responses Explained Simply. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 41 of 50\n\nWhat you will learn: Understand how software sends requests to an ai service.\nExample: a website sending a question to a model.\nTry it: draw a request-and-response diagram.\nRemember: API usage may incur costs and requires secret-key protection.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DW8w75cuN7A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DW8w75cuN7A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DW8w75cuN7A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DW8w75cuN7A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DW8w75cuN7A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "learn AI",
+            "what is an ai api?"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What Is an AI API? Requests and Responses Explained Simply | Ep 41",
+            "description": "What Is an AI API? Requests and Responses Explained Simply. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 41 of 50\n\nWhat you will learn: Understand how software sends requests to an ai service.\nExample: a website sending a question to a model.\nTry it: draw a request-and-response diagram.\nRemember: API usage may incur costs and requires secret-key protection.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "0",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "What Is an AI API? Requests and Responses Explained Simply | Ep 41",
+        "description": "What Is an AI API? Requests and Responses Explained Simply. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=bFd7LIUEI30\nFull AI beginner course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 41 of 50\n\nWhat you will learn: Understand how software sends requests to an ai service.\nExample: a website sending a question to a model.\nTry it: draw a request-and-response diagram.\nRemember: API usage may incur costs and requires secret-key protection.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "what is an ai api?"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "title": "HTML for Beginners | Build Your First Web Page",
+      "description": "Start with HTML structure, then learn links, images, forms and semantic elements. Follow these beginner lessons in order and try each small exercise.",
+      "ids": [
+        "Vi_gc4jOFAw",
+        "GjtwEy6C0BY",
+        "iJj3UEqr3mM",
+        "XpPqAg6oUPQ",
+        "NwK_T8Qxams",
+        "UdFrS1p0n2Q",
+        "ZCMbUuFgbHw",
+        "emkJjvrZTeE",
+        "5gQr8gC3yno",
+        "uX0pUdeNRhs",
+        "PMmOSKNzM18",
+        "s8vTrnbddoo",
+        "yP-l14vRQME",
+        "PZeEmk-S7_w",
+        "MEEDwR24JOw",
+        "LYJz6pp8g9Y",
+        "TgIcPIs9y34",
+        "oBrUM1-EbwI",
+        "OKr0Qgf5Eec",
+        "3OFT8MUb6Gw"
+      ]
+    },
+    {
+      "title": "CSS for Beginners | Style a Responsive Website",
+      "description": "Learn CSS step by step: selectors, colors, the box model, Flexbox, Grid, responsive layouts and animations. Watch in order and practise one concept at a time.",
+      "ids": [
+        "M7XIh0LLmWw",
+        "XI8c12LzDI8",
+        "BeC8jK5dAHU",
+        "PwX52X07J0k",
+        "_k9pL5fcolg",
+        "rk479ZjGpvo",
+        "A9SjSOECb8s",
+        "tozXzYirna4",
+        "c_JdeG3Iq3o",
+        "KUZhXec9exQ",
+        "ss5_POi4tYk",
+        "8luErDb4IOM",
+        "Mk7J4lhtrEw",
+        "Ka2cK0AVxJA",
+        "ubZHLFw_rP4",
+        "da0v5RefSWI"
+      ]
+    },
+    {
+      "title": "JavaScript for Beginners | Variables to DOM Manipulation",
+      "description": "Start JavaScript with variables and data types, then learn functions, conditions, loops, arrays, objects and DOM manipulation. Follow the lessons in order and try each exercise.",
+      "ids": [
+        "3c_WURbuFD0",
+        "N5xsNZmpPBo",
+        "BmFsB-MoDlU",
+        "RXVnmcMFE5M",
+        "n8KtvhK8ScQ",
+        "vgVn3gu5lhI",
+        "_3T2NZM_2Ac",
+        "B8q7YYhyiWs",
+        "d1PadSj4VSg",
+        "tR3AXmXFaYQ"
+      ]
+    }
+  ]
+}

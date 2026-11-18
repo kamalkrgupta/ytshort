@@ -1,0 +1,3168 @@
+{
+  "createdAt": "2026-11-05T06:10:37.446791+00:00",
+  "videos": [
+    {
+      "id": "reA35oDRHj8",
+      "course": "Agile",
+      "episode": 1,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "iTcItz_GyLNq4EfPeJEaoy8jXWc",
+        "id": "reA35oDRHj8",
+        "snippet": {
+          "publishedAt": "2026-10-23T15:38:27Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Agile Testing Explained for Beginners | Real Examples | Episode 1",
+          "description": "Learn agile testing fundamentals with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 1 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Hook and introduction\n\u2022 What is Agile Testing?\n\u2022 Agile versus traditional testing\n\u2022 Five core principles\n\u2022 Agile Testing in Scrum\n\u2022 Four Agile Testing quadrants\n\u2022 Real-world example\n\u2022 Tools and automation\n\nCHAPTERS\n00:00 Hook and introduction\n00:43 What is Agile Testing?\n02:08 Agile versus traditional testing\n02:57 Five core principles\n04:22 Agile Testing in Scrum\n05:15 Four Agile Testing quadrants\n06:51 Real-world example\n08:18 Tools and automation\n09:04 Recap and outro\n\nPractice: Which failure would you investigate first?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/reA35oDRHj8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/reA35oDRHj8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/reA35oDRHj8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/reA35oDRHj8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/reA35oDRHj8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing for beginners",
+            "agile testing fundamentals",
+            "agile testing masterclass",
+            "manual testing",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Agile Testing Explained for Beginners | Real Examples | Episode 1",
+            "description": "Learn agile testing fundamentals with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 1 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Hook and introduction\n\u2022 What is Agile Testing?\n\u2022 Agile versus traditional testing\n\u2022 Five core principles\n\u2022 Agile Testing in Scrum\n\u2022 Four Agile Testing quadrants\n\u2022 Real-world example\n\u2022 Tools and automation\n\nCHAPTERS\n00:00 Hook and introduction\n00:43 What is Agile Testing?\n02:08 Agile versus traditional testing\n02:57 Five core principles\n04:22 Agile Testing in Scrum\n05:15 Four Agile Testing quadrants\n06:51 Real-world example\n08:18 Tools and automation\n09:04 Recap and outro\n\nPractice: Which failure would you investigate first?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "12",
+          "likeCount": "3",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Agile Testing for Beginners: How Testing Fits a Sprint",
+        "description": "See how testing fits into Agile development, from story refinement to a sprint example. Learn the core principles with fictional software-testing scenarios.\n\nTry answering: Which risk would you test first in a new checkout feature?\n\nNext lesson: https://www.youtube.com/watch?v=aVPTY_zbmlU\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nAgile Testing Masterclass \u2014 Episode 1 of 12 | English | 10-minute lesson.\n\nIn this lesson:\n\u2022 Hook and introduction\n\u2022 What is Agile Testing?\n\u2022 Agile versus traditional testing\n\u2022 Five core principles\n\u2022 Agile Testing in Scrum\n\u2022 Four Agile Testing quadrants\n\u2022 Real-world example\n\u2022 Tools and automation\n\nCHAPTERS\n00:00 Hook and introduction\n00:43 What is Agile Testing?\n02:08 Agile versus traditional testing\n02:57 Five core principles\n04:22 Agile Testing in Scrum\n05:15 Four Agile Testing quadrants\n06:51 Real-world example\n08:18 Tools and automation\n09:04 Recap and outro\n\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing fundamentals",
+          "agile testing masterclass",
+          "manual testing",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "agile-masterclass/episodes/01/youtube-metadata.json"
+    },
+    {
+      "id": "aVPTY_zbmlU",
+      "course": "Agile",
+      "episode": 2,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "q_Wlq4wUli5fOT9BKBNtB7VmG9k",
+        "id": "aVPTY_zbmlU",
+        "snippet": {
+          "publishedAt": "2026-10-23T15:42:53Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+          "description": "Learn agile testing methodologies with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 2 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Scrum\n\u2022 Kanban\n\u2022 Extreme Programming\n\u2022 Lean Software Development\n\u2022 Choosing an approach\n\u2022 Worked example\n\u2022 Guided practice\n\nCHAPTERS\n00:00 Introduction\n00:56 Scrum\n02:14 Kanban\n03:23 Extreme Programming\n04:31 Lean Software Development\n05:36 Choosing an approach\n06:40 Worked example\n07:19 Guided practice\n07:59 A closer look\n08:46 Verify the outcome\n09:32 Recap\n\nPractice: What is slowing down useful feedback?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aVPTY_zbmlU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aVPTY_zbmlU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aVPTY_zbmlU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aVPTY_zbmlU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aVPTY_zbmlU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing for beginners",
+            "agile testing masterclass",
+            "agile testing methodologies",
+            "manual testing",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+            "description": "Learn agile testing methodologies with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 2 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Scrum\n\u2022 Kanban\n\u2022 Extreme Programming\n\u2022 Lean Software Development\n\u2022 Choosing an approach\n\u2022 Worked example\n\u2022 Guided practice\n\nCHAPTERS\n00:00 Introduction\n00:56 Scrum\n02:14 Kanban\n03:23 Extreme Programming\n04:31 Lean Software Development\n05:36 Choosing an approach\n06:40 Worked example\n07:19 Guided practice\n07:59 A closer look\n08:46 Verify the outcome\n09:32 Recap\n\nPractice: What is slowing down useful feedback?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "18",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+        "description": "Learn agile testing methodologies with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 2 of 12 | English | 10-minute tutorial.\n\nNext lesson: https://www.youtube.com/watch?v=1oW6ocuUhWQ\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Scrum\n\u2022 Kanban\n\u2022 Extreme Programming\n\u2022 Lean Software Development\n\u2022 Choosing an approach\n\u2022 Worked example\n\u2022 Guided practice\n\nCHAPTERS\n00:00 Introduction\n00:56 Scrum\n02:14 Kanban\n03:23 Extreme Programming\n04:31 Lean Software Development\n05:36 Choosing an approach\n06:40 Worked example\n07:19 Guided practice\n07:59 A closer look\n08:46 Verify the outcome\n09:32 Recap\n\nPractice: What is slowing down useful feedback?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "agile testing methodologies",
+          "manual testing",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "agile-masterclass/episodes/02/youtube-metadata.json"
+    },
+    {
+      "id": "1oW6ocuUhWQ",
+      "course": "Agile",
+      "episode": 3,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "EcQmX2pgEHiz8_ZSuTjvuXsWMGs",
+        "id": "1oW6ocuUhWQ",
+        "snippet": {
+          "publishedAt": "2026-10-24T12:30:14Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3",
+          "description": "Learn role of a tester in agile with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 3 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Requirements refinement\n\u2022 Developer collaboration\n\u2022 Test execution\n\u2022 Communication\n\u2022 Technical skills\n\u2022 Effectiveness\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:59 Requirements refinement\n01:58 Developer collaboration\n03:01 Test execution\n04:05 Communication\n05:05 Technical skills\n06:09 Effectiveness\n07:11 Worked example\n07:54 A closer look\n08:43 Verify the outcome\n09:30 Recap\n\nPractice: Could retrying debit the account twice?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1oW6ocuUhWQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing for beginners",
+            "agile testing masterclass",
+            "manual testing",
+            "role of a tester in agile",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3",
+            "description": "Learn role of a tester in agile with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 3 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Requirements refinement\n\u2022 Developer collaboration\n\u2022 Test execution\n\u2022 Communication\n\u2022 Technical skills\n\u2022 Effectiveness\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:59 Requirements refinement\n01:58 Developer collaboration\n03:01 Test execution\n04:05 Communication\n05:05 Technical skills\n06:09 Effectiveness\n07:11 Worked example\n07:54 A closer look\n08:43 Verify the outcome\n09:30 Recap\n\nPractice: Could retrying debit the account twice?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "3",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "What Does an Agile Tester Do? Roles and Skills Explained",
+        "description": "Understand the role of an Agile tester in refinement, developer collaboration, test execution and team communication. Follow a fictional payment example.\n\nTry answering: If a payment times out, what would you check before retrying it?\n\nNext lesson: https://www.youtube.com/watch?v=4pedCCloISY\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nAgile Testing Masterclass \u2014 Episode 3 of 12 | English | 10-minute lesson.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Requirements refinement\n\u2022 Developer collaboration\n\u2022 Test execution\n\u2022 Communication\n\u2022 Technical skills\n\u2022 Effectiveness\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:59 Requirements refinement\n01:58 Developer collaboration\n03:01 Test execution\n04:05 Communication\n05:05 Technical skills\n06:09 Effectiveness\n07:11 Worked example\n07:54 A closer look\n08:43 Verify the outcome\n09:30 Recap\n\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "manual testing",
+          "role of a tester in agile",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "agile-masterclass/episodes/03/youtube-metadata.json"
+    },
+    {
+      "id": "4pedCCloISY",
+      "course": "Agile",
+      "episode": 4,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "C5Ow3Rrm8kTdtToddEoCMHg03NA",
+        "id": "4pedCCloISY",
+        "snippet": {
+          "publishedAt": "2026-10-24T12:30:26Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4",
+          "description": "Learn agile testing activities and tracking with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 4 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Planning\n\u2022 Execution status\n\u2022 Defects\n\u2022 Metrics\n\u2022 Reporting\n\u2022 Tool walkthrough\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Planning\n01:58 Execution status\n03:02 Defects\n04:08 Metrics\n05:12 Reporting\n06:15 Tool walkthrough\n07:11 Worked example\n07:55 A closer look\n08:45 Verify the outcome\n09:33 Recap\n\nPractice: Which failure could block the release?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4pedCCloISY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4pedCCloISY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4pedCCloISY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4pedCCloISY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4pedCCloISY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing activities and tracking",
+            "agile testing for beginners",
+            "agile testing masterclass",
+            "manual testing",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4",
+            "description": "Learn agile testing activities and tracking with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 4 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Planning\n\u2022 Execution status\n\u2022 Defects\n\u2022 Metrics\n\u2022 Reporting\n\u2022 Tool walkthrough\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Planning\n01:58 Execution status\n03:02 Defects\n04:08 Metrics\n05:12 Reporting\n06:15 Tool walkthrough\n07:11 Worked example\n07:55 A closer look\n08:45 Verify the outcome\n09:33 Recap\n\nPractice: Which failure could block the release?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "2",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Agile Testing Metrics: Track Tests, Bugs and Release Risk",
+        "description": "Learn how to track test execution, defects and release risk in Agile. Compare useful reporting signals through a worked testing example.\n\nTry answering: Which unresolved failure would stop you from recommending a release?\n\nNext lesson: https://www.youtube.com/watch?v=Ng8wTrGTul4\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nAgile Testing Masterclass \u2014 Episode 4 of 12 | English | 10-minute lesson.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Planning\n\u2022 Execution status\n\u2022 Defects\n\u2022 Metrics\n\u2022 Reporting\n\u2022 Tool walkthrough\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Planning\n01:58 Execution status\n03:02 Defects\n04:08 Metrics\n05:12 Reporting\n06:15 Tool walkthrough\n07:11 Worked example\n07:55 A closer look\n08:45 Verify the outcome\n09:33 Recap\n\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing activities and tracking",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "manual testing",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "agile-masterclass/episodes/04/youtube-metadata.json"
+    },
+    {
+      "id": "Ng8wTrGTul4",
+      "course": "Agile",
+      "episode": 5,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "pb0CYMqPFagru4WioENMN4CmMZQ",
+        "id": "Ng8wTrGTul4",
+        "snippet": {
+          "publishedAt": "2026-10-25T12:30:32Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+          "description": "Learn agile testing principles and attributes with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 5 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Continuous quality\n\u2022 Shared responsibility\n\u2022 Adaptability and feedback\n\u2022 Risk-based testing\n\u2022 Maintainable automation\n\u2022 Continuous improvement\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Continuous quality\n02:01 Shared responsibility\n03:06 Adaptability and feedback\n04:07 Risk-based testing\n05:10 Maintainable automation\n06:10 Continuous improvement\n07:09 Worked example\n07:57 A closer look\n08:45 Verify the outcome\n09:35 Recap\n\nPractice: What happens when cancellation meets renewal?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ng8wTrGTul4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ng8wTrGTul4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ng8wTrGTul4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ng8wTrGTul4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ng8wTrGTul4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing for beginners",
+            "agile testing masterclass",
+            "agile testing principles and attributes",
+            "manual testing",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+            "description": "Learn agile testing principles and attributes with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 5 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Continuous quality\n\u2022 Shared responsibility\n\u2022 Adaptability and feedback\n\u2022 Risk-based testing\n\u2022 Maintainable automation\n\u2022 Continuous improvement\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Continuous quality\n02:01 Shared responsibility\n03:06 Adaptability and feedback\n04:07 Risk-based testing\n05:10 Maintainable automation\n06:10 Continuous improvement\n07:09 Worked example\n07:57 A closer look\n08:45 Verify the outcome\n09:35 Recap\n\nPractice: What happens when cancellation meets renewal?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+        "description": "Learn agile testing principles and attributes with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 5 of 12 | English | 10-minute tutorial.\n\nNext lesson: https://www.youtube.com/watch?v=HH9gdETVS-E\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Continuous quality\n\u2022 Shared responsibility\n\u2022 Adaptability and feedback\n\u2022 Risk-based testing\n\u2022 Maintainable automation\n\u2022 Continuous improvement\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Continuous quality\n02:01 Shared responsibility\n03:06 Adaptability and feedback\n04:07 Risk-based testing\n05:10 Maintainable automation\n06:10 Continuous improvement\n07:09 Worked example\n07:57 A closer look\n08:45 Verify the outcome\n09:35 Recap\n\nPractice: What happens when cancellation meets renewal?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "agile testing principles and attributes",
+          "manual testing",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "agile-masterclass/episodes/05/youtube-metadata.json"
+    },
+    {
+      "id": "HH9gdETVS-E",
+      "course": "Agile",
+      "episode": 6,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "g_r1RkeFLR3V3Cg7pHtkMNTFq18",
+        "id": "HH9gdETVS-E",
+        "snippet": {
+          "publishedAt": "2026-10-25T12:30:01Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+          "description": "Learn four agile testing quadrants with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 6 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Quadrant 1\n\u2022 Quadrant 2\n\u2022 Quadrant 3\n\u2022 Quadrant 4\n\u2022 Combined example\n\u2022 Worked example\n\u2022 Guided practice\n\nCHAPTERS\n00:00 Introduction\n00:59 Quadrant 1\n01:59 Quadrant 2\n03:03 Quadrant 3\n04:04 Quadrant 4\n05:09 Combined example\n06:14 Worked example\n07:04 Guided practice\n07:53 A closer look\n08:45 Verify the outcome\n09:35 Recap\n\nPractice: Which important perspective is missing?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HH9gdETVS-E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HH9gdETVS-E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HH9gdETVS-E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HH9gdETVS-E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HH9gdETVS-E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing for beginners",
+            "agile testing masterclass",
+            "four agile testing quadrants",
+            "manual testing",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+            "description": "Learn four agile testing quadrants with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 6 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Quadrant 1\n\u2022 Quadrant 2\n\u2022 Quadrant 3\n\u2022 Quadrant 4\n\u2022 Combined example\n\u2022 Worked example\n\u2022 Guided practice\n\nCHAPTERS\n00:00 Introduction\n00:59 Quadrant 1\n01:59 Quadrant 2\n03:03 Quadrant 3\n04:04 Quadrant 4\n05:09 Combined example\n06:14 Worked example\n07:04 Guided practice\n07:53 A closer look\n08:45 Verify the outcome\n09:35 Recap\n\nPractice: Which important perspective is missing?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "14",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+        "description": "Learn four agile testing quadrants with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 6 of 12 | English | 10-minute tutorial.\n\nNext lesson: https://www.youtube.com/watch?v=_LSyyLx-ex0\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Quadrant 1\n\u2022 Quadrant 2\n\u2022 Quadrant 3\n\u2022 Quadrant 4\n\u2022 Combined example\n\u2022 Worked example\n\u2022 Guided practice\n\nCHAPTERS\n00:00 Introduction\n00:59 Quadrant 1\n01:59 Quadrant 2\n03:03 Quadrant 3\n04:04 Quadrant 4\n05:09 Combined example\n06:14 Worked example\n07:04 Guided practice\n07:53 A closer look\n08:45 Verify the outcome\n09:35 Recap\n\nPractice: Which important perspective is missing?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "four agile testing quadrants",
+          "manual testing",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "agile-masterclass/episodes/06/youtube-metadata.json"
+    },
+    {
+      "id": "_LSyyLx-ex0",
+      "course": "Agile",
+      "episode": 7,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "NcFjjIiHjJr_3rSN5um1mebLihk",
+        "id": "_LSyyLx-ex0",
+        "snippet": {
+          "publishedAt": "2026-10-26T12:30:15Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7",
+          "description": "Learn agile testing in scrum with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 7 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Accountabilities\n\u2022 Refinement and planning\n\u2022 During the sprint\n\u2022 Definition of Done\n\u2022 Review and retrospective\n\u2022 Sprint walkthrough\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Accountabilities\n02:00 Refinement and planning\n03:02 During the sprint\n04:02 Definition of Done\n05:06 Review and retrospective\n06:06 Sprint walkthrough\n07:14 Worked example\n07:56 A closer look\n08:44 Verify the outcome\n09:36 Recap\n\nPractice: Is unverified work really Done?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_LSyyLx-ex0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing for beginners",
+            "agile testing in scrum",
+            "agile testing masterclass",
+            "manual testing",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7",
+            "description": "Learn agile testing in scrum with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 7 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Accountabilities\n\u2022 Refinement and planning\n\u2022 During the sprint\n\u2022 Definition of Done\n\u2022 Review and retrospective\n\u2022 Sprint walkthrough\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Accountabilities\n02:00 Refinement and planning\n03:02 During the sprint\n04:02 Definition of Done\n05:06 Review and retrospective\n06:06 Sprint walkthrough\n07:14 Worked example\n07:56 A closer look\n08:44 Verify the outcome\n09:36 Recap\n\nPractice: Is unverified work really Done?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Testing in Scrum: A QA Workflow from Planning to Done",
+        "description": "Follow testing through Scrum refinement, sprint planning, development and the Definition of Done. Work through a fictional sprint example.\n\nTry answering: What evidence would you need before calling a story Done?\n\nNext lesson: https://www.youtube.com/watch?v=BxdkMvdx7G8\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nAgile Testing Masterclass \u2014 Episode 7 of 12 | English | 10-minute lesson.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Accountabilities\n\u2022 Refinement and planning\n\u2022 During the sprint\n\u2022 Definition of Done\n\u2022 Review and retrospective\n\u2022 Sprint walkthrough\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Accountabilities\n02:00 Refinement and planning\n03:02 During the sprint\n04:02 Definition of Done\n05:06 Review and retrospective\n06:06 Sprint walkthrough\n07:14 Worked example\n07:56 A closer look\n08:44 Verify the outcome\n09:36 Recap\n\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing in scrum",
+          "agile testing masterclass",
+          "manual testing",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      },
+      "localPath": "agile-masterclass/episodes/07/youtube-metadata.json"
+    },
+    {
+      "id": "BxdkMvdx7G8",
+      "course": "Agile",
+      "episode": 8,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "ae_XQ9wkqMrQArgv2z3Y1wvb_Tw",
+        "id": "BxdkMvdx7G8",
+        "snippet": {
+          "publishedAt": "2026-10-26T12:30:33Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8",
+          "description": "Learn agile testing methods and techniques with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 8 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 TDD\n\u2022 BDD\n\u2022 ATDD\n\u2022 Exploratory testing\n\u2022 Test design\n\u2022 Combining methods\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:58 TDD\n01:56 BDD\n02:59 ATDD\n04:03 Exploratory testing\n05:06 Test design\n06:11 Combining methods\n07:08 Worked example\n07:56 A closer look\n08:44 Verify the outcome\n09:35 Recap\n\nPractice: What changes after an item is removed?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BxdkMvdx7G8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing for beginners",
+            "agile testing masterclass",
+            "agile testing methods and techniques",
+            "manual testing",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8",
+            "description": "Learn agile testing methods and techniques with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 8 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 TDD\n\u2022 BDD\n\u2022 ATDD\n\u2022 Exploratory testing\n\u2022 Test design\n\u2022 Combining methods\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:58 TDD\n01:56 BDD\n02:59 ATDD\n04:03 Exploratory testing\n05:06 Test design\n06:11 Combining methods\n07:08 Worked example\n07:56 A closer look\n08:44 Verify the outcome\n09:35 Recap\n\nPractice: What changes after an item is removed?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "bn"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "TDD vs BDD vs ATDD: What Is the Difference?",
+        "description": "Compare TDD, BDD and ATDD, then see how exploratory testing and test-design techniques complement them. Learn with beginner-friendly worked examples.\n\nTry answering: Would you clarify a business rule with a unit test or a shared acceptance example first?\n\nNext lesson: https://www.youtube.com/watch?v=t3WpRYW0lGg\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nAgile Testing Masterclass \u2014 Episode 8 of 12 | English | 10-minute lesson.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 TDD\n\u2022 BDD\n\u2022 ATDD\n\u2022 Exploratory testing\n\u2022 Test design\n\u2022 Combining methods\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:58 TDD\n01:56 BDD\n02:59 ATDD\n04:03 Exploratory testing\n05:06 Test design\n06:11 Combining methods\n07:08 Worked example\n07:56 A closer look\n08:44 Verify the outcome\n09:35 Recap\n\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "agile testing methods and techniques",
+          "manual testing",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "bn"
+      },
+      "localPath": "agile-masterclass/episodes/08/youtube-metadata.json"
+    },
+    {
+      "id": "t3WpRYW0lGg",
+      "course": "Agile",
+      "episode": 9,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "_1XcAGJvCv90DkFloGlJGYRXs7c",
+        "id": "t3WpRYW0lGg",
+        "snippet": {
+          "publishedAt": "2026-10-27T12:30:15Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9",
+          "description": "Learn agile testing artifacts and documentation with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 9 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Stories and criteria\n\u2022 Test cases\n\u2022 Defect reports\n\u2022 Plans and charters\n\u2022 Traceability\n\u2022 Practical document set\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:58 Stories and criteria\n01:56 Test cases\n03:01 Defect reports\n04:07 Plans and charters\n05:07 Traceability\n06:06 Practical document set\n07:11 Worked example\n07:58 A closer look\n08:47 Verify the outcome\n09:37 Recap\n\nPractice: Can another person reproduce the result?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t3WpRYW0lGg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t3WpRYW0lGg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t3WpRYW0lGg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/t3WpRYW0lGg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/t3WpRYW0lGg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing artifacts and documentation",
+            "agile testing for beginners",
+            "agile testing masterclass",
+            "manual testing",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9",
+            "description": "Learn agile testing artifacts and documentation with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 9 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Stories and criteria\n\u2022 Test cases\n\u2022 Defect reports\n\u2022 Plans and charters\n\u2022 Traceability\n\u2022 Practical document set\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:58 Stories and criteria\n01:56 Test cases\n03:01 Defect reports\n04:07 Plans and charters\n05:07 Traceability\n06:06 Practical document set\n07:11 Worked example\n07:58 A closer look\n08:47 Verify the outcome\n09:37 Recap\n\nPractice: Can another person reproduce the result?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "5",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Agile Test Documentation: Test Cases, Bug Reports and Traceability",
+        "description": "Learn which testing documents help an Agile team: acceptance criteria, test cases, bug reports, exploratory charters and traceability. Follow a practical document example.\n\nTry answering: What information would another tester need to reproduce your bug report?\n\nNext lesson: https://www.youtube.com/watch?v=X0hokSm8f2U\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nAgile Testing Masterclass \u2014 Episode 9 of 12 | English | 10-minute lesson.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Stories and criteria\n\u2022 Test cases\n\u2022 Defect reports\n\u2022 Plans and charters\n\u2022 Traceability\n\u2022 Practical document set\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:58 Stories and criteria\n01:56 Test cases\n03:01 Defect reports\n04:07 Plans and charters\n05:07 Traceability\n06:06 Practical document set\n07:11 Worked example\n07:58 A closer look\n08:47 Verify the outcome\n09:37 Recap\n\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing artifacts and documentation",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "manual testing",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "agile-masterclass/episodes/09/youtube-metadata.json"
+    },
+    {
+      "id": "X0hokSm8f2U",
+      "course": "Agile",
+      "episode": 10,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "Wm4BtYJxbvkdhRsSjbWsksh0qAY",
+        "id": "X0hokSm8f2U",
+        "snippet": {
+          "publishedAt": "2026-10-27T12:30:28Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+          "description": "Learn agile testing with kanban with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 10 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Visual workflow\n\u2022 WIP limits\n\u2022 Flow metrics\n\u2022 Bottlenecks\n\u2022 Classes of service\n\u2022 Maintenance example\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Visual workflow\n01:55 WIP limits\n02:57 Flow metrics\n04:01 Bottlenecks\n05:03 Classes of service\n06:06 Maintenance example\n07:09 Worked example\n07:53 A closer look\n08:44 Verify the outcome\n09:35 Recap\n\nPractice: Why is the Testing queue always full?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/X0hokSm8f2U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/X0hokSm8f2U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/X0hokSm8f2U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/X0hokSm8f2U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/X0hokSm8f2U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing for beginners",
+            "agile testing masterclass",
+            "agile testing with kanban",
+            "manual testing",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+            "description": "Learn agile testing with kanban with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 10 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Visual workflow\n\u2022 WIP limits\n\u2022 Flow metrics\n\u2022 Bottlenecks\n\u2022 Classes of service\n\u2022 Maintenance example\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Visual workflow\n01:55 WIP limits\n02:57 Flow metrics\n04:01 Bottlenecks\n05:03 Classes of service\n06:06 Maintenance example\n07:09 Worked example\n07:53 A closer look\n08:44 Verify the outcome\n09:35 Recap\n\nPractice: Why is the Testing queue always full?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "8",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+        "description": "Learn agile testing with kanban with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 10 of 12 | English | 10-minute tutorial.\n\nNext lesson: https://www.youtube.com/watch?v=bQb0NnHMJt0\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Visual workflow\n\u2022 WIP limits\n\u2022 Flow metrics\n\u2022 Bottlenecks\n\u2022 Classes of service\n\u2022 Maintenance example\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:56 Visual workflow\n01:55 WIP limits\n02:57 Flow metrics\n04:01 Bottlenecks\n05:03 Classes of service\n06:06 Maintenance example\n07:09 Worked example\n07:53 A closer look\n08:44 Verify the outcome\n09:35 Recap\n\nPractice: Why is the Testing queue always full?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "agile testing with kanban",
+          "manual testing",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "agile-masterclass/episodes/10/youtube-metadata.json"
+    },
+    {
+      "id": "bQb0NnHMJt0",
+      "course": "Agile",
+      "episode": 11,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "RdgARKP6y9cyVdtMQg8fBauIz78",
+        "id": "bQb0NnHMJt0",
+        "snippet": {
+          "publishedAt": "2026-10-28T12:30:38Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+          "description": "Learn agile testing tools and automation with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 11 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Issue tracking\n\u2022 API testing\n\u2022 Web and mobile automation\n\u2022 Performance and security\n\u2022 Continuous integration\n\u2022 Automation strategy\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n01:01 Issue tracking\n02:02 API testing\n03:05 Web and mobile automation\n04:04 Performance and security\n05:06 Continuous integration\n06:08 Automation strategy\n07:12 Worked example\n08:00 A closer look\n08:46 Verify the outcome\n09:34 Recap\n\nPractice: What does a green build actually prove?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bQb0NnHMJt0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bQb0NnHMJt0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bQb0NnHMJt0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bQb0NnHMJt0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bQb0NnHMJt0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing for beginners",
+            "agile testing masterclass",
+            "agile testing tools and automation",
+            "manual testing",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+            "description": "Learn agile testing tools and automation with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 11 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Issue tracking\n\u2022 API testing\n\u2022 Web and mobile automation\n\u2022 Performance and security\n\u2022 Continuous integration\n\u2022 Automation strategy\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n01:01 Issue tracking\n02:02 API testing\n03:05 Web and mobile automation\n04:04 Performance and security\n05:06 Continuous integration\n06:08 Automation strategy\n07:12 Worked example\n08:00 A closer look\n08:46 Verify the outcome\n09:34 Recap\n\nPractice: What does a green build actually prove?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "17",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      "after": {
+        "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+        "description": "Learn agile testing tools and automation with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 11 of 12 | English | 10-minute tutorial.\n\nNext lesson: https://www.youtube.com/watch?v=ETNKUsval9c\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Issue tracking\n\u2022 API testing\n\u2022 Web and mobile automation\n\u2022 Performance and security\n\u2022 Continuous integration\n\u2022 Automation strategy\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n01:01 Issue tracking\n02:02 API testing\n03:05 Web and mobile automation\n04:04 Performance and security\n05:06 Continuous integration\n06:08 Automation strategy\n07:12 Worked example\n08:00 A closer look\n08:46 Verify the outcome\n09:34 Recap\n\nPractice: What does a green build actually prove?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "agile testing tools and automation",
+          "manual testing",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "agile-masterclass/episodes/11/youtube-metadata.json"
+    },
+    {
+      "id": "ETNKUsval9c",
+      "course": "Agile",
+      "episode": 12,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "grY9b7thstKXQ-MKHWRkcCwnBys",
+        "id": "ETNKUsval9c",
+        "snippet": {
+          "publishedAt": "2026-10-28T12:30:34Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+          "description": "Learn end-to-end agile testing case study with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 12 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Requirements\n\u2022 Sprint 1: Authentication\n\u2022 Sprint 2: Booking\n\u2022 Sprint 3: Payments\n\u2022 Regression and nonfunctional quality\n\u2022 Release and monitoring\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:55 Requirements\n01:56 Sprint 1: Authentication\n02:58 Sprint 2: Booking\n03:57 Sprint 3: Payments\n05:01 Regression and nonfunctional quality\n06:03 Release and monitoring\n07:04 Worked example\n07:52 A closer look\n08:39 Verify the outcome\n09:25 Course conclusion\n\nPractice: What evidence supports your release decision?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ETNKUsval9c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ETNKUsval9c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ETNKUsval9c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ETNKUsval9c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ETNKUsval9c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "QA tutorial",
+            "Techat60",
+            "agile testing",
+            "agile testing for beginners",
+            "agile testing masterclass",
+            "end-to-end agile testing case study",
+            "manual testing",
+            "software quality assurance",
+            "software testing tutorial"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+            "description": "Learn end-to-end agile testing case study with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 12 of 12 | English | 10-minute tutorial.\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Requirements\n\u2022 Sprint 1: Authentication\n\u2022 Sprint 2: Booking\n\u2022 Sprint 3: Payments\n\u2022 Regression and nonfunctional quality\n\u2022 Release and monitoring\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:55 Requirements\n01:56 Sprint 1: Authentication\n02:58 Sprint 2: Booking\n03:57 Sprint 3: Payments\n05:01 Regression and nonfunctional quality\n06:03 Release and monitoring\n07:04 Worked example\n07:52 A closer look\n08:39 Verify the outcome\n09:25 Course conclusion\n\nPractice: What evidence supports your release decision?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLXqX5lBoONpI"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "10",
+          "likeCount": "3",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+        "description": "Learn end-to-end agile testing case study with practical software testing examples, diagrams and a guided exercise.\nAgile Testing Masterclass \u2014 Episode 12 of 12 | English | 10-minute tutorial.\n\nContinue the course: https://www.youtube.com/playlist?list=PLXqX5lBoONpI\n\nIn this lesson:\n\u2022 Introduction\n\u2022 Requirements\n\u2022 Sprint 1: Authentication\n\u2022 Sprint 2: Booking\n\u2022 Sprint 3: Payments\n\u2022 Regression and nonfunctional quality\n\u2022 Release and monitoring\n\u2022 Worked example\n\nCHAPTERS\n00:00 Introduction\n00:55 Requirements\n01:56 Sprint 1: Authentication\n02:58 Sprint 2: Booking\n03:57 Sprint 3: Payments\n05:01 Regression and nonfunctional quality\n06:03 Release and monitoring\n07:04 Worked example\n07:52 A closer look\n08:39 Verify the outcome\n09:25 Course conclusion\n\nPractice: What evidence supports your release decision?\nExamples use fictional applications and synthetic data.\n\nSubscribe to @Techat60 for practical QA and software testing tutorials. Watch the series in episode order.\n\nReferences and further reading:\nhttps://agilemanifesto.org/\nhttps://scrumguides.org/scrum-guide.html\nhttps://kanbanguides.org/the-kanban-guide/2025.5/\nhttps://playwright.dev/docs/best-practices\n\n#AgileTesting #SoftwareTesting #QATutorial",
+        "tags": [
+          "QA tutorial",
+          "Techat60",
+          "agile testing",
+          "agile testing for beginners",
+          "agile testing masterclass",
+          "end-to-end agile testing case study",
+          "manual testing",
+          "software quality assurance",
+          "software testing tutorial"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "agile-masterclass/episodes/12/youtube-metadata.json"
+    },
+    {
+      "id": "z3Z_RcpRZrw",
+      "course": "AI",
+      "episode": 1,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "huoNfbwbSa1r-C-WPd8dqvSKV6A",
+        "id": "z3Z_RcpRZrw",
+        "snippet": {
+          "publishedAt": "2026-10-27T10:30:06Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "What Is AI? A Simple Explanation with Everyday Examples | Ep 01",
+          "description": "What Is AI? A Simple Explanation with Everyday Examples. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 01 of 50\n\nWhat you will learn: Ai systems recognize patterns and produce predictions or content.\nExample: a phone suggesting the next word while you type.\nTry it: compare a human-written sentence with an AI suggestion.\nRemember: AI is not a human brain and can be confidently wrong.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/z3Z_RcpRZrw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "learn AI",
+            "what is artificial intelligence?"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What Is AI? A Simple Explanation with Everyday Examples | Ep 01",
+            "description": "What Is AI? A Simple Explanation with Everyday Examples. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 01 of 50\n\nWhat you will learn: Ai systems recognize patterns and produce predictions or content.\nExample: a phone suggesting the next word while you type.\nTry it: compare a human-written sentence with an AI suggestion.\nRemember: AI is not a human brain and can be confidently wrong.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "What Is AI? A Simple Explanation with Everyday Examples | Ep 01",
+        "description": "What Is AI? A Simple Explanation with Everyday Examples. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=upGQIZplJPs\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 01 of 50\n\nWhat you will learn: Ai systems recognize patterns and produce predictions or content.\nExample: a phone suggesting the next word while you type.\nTry it: compare a human-written sentence with an AI suggestion.\nRemember: AI is not a human brain and can be confidently wrong.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "what is artificial intelligence?"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      },
+      "localPath": "ai-beginners/episodes/01/youtube-metadata.json"
+    },
+    {
+      "id": "upGQIZplJPs",
+      "course": "AI",
+      "episode": 2,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "kei-84A1cmS3g3UHuh7XRoqmzpo",
+        "id": "upGQIZplJPs",
+        "snippet": {
+          "publishedAt": "2026-10-27T10:30:58Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI in Everyday Life: Features You Already Use | Ep 02",
+          "description": "AI in Everyday Life: Features You Already Use. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 02 of 50\n\nWhat you will learn: Recommendations, maps, spam filters and cameras use ai.\nExample: a video platform suggesting a tutorial.\nTry it: identify three AI features on your phone.\nRemember: recommendations optimize patterns rather than understanding your needs perfectly.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:51 Guided beginner exercise\n03:52 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/upGQIZplJPs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/upGQIZplJPs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/upGQIZplJPs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/upGQIZplJPs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/upGQIZplJPs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai in everyday life",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI in Everyday Life: Features You Already Use | Ep 02",
+            "description": "AI in Everyday Life: Features You Already Use. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 02 of 50\n\nWhat you will learn: Recommendations, maps, spam filters and cameras use ai.\nExample: a video platform suggesting a tutorial.\nTry it: identify three AI features on your phone.\nRemember: recommendations optimize patterns rather than understanding your needs perfectly.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:51 Guided beginner exercise\n03:52 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "7",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI in Everyday Life: Features You Already Use | Ep 02",
+        "description": "AI in Everyday Life: Features You Already Use. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=Zvoo_4O7aRI\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 02 of 50\n\nWhat you will learn: Recommendations, maps, spam filters and cameras use ai.\nExample: a video platform suggesting a tutorial.\nTry it: identify three AI features on your phone.\nRemember: recommendations optimize patterns rather than understanding your needs perfectly.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:51 Guided beginner exercise\n03:52 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai in everyday life",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      },
+      "localPath": "ai-beginners/episodes/02/youtube-metadata.json"
+    },
+    {
+      "id": "Zvoo_4O7aRI",
+      "course": "AI",
+      "episode": 3,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "ESNf60yduw9ARx02OMtGEiFu95g",
+        "id": "Zvoo_4O7aRI",
+        "snippet": {
+          "publishedAt": "2026-10-28T08:30:25Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI vs Machine Learning vs Deep Learning: The Simple Difference | Ep 03",
+          "description": "AI vs Machine Learning vs Deep Learning: The Simple Difference. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 03 of 50\n\nWhat you will learn: Ai is the broad field, machine learning learns from examples, and deep learning uses layered neural networks.\nExample: sorting photos of cats and dogs.\nTry it: draw three nested circles.\nRemember: these terms overlap but are not interchangeable.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:54 On-screen demonstration\n02:53 Guided beginner exercise\n03:52 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Zvoo_4O7aRI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Zvoo_4O7aRI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Zvoo_4O7aRI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Zvoo_4O7aRI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Zvoo_4O7aRI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai vs machine learning vs deep learning",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI vs Machine Learning vs Deep Learning: The Simple Difference | Ep 03",
+            "description": "AI vs Machine Learning vs Deep Learning: The Simple Difference. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 03 of 50\n\nWhat you will learn: Ai is the broad field, machine learning learns from examples, and deep learning uses layered neural networks.\nExample: sorting photos of cats and dogs.\nTry it: draw three nested circles.\nRemember: these terms overlap but are not interchangeable.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:54 On-screen demonstration\n02:53 Guided beginner exercise\n03:52 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "3",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI vs Machine Learning vs Deep Learning: The Simple Difference | Ep 03",
+        "description": "AI vs Machine Learning vs Deep Learning: The Simple Difference. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=zk1Z9Aieiys\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 03 of 50\n\nWhat you will learn: Ai is the broad field, machine learning learns from examples, and deep learning uses layered neural networks.\nExample: sorting photos of cats and dogs.\nTry it: draw three nested circles.\nRemember: these terms overlap but are not interchangeable.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:54 On-screen demonstration\n02:53 Guided beginner exercise\n03:52 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai vs machine learning vs deep learning",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/03/youtube-metadata.json"
+    },
+    {
+      "id": "zk1Z9Aieiys",
+      "course": "AI",
+      "episode": 4,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "EGHqfgrWF7b-ijrtOIWPT1mhQRs",
+        "id": "zk1Z9Aieiys",
+        "snippet": {
+          "publishedAt": "2026-10-28T08:30:26Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "How Generative AI Works: From Prompt to New Content | Ep 04",
+          "description": "How Generative AI Works: From Prompt to New Content. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 04 of 50\n\nWhat you will learn: Generative models learn statistical relationships and generate new outputs.\nExample: asking for a bedtime story about a robot.\nTry it: generate and revise a three-sentence story.\nRemember: generated content can sound plausible without being true.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:53 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zk1Z9Aieiys/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zk1Z9Aieiys/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zk1Z9Aieiys/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zk1Z9Aieiys/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zk1Z9Aieiys/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "how generative ai works",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How Generative AI Works: From Prompt to New Content | Ep 04",
+            "description": "How Generative AI Works: From Prompt to New Content. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 04 of 50\n\nWhat you will learn: Generative models learn statistical relationships and generate new outputs.\nExample: asking for a bedtime story about a robot.\nTry it: generate and revise a three-sentence story.\nRemember: generated content can sound plausible without being true.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:53 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "6",
+          "likeCount": "3",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "How Generative AI Works: From Prompt to New Content | Ep 04",
+        "description": "How Generative AI Works: From Prompt to New Content. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=QPEHgxu2Eto\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 04 of 50\n\nWhat you will learn: Generative models learn statistical relationships and generate new outputs.\nExample: asking for a bedtime story about a robot.\nTry it: generate and revise a three-sentence story.\nRemember: generated content can sound plausible without being true.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:53 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "how generative ai works",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/04/youtube-metadata.json"
+    },
+    {
+      "id": "QPEHgxu2Eto",
+      "course": "AI",
+      "episode": 5,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "3ETqJiybDLBX_J8EQ25biwLnLZ8",
+        "id": "QPEHgxu2Eto",
+        "snippet": {
+          "publishedAt": "2026-10-29T08:30:05Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Myths and Realities: What Beginners Should Know | Ep 05",
+          "description": "AI Myths and Realities: What Beginners Should Know. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 05 of 50\n\nWhat you will learn: Separate marketing claims from real capabilities.\nExample: a chatbot claiming to know tomorrow's weather without checking.\nTry it: make a myth-versus-fact table.\nRemember: AI is neither magic nor guaranteed to replace every job.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QPEHgxu2Eto/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QPEHgxu2Eto/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QPEHgxu2Eto/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QPEHgxu2Eto/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QPEHgxu2Eto/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai myths and realities",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Myths and Realities: What Beginners Should Know | Ep 05",
+            "description": "AI Myths and Realities: What Beginners Should Know. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 05 of 50\n\nWhat you will learn: Separate marketing claims from real capabilities.\nExample: a chatbot claiming to know tomorrow's weather without checking.\nTry it: make a myth-versus-fact table.\nRemember: AI is neither magic nor guaranteed to replace every job.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "10",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Myths and Realities: What Beginners Should Know | Ep 05",
+        "description": "AI Myths and Realities: What Beginners Should Know. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=d9z6XbshUDw\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 05 of 50\n\nWhat you will learn: Separate marketing claims from real capabilities.\nExample: a chatbot claiming to know tomorrow's weather without checking.\nTry it: make a myth-versus-fact table.\nRemember: AI is neither magic nor guaranteed to replace every job.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai myths and realities",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/05/youtube-metadata.json"
+    },
+    {
+      "id": "d9z6XbshUDw",
+      "course": "AI",
+      "episode": 6,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "GS427rbi2flDupwrRQYcQDQRC0I",
+        "id": "d9z6XbshUDw",
+        "snippet": {
+          "publishedAt": "2026-10-29T08:30:17Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "ChatGPT for Beginners: Ask, Refine and Get Better Answers | Ep 06",
+          "description": "ChatGPT for Beginners: Ask, Refine and Get Better Answers. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 06 of 50\n\nWhat you will learn: Use a conversational interface to ask, refine and iterate.\nExample: requesting a beginner-friendly explanation of cloud computing.\nTry it: start a new chat and ask a clear question.\nRemember: features and limits vary by account and can change.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d9z6XbshUDw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d9z6XbshUDw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d9z6XbshUDw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/d9z6XbshUDw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/d9z6XbshUDw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "getting started with chatgpt",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ChatGPT for Beginners: Ask, Refine and Get Better Answers | Ep 06",
+            "description": "ChatGPT for Beginners: Ask, Refine and Get Better Answers. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 06 of 50\n\nWhat you will learn: Use a conversational interface to ask, refine and iterate.\nExample: requesting a beginner-friendly explanation of cloud computing.\nTry it: start a new chat and ask a clear question.\nRemember: features and limits vary by account and can change.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "6",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "ChatGPT for Beginners: Ask, Refine and Get Better Answers | Ep 06",
+        "description": "ChatGPT for Beginners: Ask, Refine and Get Better Answers. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=GBCI10KLqWg\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 06 of 50\n\nWhat you will learn: Use a conversational interface to ask, refine and iterate.\nExample: requesting a beginner-friendly explanation of cloud computing.\nTry it: start a new chat and ask a clear question.\nRemember: features and limits vary by account and can change.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "getting started with chatgpt",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/06/youtube-metadata.json"
+    },
+    {
+      "id": "GBCI10KLqWg",
+      "course": "AI",
+      "episode": 7,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "YEw4XK96C3wr7wHP66crmW3Q49w",
+        "id": "GBCI10KLqWg",
+        "snippet": {
+          "publishedAt": "2026-10-30T08:30:38Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Write Better AI Prompts: Goal, Context, Audience and Format | Ep 07",
+          "description": "Write Better AI Prompts: Goal, Context, Audience and Format. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 07 of 50\n\nWhat you will learn: Specify goal, context, audience and output format.\nExample: asking for a polite email about a delayed delivery.\nTry it: rewrite a vague request into a specific prompt.\nRemember: vague prompts often lead to generic answers.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GBCI10KLqWg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GBCI10KLqWg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GBCI10KLqWg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GBCI10KLqWg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GBCI10KLqWg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI prompts",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "learn AI",
+            "prompt engineering",
+            "writing your first great prompt"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Write Better AI Prompts: Goal, Context, Audience and Format | Ep 07",
+            "description": "Write Better AI Prompts: Goal, Context, Audience and Format. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 07 of 50\n\nWhat you will learn: Specify goal, context, audience and output format.\nExample: asking for a polite email about a delayed delivery.\nTry it: rewrite a vague request into a specific prompt.\nRemember: vague prompts often lead to generic answers.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "3",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Write Better AI Prompts: Goal, Context, Audience and Format | Ep 07",
+        "description": "Write Better AI Prompts: Goal, Context, Audience and Format. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=ymDU3K5DOUo\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 07 of 50\n\nWhat you will learn: Specify goal, context, audience and output format.\nExample: asking for a polite email about a delayed delivery.\nTry it: rewrite a vague request into a specific prompt.\nRemember: vague prompts often lead to generic answers.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI prompts",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "prompt engineering",
+          "writing your first great prompt"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/07/youtube-metadata.json"
+    },
+    {
+      "id": "ymDU3K5DOUo",
+      "course": "AI",
+      "episode": 8,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "FHnIImwHOOtEqIE2O2dkKubfKB8",
+        "id": "ymDU3K5DOUo",
+        "snippet": {
+          "publishedAt": "2026-10-30T08:30:17Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Prompt Engineering for Beginners: Show AI an Example | Ep 08",
+          "description": "Prompt Engineering for Beginners: Show AI an Example. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 08 of 50\n\nWhat you will learn: Use examples to establish tone, structure and quality.\nExample: giving two examples of short professional headlines.\nTry it: compare outputs with and without examples.\nRemember: examples guide style but do not guarantee accuracy.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ymDU3K5DOUo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ymDU3K5DOUo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ymDU3K5DOUo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ymDU3K5DOUo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ymDU3K5DOUo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI prompts",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "learn AI",
+            "prompt engineering",
+            "prompt engineering with examples"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Prompt Engineering for Beginners: Show AI an Example | Ep 08",
+            "description": "Prompt Engineering for Beginners: Show AI an Example. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 08 of 50\n\nWhat you will learn: Use examples to establish tone, structure and quality.\nExample: giving two examples of short professional headlines.\nTry it: compare outputs with and without examples.\nRemember: examples guide style but do not guarantee accuracy.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "6",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Prompt Engineering for Beginners: Show AI an Example | Ep 08",
+        "description": "Prompt Engineering for Beginners: Show AI an Example. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=B9SlsiY_zko\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 08 of 50\n\nWhat you will learn: Use examples to establish tone, structure and quality.\nExample: giving two examples of short professional headlines.\nTry it: compare outputs with and without examples.\nRemember: examples guide style but do not guarantee accuracy.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI prompts",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "prompt engineering",
+          "prompt engineering with examples"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/08/youtube-metadata.json"
+    },
+    {
+      "id": "B9SlsiY_zko",
+      "course": "AI",
+      "episode": 9,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "Cz91kFE8gMftlMQE1Mx_aR0eB4w",
+        "id": "B9SlsiY_zko",
+        "snippet": {
+          "publishedAt": "2026-10-31T08:40:35Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Role Prompting Explained: Give AI the Context It Needs | Ep 09",
+          "description": "Role Prompting Explained: Give AI the Context It Needs. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 09 of 50\n\nWhat you will learn: Describe the task perspective and relevant background.\nExample: asking for feedback as an interview coach.\nTry it: draft an interview practice prompt.\nRemember: a role instruction does not make the model a certified expert.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B9SlsiY_zko/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B9SlsiY_zko/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B9SlsiY_zko/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/B9SlsiY_zko/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/B9SlsiY_zko/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI prompts",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "learn AI",
+            "prompt engineering",
+            "role and context prompting"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Role Prompting Explained: Give AI the Context It Needs | Ep 09",
+            "description": "Role Prompting Explained: Give AI the Context It Needs. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 09 of 50\n\nWhat you will learn: Describe the task perspective and relevant background.\nExample: asking for feedback as an interview coach.\nTry it: draft an interview practice prompt.\nRemember: a role instruction does not make the model a certified expert.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "18",
+          "likeCount": "2",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Role Prompting Explained: Give AI the Context It Needs | Ep 09",
+        "description": "Role Prompting Explained: Give AI the Context It Needs. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=-vsK2rmDkfU\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 09 of 50\n\nWhat you will learn: Describe the task perspective and relevant background.\nExample: asking for feedback as an interview coach.\nTry it: draft an interview practice prompt.\nRemember: a role instruction does not make the model a certified expert.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI prompts",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "prompt engineering",
+          "role and context prompting"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/09/youtube-metadata.json"
+    },
+    {
+      "id": "-vsK2rmDkfU",
+      "course": "AI",
+      "episode": 10,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "sKFIAf8wM-5LRgRJpwrrnDd-cKw",
+        "id": "-vsK2rmDkfU",
+        "snippet": {
+          "publishedAt": "2026-10-31T08:47:50Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Better AI Answers Start with Better Follow-Up Prompts | Ep 10",
+          "description": "Better AI Answers Start with Better Follow-Up Prompts. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 10 of 50\n\nWhat you will learn: Improve outputs through targeted revisions.\nExample: shortening a long explanation to five bullet points.\nTry it: ask for a shorter version and a simpler example.\nRemember: review every revision for lost facts.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:55 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-vsK2rmDkfU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-vsK2rmDkfU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-vsK2rmDkfU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-vsK2rmDkfU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-vsK2rmDkfU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI prompts",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "follow-up prompts and iteration",
+            "learn AI",
+            "prompt engineering"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Better AI Answers Start with Better Follow-Up Prompts | Ep 10",
+            "description": "Better AI Answers Start with Better Follow-Up Prompts. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 10 of 50\n\nWhat you will learn: Improve outputs through targeted revisions.\nExample: shortening a long explanation to five bullet points.\nTry it: ask for a shorter version and a simpler example.\nRemember: review every revision for lost facts.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:55 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "3",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Better AI Answers Start with Better Follow-Up Prompts | Ep 10",
+        "description": "Better AI Answers Start with Better Follow-Up Prompts. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=6RfLeN89OdU\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 10 of 50\n\nWhat you will learn: Improve outputs through targeted revisions.\nExample: shortening a long explanation to five bullet points.\nTry it: ask for a shorter version and a simpler example.\nRemember: review every revision for lost facts.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:55 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI prompts",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "follow-up prompts and iteration",
+          "learn AI",
+          "prompt engineering"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/10/youtube-metadata.json",
+      "previousAfter": {
+        "title": "Better AI Answers Start with Better Follow-Up Prompts | Ep 10",
+        "description": "Better AI Answers Start with Better Follow-Up Prompts. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=k-IXYpwIKcM\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 10 of 50\n\nWhat you will learn: Improve outputs through targeted revisions.\nExample: shortening a long explanation to five bullet points.\nTry it: ask for a shorter version and a simpler example.\nRemember: review every revision for lost facts.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:55 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI prompts",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "follow-up prompts and iteration",
+          "learn AI",
+          "prompt engineering"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      },
+      "previousDescriptions": [
+        "Better AI Answers Start with Better Follow-Up Prompts. Learn with a simple example and a beginner exercise.\n\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 10 of 50\n\nWhat you will learn: Improve outputs through targeted revisions.\nExample: shortening a long explanation to five bullet points.\nTry it: ask for a shorter version and a simpler example.\nRemember: review every revision for lost facts.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:55 Limitations, recap and CTA"
+      ]
+    },
+    {
+      "id": "k-IXYpwIKcM",
+      "course": "AI",
+      "episode": 13,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "Uvx9PnLemvHoLMF3CShqip736mc",
+        "id": "k-IXYpwIKcM",
+        "snippet": {
+          "publishedAt": "2026-11-02T08:30:08Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Reusable AI Prompt Templates: Stop Starting from Scratch | Ep 13",
+          "description": "Reusable AI Prompt Templates: Stop Starting from Scratch. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 13 of 50\n\nWhat you will learn: Create reusable templates with placeholders.\nExample: a weekly meeting-summary prompt.\nTry it: save a prompt with audience, input and desired format.\nRemember: templates still need real context and human review.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:52 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/k-IXYpwIKcM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/k-IXYpwIKcM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/k-IXYpwIKcM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/k-IXYpwIKcM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/k-IXYpwIKcM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI prompts",
+            "AI tutorial English",
+            "Techat60",
+            "advanced prompt templates for beginners",
+            "artificial intelligence tutorial",
+            "learn AI",
+            "prompt engineering"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Reusable AI Prompt Templates: Stop Starting from Scratch | Ep 13",
+            "description": "Reusable AI Prompt Templates: Stop Starting from Scratch. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 13 of 50\n\nWhat you will learn: Create reusable templates with placeholders.\nExample: a weekly meeting-summary prompt.\nTry it: save a prompt with audience, input and desired format.\nRemember: templates still need real context and human review.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:52 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Reusable AI Prompt Templates: Stop Starting from Scratch | Ep 13",
+        "description": "Reusable AI Prompt Templates: Stop Starting from Scratch. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=9c9pYDNIw4w\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 13 of 50\n\nWhat you will learn: Create reusable templates with placeholders.\nExample: a weekly meeting-summary prompt.\nTry it: save a prompt with audience, input and desired format.\nRemember: templates still need real context and human review.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:52 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI prompts",
+          "AI tutorial English",
+          "Techat60",
+          "advanced prompt templates for beginners",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "prompt engineering"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/13/youtube-metadata.json"
+    },
+    {
+      "id": "9c9pYDNIw4w",
+      "course": "AI",
+      "episode": 14,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "fDeoUlu4KyoL8MHvtMDbcZuDaBE",
+        "id": "9c9pYDNIw4w",
+        "snippet": {
+          "publishedAt": "2026-11-02T08:30:18Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "Write Better Emails with AI: Clear Drafts in Simple Steps | Ep 14",
+          "description": "Write Better Emails with AI: Clear Drafts in Simple Steps. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 14 of 50\n\nWhat you will learn: Draft concise, audience-aware email messages.\nExample: requesting an update from a project client.\nTry it: write a friendly and a formal version.\nRemember: never paste confidential client data without permission.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9c9pYDNIw4w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9c9pYDNIw4w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9c9pYDNIw4w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9c9pYDNIw4w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9c9pYDNIw4w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai for email writing",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Write Better Emails with AI: Clear Drafts in Simple Steps | Ep 14",
+            "description": "Write Better Emails with AI: Clear Drafts in Simple Steps. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 14 of 50\n\nWhat you will learn: Draft concise, audience-aware email messages.\nExample: requesting an update from a project client.\nTry it: write a friendly and a formal version.\nRemember: never paste confidential client data without permission.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1",
+          "likeCount": "1",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "Write Better Emails with AI: Clear Drafts in Simple Steps | Ep 14",
+        "description": "Write Better Emails with AI: Clear Drafts in Simple Steps. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=w8UG5dTFgHY\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 14 of 50\n\nWhat you will learn: Draft concise, audience-aware email messages.\nExample: requesting an update from a project client.\nTry it: write a friendly and a formal version.\nRemember: never paste confidential client data without permission.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai for email writing",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/14/youtube-metadata.json"
+    },
+    {
+      "id": "w8UG5dTFgHY",
+      "course": "AI",
+      "episode": 15,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "-J1zU3zKRurdae0-q-sU7_naHEU",
+        "id": "w8UG5dTFgHY",
+        "snippet": {
+          "publishedAt": "2026-11-03T08:30:28Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI for Students: Build a Tutor, Not an Answer Machine | Ep 15",
+          "description": "AI for Students: Build a Tutor, Not an Answer Machine. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 15 of 50\n\nWhat you will learn: Use ai as a tutor rather than an answer machine.\nExample: learning fractions through worked examples.\nTry it: ask for a hint before the answer.\nRemember: check school policies and do your own assignments.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w8UG5dTFgHY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w8UG5dTFgHY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w8UG5dTFgHY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/w8UG5dTFgHY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/w8UG5dTFgHY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai for students",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI for Students: Build a Tutor, Not an Answer Machine | Ep 15",
+            "description": "AI for Students: Build a Tutor, Not an Answer Machine. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 15 of 50\n\nWhat you will learn: Use ai as a tutor rather than an answer machine.\nExample: learning fractions through worked examples.\nTry it: ask for a hint before the answer.\nRemember: check school policies and do your own assignments.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "2",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI for Students: Build a Tutor, Not an Answer Machine | Ep 15",
+        "description": "AI for Students: Build a Tutor, Not an Answer Machine. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=a6QvaG0hMg0\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 15 of 50\n\nWhat you will learn: Use ai as a tutor rather than an answer machine.\nExample: learning fractions through worked examples.\nTry it: ask for a hint before the answer.\nRemember: check school policies and do your own assignments.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai for students",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/15/youtube-metadata.json"
+    },
+    {
+      "id": "a6QvaG0hMg0",
+      "course": "AI",
+      "episode": 16,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "v4eO-95h8PioJMdfXdl88zY_tcY",
+        "id": "a6QvaG0hMg0",
+        "snippet": {
+          "publishedAt": "2026-11-03T08:30:34Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI for Job Seekers: Improve Your Resume and Interview Practice | Ep 16",
+          "description": "AI for Job Seekers: Improve Your Resume and Interview Practice. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 16 of 50\n\nWhat you will learn: Tailor a resume and practice interviews truthfully.\nExample: rewriting a project manager achievement.\nTry it: turn one real achievement into a results-focused bullet.\nRemember: never invent qualifications or experience.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a6QvaG0hMg0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a6QvaG0hMg0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a6QvaG0hMg0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/a6QvaG0hMg0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/a6QvaG0hMg0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai for job seekers",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI for Job Seekers: Improve Your Resume and Interview Practice | Ep 16",
+            "description": "AI for Job Seekers: Improve Your Resume and Interview Practice. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 16 of 50\n\nWhat you will learn: Tailor a resume and practice interviews truthfully.\nExample: rewriting a project manager achievement.\nTry it: turn one real achievement into a results-focused bullet.\nRemember: never invent qualifications or experience.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "2",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI for Job Seekers: Improve Your Resume and Interview Practice | Ep 16",
+        "description": "AI for Job Seekers: Improve Your Resume and Interview Practice. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=yIR1wkNW6oQ\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 16 of 50\n\nWhat you will learn: Tailor a resume and practice interviews truthfully.\nExample: rewriting a project manager achievement.\nTry it: turn one real achievement into a results-focused bullet.\nRemember: never invent qualifications or experience.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai for job seekers",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en-US"
+      },
+      "localPath": "ai-beginners/episodes/16/youtube-metadata.json"
+    },
+    {
+      "id": "yIR1wkNW6oQ",
+      "course": "AI",
+      "episode": 17,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "K6GbYAYVBuJ9MV6zQGLcYi_wjFs",
+        "id": "yIR1wkNW6oQ",
+        "snippet": {
+          "publishedAt": "2026-11-04T08:30:34Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI at Work: Turn Meeting Notes into Clear Action Items | Ep 17",
+          "description": "AI at Work: Turn Meeting Notes into Clear Action Items. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 17 of 50\n\nWhat you will learn: Turn notes into action items and summaries.\nExample: organizing a team status meeting.\nTry it: convert sample notes into a task list.\nRemember: review dates, owners and commitments.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:55 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yIR1wkNW6oQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yIR1wkNW6oQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yIR1wkNW6oQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yIR1wkNW6oQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yIR1wkNW6oQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai for office productivity",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI at Work: Turn Meeting Notes into Clear Action Items | Ep 17",
+            "description": "AI at Work: Turn Meeting Notes into Clear Action Items. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 17 of 50\n\nWhat you will learn: Turn notes into action items and summaries.\nExample: organizing a team status meeting.\nTry it: convert sample notes into a task list.\nRemember: review dates, owners and commitments.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:55 Limitations, recap and CTA"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI at Work: Turn Meeting Notes into Clear Action Items | Ep 17",
+        "description": "AI at Work: Turn Meeting Notes into Clear Action Items. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=1nBnoc5tdqM\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 17 of 50\n\nWhat you will learn: Turn notes into action items and summaries.\nExample: organizing a team status meeting.\nTry it: convert sample notes into a task list.\nRemember: review dates, owners and commitments.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:55 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai for office productivity",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      },
+      "localPath": "ai-beginners/episodes/17/youtube-metadata.json"
+    },
+    {
+      "id": "1nBnoc5tdqM",
+      "course": "AI",
+      "episode": 18,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "ZonmbFo5MCpPWdrAJA3oKhaDlPU",
+        "id": "1nBnoc5tdqM",
+        "snippet": {
+          "publishedAt": "2026-11-04T08:30:24Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI for Spreadsheets: Understand Formulas and Check Results | Ep 18",
+          "description": "AI for Spreadsheets: Understand Formulas and Check Results. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 18 of 50\n\nWhat you will learn: Explain formulas and help analyze tabular data.\nExample: calculating monthly expenses with SUMIF.\nTry it: create a small budget and request a formula.\nRemember: validate formulas on sample rows.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1nBnoc5tdqM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1nBnoc5tdqM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1nBnoc5tdqM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1nBnoc5tdqM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1nBnoc5tdqM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai with spreadsheets",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI for Spreadsheets: Understand Formulas and Check Results | Ep 18",
+            "description": "AI for Spreadsheets: Understand Formulas and Check Results. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 18 of 50\n\nWhat you will learn: Explain formulas and help analyze tabular data.\nExample: calculating monthly expenses with SUMIF.\nTry it: create a small budget and request a formula.\nRemember: validate formulas on sample rows.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI for Spreadsheets: Understand Formulas and Check Results | Ep 18",
+        "description": "AI for Spreadsheets: Understand Formulas and Check Results. Learn with a simple example and a beginner exercise.\n\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 18 of 50\n\nWhat you will learn: Explain formulas and help analyze tabular data.\nExample: calculating monthly expenses with SUMIF.\nTry it: create a small budget and request a formula.\nRemember: validate formulas on sample rows.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:53 On-screen demonstration\n02:53 Guided beginner exercise\n03:54 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai with spreadsheets",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en",
+        "defaultAudioLanguage": "en"
+      },
+      "localPath": "ai-beginners/episodes/18/youtube-metadata.json"
+    },
+    {
+      "id": "6RfLeN89OdU",
+      "course": "AI",
+      "episode": 11,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "Jc9-6oxFMs7SMc-xLDX-X07zsMs",
+        "id": "6RfLeN89OdU",
+        "snippet": {
+          "publishedAt": "2026-11-01T08:30:12Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Research for Beginners: Find Sources and Verify Claims | Ep 11",
+          "description": "AI Research for Beginners: Find Sources and Verify Claims. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 11 of 50\n\nWhat you will learn: Build research questions, request sources and verify independently.\nExample: researching solar panels for a school project.\nTry it: create a research checklist and verify one claim.\nRemember: a model may invent citations or rely on outdated information.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6RfLeN89OdU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6RfLeN89OdU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6RfLeN89OdU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6RfLeN89OdU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6RfLeN89OdU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "artificial intelligence tutorial",
+            "learn AI",
+            "using chatgpt for research"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Research for Beginners: Find Sources and Verify Claims | Ep 11",
+            "description": "AI Research for Beginners: Find Sources and Verify Claims. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 11 of 50\n\nWhat you will learn: Build research questions, request sources and verify independently.\nExample: researching solar panels for a school project.\nTry it: create a research checklist and verify one claim.\nRemember: a model may invent citations or rely on outdated information.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Research for Beginners: Find Sources and Verify Claims | Ep 11",
+        "description": "AI Research for Beginners: Find Sources and Verify Claims. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=EmlbxCoB6t0\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 11 of 50\n\nWhat you will learn: Build research questions, request sources and verify independently.\nExample: researching solar panels for a school project.\nTry it: create a research checklist and verify one claim.\nRemember: a model may invent citations or rely on outdated information.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n00:59 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:52 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "artificial intelligence tutorial",
+          "learn AI",
+          "using chatgpt for research"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      },
+      "localPath": "ai-beginners/episodes/11/youtube-metadata.json"
+    },
+    {
+      "id": "EmlbxCoB6t0",
+      "course": "AI",
+      "episode": 12,
+      "before": {
+        "kind": "youtube#video",
+        "etag": "aK0w6ewyKFbbb4u3sT1UVM90oXU",
+        "id": "EmlbxCoB6t0",
+        "snippet": {
+          "publishedAt": "2026-11-01T08:30:26Z",
+          "channelId": "UC7F3e0NsVP37sqroVmYxiFw",
+          "title": "AI Hallucinations: How to Spot and Check Confident Errors | Ep 12",
+          "description": "AI Hallucinations: How to Spot and Check Confident Errors. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 12 of 50\n\nWhat you will learn: Recognize confident errors and corroborate important details.\nExample: a made-up book title presented as real.\nTry it: ask for sources and check an official page.\nRemember: never trust unsupported claims in health, finance or legal matters.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EmlbxCoB6t0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EmlbxCoB6t0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EmlbxCoB6t0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EmlbxCoB6t0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EmlbxCoB6t0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech at 60",
+          "tags": [
+            "AI for beginners",
+            "AI tutorial English",
+            "Techat60",
+            "ai hallucinations and fact checking",
+            "artificial intelligence tutorial",
+            "learn AI"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "AI Hallucinations: How to Spot and Check Confident Errors | Ep 12",
+            "description": "AI Hallucinations: How to Spot and Check Confident Errors. Learn with a simple example and a beginner exercise.\n\nAI for Beginners \u2014 Episode 12 of 50\n\nWhat you will learn: Recognize confident errors and corroborate important details.\nExample: a made-up book title presented as real.\nTry it: ask for sources and check an official page.\nRemember: never trust unsupported claims in health, finance or legal matters.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\nWatch the course in order: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular",
+          "hasCustomThumbnail": false
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false,
+          "selfDeclaredMadeForKids": false
+        },
+        "statistics": {
+          "viewCount": "4",
+          "likeCount": "0",
+          "dislikeCount": "0",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      "after": {
+        "title": "AI Hallucinations: How to Spot and Check Confident Errors | Ep 12",
+        "description": "AI Hallucinations: How to Spot and Check Confident Errors. Learn with a simple example and a beginner exercise.\n\nNext lesson: https://www.youtube.com/watch?v=k-IXYpwIKcM\nContinue the course: https://www.youtube.com/playlist?list=PLHH8ZgwKrWFk\n\nAI for Beginners \u2014 Episode 12 of 50\n\nWhat you will learn: Recognize confident errors and corroborate important details.\nExample: a made-up book title presented as real.\nTry it: ask for sources and check an official page.\nRemember: never trust unsupported claims in health, finance or legal matters.\n\nFollow the series in episode order and practice with sample data. Share your question or exercise result in the comments.\nSubscribe to @Techat60 for practical AI tutorials.\n\n#AIForBeginners #ArtificialIntelligence #LearnAI\n\n\nCHAPTERS\n00:00 Hook and promise\n01:00 Explain the concept\n01:52 On-screen demonstration\n02:52 Guided beginner exercise\n03:53 Limitations, recap and CTA",
+        "tags": [
+          "AI for beginners",
+          "AI tutorial English",
+          "Techat60",
+          "ai hallucinations and fact checking",
+          "artificial intelligence tutorial",
+          "learn AI"
+        ],
+        "categoryId": "27",
+        "defaultLanguage": "en"
+      },
+      "localPath": "ai-beginners/episodes/12/youtube-metadata.json"
+    }
+  ]
+}
