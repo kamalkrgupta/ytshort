@@ -1,0 +1,1688 @@
+[
+  {
+    "episode": 1,
+    "topic": "Agile Testing Fundamentals",
+    "visual": {
+      "headline": "AGILE TESTING\nSTART HERE",
+      "title": "Agile Testing Explained for Beginners | Real Examples | Episode 1",
+      "example": "Password reset",
+      "steps": [
+        "Clarify the rule",
+        "Test a small slice",
+        "Inspect the outcome"
+      ],
+      "checks": [
+        "Valid recovery link",
+        "Expired link denied",
+        "Used link rejected"
+      ],
+      "result": "Quality starts before code",
+      "question": "Which failure would you investigate first?"
+    },
+    "chapters": [
+      {
+        "title": "Hook and introduction",
+        "text": "Imagine your team has spent three months developing a mobile application. The design looks perfect, the developers are confident, and the client is excited. But one day before launch, your testing team discovers that users cannot complete their payments. The launch gets delayed, development costs increase, and customer confidence suffers. Now imagine discovering the same issue during the first week of development. That is exactly where Agile Testing makes a difference. Welcome to this lesson. We will explain what Agile Testing is, how it differs from traditional testing, and how software teams apply it in practice. ",
+        "direction": "Show a launch countdown, failed payment screen and a team identifying the issue early.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 43.933333,
+        "speechDuration": 43.283333,
+        "speed": 1.2126607624181749
+      },
+      {
+        "title": "What is Agile Testing?",
+        "text": "Agile Testing is an approach in which testing happens continuously throughout software development. Rather than waiting for developers to finish an entire application, testers collaborate with them from the beginning. Consider an e-commerce website. In the first sprint, developers implement login while testers prepare scenarios for valid credentials, incorrect passwords, empty fields and security. In the next sprint, the team builds a shopping cart, and testers verify both the new feature and existing login behavior. This process continues throughout delivery. The key idea is to identify problems early, resolve them quickly, and continuously improve the product. Let us make that difference concrete. Suppose a customer has one thousand rupees in a wallet and purchases an item costing three hundred rupees. The expected remaining balance is seven hundred. That arithmetic is simple, but the workflow raises more questions. What if the request is submitted twice? What if the payment service accepts it but the browser loses the response? A good testing conversation identifies those risks before the team commits to one implementation. Early testing includes asking useful questions, not just running a finished application.",
+        "direction": "Animated cycle: Plan \u2192 Develop \u2192 Test \u2192 Feedback \u2192 Plan.",
+        "id": "chapter-02",
+        "start": 43.933333,
+        "duration": 84.966667,
+        "speechDuration": 84.316667,
+        "speed": 1.212287013243724
+      },
+      {
+        "title": "Agile versus traditional testing",
+        "text": "In a typical Waterfall project, work moves through sequential phases: requirements, design, implementation and testing. Major defects may remain undiscovered until late in delivery. Agile works differently. Development and testing take place together in short iterations, commonly called sprints. Testers collaborate with developers, Product Owners and stakeholders throughout the process. Frequent feedback allows teams to adjust priorities. If a customer requests a discount feature, the team can clarify it, prioritize it and validate it in an upcoming sprint. The objective is not merely to work faster but to validate that the team is building the right product at the right quality level. ",
+        "direction": "Side-by-side Waterfall sequence and iterative Agile feedback loops.",
+        "id": "chapter-03",
+        "start": 128.9,
+        "duration": 48.7,
+        "speechDuration": 48.05,
+        "speed": 1.2127367325702392
+      },
+      {
+        "title": "Five core principles",
+        "text": "First, continuous testing means that quality is evaluated throughout development. Second, shared responsibility means developers, testers and other team members contribute to quality. Third, early feedback enables problems to be investigated before additional work depends on them. Fourth, customer collaboration ensures regular feedback on real business needs. Fifth, working software matters: a feature is not complete merely because coding has finished. It should satisfy agreed acceptance criteria and the Definition of Done. Together, these principles encourage teams to build quality into the product instead of treating testing as a final inspection. Here is a small acceptance example you can use in a team discussion. Given an account with a registered email address, when the customer requests a password reset, then a single-use link is sent and the account remains protected. Now add two variations: a link that has expired, and a link that has already been used. Agree on the expected outcomes before coding. Notice how one short example reveals several design decisions. Also consider whether the response could reveal which email addresses have accounts; avoid exposing that information unnecessarily.",
+        "direction": "Five animated principle cards with one practical example each.",
+        "id": "chapter-04",
+        "start": 177.6,
+        "duration": 84.833333,
+        "speechDuration": 84.183333,
+        "speed": 1.212211443278559
+      },
+      {
+        "title": "Agile Testing in Scrum",
+        "text": "Consider a two-week Scrum sprint. During Sprint Planning, the team selects Product Backlog Items supporting a Sprint Goal. A user story might say: As a customer, I want to reset my password so that I can regain access to my account. Before development, the team clarifies acceptance criteria. What happens if the address is unregistered? When does the reset link expire? What happens if the link is reused? During the sprint, developers implement the functionality while testers prepare and execute checks. The team resolves defects collaboratively. At the Sprint Review, stakeholders inspect the increment and provide feedback. At the Retrospective, the team identifies improvements to its process. ",
+        "direction": "Sprint board: Backlog \u2192 In Progress \u2192 Testing \u2192 Done; add review and retrospective.",
+        "id": "chapter-05",
+        "start": 262.433333,
+        "duration": 52.733333,
+        "speechDuration": 52.083333,
+        "speed": 1.2123648
+      },
+      {
+        "title": "Four Agile Testing quadrants",
+        "text": "The four Agile Testing quadrants help teams choose complementary kinds of testing. Quadrant one focuses on technology-facing tests supporting development, such as unit and component tests. Quadrant two includes business-facing examples and acceptance tests that guide development. Quadrant three evaluates the product from a user and business perspective, including exploratory and usability testing. Quadrant four examines technical qualities such as performance, security and reliability. In a banking application, a unit test can check interest calculations, an acceptance test can check money transfers, exploratory testing can reveal confusing interactions, and load testing can examine heavy usage. The quadrants are not sequential phases. Try this classification exercise. A calculation test runs without opening a browser. A customer evaluates whether checkout instructions make sense. A team measures response time under concurrent traffic. These activities investigate different risks, so one cannot replace the others. The calculation test gives precise, fast feedback about a rule. Customer observation explores whether the product supports a real task. Load testing examines behavior under stress. A balanced strategy chooses enough of each for the product's circumstances, rather than treating the number of automated checks as a complete measure of quality.",
+        "direction": "Display a labelled two-by-two quadrant matrix with concrete examples.",
+        "id": "chapter-06",
+        "start": 315.166667,
+        "duration": 96.533333,
+        "speechDuration": 95.883333,
+        "speed": 1.2122231879019643
+      },
+      {
+        "title": "Real-world example",
+        "text": "Imagine a food delivery application. Sprint one delivers registration and login. The tester checks valid and invalid credentials, recovery and security scenarios. Sprint two introduces restaurant listings and search; testers examine accuracy, filters and empty results. Sprint three adds the shopping cart and payment integration. The team tests payment success, payment failure, duplicate transactions and order confirmation. Importantly, it also verifies that previously completed functionality still works. This is regression testing. Continuous testing across sprints reduces the chance that major problems are discovered only before release. Before you move on, write a miniature test plan for a login feature. Include one successful login, one invalid-password attempt, one session-expiry check, and one access-control check after logout. For every check, state both the input and the observable outcome. Avoid saying only that login should work; specify what a legitimate user can see and what an unauthenticated person must not see. This exercise turns a general quality goal into a practical conversation. Keep your plan, because later lessons will add techniques, artifacts and automation to the same reasoning.",
+        "direction": "Three sprint timeline with login, search, and cart/payment; show regression checks across sprints.",
+        "id": "chapter-07",
+        "start": 411.7,
+        "duration": 87.133333,
+        "speechDuration": 86.483333,
+        "speed": 1.2121641934862208
+      },
+      {
+        "title": "Tools and automation",
+        "text": "Tools can support fast feedback. Jira can track user stories, bugs and sprint progress. Postman can validate A P I services. Selenium and Playwright can automate browser testing. Appium supports mobile automation, and Jenkins or GitHub Actions can run tests in continuous integration pipelines. Automation is useful for repetitive checks, but it does not replace human investigation. Exploratory testing still depends on judgment and curiosity. Choose tools based on risks, technology and testing needs. The goal is not to automate everything; it is to obtain useful, reliable feedback efficiently. ",
+        "direction": "Tool categories and a simple CI pipeline; avoid implying that any tool guarantees quality.",
+        "id": "chapter-08",
+        "start": 498.833333,
+        "duration": 45.7,
+        "speechDuration": 45.05,
+        "speed": 1.212519422863485
+      },
+      {
+        "title": "Recap and outro",
+        "text": "Agile Testing is continuous and collaborative. Testing begins early and continues throughout development. Scrum creates regular opportunities for planning, inspection and improvement. The testing quadrants help balance business and technical quality, while automation makes repetitive checks more efficient. The most important takeaway is that quality is not added at the end; it is built into every stage of delivery. In the next episode, we will compare Agile methodologies in greater detail. Knowledge check: why can identifying a defect during the first sprint be less costly than discovering it just before launch? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+        "direction": "Five-key-takeaway slide followed by the knowledge-check question.",
+        "id": "chapter-09",
+        "start": 544.533333,
+        "duration": 55.466667,
+        "speechDuration": 54.816667,
+        "speed": 1.2127698388567973
+      }
+    ],
+    "publishAt": null,
+    "plannedDate": "2026-10-23",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "url": "https://www.youtube.com/watch?v=reA35oDRHj8",
+    "videoId": "reA35oDRHj8",
+    "thumbnailSet": false
+  },
+  {
+    "episode": 2,
+    "topic": "Agile Testing Methodologies",
+    "visual": {
+      "headline": "SCRUM vs KANBAN\n+ XP & LEAN",
+      "title": "Scrum vs Kanban vs XP vs Lean | Agile Testing Methods | Episode 2",
+      "example": "Customer portal",
+      "steps": [
+        "Scrum: inspect & adapt",
+        "Kanban: manage flow",
+        "XP: fast code feedback"
+      ],
+      "checks": [
+        "Registration examples",
+        "Testing WIP limit: 3",
+        "Red \u2192 Green \u2192 Refactor"
+      ],
+      "result": "Choose practices for the problem",
+      "question": "What is slowing down useful feedback?"
+    },
+    "chapters": [
+      {
+        "title": "Introduction",
+        "text": "Agile is a set of values and principles rather than a single prescribed process. In this lesson, we examine Scrum, Kanban, Extreme Programming and Lean Software Development, and explain how testing changes with each approach. Start with a comparison that will remain useful throughout the course. Imagine a team building a customer portal while also receiving production support requests. Its planned feature work benefits from a clear short-term goal, but incoming incidents do not respect a sprint calendar. No single label solves both problems. The team must decide how to plan, how to visualize active work, and how to build reliable software. Scrum provides a framework for product work; Kanban helps manage flow; X P contributes engineering practices; Lean encourages attention to value and waste. Evaluate the problem before selecting the vocabulary.",
+        "direction": "Four methodology cards with short definitions.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 56.7,
+        "speechDuration": 56.05,
+        "speed": 1.2884210526315787
+      },
+      {
+        "title": "Scrum",
+        "text": "Scrum organizes complex work into sprints, commonly one to four weeks. Consider a customer management portal. During planning, the team selects a registration story. The Product Owner clarifies acceptance criteria, including valid addresses, invalid addresses and duplicate registration. Developers and testers collaborate during the sprint, and stakeholders inspect the increment at the Sprint Review. The Retrospective identifies ways to improve. Testing is integrated throughout the sprint rather than postponed to its final days. Walk through a Scrum example. The Sprint Goal is to let new customers register safely. The team selects registration and email verification because they support that goal. A tester asks whether duplicate email addresses are allowed and what happens if a confirmation message arrives late. Developers and testers discuss these examples while work is still small. During the sprint they inspect progress and adapt their plan. If registration passes its happy path but bypasses verification, the team has not established the intended outcome. Finishing tasks is useful only when the increment meets the agreed quality conditions and supports the goal.",
+        "direction": "Animated two-week sprint timeline.",
+        "id": "chapter-02",
+        "start": 56.7,
+        "duration": 77.333333,
+        "speechDuration": 76.683333,
+        "speed": 1.2885198869810914
+      },
+      {
+        "title": "Kanban",
+        "text": "Kanban visualizes work and limits work in progress. A maintenance team may use Backlog, Ready, Development, Testing and Done columns. If Testing has a work in progress limit of three and already contains three items, the team focuses on completing existing work rather than starting more. This makes bottlenecks visible and supports steady delivery, especially for teams receiving unpredictable support requests. Now move the same work onto a Kanban board. Three registration fixes are already in Testing, and the team's illustrative testing limit is three. A developer has finished a fourth change. Simply pushing it into Testing hides the capacity problem. Instead, the team investigates why existing work has not finished. Perhaps accounts cannot receive verification messages in the test environment. Helping restore that environment may finish more valuable work than starting another feature. Work-in-progress limits are a signal to collaborate. They do not mean that an overloaded person must work faster, and they are not a substitute for understanding the system.",
+        "direction": "Kanban board with a three-item testing WIP limit.",
+        "id": "chapter-03",
+        "start": 134.033333,
+        "duration": 69.233333,
+        "speechDuration": 68.583333,
+        "speed": 1.2881263669501823
+      },
+      {
+        "title": "Extreme Programming",
+        "text": "Extreme Programming, or X P, emphasizes engineering practices including test-driven development, pair programming and continuous integration. In T D D, a developer writes a failing test, writes enough code to pass it and then refactors safely. This Red, Green, Refactor cycle works well for calculations and business rules. Testing becomes part of writing the software rather than a separate final checkpoint. Consider X P through a concrete calculation. The portal grants a ten-percent introductory discount on an eligible purchase of one thousand rupees. Write a test expecting a discount of one hundred. Run it and confirm it fails for the expected reason. Implement the smallest change that makes it pass. Then improve the code while the check stays green. Add an ineligible-customer case expecting zero discount. This creates a feedback loop in which examples guide the design. Refactoring matters: repeatedly adding special cases without improving the design can produce brittle code even when individual tests pass.",
+        "direction": "Red\u2013Green\u2013Refactor animation and unit-test example.",
+        "id": "chapter-04",
+        "start": 203.266667,
+        "duration": 68.5,
+        "speechDuration": 67.85,
+        "speed": 1.2886072218128226
+      },
+      {
+        "title": "Lean Software Development",
+        "text": "Lean focuses on customer value and reducing waste. Waste in testing might include waiting for test environments, duplicate paperwork or slow feedback from an oversized test suite. Lean does not mean skipping important tests. A team might run fast smoke tests on each commit and more comprehensive regression tests later, preserving coverage while reducing feedback time. Lean invites a different question: where does the customer wait without receiving additional value? Suppose every small change waits two days for a shared testing environment. Buying another reporting tool might not reduce that delay. The team could provide reproducible environments, isolate test data, or run a smaller set of checks earlier. Before changing the process, record the current delay and its cause. After the experiment, compare the results. Reducing waste does not mean removing evidence needed to judge quality. It means avoiding work and waiting that do not help deliver a useful, dependable outcome.",
+        "direction": "Before-and-after CI feedback timeline.",
+        "id": "chapter-05",
+        "start": 271.766667,
+        "duration": 64.6,
+        "speechDuration": 63.95,
+        "speed": 1.288381548084441
+      },
+      {
+        "title": "Choosing an approach",
+        "text": "A feature-development team may benefit from Scrum; a support operation may benefit from Kanban; a calculation-intensive product may benefit from X P practices. Teams can combine approaches. The right selection depends on delivery constraints, technical risk and team maturity. Here is a selection exercise with three fictional teams. Team A builds a new portal and needs frequent stakeholder feedback around a product goal. Scrum could help structure that inspection. Team B maintains several systems and receives unpredictable requests. Kanban could help expose queues and manage capacity. Team C changes financial calculations frequently. X P practices such as test-driven development and continuous integration could strengthen technical feedback. These are starting hypotheses, not universal prescriptions. Each team should inspect its constraints, run a small process experiment, and decide whether actual customer outcomes and feedback speed improve.",
+        "direction": "Three project cards and comparative matrix.",
+        "id": "chapter-06",
+        "start": 336.366667,
+        "duration": 63.733333,
+        "speechDuration": 63.083333,
+        "speed": 1.2882007926023777
+      },
+      {
+        "title": "Worked example",
+        "text": "Combining approaches requires clear policies. A Scrum team might visualize work with a Kanban board and limit the number of stories actively being developed. It might also use pair programming for risky calculations and run unit tests on every commit. None of those practices removes Scrum's accountabilities or events. Problems arise when a team adopts labels while dropping the useful feedback loops behind them. Write down how new work enters, when testing begins, what Done means, and how urgent incidents affect planned work. Those agreements are more actionable than saying the team is simply hybrid.",
+        "direction": "Customer portal",
+        "id": "chapter-07",
+        "start": 400.1,
+        "duration": 39.8,
+        "speechDuration": 39.15,
+        "speed": 1.2885823754789272
+      },
+      {
+        "title": "Guided practice",
+        "text": "For your practice task, imagine that ten support requests arrive while a portal team is implementing a planned registration improvement. Identify the most urgent customer risk, then describe how you would make the incoming work visible. Decide which active item you would finish before starting another. Finally, choose one engineering practice that could prevent the same defect returning. A strong answer connects the delivery process to a testing action and an observable result. For example, address a production access problem, add a focused regression check, and review whether interruption policies preserved visibility into the remaining feature work.",
+        "direction": "Customer portal",
+        "id": "chapter-08",
+        "start": 439.9,
+        "duration": 40.0,
+        "speechDuration": 39.35,
+        "speed": 1.2881321473951715
+      },
+      {
+        "title": "A closer look",
+        "text": "A useful way to compare approaches is to follow one change from request to feedback. Take an urgent password-reset defect. First identify the customer impact and make the work visible. Decide how it enters the team's current work under an explicit policy. Next agree on examples for a valid link, an expired link and a reused link. Use small technical checks to guide the fix, then verify the integrated recovery journey. Finally inspect the delay from recognizing the problem to obtaining reliable evidence. Scrum, Kanban, X P and Lean contribute different ideas to that same journey. None removes the need to clarify the rule, implement safely or evaluate the result.",
+        "direction": "Customer portal",
+        "id": "chapter-09",
+        "start": 479.9,
+        "duration": 46.2,
+        "speechDuration": 45.55,
+        "speed": 1.2887815587266738
+      },
+      {
+        "title": "Verify the outcome",
+        "text": "Now consider a misleading process improvement. A team shortens its sprint from two weeks to one week and expects quality to improve automatically. But its test environment still takes three days to restore, and stories still arrive without examples. The shorter calendar exposes the problem more often without removing it. A more useful experiment might make one environment reproducible or split one large story into independently verifiable slices. State the expected improvement before trying it, then inspect the outcome. This is how process choices become learning rather than ceremony. When discussing a methodology in an interview or a team meeting, connect it to a constraint and a concrete feedback loop.",
+        "direction": "Customer portal",
+        "id": "chapter-10",
+        "start": 526.1,
+        "duration": 46.166667,
+        "speechDuration": 45.516667,
+        "speed": 1.288670816550714
+      },
+      {
+        "title": "Recap",
+        "text": "Scrum emphasizes iterative inspection, Kanban focuses on flow, X P strengthens engineering discipline, and Lean reduces waste. Knowledge check: which approach would help a support team receiving unpredictable requests, and why? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+        "direction": "Four-key-takeaway recap slide.",
+        "id": "chapter-11",
+        "start": 572.266667,
+        "duration": 27.733333,
+        "speechDuration": 27.083333,
+        "speed": 1.2866953846153837
+      }
+    ],
+    "publishAt": null,
+    "plannedDate": "2026-10-23",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "url": "https://www.youtube.com/watch?v=aVPTY_zbmlU",
+    "videoId": "aVPTY_zbmlU",
+    "thumbnailSet": false
+  },
+  {
+    "episode": 3,
+    "topic": "Role of a Tester in Agile",
+    "visual": {
+      "headline": "WHAT AGILE\nTESTERS REALLY DO",
+      "title": "Role of a Tester in Agile | Skills, Responsibilities & Examples | Episode 3",
+      "example": "Bank transfer",
+      "steps": [
+        "Clarify limits",
+        "Investigate retries",
+        "Explain the evidence"
+      ],
+      "checks": [
+        "Balance: \u20b91,000",
+        "Transfer: \u20b9300",
+        "Expected balance: \u20b9700"
+      ],
+      "result": "Prevent defects through collaboration",
+      "question": "Could retrying debit the account twice?"
+    },
+    "chapters": [
+      {
+        "title": "Introduction",
+        "text": "An Agile tester does more than discover bugs. Testing expertise contributes to requirement analysis, risk identification, test design, collaboration, automation and improvement. Follow a tester working on an online banking application. Follow a fictional tester named Asha through a bank-transfer story. The product request says that a customer can transfer money to a saved beneficiary. Before creating test cases, Asha asks what a successful transfer means. Should the recipient see funds immediately? Can a transfer be cancelled? What happens when the source account is frozen? These questions reveal risks that a short user story cannot express alone. The tester contributes by helping the team make its assumptions visible. This work is most useful before an implementation turns an unanswered question into accidental behavior.",
+        "direction": "Tester collaborating with a cross-functional team.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 59.1,
+        "speechDuration": 58.45,
+        "speed": 1.2355175363558595
+      },
+      {
+        "title": "Requirements refinement",
+        "text": "For a money-transfer story, ask: What if funds are insufficient? Can the transfer amount be negative? What is the maximum limit? What happens after a timeout? Can the same transaction be processed twice? These questions turn a vague requirement into testable acceptance criteria. Build an example table for a transfer limit of ten thousand rupees. A transfer of one rupee is a small valid example if the agreed minimum allows it. Ten thousand is the maximum valid example. Ten thousand and one should be rejected if the limit is inclusive. Zero, a negative amount and an amount greater than the balance require explicit outcomes. The product team must agree on these rules; a tester should not invent banking policy. Once the rules are confirmed, the table guides focused tests and gives developers concrete examples to discuss.",
+        "direction": "Banking user story with five clarifying questions.",
+        "id": "chapter-02",
+        "start": 59.1,
+        "duration": 59.133333,
+        "speechDuration": 58.483333,
+        "speed": 1.2356340837845539
+      },
+      {
+        "title": "Developer collaboration",
+        "text": "As developers build a transfer A P I, testers review its contract and prepare positive, negative and boundary scenarios. They can verify the A P I before the interface exists. This early feedback prevents misunderstandings from becoming expensive defects. During development, Asha can inspect a fictional transfer A P I before the user interface exists. The request includes the source account, beneficiary, amount and a unique request identifier. A successful status code is only one piece of evidence. She also checks the response content, the source balance, the recipient record and any transaction entry. A response that says success while the balance remains wrong is still a failure. When data is sensitive, use synthetic accounts and sanitized evidence. The goal is to verify the business outcome across the relevant components, not merely to collect green HTTP responses.",
+        "direction": "API contract and three scenario types.",
+        "id": "chapter-03",
+        "start": 118.233333,
+        "duration": 63.033333,
+        "speechDuration": 62.383333,
+        "speed": 1.2357146673791075
+      },
+      {
+        "title": "Test execution",
+        "text": "Functional testing checks expected behavior, integration testing checks component interactions, regression testing checks previously working behavior and exploratory testing investigates surprises. For a bank transfer, investigate retries after a network timeout and document expected versus actual behavior. Explore a timeout carefully. Asha sends a transfer, the network response disappears, and the user selects Retry. There are at least two possible realities: the first transfer failed before processing, or it succeeded but the response was lost. Treating both as a new transaction can debit the account twice. The team should define safe retry behavior, often using an idempotency mechanism. The tester then checks repeated submissions, delayed responses and recovery. This is an example of investigation leading to a design conversation. Reporting only that the spinner remained visible would miss the higher-impact financial risk.",
+        "direction": "Sample defect report with redacted transaction data.",
+        "id": "chapter-04",
+        "start": 181.266667,
+        "duration": 64.033333,
+        "speechDuration": 63.383333,
+        "speed": 1.2355298448593215
+      },
+      {
+        "title": "Communication",
+        "text": "In daily collaboration, describe progress and blockers clearly: yesterday I validated the transfer A P I; today I am testing failure recovery; the payment sandbox is unavailable. The tester collaborates with developers, product stakeholders and operations to remove obstacles. Write a useful blocker update. Instead of saying that testing is blocked, Asha explains that transfer-failure scenarios cannot run because the sandbox cannot simulate service timeouts. She identifies the affected checks, the risk they leave unexamined and the help needed. Meanwhile she can review acceptance examples, validate other A P I behavior or prepare data. This communicates progress without implying that untested behavior is safe. A clear update helps the whole team make a decision: restore the environment, use a controlled substitute, reduce scope, or explicitly carry an unresolved risk.",
+        "direction": "Daily team update with progress and blocker.",
+        "id": "chapter-05",
+        "start": 245.3,
+        "duration": 60.666667,
+        "speechDuration": 60.016667,
+        "speed": 1.236056650930297
+      },
+      {
+        "title": "Technical skills",
+        "text": "Understanding S Q L, A P I services, version control, browser automation and continuous integration and delivery helps testers verify behavior independently. Postman can inspect responses, S Q L can check persisted records, and Playwright can automate critical web journeys. Not every tester needs to specialize in every tool. Technical knowledge makes investigation more independent. S Q L can help compare a transaction record with the displayed balance, provided the tester has appropriate access and understands the schema. Browser developer tools can reveal requests and responses. Version control helps connect a failure with a code change. Automation can repeat a reliable transfer check across builds. But each tool answers only part of the question. A query against one table cannot prove that the complete customer journey is correct, just as a successful click cannot prove that the ledger is consistent.",
+        "direction": "Postman, database and browser-testing workflow.",
+        "id": "chapter-06",
+        "start": 305.966667,
+        "duration": 63.266667,
+        "speechDuration": 62.616667,
+        "speed": 1.2357093425605536
+      },
+      {
+        "title": "Effectiveness",
+        "text": "Bug counts alone are a weak measure. Preventing defects during refinement may be more valuable than reporting avoidable defects late. Consider feedback speed, important risk coverage, escaped defects and reliability of checks. Consider two testers with different visible results. One reports twenty minor defects after development has finished. Another helps prevent a duplicate-transfer defect during refinement and reports fewer bugs. A simple bug-count ranking could reward the less valuable outcome. Discuss feedback speed, important risks investigated, escaped failures and the reliability of existing checks instead. These measures still need interpretation. A low defect count could reflect prevention, limited testing, or low complexity. The tester's responsibility includes explaining the evidence and its limits so that stakeholders do not mistake a convenient number for an assurance of quality.",
+        "direction": "Balanced testing metrics dashboard.",
+        "id": "chapter-07",
+        "start": 369.233333,
+        "duration": 62.3,
+        "speechDuration": 61.65,
+        "speed": 1.2356204379562044
+      },
+      {
+        "title": "Worked example",
+        "text": "Your exercise is to prepare a short handover for the transfer feature. State three agreed business rules, two checks already completed and one unresolved risk. Include a reproducible failure example using fictional account data. Explain who can help resolve the risk and what evidence would support closing it. A strong response might mention inclusive limits, ownership validation, a successful transfer, a rejected insufficient-balance request and an untested timeout recovery path. Notice how this combines analysis, execution and communication. That combination is the practical role of a tester in an Agile team.",
+        "direction": "Bank transfer",
+        "id": "chapter-08",
+        "start": 431.533333,
+        "duration": 42.833333,
+        "speechDuration": 42.183333,
+        "speed": 1.2357487159225602
+      },
+      {
+        "title": "A closer look",
+        "text": "Let us improve a defect report together. The first draft says Transfer does not work. That leaves every reader guessing about the environment, account state and action. A better draft says Retrying a timed-out transfer debits the source account twice on the test build. It uses a synthetic account with a one-thousand-rupee balance, sends a three-hundred-rupee transfer, interrupts the response and repeats the request using the same operation identifier. The expected final debit is three hundred; the observed debit is six hundred. Attach sanitized transaction references and timestamps. The exact numbers are illustrative, but the reporting structure shows how a tester turns a vague complaint into evidence that supports investigation.",
+        "direction": "Bank transfer",
+        "id": "chapter-09",
+        "start": 474.366667,
+        "duration": 49.233333,
+        "speechDuration": 48.583333,
+        "speed": 1.2359794168096054
+      },
+      {
+        "title": "Verify the outcome",
+        "text": "After the fix, do more than repeat the one failing action mechanically. Verify that the repeated operation no longer creates a second debit. Then check that a genuinely new transfer with a new identifier can still succeed, because an overly broad duplicate-prevention rule might reject legitimate activity. Include a failed first attempt followed by a valid retry if that recovery path is supported. Discuss the intended state transitions with a developer and product specialist. Retesting confirms the reported failure is addressed; regression investigation asks whether related behavior was harmed. This distinction helps the tester choose meaningful follow-up work rather than stopping at a single green result.",
+        "direction": "Bank transfer",
+        "id": "chapter-10",
+        "start": 523.6,
+        "duration": 47.233333,
+        "speechDuration": 46.583333,
+        "speed": 1.235978533094812
+      },
+      {
+        "title": "Recap",
+        "text": "Agile testers combine analysis, communication and technical judgment. Their goal is to help the whole team prevent defects and deliver reliable software. Knowledge check: name three questions to ask before building money transfers. Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+        "direction": "Three learning takeaways.",
+        "id": "chapter-11",
+        "start": 570.833333,
+        "duration": 29.166667,
+        "speechDuration": 28.516667,
+        "speed": 1.236329631794269
+      }
+    ],
+    "publishAt": "2026-10-24T18:00:00+05:30",
+    "plannedDate": "2026-10-24",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "url": "https://www.youtube.com/watch?v=1oW6ocuUhWQ",
+    "videoId": "1oW6ocuUhWQ",
+    "thumbnailSet": false
+  },
+  {
+    "episode": 4,
+    "topic": "Agile Testing Activities and Tracking",
+    "visual": {
+      "headline": "TRACK QUALITY\nBEYOND PASS RATES",
+      "title": "Agile Testing Metrics & Tracking | Test Reports and Defects | Episode 4",
+      "example": "Release dashboard",
+      "steps": [
+        "Plan scenarios",
+        "Track evidence",
+        "Report remaining risks"
+      ],
+      "checks": [
+        "Passed: 28 of 40",
+        "Failed: 6 \u2022 Blocked: 4",
+        "Not run: 2"
+      ],
+      "result": "A pass rate needs risk context",
+      "question": "Which failure could block the release?"
+    },
+    "chapters": [
+      {
+        "title": "Introduction",
+        "text": "Agile teams need frequent visibility into testing progress, remaining risks and blocked work. Today we examine planning, execution tracking, defect management and stakeholder reporting. Imagine that stakeholders ask whether a customer-management release is ready. A dashboard says seventy percent of tests have passed. That number alone cannot answer the question. We need to know which features were tested, which risks remain and whether important failures are unresolved. In this lesson, treat tracking as a way to support a decision. Every chart should have a meaning and a next action. Our fictional release contains registration, profile editing and customer search. We will connect each feature to scenarios, results, defects and a concise release update.",
+        "direction": "QA progress dashboard.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 56.566667,
+        "speechDuration": 55.916667,
+        "speed": 1.14727868852459
+      },
+      {
+        "title": "Planning",
+        "text": "For a CRM sprint with registration, profile updates and search, identify acceptance criteria and scenarios for each feature. Plan environments, accounts, sample data and integration dependencies before execution begins. Begin with registration. The team agrees that a valid new address creates an account, a duplicate address is handled safely, and an invalid address cannot complete registration. List the environment, build identifier and account data needed for each check. If outbound email is unavailable, mark email-confirmation scenarios as blocked rather than failed or passed. This distinction matters because a failure indicates observed incorrect behavior, while a blocked result indicates missing evidence. Planning dependencies early makes the dashboard easier to interpret later and gives the team time to restore missing capabilities.",
+        "direction": "Stories expanded into scenarios.",
+        "id": "chapter-02",
+        "start": 56.566667,
+        "duration": 62.266667,
+        "speechDuration": 61.616667,
+        "speed": 1.1470922369488776
+      },
+      {
+        "title": "Execution status",
+        "text": "Suppose forty test cases exist: twenty-eight passed, six failed, four blocked and two not run. The numbers are useful, but risk matters more than raw percentages. One failed payment test can outweigh several cosmetic failures. Calculate the illustrative status carefully. There are forty tests: twenty-eight passed, six failed, four blocked and two not run. Twenty-eight out of forty is seventy percent passed across the planned set. Twenty-eight out of thirty-four executed tests is approximately eighty-two percent. Both calculations can be mathematically correct but answer different questions. Label the denominator. More importantly, inspect the six failures: a broken account-ownership check may prevent release even if many visual checks pass. Do not compress blocked work, unexecuted work and failed behavior into a single reassuring percentage.",
+        "direction": "Bar chart of illustrative test statuses.",
+        "id": "chapter-03",
+        "start": 118.833333,
+        "duration": 63.766667,
+        "speechDuration": 63.116667,
+        "speed": 1.1468286242408239
+      },
+      {
+        "title": "Defects",
+        "text": "Record a concise title, environment, reproduction steps, expected behavior, actual behavior and evidence. Severity describes impact; priority describes urgency. Link defects to affected stories to maintain context. Write a defect that a colleague can reproduce. Use a title such as Duplicate registration returns an internal error on build forty-two. Specify the test environment, a synthetic existing address, the exact registration action, the expected safe response and the actual error. Attach sanitized evidence and link the relevant story. Severity describes the impact of the defect; priority expresses how urgently the team chooses to address it. They often influence each other but are not interchangeable. A small-looking visual issue might still be urgent before a time-sensitive demonstration, while its functional severity remains low.",
+        "direction": "Sample invalid-email defect ticket.",
+        "id": "chapter-04",
+        "start": 182.6,
+        "duration": 65.466667,
+        "speechDuration": 64.816667,
+        "speed": 1.146742093083055
+      },
+      {
+        "title": "Metrics",
+        "text": "Useful indicators include defect leakage, execution progress, cycle time, blocked tests and automated test stability. A high pass rate is not proof of adequate coverage. Use metrics to identify patterns rather than reward superficial numbers. Build a balanced dashboard. Show unresolved critical risks, blocked work, test execution and defect trends with enough context to explain changes. If execution falls because the test environment was unavailable, annotate that cause. If the pass rate improves because failing tests were removed, the apparent improvement is misleading unless the scope change is visible. For automation, track unstable checks separately so repeated reruns do not disguise unreliable feedback. Metrics are prompts for investigation. Choose a small set that helps the team decide what to fix, finish or investigate next.",
+        "direction": "Metric definitions and caution callouts.",
+        "id": "chapter-05",
+        "start": 248.066667,
+        "duration": 64.4,
+        "speechDuration": 63.75,
+        "speed": 1.1467294117647058
+      },
+      {
+        "title": "Reporting",
+        "text": "A good update answers: what was tested, what remains, what risks exist and what help is needed? For example: registration and profile testing are complete; search is underway; two critical defects remain; performance testing is blocked by test data. Turn the dashboard into a useful update. Registration and profile editing have been checked on the release candidate. Customer search remains partly blocked by incomplete test data. One critical authorization defect is open. The release decision needs either a verified fix or a clear scope change that removes the exposure. This message is stronger than listing how many tickets moved today. It connects completed work with remaining uncertainty. Include an owner and next step for the blocker so stakeholders understand how the uncertainty can be reduced rather than simply being informed that it exists.",
+        "direction": "Concise stakeholder status template.",
+        "id": "chapter-06",
+        "start": 312.466667,
+        "duration": 62.666667,
+        "speechDuration": 62.016667,
+        "speed": 1.1470464928782584
+      },
+      {
+        "title": "Tool walkthrough",
+        "text": "Open a story, review criteria, create test tasks, log linked defects, verify fixes and update quality status. Maintain traceability from requirements to results. Follow one story through its evidence. Start with the acceptance criteria. Link a set of checks, record their results against the build, create a linked defect for a failure and attach retest evidence after the fix. Then run any relevant regression checks before marking the work complete. These links let another team member reconstruct why the story was judged ready. The exact screens depend on the tracking product; the relationship among requirement, test, defect and evidence matters more than the tool. Avoid duplicating the same status manually in several places where it can drift.",
+        "direction": "Fictional Jira-style workflow.",
+        "id": "chapter-07",
+        "start": 375.133333,
+        "duration": 56.5,
+        "speechDuration": 55.85,
+        "speed": 1.1469292748433302
+      },
+      {
+        "title": "Worked example",
+        "text": "For your practice task, write a release update in four sentences. Say what was tested, what remains, which risk matters most and what help is needed. Use the forty-test example, but do not rely on the pass rate as your recommendation. A good answer could say that most registration scenarios pass, search data blocks four checks, a failed account-isolation scenario is critical, and the team needs a fix plus focused retesting. Now ask whether the release would become acceptable if five cosmetic failures were resolved while the authorization failure remained. The risk-based answer is still no.",
+        "direction": "Release dashboard",
+        "id": "chapter-08",
+        "start": 431.633333,
+        "duration": 43.6,
+        "speechDuration": 42.95,
+        "speed": 1.1466356228172292
+      },
+      {
+        "title": "A closer look",
+        "text": "Here is a second numerical example. Yesterday the team planned forty checks and passed twenty-eight. Today it removes ten checks from scope and passes the same twenty-eight of the remaining thirty. The displayed pass rate rises dramatically, but no additional behavior was tested. That change may be legitimate if the release scope changed, yet the report must explain it. Record which feature or risk moved out of scope and who made the decision. Otherwise a chart can suggest improved product quality when only the denominator changed. A useful dashboard preserves the relationship between scope, execution and risk so readers can interpret movement rather than simply admire a higher percentage.",
+        "direction": "Release dashboard",
+        "id": "chapter-09",
+        "start": 475.233333,
+        "duration": 50.066667,
+        "speechDuration": 49.416667,
+        "speed": 1.1466576728499156
+      },
+      {
+        "title": "Verify the outcome",
+        "text": "Track blocked work with the same care. If four checks need unavailable search data, record the data dependency and the person coordinating its restoration. Separate the age of the blocker from the time spent actively investigating. If the team can safely prepare synthetic data, describe what it must represent and how its suitability will be checked. Once the blocker is removed, update the result after execution; do not automatically convert Blocked to Passed. The absence of an obstacle is not evidence of correct behavior. This small reporting discipline prevents an optimistic workflow shortcut from becoming a false claim about what the team actually verified.",
+        "direction": "Release dashboard",
+        "id": "chapter-10",
+        "start": 525.3,
+        "duration": 48.366667,
+        "speechDuration": 47.716667,
+        "speed": 1.1467691232972406
+      },
+      {
+        "title": "Recap",
+        "text": "Tracking exists to support decisions, not to generate paperwork. Knowledge check: why can a sprint with ninety-five percent passing tests still be unsafe to release? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+        "direction": "Risk-focused summary slide.",
+        "id": "chapter-11",
+        "start": 573.666667,
+        "duration": 26.333333,
+        "speechDuration": 25.683333,
+        "speed": 1.1503179753406911
+      }
+    ],
+    "publishAt": "2026-10-24T18:00:00+05:30",
+    "plannedDate": "2026-10-24",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "url": "https://www.youtube.com/watch?v=4pedCCloISY",
+    "videoId": "4pedCCloISY",
+    "thumbnailSet": false
+  },
+  {
+    "episode": 5,
+    "topic": "Agile Testing Principles and Attributes",
+    "visual": {
+      "headline": "5 PRINCIPLES\nOF AGILE TESTING",
+      "title": "Agile Testing Principles | Risk, Collaboration & Quality | Episode 5",
+      "example": "Subscription cancellation",
+      "steps": [
+        "Agree on billing rules",
+        "Check changes early",
+        "Improve the process"
+      ],
+      "checks": [
+        "Cancellation effective date",
+        "No unexpected renewal",
+        "Accurate access end date"
+      ],
+      "result": "Match testing effort to consequences",
+      "question": "What happens when cancellation meets renewal?"
+    },
+    "chapters": [
+      {
+        "title": "Introduction",
+        "text": "Effective Agile Testing depends on continuous quality work, shared responsibility, adaptability, risk awareness and improvement. We will apply these principles to a subscription software as a service product. Use a subscription service as a running example. Customers can start a paid plan, renew it and cancel future renewals. A defect in a color choice is inconvenient; a defect that charges a cancelled account can damage trust and require financial correction. Agile Testing principles help the team choose what to clarify and investigate first. They do not guarantee a defect-free product. Their practical value comes from repeated conversations, focused examples and fast feedback. We will connect each principle to a concrete action on the subscription journey rather than leaving it as a slogan.",
+        "direction": "Five principle icons.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 56.933333,
+        "speechDuration": 56.283333,
+        "speed": 1.1982232750962392
+      },
+      {
+        "title": "Continuous quality",
+        "text": "Clarify subscription rules during refinement, add unit tests during implementation, validate workflows during integration and execute regression checks after changes. Quality is evaluated repeatedly, not inspected only at release. During refinement, ask when a cancellation becomes effective. Does access continue until the paid period ends? What happens if cancellation arrives while renewal is processing? Write two examples with timestamps and expected billing outcomes. During implementation, developers can check the billing rule at a low level. During integration, the team checks notifications, payment-provider messages and account access. Before release, regression checks cover existing subscribers. The same rule receives attention at several points because different kinds of evidence become available at different times. Continuous quality is this repeated investigation across delivery.",
+        "direction": "Quality activities across delivery timeline.",
+        "id": "chapter-02",
+        "start": 56.933333,
+        "duration": 64.866667,
+        "speechDuration": 64.216667,
+        "speed": 1.1985673501167924
+      },
+      {
+        "title": "Shared responsibility",
+        "text": "Developers contribute reviews and tests; testers contribute risk analysis and exploration; Product Owners clarify expectations; operations and security specialists address operational concerns. A failed renewal may require joint investigation of code, rules and logs. Shared responsibility becomes visible when a renewal fails. The tester notices an incorrect charge. A developer examines the state transition. The Product Owner clarifies the cancellation rule. Operations helps locate a delayed provider message. A security specialist may check that only authorized people can change subscriptions. Collaboration does not mean everyone has identical skills or that nobody owns a task. It means the team uses its combined expertise to solve the customer problem. A handoff that says testing will handle quality at the end delays that shared understanding until changes are harder to make.",
+        "direction": "Cross-functional troubleshooting diagram.",
+        "id": "chapter-03",
+        "start": 121.8,
+        "duration": 64.466667,
+        "speechDuration": 63.816667,
+        "speed": 1.1985583703316791
+      },
+      {
+        "title": "Adaptability and feedback",
+        "text": "If cancellation rules change, update criteria, billing tests and notifications. Fast test results help developers act while code context is fresh. Speed matters, but meaningful coverage must remain. Suppose the business changes from immediate cancellation to access through the end of the paid period. Updating only the user interface leaves several risks. Review acceptance examples, billing logic, account permissions, scheduled renewal jobs and customer messages. Existing automated checks may now encode an obsolete rule. A failing test could indicate either a defect or an intentionally changed expectation; investigate before deleting it. Adaptability means keeping the explanation and the evidence aligned with the current agreement. Fast feedback is useful when it points to a meaningful difference, not when it merely produces a quick red result.",
+        "direction": "Change request to updated tests.",
+        "id": "chapter-04",
+        "start": 186.266667,
+        "duration": 60.833333,
+        "speechDuration": 60.183333,
+        "speed": 1.1987371919135974
+      },
+      {
+        "title": "Risk-based testing",
+        "text": "Prioritize by likelihood and impact. Billing, authentication and account permissions often deserve more intensive coverage than minor styling changes. Testing effort should reflect business consequences. Make risk prioritization concrete. Consider three features: a new theme color, cancellation handling and administrator access. Discuss both how a failure might occur and what its consequences would be. A cancellation defect may lead to unwanted charges; an access-control defect may expose customer information. Those consequences justify deeper scenarios than a minor styling change. A simple risk matrix can support the conversation, but numerical scores are estimates rather than precise predictions. Review the ranking when new information appears. Testing effort should respond to the product's actual exposure, not stay fixed because an early spreadsheet assigned a number.",
+        "direction": "Risk matrix for SaaS features.",
+        "id": "chapter-05",
+        "start": 247.1,
+        "duration": 63.2,
+        "speechDuration": 62.55,
+        "speed": 1.1986570743405274
+      },
+      {
+        "title": "Maintainable automation",
+        "text": "Fragile screen-coordinate tests break easily. Prefer stable selectors, independent data and clear assertions. Review and remove obsolete checks. Automation should provide dependable feedback rather than maximize script counts. Maintainable automation starts with clear intent. A browser test should identify the Cancel subscription button through a stable, meaningful locator, arrange its own synthetic customer and verify the resulting subscription state. A screen-coordinate click can break when the layout changes, even if the behavior remains correct. A test that relies on another test to create its account can fail for unrelated reasons. Keep setup independent and assertions connected to customer outcomes. When a check becomes flaky, investigate its data, synchronization and dependencies instead of teaching the team to ignore failures through repeated reruns.",
+        "direction": "Fragile versus robust browser test.",
+        "id": "chapter-06",
+        "start": 310.3,
+        "duration": 60.266667,
+        "speechDuration": 59.616667,
+        "speed": 1.1984568073804862
+      },
+      {
+        "title": "Continuous improvement",
+        "text": "If testing consistently starts late, investigate unclear criteria, oversized stories or unstable environments. Improve the process and observe whether results change in later sprints. Continuous improvement needs an experiment, an owner and a way to inspect results. If testing begins late every sprint, the team might split one large subscription story into smaller slices and clarify its examples before implementation. Observe whether those slices reach verification earlier and whether important misunderstandings decrease. Avoid changing five unrelated process rules at once, because it becomes difficult to learn which change helped. At the next retrospective, inspect what happened and adjust. Improvement is not the number of action items written on a board; it is a useful change that the team actually tries and evaluates.",
+        "direction": "Retrospective action and follow-up.",
+        "id": "chapter-07",
+        "start": 370.566667,
+        "duration": 58.466667,
+        "speechDuration": 57.816667,
+        "speed": 1.1984087633323723
+      },
+      {
+        "title": "Worked example",
+        "text": "Your exercise is to plan testing for a cancellation-rule change. Identify a business example, a technical check, a customer-facing observation and one regression risk. For instance, verify that a cancelled subscription keeps access until the agreed end date, prevents a later renewal and displays an accurate confirmation. Also investigate a delayed payment notification near the cancellation time. Explain which specialists should join the conversation. Finish by choosing one small process improvement that would make future billing changes easier to verify. This links continuous testing, shared responsibility, adaptation, risk awareness and improvement in one practical plan.",
+        "direction": "Subscription cancellation",
+        "id": "chapter-08",
+        "start": 429.033333,
+        "duration": 48.033333,
+        "speechDuration": 47.383333,
+        "speed": 1.1983960604994723
+      },
+      {
+        "title": "A closer look",
+        "text": "Take a closer look at cancellation near renewal. A subscription is active at eleven fifty-nine, a renewal job begins at midnight, and the customer's cancellation request arrives at nearly the same moment. The team must define which event determines the outcome and how timestamps, timezones and delayed messages are interpreted. A tester can expose this ambiguity with a sequence diagram before the behavior is implemented. Use an ordinary cancellation example first, then a near-boundary example and a delayed-message example. These are not invented billing policies; they are questions for the people responsible for the product's rules. Clear examples prevent different components from implementing different assumptions.",
+        "direction": "Subscription cancellation",
+        "id": "chapter-09",
+        "start": 477.066667,
+        "duration": 48.5,
+        "speechDuration": 47.85,
+        "speed": 1.198244514106583
+      },
+      {
+        "title": "Verify the outcome",
+        "text": "Once the rule is agreed, choose evidence at several layers. A focused check can verify the effective cancellation calculation. An integration check can verify that a delayed provider event does not incorrectly reactivate a cancelled subscription. A user-journey check can verify the displayed access end date. Exploration can investigate whether the wording makes the billing consequence clear. Each check addresses a different risk. If one fails, explain the affected outcome instead of reporting only a tool name or a red pipeline stage. This is the practical link between principles and execution: collaboration clarifies the rule, risk guides the examples and continuous feedback keeps the implementation aligned.",
+        "direction": "Subscription cancellation",
+        "id": "chapter-10",
+        "start": 525.566667,
+        "duration": 49.466667,
+        "speechDuration": 48.816667,
+        "speed": 1.1981153977466712
+      },
+      {
+        "title": "Recap",
+        "text": "Agile Testing is continuous, collaborative, adaptable and risk-aware. Knowledge check: which software as a service features carry the highest quality risk? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+        "direction": "Principles recap.",
+        "id": "chapter-11",
+        "start": 575.033333,
+        "duration": 24.966667,
+        "speechDuration": 24.316667,
+        "speed": 1.2001644962302933
+      }
+    ],
+    "publishAt": "2026-10-25T18:00:00+05:30",
+    "plannedDate": "2026-10-25",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "url": "https://www.youtube.com/watch?v=Ng8wTrGTul4",
+    "videoId": "Ng8wTrGTul4",
+    "thumbnailSet": false
+  },
+  {
+    "episode": 6,
+    "topic": "Four Agile Testing Quadrants",
+    "visual": {
+      "headline": "4 TESTING\nQUADRANTS EXPLAINED",
+      "title": "Agile Testing Quadrants Explained | Q1\u2013Q4 with Examples | Episode 6",
+      "example": "Checkout & delivery",
+      "steps": [
+        "Q1: unit & component",
+        "Q2: acceptance examples",
+        "Q3 + Q4: critique product"
+      ],
+      "checks": [
+        "Q1 \u2022 Calculation",
+        "Q2 \u2022 Business rule",
+        "Q3 \u2022 Usability | Q4 \u2022 Load"
+      ],
+      "result": "Four perspectives, complementary evidence",
+      "question": "Which important perspective is missing?"
+    },
+    "chapters": [
+      {
+        "title": "Introduction",
+        "text": "The Agile Testing Quadrants help select complementary tests. The dimensions are business-facing versus technology-facing and supporting development versus critiquing the product. They are not sequential stages. Start with a delivery rule: orders above a defined qualifying amount receive free shipping. A developer can test the calculation, a product specialist can clarify what counts toward the amount, a customer can explore whether the message is understandable, and an engineer can measure checkout under load. These are complementary views of quality. The quadrants organize the questions so a team notices gaps. They do not prescribe a testing order or assign exclusive ownership to particular job titles. Use the model as a conversation aid and adapt the examples to the risks of the feature you are building.",
+        "direction": "Labeled four-quadrant matrix.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 59.233333,
+        "speechDuration": 58.583333,
+        "speed": 1.1380711237553343
+      },
+      {
+        "title": "Quadrant 1",
+        "text": "Technology-facing tests that support development include unit and component tests. A shopping-cart unit test can verify a subtotal or discount calculation. These automated checks offer fast, focused technical feedback. For quadrant one, isolate a shipping calculation. Suppose the agreed rule gives free delivery when the discounted subtotal is at least one thousand rupees. A low-level test checks nine hundred and ninety-nine, one thousand and one thousand and one. Each test runs without opening a browser or contacting a real payment service. When one fails, the feedback points closely to the calculation. Such tests support development by making small changes easier to evaluate. They still cannot tell us whether the team chose the correct threshold or whether the customer understands the final total.",
+        "direction": "Unit-test code and results.",
+        "id": "chapter-02",
+        "start": 59.233333,
+        "duration": 59.8,
+        "speechDuration": 59.15,
+        "speed": 1.1381234150464918
+      },
+      {
+        "title": "Quadrant 2",
+        "text": "Business-facing tests that support development include acceptance examples. For free delivery above a threshold, clarify whether taxes and discounts count. Agree on examples and use them to verify the business rule. Quadrant two makes the business rule explicit. Ask whether taxes, gift cards and discount reductions affect eligibility. Use a concrete example: a basket worth eleven hundred receives a two-hundred-rupee discount, leaving a qualifying subtotal of nine hundred. Under our fictional rule, free shipping does not apply. Product, development and testing participants should agree on that result before implementation. The example can become an acceptance check, but the conversation is valuable even before automation exists. An executable scenario with an ambiguous expected result will simply automate an unresolved business question.",
+        "direction": "Given\u2013When\u2013Then delivery example.",
+        "id": "chapter-03",
+        "start": 119.033333,
+        "duration": 64.366667,
+        "speechDuration": 63.716667,
+        "speed": 1.1379126340570234
+      },
+      {
+        "title": "Quadrant 3",
+        "text": "Business-facing tests that critique the product include exploratory and usability testing. A checkout button may function correctly yet be difficult to find. Realistic exploration reveals problems that predefined checks can miss. In quadrant three, explore the actual customer journey. Add items until shipping becomes free, then apply a coupon that lowers the subtotal below the threshold. Does the page explain why shipping reappeared? Does the total update consistently? Try keyboard navigation and a smaller display. You might find that every calculation is correct while the message leaves people confused. Record the situation, the user's difficulty and the effect on completing checkout. Exploration critiques the product by following observations and questions that a predefined rule check may never have considered.",
+        "direction": "Checkout usability observation.",
+        "id": "chapter-04",
+        "start": 183.4,
+        "duration": 60.866667,
+        "speechDuration": 60.216667,
+        "speed": 1.1378909493495708
+      },
+      {
+        "title": "Quadrant 4",
+        "text": "Technology-facing tests that critique the product include performance, security, reliability and scalability testing. Evaluate behavior under heavy traffic, unauthorized access attempts and system failures. Quadrant four examines technical qualities. A promotion may send many shoppers through the same calculation and checkout services at once. Define a realistic load model and an agreed response-time target before judging the result. Investigate errors, resource use and recovery as well as average response time. Security testing might check that one customer cannot modify another customer's basket. Reliability testing might simulate a temporary dependency failure. These activities require appropriate environments and authorization. A single passing scan or load run is evidence about the tested conditions, not proof that every technical risk is eliminated.",
+        "direction": "Load-testing metrics and security checks.",
+        "id": "chapter-05",
+        "start": 244.266667,
+        "duration": 65.1,
+        "speechDuration": 64.45,
+        "speed": 1.13799844840962
+      },
+      {
+        "title": "Combined example",
+        "text": "For payments, quadrant one tests calculations; quadrant two verifies business outcomes; quadrant three explores interrupted payment journeys; quadrant four checks concurrency, resilience and security. The quadrants work together. Map a payment feature across all four views. Quadrant one checks fee and total calculations. Quadrant two uses examples of successful, declined and refundable payments. Quadrant three explores interrupted journeys, confusing messages and unexpected navigation. Quadrant four examines concurrent requests, access control and resilience. Some checks can reasonably fit more than one discussion because intent matters. Do not spend a meeting arguing about the perfect quadrant label while a duplicate-charge risk remains untested. The model succeeds when it helps the team ask a missing question and choose an effective way to investigate it.",
+        "direction": "Payment feature mapped to four quadrants.",
+        "id": "chapter-06",
+        "start": 309.366667,
+        "duration": 64.7,
+        "speechDuration": 64.05,
+        "speed": 1.1376112412177988
+      },
+      {
+        "title": "Worked example",
+        "text": "Avoid treating the matrix as four equal budgets. A simple internal tool and a public payment platform face different risks. One feature may need extensive security investigation; another may need more usability exploration. Automation also crosses the model. Unit tests are commonly automated, acceptance checks may be automated, and performance tools can automate technical experiments. Human judgment remains necessary when deciding what the results mean and what to investigate next. Describe the risk, select an appropriate activity and identify the evidence you want. Then use the quadrant model to check whether an important perspective has been missed.",
+        "direction": "Checkout & delivery",
+        "id": "chapter-07",
+        "start": 374.066667,
+        "duration": 50.033333,
+        "speechDuration": 49.383333,
+        "speed": 1.1381977725278434
+      },
+      {
+        "title": "Guided practice",
+        "text": "For your practice task, take a password-reset feature and propose one activity for each quadrant. A possible low-level check verifies token-expiry calculations. A business example specifies what happens when an expired link is opened. Exploratory testing investigates whether recovery messages are understandable and accessible. Technical investigation examines unauthorized token reuse and behavior under a controlled request spike. Explain why each activity exists, rather than only naming a category. Finish by answering the lesson question: response times during a traffic spike belong naturally in the technology-facing critique represented by quadrant four.",
+        "direction": "Checkout & delivery",
+        "id": "chapter-08",
+        "start": 424.1,
+        "duration": 49.433333,
+        "speechDuration": 48.783333,
+        "speed": 1.1379296207721217
+      },
+      {
+        "title": "A closer look",
+        "text": "Use a gap-finding exercise to test whether the quadrants are helping. A team has hundreds of calculation checks and dozens of acceptance scenarios, but customers still abandon checkout because discount messages are confusing. Adding another calculation check may be inexpensive, yet it does not address the reported problem. The missing evidence concerns people using the integrated product. A purposeful exploratory or usability session can investigate the message, timing and effect on the customer's task. Conversely, a beautifully usable checkout can still fail under a promotion's traffic. The model encourages complementary investigation; strong coverage of one perspective should not make another perspective invisible.",
+        "direction": "Checkout & delivery",
+        "id": "chapter-09",
+        "start": 473.533333,
+        "duration": 52.366667,
+        "speechDuration": 51.716667,
+        "speed": 1.1378923622300998
+      },
+      {
+        "title": "Verify the outcome",
+        "text": "Do not confuse a quadrant with a tool or an owner. The same browser framework might automate an acceptance example supporting development or collect evidence for a technical experiment. A developer can participate in exploratory testing, and a tester can help design low-level checks. Ask what question the activity answers and when its feedback is useful. For a new payment feature, list the risks first, choose activities second and use the matrix third to inspect balance. If an activity crosses a boundary, describe its purpose clearly and move on. The useful outcome is a better plan, not a perfectly categorized spreadsheet with unresolved customer risks.",
+        "direction": "Checkout & delivery",
+        "id": "chapter-10",
+        "start": 525.9,
+        "duration": 49.233333,
+        "speechDuration": 48.583333,
+        "speed": 1.1376740994854202
+      },
+      {
+        "title": "Recap",
+        "text": "Use the quadrants to balance business and technical risks. Knowledge check: which quadrant addresses response times during a traffic spike? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+        "direction": "Quadrant summary.",
+        "id": "chapter-11",
+        "start": 575.133333,
+        "duration": 24.866667,
+        "speechDuration": 24.216667,
+        "speed": 1.1357467309015825
+      }
+    ],
+    "publishAt": "2026-10-25T18:00:00+05:30",
+    "plannedDate": "2026-10-25",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "url": "https://www.youtube.com/watch?v=HH9gdETVS-E",
+    "videoId": "HH9gdETVS-E",
+    "thumbnailSet": false
+  },
+  {
+    "episode": 7,
+    "topic": "Agile Testing in Scrum",
+    "visual": {
+      "headline": "TESTING IN\nA SCRUM SPRINT",
+      "title": "Agile Testing in Scrum | Sprint Workflow & Definition of Done | Episode 7",
+      "example": "Appointment booking",
+      "steps": [
+        "Refine examples",
+        "Verify during the sprint",
+        "Inspect & adapt"
+      ],
+      "checks": [
+        "One available slot",
+        "Two concurrent requests",
+        "One confirmed booking"
+      ],
+      "result": "Done includes required verification",
+      "question": "Is unverified work really Done?"
+    },
+    "chapters": [
+      {
+        "title": "Introduction",
+        "text": "How does testing fit into Scrum? We will follow a two-week sprint for an appointment-booking platform and distinguish Scrum accountabilities from specialized testing skills. Picture an appointment platform with one available time slot and two customers trying to reserve it. The business goal sounds simple, but a screenshot of a successful booking cannot establish that double booking is prevented. Scrum gives the team regular opportunities to clarify, implement and inspect the outcome. It does not place testing in a separate final phase. Throughout this example, distinguish the framework's accountabilities from the specialist skills people bring. A team member can contribute deep testing knowledge while sharing responsibility for creating a usable increment that meets the Definition of Done.",
+        "direction": "Scrum sprint overview.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 56.9,
+        "speechDuration": 56.25,
+        "speed": 1.12896
+      },
+      {
+        "title": "Accountabilities",
+        "text": "Scrum defines Product Owner, Scrum Master and Developers accountabilities. Testers may be members of the Developers group; Scrum does not prescribe a separate tester accountability. Quality is shared. The Product Owner helps maximize product value and manages the Product Backlog. The Scrum Master helps establish Scrum and improve team effectiveness. Developers create the usable increment, and people with testing skills may be part of that group. This use of Developers is broader than programmers alone. A tester is not an external gate that receives all work after everyone else finishes. During a booking discussion, testing expertise can reveal concurrency and cancellation risks while implementation choices are still open. Clear accountabilities help the conversation, but quality still depends on the team's actual collaboration.",
+        "direction": "Scrum Team accountabilities diagram.",
+        "id": "chapter-02",
+        "start": 56.9,
+        "duration": 63.433333,
+        "speechDuration": 62.783333,
+        "speed": 1.1288346164056278
+      },
+      {
+        "title": "Refinement and planning",
+        "text": "Clarify double booking, cancellation, payment failures and unavailable slots. Select work supporting the Sprint Goal and account for implementation and verification within the sprint. Refine the booking story with explicit examples. Given one available slot, when one customer completes a reservation, then the slot becomes unavailable to others. Now ask what happens if two requests arrive almost simultaneously. Only one reservation should succeed under our fictional rule. Add a cancelled reservation and an expired temporary hold. These questions help the team identify work needed to achieve the Sprint Goal. Refinement is an ongoing activity, not a prescribed Scrum event. During Sprint Planning, the team considers the effort to implement and verify the selected work rather than treating testing capacity as an afterthought.",
+        "direction": "Booking story and acceptance criteria.",
+        "id": "chapter-03",
+        "start": 120.333333,
+        "duration": 62.6,
+        "speechDuration": 61.95,
+        "speed": 1.1289104116222761
+      },
+      {
+        "title": "During the sprint",
+        "text": "Validate availability A P I services before the user interface is complete. Test concurrent bookings, user journeys and regressions as increments emerge. Fix defects collaboratively instead of accumulating testing at the end. During the sprint, check the availability A P I while the booking interface is still being built. Send two controlled reservation requests for the same synthetic slot and inspect the stored outcome. Later, connect the interface and verify that the losing customer receives a clear message instead of an unexplained error. Run relevant regression checks after fixes. This sequence obtains different evidence as components become available. A timeline that assigns development to the first week and all testing to the last days can hide unresolved work until the sprint is nearly over.",
+        "direction": "Concurrent development and testing timeline.",
+        "id": "chapter-04",
+        "start": 182.933333,
+        "duration": 59.833333,
+        "speechDuration": 59.183333,
+        "speed": 1.1289664883131512
+      },
+      {
+        "title": "Definition of Done",
+        "text": "The Definition of Done formally describes quality conditions required for an increment. These may include reviews, passing tests, accepted criteria and relevant documentation. Coding completion alone does not imply Done. The Definition of Done provides a shared quality baseline for the increment. A team might require reviewed code, passing relevant automated checks, completed security conditions and updated operational information where needed. Acceptance criteria describe expectations for a particular backlog item; the Definition of Done describes quality conditions for the increment. They are related but serve different purposes. If required verification has not happened, calling the work Done misrepresents its state. Make the gap visible and adapt the plan. Pressure to improve a completion chart should not change the meaning of the shared agreement.",
+        "direction": "Definition of Done checklist.",
+        "id": "chapter-05",
+        "start": 242.766667,
+        "duration": 63.233333,
+        "speechDuration": 62.583333,
+        "speed": 1.128607190412783
+      },
+      {
+        "title": "Review and retrospective",
+        "text": "At the Sprint Review, inspect the outcome and adapt the Product Backlog. At the Retrospective, improve team effectiveness, perhaps by stabilizing environments or preparing data earlier. At the Sprint Review, stakeholders inspect the booking outcome and discuss what to do next. Perhaps users need a clearer explanation when their chosen slot disappears. That feedback can influence the Product Backlog. The Retrospective looks at how the team worked and how to become more effective. If concurrency testing started late because the environment lacked suitable data, the team might automate creation of isolated slots. These conversations have different purposes. A demonstration alone is not the whole Sprint Review, and a list of complaints without a practical improvement experiment does not make a useful Retrospective.",
+        "direction": "Review feedback and improvement action.",
+        "id": "chapter-06",
+        "start": 306.0,
+        "duration": 60.8,
+        "speechDuration": 60.15,
+        "speed": 1.128778054862843
+      },
+      {
+        "title": "Sprint walkthrough",
+        "text": "Illustrative ten-day schedule: plan and clarify; implement A P I services and prepare tests; execute integrated testing and resolve defects; review results and improve. Actual testing should be continuous, not tied to fixed days. Use a ten-working-day sprint as an illustration, not a mandatory calendar. On the first days, the team can clarify examples while beginning small implementation slices. As A P I services emerge, focused checks and code reviews provide feedback. Integrated journeys, exploration and regression continue as the increment grows. The Daily Scrum helps Developers inspect progress toward the Sprint Goal and adapt their plan. It is not simply a status report to a manager. The exact daily distribution changes with the work. What matters is maintaining transparency and finishing usable slices instead of accumulating a late queue of unverified features.",
+        "direction": "Ten-day illustrative sprint chart.",
+        "id": "chapter-07",
+        "start": 366.8,
+        "duration": 67.4,
+        "speechDuration": 66.75,
+        "speed": 1.1286292134831462
+      },
+      {
+        "title": "Worked example",
+        "text": "Your exercise is to assess a booking story at the end of a sprint. The main reservation journey works, but the required simultaneous-request check has not run. The team has no evidence that double booking is prevented. If that check is part of the agreed quality conditions, the work is not Done. Explain the missing evidence, investigate whether the scope can be adapted and avoid presenting uncertainty as success. Then propose one improvement for the next sprint, such as preparing concurrency data earlier. This connects honest inspection with a concrete way to improve delivery.",
+        "direction": "Appointment booking",
+        "id": "chapter-08",
+        "start": 434.2,
+        "duration": 42.633333,
+        "speechDuration": 41.983333,
+        "speed": 1.12844779674474
+      },
+      {
+        "title": "A closer look",
+        "text": "Consider a common end-of-sprint conversation. The code is finished, but required booking checks are incomplete. One person suggests moving the item to Done and creating a separate testing ticket for next sprint. That may make a completion chart look better while hiding that the increment has not met the shared quality conditions. Represent the actual state instead. Discuss what remains, whether a smaller usable slice can be completed and how the Sprint Goal is affected. The framework relies on transparency so that inspection can lead to sensible adaptation. Redefining completion after the fact removes the information the team needs to improve.",
+        "direction": "Appointment booking",
+        "id": "chapter-09",
+        "start": 476.833333,
+        "duration": 47.733333,
+        "speechDuration": 47.083333,
+        "speed": 1.1290619469026548
+      },
+      {
+        "title": "Verify the outcome",
+        "text": "Now turn that situation into a retrospective experiment. Perhaps the story combined booking creation, cancellation and notifications, so integrated feedback arrived too late. Next sprint, choose a smaller slice that still delivers a coherent outcome and clarify its examples earlier. Prepare isolated booking data before the implementation is ready. Inspect whether the slice reaches verification sooner and whether the team finishes it within its quality agreement. Do not interpret this example as a demand for a separate testing phase or a fixed number of days. The improvement aims to make collaboration and evidence available throughout the work, with the result judged by what actually becomes usable.",
+        "direction": "Appointment booking",
+        "id": "chapter-10",
+        "start": 524.566667,
+        "duration": 51.533333,
+        "speechDuration": 50.883333,
+        "speed": 1.128699639698657
+      },
+      {
+        "title": "Recap",
+        "text": "Testing supports every stage of Scrum. Knowledge check: can work be called Done if required verification is incomplete? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+        "direction": "Scrum quality summary.",
+        "id": "chapter-11",
+        "start": 576.1,
+        "duration": 23.9,
+        "speechDuration": 23.25,
+        "speed": 1.1313548387096783
+      }
+    ],
+    "publishAt": "2026-10-26T18:00:00+05:30",
+    "plannedDate": "2026-10-26",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "url": "https://www.youtube.com/watch?v=_LSyyLx-ex0",
+    "videoId": "_LSyyLx-ex0",
+    "thumbnailSet": false
+  },
+  {
+    "episode": 8,
+    "topic": "Agile Testing Methods and Techniques",
+    "visual": {
+      "headline": "TDD \u2022 BDD \u2022 ATDD\nWHEN TO USE EACH",
+      "title": "TDD vs BDD vs ATDD | Agile Test Design Techniques | Episode 8",
+      "example": "Discount checkout",
+      "steps": [
+        "Clarify behavior",
+        "Choose boundary examples",
+        "Explore interactions"
+      ],
+      "checks": [
+        "Below: \u20b9499",
+        "At threshold: \u20b9500",
+        "Above: \u20b9501"
+      ],
+      "result": "Use different methods for different risks",
+      "question": "What changes after an item is removed?"
+    },
+    "chapters": [
+      {
+        "title": "Introduction",
+        "text": "This lesson covers T D D, B D D, A T D D, exploratory testing and core test design techniques. We use a discount and checkout feature as our example. Begin with a checkout rule: an eligible member receives a ten-percent discount, but an expired coupon must be rejected. There are several questions hidden inside that sentence. We need to clarify eligibility, calculate the amount, investigate limits and observe the user journey. T D D, B D D, A T D D and exploratory testing can help, but they work at different points and with different intentions. Test design techniques help choose examples systematically. The objective is not to use every method on every story. It is to choose methods that give useful evidence about the most important risks.",
+        "direction": "Technique overview cards.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 58.366667,
+        "speechDuration": 57.716667,
+        "speed": 1.1431013572047357
+      },
+      {
+        "title": "TDD",
+        "text": "Write a failing test for an eligible ten-percent discount, implement enough code to pass, then refactor safely. The Red, Green, Refactor loop encourages small, verified changes. For a T D D demonstration, write a small test saying that a purchase of one thousand rupees produces a one-hundred-rupee discount for an eligible member. Confirm the test fails because the function has not implemented that behavior. Add the smallest implementation that makes it pass. Refactor the design while keeping the test green. Next, add an ineligible-customer case expecting zero. These examples should guide the code in small steps. Writing all production code first and adding tests afterward can still be useful, but it does not provide the same design feedback loop as test-driven development.",
+        "direction": "Three-stage code demo.",
+        "id": "chapter-02",
+        "start": 58.366667,
+        "duration": 58.533333,
+        "speechDuration": 57.883333,
+        "speed": 1.1435416066801036
+      },
+      {
+        "title": "BDD",
+        "text": "Describe behavior collaboratively using Given, When and Then. Given an eligible coupon, when it is applied to a qualifying order, then the specified discount is calculated. B D D is about shared understanding, not just automation syntax. For B D D, gather product, development and testing perspectives before choosing automation syntax. Ask how a customer knows that a coupon was accepted and how the final total should change. Express an example: given an eligible member with a qualifying basket, when a valid coupon is applied, then the agreed discount appears and the total is updated. Now discuss an expired coupon and a basket below the minimum. Given, When and Then can make examples readable, but the format is not the purpose. The purpose is a shared understanding of observable behavior, including situations where assumptions differ.",
+        "direction": "Given\u2013When\u2013Then scenario.",
+        "id": "chapter-03",
+        "start": 116.9,
+        "duration": 62.333333,
+        "speechDuration": 61.683333,
+        "speed": 1.1435179681167251
+      },
+      {
+        "title": "ATDD",
+        "text": "Define acceptance examples with business, development and testing participants before implementation. For refunds, clarify eligible and ineligible cases, timing and expected outcomes. A T D D and B D D overlap but are not identical. A T D D also brings acceptance examples forward. For a refund feature, agree that an eligible cancelled purchase returns the correct amount and changes the order state. Include an ineligible refund, a partial refund and a delayed provider confirmation if those apply to the product. The team can use these examples to guide implementation and later verification. B D D and A T D D overlap in collaborative discovery and examples; their labels do not define a rigid boundary for every team. What matters is that acceptance expectations are clear before code is judged complete, and that the checks reflect real business outcomes.",
+        "direction": "Refund acceptance examples.",
+        "id": "chapter-04",
+        "start": 179.233333,
+        "duration": 64.366667,
+        "speechDuration": 63.716667,
+        "speed": 1.1435626471357574
+      },
+      {
+        "title": "Exploratory testing",
+        "text": "Investigate checkout by changing quantities, applying coupons and navigating backward. Adapt based on observations. Use charters, notes and debriefs to keep exploration purposeful. Exploratory testing adds responsive investigation. Set a charter: investigate whether coupon changes can leave checkout totals inconsistent. Begin with a normal purchase, change quantity, apply a coupon, navigate backward and return. Observe what changes and follow surprising behavior. Record the data, actions and findings so another person can understand the investigation. A timebox helps focus the session, but curiosity should still respond to evidence. Exploration is not random clicking. It combines learning, test design and execution while the tester updates the next question based on what the product actually does.",
+        "direction": "Exploratory session notes.",
+        "id": "chapter-05",
+        "start": 243.6,
+        "duration": 62.433333,
+        "speechDuration": 61.783333,
+        "speed": 1.143609387644996
+      },
+      {
+        "title": "Test design",
+        "text": "Equivalence partitioning groups inputs with similar behavior. Boundary analysis checks values around limits. Decision tables cover combinations of rules such as membership and coupon eligibility. Use equivalence partitioning and boundaries for a coupon that accepts whole-number quantities from one through ten. Valid quantities form one partition; zero and negative values are invalid; values above ten are invalid. Representative examples can reduce redundant checks. Boundary analysis gives special attention to zero, one, ten and eleven. Other values may be needed depending on the input type and risks. If the input permits decimals or text, those introduce additional partitions. The specification must define the expected result. A technique helps choose inputs, but it cannot resolve an unclear rule about whether a particular input is allowed.",
+        "direction": "Number line and decision table.",
+        "id": "chapter-06",
+        "start": 306.033333,
+        "duration": 65.133333,
+        "speechDuration": 64.483333,
+        "speed": 1.1433652106487464
+      },
+      {
+        "title": "Combining methods",
+        "text": "Use T D D for calculations, B D D for shared renewal behavior, A T D D for refund acceptance, boundary tests for limits and exploration for user journeys. Select methods based on risk. Build a decision table for two conditions: the customer is a member, and the coupon is valid. There are four combinations. Agree on the outcome for a member with a valid coupon, a member with an invalid coupon, a nonmember with a valid coupon and a nonmember with an invalid coupon. Maybe membership is required, or maybe the coupon is available to anyone; the product rule decides. A table makes missing combinations visible. Add columns only when they affect the decision, because many independent conditions can produce more combinations than a team can practically test through the interface.",
+        "direction": "Subscription checkout technique map.",
+        "id": "chapter-07",
+        "start": 371.166667,
+        "duration": 56.966667,
+        "speechDuration": 56.316667,
+        "speed": 1.1433915359573836
+      },
+      {
+        "title": "Worked example",
+        "text": "For your exercise, design checks for a discount feature with a minimum spend of five hundred rupees. State whether the threshold is inclusive, then choose values immediately below, at and above it. Add an expired coupon example and one combination of membership and eligibility. Finally, write a short exploratory charter about changing the basket after applying a coupon. Explain which method supports each part. Boundary analysis addresses the threshold, shared examples clarify behavior, and exploration investigates interactions. The strongest plan combines these views while avoiding multiple expensive checks that all prove the same narrow rule.",
+        "direction": "Discount checkout",
+        "id": "chapter-08",
+        "start": 428.133333,
+        "duration": 48.7,
+        "speechDuration": 48.05,
+        "speed": 1.143309053069719
+      },
+      {
+        "title": "A closer look",
+        "text": "Work through a boundary example numerically. The fictional coupon applies when the qualifying subtotal is at least five hundred rupees. Test four hundred and ninety-nine, five hundred and five hundred and one when the rule operates on whole rupees. If the application supports paise, values immediately around the boundary need that finer precision instead. Confirm whether the subtotal is calculated before or after other discounts and whether tax contributes. Without those decisions, two tests with the same apparent basket value may legitimately expect different results. Boundary analysis is effective only when the unit, precision and rule being bounded are explicit.",
+        "direction": "Discount checkout",
+        "id": "chapter-09",
+        "start": 476.833333,
+        "duration": 47.966667,
+        "speechDuration": 47.316667,
+        "speed": 1.1432758013384994
+      },
+      {
+        "title": "Verify the outcome",
+        "text": "Add an interaction example. A customer applies a coupon to a qualifying basket, then removes an item so the basket falls below the minimum. The total should be recalculated according to the agreed rule and the customer should understand the change. A focused rule check can verify the arithmetic, while a browser journey can verify the integration and message. An exploratory session can investigate other sequences, such as changing quantity while a request is still pending. Avoid writing every variation as a slow end-to-end test automatically. Choose the least expensive layer that provides useful evidence, and retain a smaller set of integrated journeys for risks that depend on interactions.",
+        "direction": "Discount checkout",
+        "id": "chapter-10",
+        "start": 524.8,
+        "duration": 50.2,
+        "speechDuration": 49.55,
+        "speed": 1.1430877901109988
+      },
+      {
+        "title": "Recap",
+        "text": "Different techniques answer different quality questions. Knowledge check: which technique targets values immediately above and below an allowed limit? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+        "direction": "Technique recap.",
+        "id": "chapter-11",
+        "start": 575.0,
+        "duration": 25.0,
+        "speechDuration": 24.35,
+        "speed": 1.1433264887063654
+      }
+    ],
+    "publishAt": "2026-10-26T18:00:00+05:30",
+    "plannedDate": "2026-10-26",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "url": "https://www.youtube.com/watch?v=BxdkMvdx7G8",
+    "videoId": "BxdkMvdx7G8",
+    "thumbnailSet": false
+  },
+  {
+    "episode": 9,
+    "topic": "Agile Testing Artifacts and Documentation",
+    "visual": {
+      "headline": "AGILE TESTING\nDOCUMENTS THAT HELP",
+      "title": "Agile Testing Documentation | Test Cases, Defects & Traceability | Episode 9",
+      "example": "Invoice downloads",
+      "steps": [
+        "Requirement",
+        "Test & defect",
+        "Fix & retest evidence"
+      ],
+      "checks": [
+        "Correct billing period",
+        "Correct customer account",
+        "Other accounts denied"
+      ],
+      "result": "Keep useful evidence connected",
+      "question": "Can another person reproduce the result?"
+    },
+    "chapters": [
+      {
+        "title": "Introduction",
+        "text": "Agile values useful documentation, not the elimination of documentation. We will examine stories, criteria, cases, defects, charters and traceability. Imagine joining a team just before release. The invoice feature looks finished, but nobody can explain which account-isolation checks ran or which build contains the last fix. More documents would not automatically solve the problem. Useful artifacts would connect the customer need, expected behavior and evidence. Agile values working software, while still recognizing that documentation can support collaboration and decisions. In this lesson we create a small, connected set of artifacts for a monthly invoice download. Every artifact should answer a practical question for someone who needs to understand, verify, operate or change the product.",
+        "direction": "Documentation artifact stack.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 58.833333,
+        "speechDuration": 58.183333,
+        "speed": 1.1665196218848466
+      },
+      {
+        "title": "Stories and criteria",
+        "text": "A customer wants to download a monthly invoice. Clarify completed billing periods, P D F output and account ownership. Acceptance criteria translate the need into verifiable outcomes. Write the user story in terms of the customer goal: a customer wants to download a monthly invoice to keep a record of charges. Then clarify the acceptance criteria. Only completed billing periods are available, the output is a readable P D F, and customers can access only their own invoices. Add an example of a month with no charge if the business needs it. Criteria should describe observable outcomes rather than merely repeat interface labels. A story that says there is a Download button is incomplete if it never explains which document the button must retrieve or who is allowed to retrieve it.",
+        "direction": "Invoice story and acceptance criteria.",
+        "id": "chapter-02",
+        "start": 58.833333,
+        "duration": 57.9,
+        "speechDuration": 57.25,
+        "speed": 1.1666724890829694
+      },
+      {
+        "title": "Test cases",
+        "text": "A test case can specify ID, objective, precondition, action and expected result. For invoice downloads, verify that an authenticated customer downloads the correct P D F. Use detailed cases for high-risk work and checklists where sufficient. Create one test case with enough detail for its risk. Its identifier is INV zero one. The precondition is a synthetic customer with a completed billing period and a known invoice. The action is to request that period's download. The expected result is the correct P D F with the agreed account and charge information. Record the environment and build when executing it. A second test should investigate access to another synthetic customer's invoice. Detailed steps are useful where precision matters, but a simple low-risk visual check may only need a checklist. Match the detail to the reader's need and the consequences of ambiguity.",
+        "direction": "Invoice test-case example.",
+        "id": "chapter-03",
+        "start": 116.733333,
+        "duration": 64.566667,
+        "speechDuration": 63.916667,
+        "speed": 1.1666440677966101
+      },
+      {
+        "title": "Defect reports",
+        "text": "An invoice ID modification that exposes another customer\u2019s file is a serious authorization issue. Record environment, steps, expected and actual behavior, and sanitized evidence. Avoid exposing sensitive customer data. Suppose modifying the invoice identifier returns another account's document. Write a defect that explains the authorization failure without exposing real customer information. Include the environment, synthetic account relationship, reproduction steps and observed result. State the expected denial and attach sanitized evidence. Link the affected requirement and test. Avoid putting access tokens or confidential invoices in a broadly shared ticket. The report should help the team reproduce and prioritize the problem, not create a second exposure. After the fix, retain enough retest evidence to show which build was checked and what outcome was observed.",
+        "direction": "Redacted security defect report.",
+        "id": "chapter-04",
+        "start": 181.3,
+        "duration": 65.766667,
+        "speechDuration": 65.116667,
+        "speed": 1.1668901970821604
+      },
+      {
+        "title": "Plans and charters",
+        "text": "A lightweight strategy documents scope, risks, environments, responsibilities and automation. An exploratory charter might focus on invoice downloads across roles and billing periods. Capture observations afterward. A one-page strategy can describe scope, important risks, environments, responsibilities and the mix of automated and human checks. For this feature, highlight account isolation, document accuracy and availability. Add an exploratory charter: investigate invoice access across roles and billing periods using synthetic accounts. A charter sets a mission while leaving room to follow discoveries. After the session, capture what was covered, what was found and what remains uncertain. This is more useful than a long plan copied from an unrelated project that nobody updates or uses when making a release decision.",
+        "direction": "One-page test strategy and charter.",
+        "id": "chapter-05",
+        "start": 247.066667,
+        "duration": 60.8,
+        "speechDuration": 60.15,
+        "speed": 1.1666832917705736
+      },
+      {
+        "title": "Traceability",
+        "text": "Link authorization requirements to tests, defects, fixes and retest evidence. This helps teams demonstrate coverage, especially in regulated environments, without unnecessary bureaucracy. Traceability can be lightweight. Connect the account-ownership rule to the unauthorized-download check. Link the failing result to the defect, then the fix and retest. Someone reviewing release readiness can follow that chain and understand why the risk is considered addressed. The same principle applies to automated results: retain the build and relevant report rather than only a screenshot of a green badge. Avoid maintaining multiple disconnected copies of the same relationship in spreadsheets and tickets. A small set of current links is easier to trust than a large matrix that stopped reflecting the product several sprints ago.",
+        "direction": "Requirement-to-test-to-defect flow.",
+        "id": "chapter-06",
+        "start": 307.866667,
+        "duration": 58.433333,
+        "speechDuration": 57.783333,
+        "speed": 1.1667032016152292
+      },
+      {
+        "title": "Practical document set",
+        "text": "Maintain stories, criteria, risk strategy, important tests, defect reports, automated results and relevant release notes. Keep artifacts accessible and current. Decide what to keep current. Stories and criteria describe the agreed behavior. Important tests preserve repeatable checks. Defect reports record actionable failures. Automated reports show what ran on a build. Operational notes explain relevant deployment or support concerns. Release notes communicate changes to their intended audience. Each artifact has a different reader and lifespan. When behavior changes, identify which artifacts now contain an obsolete rule. Documentation debt grows when old expectations remain easy to find but hard to distinguish from current guidance. Prefer concise material with clear ownership and a visible relationship to the implementation.",
+        "direction": "Lightweight documentation checklist.",
+        "id": "chapter-07",
+        "start": 366.3,
+        "duration": 65.3,
+        "speechDuration": 64.65,
+        "speed": 1.166403712296984
+      },
+      {
+        "title": "Worked example",
+        "text": "For your exercise, create a miniature evidence chain for the invoice authorization defect. Write one criterion, one negative test, a concise defect title and a retest note. The criterion restricts downloads to the owning customer. The test attempts access from a different synthetic account. The defect states that the file was returned. The retest note identifies the fixed build and the observed denial. Explain why a screenshot alone would be insufficient if it omitted the account context and build. Useful documentation allows another person to reconstruct the decision without needing the original tester to explain every missing detail.",
+        "direction": "Invoice downloads",
+        "id": "chapter-08",
+        "start": 431.6,
+        "duration": 46.6,
+        "speechDuration": 45.95,
+        "speed": 1.1663112078346027
+      },
+      {
+        "title": "A closer look",
+        "text": "Review a bad test case: click Download and verify the invoice is correct. It leaves correctness undefined. Improve it by naming the synthetic account, billing period, expected document identity and important fields. Record which build and environment were used. Now another tester can tell whether the file belongs to the right account and period, rather than simply confirming that a P D F opened. Do not add irrelevant detail, such as every pointer movement, if it does not help reproducibility. Precision should serve the risk and the reader. A concise test with an observable expected result can be more useful than pages of mechanical steps with an ambiguous conclusion.",
+        "direction": "Invoice downloads",
+        "id": "chapter-09",
+        "start": 478.2,
+        "duration": 48.866667,
+        "speechDuration": 48.216667,
+        "speed": 1.166235741444867
+      },
+      {
+        "title": "Verify the outcome",
+        "text": "Documentation also needs maintenance when the product changes. Suppose invoices become available on the first business day after a billing period instead of immediately at its end. Update the acceptance examples, automated expectations, relevant support guidance and any checks that rely on the previous availability rule. Record the change where the team will look for current behavior. An obsolete test can create noise, while an obsolete customer-facing explanation can create confusion. Assign ownership to the artifact that matters and remove redundant copies where possible. Keeping a small set of documents current is usually more useful than creating a large collection whose readers cannot identify the authoritative version.",
+        "direction": "Invoice downloads",
+        "id": "chapter-10",
+        "start": 527.066667,
+        "duration": 50.533333,
+        "speechDuration": 49.883333,
+        "speed": 1.1667223521550285
+      },
+      {
+        "title": "Recap",
+        "text": "Documentation should help teams understand and decide. Knowledge check: what details make a defect reproducible? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+        "direction": "Artifact summary.",
+        "id": "chapter-11",
+        "start": 577.6,
+        "duration": 22.4,
+        "speechDuration": 21.75,
+        "speed": 1.1674482758620701
+      }
+    ],
+    "publishAt": "2026-10-27T18:00:00+05:30",
+    "plannedDate": "2026-10-27",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "url": "https://www.youtube.com/watch?v=t3WpRYW0lGg",
+    "videoId": "t3WpRYW0lGg",
+    "thumbnailSet": false
+  },
+  {
+    "episode": 10,
+    "topic": "Agile Testing with Kanban",
+    "visual": {
+      "headline": "KANBAN TESTING\nFIX THE BOTTLENECK",
+      "title": "Kanban for Software Testing | WIP Limits & Flow Metrics | Episode 10",
+      "example": "Support workflow",
+      "steps": [
+        "Ready \u2192 Development",
+        "Testing: WIP limit 3",
+        "Finish before pulling more"
+      ],
+      "checks": [
+        "Make blockers visible",
+        "Inspect work item age",
+        "Improve end-to-end flow"
+      ],
+      "result": "Finish valuable work, reduce waiting",
+      "question": "Why is the Testing queue always full?"
+    },
+    "chapters": [
+      {
+        "title": "Introduction",
+        "text": "Kanban supports teams that receive work continuously, including support and maintenance operations. It makes flow visible and supports delivery predictability. Picture a support team receiving authentication failures, dashboard requests and small mobile fixes throughout the day. Work arrives continuously, so the team needs visibility into what is active, what is waiting and what is becoming old. Kanban helps the team define and improve that flow. A board is part of the approach, but the board alone cannot solve capacity problems. The team also needs explicit policies, limits and regular inspection. We will follow five fictional requests and show how testing contributes to finishing valuable work rather than becoming an invisible queue near the end.",
+        "direction": "Continuous-flow Kanban board.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 56.533333,
+        "speechDuration": 55.883333,
+        "speed": 1.1067342678198628
+      },
+      {
+        "title": "Visual workflow",
+        "text": "Represent requests as cards moving through Backlog, Ready, Development, Testing and Done. The board exposes current status and queues. Define the workflow before drawing columns. Backlog contains possible work, Ready contains requests that meet the team's entry policy, Development contains active implementation, Testing contains active or queued verification, and Done meets the agreed completion policy. These are illustrative choices, not required Kanban column names. Make the start and finish points explicit because metrics depend on them. A blocked item should remain visible in the system with its blocker, rather than being moved somewhere that hides its age. The board should represent how work actually flows, including waiting that the team may otherwise overlook.",
+        "direction": "Cards moving across workflow.",
+        "id": "chapter-02",
+        "start": 56.533333,
+        "duration": 58.7,
+        "speechDuration": 58.05,
+        "speed": 1.1067700258397932
+      },
+      {
+        "title": "WIP limits",
+        "text": "Limit active work to reduce context switching. If Testing has three items and its limit is three, finish or unblock existing work before pulling more. Adjust limits to actual capacity. Suppose Testing has a limit of three items and already contains three. Two depend on an unavailable environment, while the third needs a small fix. Starting several more features increases active work without increasing finished value. The team might help restore the environment and pair on the small fix. When an item finishes, capacity becomes available to pull more. A limit is a policy that encourages this discussion; it is not a magic number copied from another team. Review whether the chosen limits support collaboration and manageable flow, then adjust through explicit experiments rather than quietly ignoring them.",
+        "direction": "WIP-limit warning animation.",
+        "id": "chapter-03",
+        "start": 115.233333,
+        "duration": 62.0,
+        "speechDuration": 61.35,
+        "speed": 1.1066992665036675
+      },
+      {
+        "title": "Flow metrics",
+        "text": "Lead time is measured from a defined request or commitment point to completion; cycle time is measured from the start of work to completion. Agree on boundaries before comparing results. Use timestamps to explain flow measures. A request arrives Monday, becomes active Wednesday and finishes Friday. If the team measures request-to-finish time, that includes the waiting before Wednesday. If its cycle-time boundary starts when work becomes active, the earlier waiting is outside that measure. State whether you use elapsed calendar time or working time. The current Kanban Guide emphasizes work in progress, throughput, work item age and cycle time as flow metrics. Lead time is also used in practice, with boundaries that must be defined. Unlabelled numbers from different workflows should not be compared as though they describe the same thing.",
+        "direction": "Lead-time versus cycle-time timeline.",
+        "id": "chapter-04",
+        "start": 177.233333,
+        "duration": 64.133333,
+        "speechDuration": 63.483333,
+        "speed": 1.1069362037280126
+      },
+      {
+        "title": "Bottlenecks",
+        "text": "A growing Testing queue may indicate environment issues, oversized stories, weak upstream tests or capacity constraints. Improve overall flow before assuming headcount is the only solution. A constantly full Testing column is a signal, not a diagnosis. The cause could be unstable environments, large batches, missing acceptance criteria, poor testability or a capacity mismatch. Examine individual items and their waiting time before proposing a solution. If every item waits for the same shared account, creating isolated data may help more than adding another dashboard. If large changes arrive in batches, smaller slices and earlier checks may reduce the queue. The objective is better flow through the whole system, so moving a bottleneck to another column without improving completion does not establish success.",
+        "direction": "Testing queue bottleneck diagram.",
+        "id": "chapter-05",
+        "start": 241.366667,
+        "duration": 62.366667,
+        "speechDuration": 61.716667,
+        "speed": 1.1067350796651363
+      },
+      {
+        "title": "Classes of service",
+        "text": "Differentiate critical incidents, standard enhancements and fixed-date commitments with clear policies. Too many urgent tickets undermine prioritization. Classes of service make tradeoffs explicit when the team chooses to use them. A production authentication outage may qualify for expedited handling under an agreed policy. A normal dashboard enhancement follows standard capacity. A contractual deadline may require a fixed-date policy. These are complementary practices, not mandatory labels for every Kanban system. Too many expedited items undermine predictability because ordinary work is repeatedly interrupted. Define who can invoke an urgent policy, what evidence is needed and how interrupted work remains visible. Priority should reflect consequences and commitments rather than whoever asks most loudly.",
+        "direction": "Service-class priority cards.",
+        "id": "chapter-06",
+        "start": 303.733333,
+        "duration": 63.166667,
+        "speechDuration": 62.516667,
+        "speed": 1.106776859504132
+      },
+      {
+        "title": "Maintenance example",
+        "text": "A team supporting a website, dashboard and mobile app receives five requests. A production authentication issue receives expedited attention while other items follow available capacity and testing checks. Walk through the five requests. One is an active production login failure, two are routine dashboard improvements, one is a mobile display defect and one is a reporting change with a future commitment. Assess the login incident first because customers cannot access the service. Apply the agreed urgent policy and make the interruption visible. Keep the other items ordered according to value, risk and capacity. After the incident fix, verify the important login journeys and capture a regression check where useful. Then inspect the cause so that the team learns from the interruption instead of simply celebrating a fast ticket closure.",
+        "direction": "Five fictional support tickets.",
+        "id": "chapter-07",
+        "start": 366.9,
+        "duration": 62.166667,
+        "speechDuration": 61.516667,
+        "speed": 1.1068219994581414
+      },
+      {
+        "title": "Worked example",
+        "text": "For your exercise, investigate a Testing queue that has remained full for a week. Record each item's age, its blocker and the work needed to finish it. Choose one action that could reduce waiting across several items, such as restoring a shared dependency or preparing independent test accounts. Decide how you will observe whether the action improves completion. Do not assume the busiest-looking column is the only problem; it may reflect issues upstream. A strong Kanban discussion connects visible work, explicit policies and evidence about flow to a practical experiment that the team can inspect.",
+        "direction": "Support workflow",
+        "id": "chapter-08",
+        "start": 429.066667,
+        "duration": 44.6,
+        "speechDuration": 43.95,
+        "speed": 1.1068941979522184
+      },
+      {
+        "title": "A closer look",
+        "text": "Work item age is especially useful before work finishes. Suppose three testing items are active: one started today, one three days ago and one nine days ago. A completed-item average will not explain the oldest item's current risk because it has not finished yet. Inspect why it is aging. Perhaps it depends on a supplier response or contains a much larger scope than the others. Make the blocker and next action visible. Historical cycle-time data can help the team discuss expectations, but it should not be treated as a guarantee for every request. Different work types and changed conditions can alter what a reasonable expectation looks like.",
+        "direction": "Support workflow",
+        "id": "chapter-09",
+        "start": 473.666667,
+        "duration": 50.8,
+        "speechDuration": 50.15,
+        "speed": 1.1064406779661018
+      },
+      {
+        "title": "Verify the outcome",
+        "text": "Avoid maximizing individual utilization at the expense of flow. If developers begin more features whenever testing waits, the board may show impressive activity while customers receive few completed changes. Helping finish an older item can be more valuable than starting another. That might mean clarifying a rule, reducing a change's scope, improving testability or investigating a failing integration together. Measure whether completed throughput and waiting improve under the experiment. A work in progress limit should encourage this system-level conversation. It should not become a rigid excuse to leave a colleague blocked while everyone else starts work that will soon join the same queue.",
+        "direction": "Support workflow",
+        "id": "chapter-10",
+        "start": 524.466667,
+        "duration": 50.9,
+        "speechDuration": 50.25,
+        "speed": 1.1066268656716418
+      },
+      {
+        "title": "Recap",
+        "text": "Kanban improves transparency and flow. Knowledge check: what should be investigated when the Testing column is consistently full? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+        "direction": "Kanban principles summary.",
+        "id": "chapter-11",
+        "start": 575.366667,
+        "duration": 24.633333,
+        "speechDuration": 23.983333,
+        "speed": 1.1057678943710914
+      }
+    ],
+    "publishAt": "2026-10-27T18:00:00+05:30",
+    "plannedDate": "2026-10-27",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "url": "https://www.youtube.com/watch?v=X0hokSm8f2U",
+    "videoId": "X0hokSm8f2U",
+    "thumbnailSet": false
+  },
+  {
+    "episode": 11,
+    "topic": "Agile Testing Tools and Automation",
+    "visual": {
+      "headline": "AGILE TESTING\nTOOLS & AUTOMATION",
+      "title": "Agile Testing Tools & Automation | API, Playwright & CI/CD | Episode 11",
+      "example": "Checkout pipeline",
+      "steps": [
+        "Unit checks",
+        "API & integration",
+        "Critical browser journeys"
+      ],
+      "checks": [
+        "Independent test data",
+        "Stable locators",
+        "Meaningful assertions"
+      ],
+      "result": "Reliable feedback beats script count",
+      "question": "What does a green build actually prove?"
+    },
+    "chapters": [
+      {
+        "title": "Introduction",
+        "text": "Tools help Agile teams obtain reliable feedback quickly. We cover issue tracking, A P I tests, browser and mobile automation, performance, security and continuous integration and delivery. Imagine a team with many testing products but slow feedback and frequent escaped payment defects. More tools would not automatically fix the problem. The team must first identify what evidence it needs and where a tool can produce it reliably. In this lesson, connect tools to activities: tracking helps communicate work, A P I clients inspect service behavior, browser and mobile frameworks repeat journeys, performance tools explore load and CI coordinates checks. Product interfaces change over time, so focus on the underlying workflow. A good toolchain makes important outcomes easier to investigate and failures easier to understand.",
+        "direction": "Testing toolchain diagram.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 61.2,
+        "speechDuration": 60.55,
+        "speed": 1.1415359207266722
+      },
+      {
+        "title": "Issue tracking",
+        "text": "Use Jira, Azure DevOps or GitHub Issues to connect stories, defects and verification work. For a login lockout defect, record evidence, link the story and retest the fix. For a login-lockout defect, use an issue tracker to connect the affected story, the observed failure and the verification work. Include the build, synthetic account setup and expected policy. An issue tracker can help make responsibility and status visible, but it does not determine whether the policy is correct. Avoid copying sensitive credentials into a ticket. When the fix is ready, record the retest outcome and relevant regression results. Whether the team uses Jira, Azure DevOps or GitHub Issues, the important relationship is the same: expectation, evidence, defect, fix and verification remain understandable together.",
+        "direction": "Fictional linked defect workflow.",
+        "id": "chapter-02",
+        "start": 61.2,
+        "duration": 61.0,
+        "speechDuration": 60.35,
+        "speed": 1.1413421706710853
+      },
+      {
+        "title": "API testing",
+        "text": "Postman can send requests and inspect status codes, payloads and authentication behavior. Test valid login, invalid login, missing fields and expired tokens against the agreed A P I specification. Use an A P I client to send a fictional login request in a test environment. Check a valid account, an incorrect password, missing required fields and an expired token where the contract defines that behavior. Inspect the status, response body and resulting state. The exact expected status codes must come from the A P I specification; do not assume every product uses identical codes. A successful response alone does not prove permissions are correct. Follow it with an authorized operation and an operation the account must not perform. Use synthetic secrets and keep environment files with credentials out of shared reports.",
+        "direction": "POST /api/login demonstration.",
+        "id": "chapter-03",
+        "start": 122.2,
+        "duration": 62.933333,
+        "speechDuration": 62.283333,
+        "speed": 1.1413647310677013
+      },
+      {
+        "title": "Web and mobile automation",
+        "text": "Selenium and Playwright can automate web journeys; Appium supports mobile automation. Use stable selectors, independent data and meaningful assertions to avoid fragile scripts. A browser check can visit the login page, fill clearly identified controls, submit and verify a meaningful signed-in outcome. Prefer user-facing locators or stable test identifiers over fragile page coordinates. Arrange independent data so one failed test does not break the next. For mobile, choose a framework compatible with the application and required platforms; Appium is one option. Decide which journeys justify the cost of end-to-end execution. Repeating every arithmetic rule through a full browser session makes feedback slower and can introduce unrelated failure points that a focused lower-level check avoids.",
+        "direction": "Browser and mobile test runs.",
+        "id": "chapter-04",
+        "start": 185.133333,
+        "duration": 59.5,
+        "speechDuration": 58.85,
+        "speed": 1.1414783347493629
+      },
+      {
+        "title": "Performance and security",
+        "text": "JMeter and k6 can help measure response time, throughput and error rates under load. OWASP ZAP can help discover some web vulnerabilities. No scanner proves complete security. For performance work, define a realistic scenario and an agreed target before running a tool such as k6 or JMeter. Track errors and response-time distributions alongside throughput. Averages can hide slow experiences for some requests. Security tools such as OWASP ZAP can identify some classes of web issues in an authorized environment, but a scan is not a complete security assessment. Business-rule abuse and access-control mistakes may require targeted investigation. Tool output is a starting point for interpretation. Confirm important findings and explain the conditions under which a measurement or observation was collected.",
+        "direction": "Performance charts and security scan summary.",
+        "id": "chapter-05",
+        "start": 244.633333,
+        "duration": 61.666667,
+        "speechDuration": 61.016667,
+        "speed": 1.1410652827096421
+      },
+      {
+        "title": "Continuous integration",
+        "text": "A code commit triggers build, unit tests, integration tests and potentially deployment to a test environment followed by end-to-end checks. Jenkins and GitHub Actions can orchestrate these steps. A CI pipeline can begin when a commit is pushed. Build the application, run focused unit checks, run integration checks and deploy to an isolated test environment if appropriate. Then execute a smaller set of critical end-to-end journeys. Jenkins and GitHub Actions can orchestrate such stages, while actual capabilities depend on the configured project. When a check fails, retain useful logs and sanitized artifacts. Keep fast feedback close to the change, and avoid making every commit wait for a long experiment that could run at another appropriate point. The pipeline should provide reliable signals rather than merely execute many commands.",
+        "direction": "Commit-to-test pipeline.",
+        "id": "chapter-06",
+        "start": 306.3,
+        "duration": 62.366667,
+        "speechDuration": 61.716667,
+        "speed": 1.1413448555225492
+      },
+      {
+        "title": "Automation strategy",
+        "text": "Prioritize authentication, permissions, billing and payments. Put many business-rule checks at unit and A P I layers, retain a smaller number of critical end-to-end checks and review flaky tests regularly. Prioritize automation by risk, repeatability and maintenance cost. Stable billing calculations often suit focused unit tests. Service contracts suit A P I and integration checks. A small number of critical customer journeys suit browser or mobile checks. Human exploration remains valuable for new behavior and unexpected interactions. Review flaky tests because a check that randomly fails can teach people to ignore real failures. A retry may help diagnose instability, but it should not erase the evidence. Assign ownership to important checks and remove obsolete expectations when product behavior intentionally changes.",
+        "direction": "Layered test strategy.",
+        "id": "chapter-07",
+        "start": 368.666667,
+        "duration": 63.766667,
+        "speechDuration": 63.116667,
+        "speed": 1.1411249009770266
+      },
+      {
+        "title": "Worked example",
+        "text": "Your exercise is to design a toolchain for a subscription checkout change. Identify one tracking artifact, one calculation check, one A P I scenario and one end-to-end journey. Add a controlled performance question if traffic is a material risk. Explain where each check runs and what a failure would tell the team. For example, verify fee arithmetic quickly, verify payment-state transitions at the A P I layer and verify one complete sandbox purchase through the interface. This plan produces clearer feedback than automating every rule only through the browser, because failures can be investigated closer to the component and risk involved.",
+        "direction": "Checkout pipeline",
+        "id": "chapter-08",
+        "start": 432.433333,
+        "duration": 47.9,
+        "speechDuration": 47.25,
+        "speed": 1.1413333333333333
+      },
+      {
+        "title": "A closer look",
+        "text": "Read a failed automated check as evidence, not a verdict. A browser timeout might mean the application was slow, the selector was wrong, the environment was unavailable or the test waited for the wrong event. Preserve the trace, request information and relevant screenshot, then investigate. A blind rerun that passes does not explain the first failure. Repeatedly ignoring intermittent failures reduces confidence in the suite. Classify the cause and improve the check or product as appropriate. Reliable automation includes ownership of the feedback loop, not just the initial effort of recording a sequence of actions in a tool.",
+        "direction": "Checkout pipeline",
+        "id": "chapter-09",
+        "start": 480.333333,
+        "duration": 46.166667,
+        "speechDuration": 45.516667,
+        "speed": 1.1415598681801538
+      },
+      {
+        "title": "Verify the outcome",
+        "text": "Consider a practical pipeline budget. Focused calculation checks can run frequently because they are fast and isolated. A P I and integration checks add evidence about service boundaries. A small critical browser suite checks complete customer journeys. Longer performance experiments can run when an appropriate environment and workload are available. The exact cadence depends on risk and delivery needs; there is no universal schedule. Record what each stage covers and what it omits. This lets the team interpret a green build honestly and decide when additional human investigation or specialized testing is needed before a significant release.",
+        "direction": "Checkout pipeline",
+        "id": "chapter-10",
+        "start": 526.5,
+        "duration": 48.166667,
+        "speechDuration": 47.516667,
+        "speed": 1.1409891266222378
+      },
+      {
+        "title": "Recap",
+        "text": "Choose tools to support quality risks and team workflow. Knowledge check: why is it inefficient to test every rule only through browser automation? Subscribe to Tech at sixty for the next episode in this Agile Testing Masterclass. Practice the example with synthetic data, and share the most important risk you identified in the comments.",
+        "direction": "Toolchain recap.",
+        "id": "chapter-11",
+        "start": 574.666667,
+        "duration": 25.333333,
+        "speechDuration": 24.683333,
+        "speed": 1.1424713031735296
+      }
+    ],
+    "publishAt": "2026-10-28T18:00:00+05:30",
+    "plannedDate": "2026-10-28",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "url": "https://www.youtube.com/watch?v=bQb0NnHMJt0",
+    "videoId": "bQb0NnHMJt0",
+    "thumbnailSet": false,
+    "errorReason": "uploadLimitExceeded"
+  },
+  {
+    "episode": 12,
+    "topic": "End-to-End Agile Testing Case Study",
+    "visual": {
+      "headline": "AGILE TESTING\nFULL PROJECT EXAMPLE",
+      "title": "Agile Testing Real Project Case Study | Booking & Payments | Episode 12",
+      "example": "Booking platform",
+      "steps": [
+        "Authentication",
+        "Booking",
+        "Payments & monitoring"
+      ],
+      "checks": [
+        "No duplicate accounts",
+        "No double booking",
+        "No duplicate payment"
+      ],
+      "result": "Connect risk, evidence & release decisions",
+      "question": "What evidence supports your release decision?"
+    },
+    "chapters": [
+      {
+        "title": "Introduction",
+        "text": "We conclude with a fictional subscription appointment-booking platform containing a customer website, mobile app, admin dashboard and backend A P I services. Our fictional platform lets customers register, find appointments, reserve a slot, pay and receive confirmation. Staff use an administrative dashboard, while a mobile app and website share backend services. A customer sees one journey, but the system contains several boundaries where information can be delayed or misunderstood. We will build a connected testing plan across three illustrative sprints. The schedule is a teaching example, not a requirement that real teams deliver these exact features in separate sprints. Focus on how each increment adds evidence and how earlier checks continue protecting behavior as the product grows.",
+        "direction": "System architecture overview.",
+        "id": "chapter-01",
+        "start": 0,
+        "duration": 55.2,
+        "speechDuration": 54.55,
+        "speed": 1.1892208982584784
+      },
+      {
+        "title": "Requirements",
+        "text": "The backlog includes registration, appointment discovery, booking, payments and notifications. Refinement uncovers risks involving duplicate bookings, payment failures, cancellations and authorization. Refine the journey before implementation. A reservation must belong to the requesting customer, a slot must not be confirmed for two people and a payment outcome must update the booking consistently. Ask when temporary holds expire, how cancellation affects availability and what happens if a notification arrives late. Identify dependencies among identity, availability and payment services. Translate the highest risks into examples that product, development and testing participants can understand. This prevents the team from treating five attractive screens as five independent features when their correctness actually depends on shared state and coordinated outcomes.",
+        "direction": "Product backlog and dependency map.",
+        "id": "chapter-02",
+        "start": 55.2,
+        "duration": 60.866667,
+        "speechDuration": 60.216667,
+        "speed": 1.189703847218378
+      },
+      {
+        "title": "Sprint 1: Authentication",
+        "text": "Developers implement registration and login. Tests cover valid and invalid input, duplicate accounts, password recovery and sessions. Concurrent registration exposes a race condition; the team fixes and retests it. In the first sprint, test registration and login with synthetic accounts. Check valid input, rejected input, duplicate addresses, recovery and session behavior. Now send two registration requests for the same address close together. A defect could allow duplicate accounts if the implementation checks availability and creates the record as separate unprotected steps. Record the observed outcome, discuss a safe implementation and retest the fix. Add an appropriate regression check. The important lesson is not a particular database command; it is that a realistic concurrency question can expose a defect that sequential happy-path checks miss.",
+        "direction": "Registration API test and defect resolution.",
+        "id": "chapter-03",
+        "start": 116.066667,
+        "duration": 62.233333,
+        "speechDuration": 61.583333,
+        "speed": 1.1894127198917457
+      },
+      {
+        "title": "Sprint 2: Booking",
+        "text": "Tests cover available slots, unavailable slots, simultaneous booking and cancellation. Integration tests protect against double booking. Exploratory testing identifies confusing messages and prompts an improvement. In the booking increment, create one isolated appointment slot and two customers. Send competing reservation attempts. Under the agreed rule, exactly one should succeed and the stored booking must match the winning customer. Check the response for the unsuccessful customer and confirm that it offers an understandable next step. Cancel the successful reservation if the policy permits it, then verify whether availability returns as agreed. Also explore stale screens: a customer may select a slot that someone else reserved moments earlier. The interface and the backend must work together to handle that change safely.",
+        "direction": "Two customers competing for one slot.",
+        "id": "chapter-04",
+        "start": 178.3,
+        "duration": 59.366667,
+        "speechDuration": 58.716667,
+        "speed": 1.189440817485098
+      },
+      {
+        "title": "Sprint 3: Payments",
+        "text": "Using a payment sandbox, test success, failure, cancellation, delayed confirmation and duplicate callbacks. A network timeout reveals incorrect payment-state handling. The team adds safe recovery and repeat-notification checks. For payments, stay in the provider's sandbox. Test success, decline, user cancellation, delayed confirmation and a repeated callback. Suppose the provider accepted payment but the platform lost the response. A retry should not create a second charge or second booking. Define the recovery policy and examine how unique request identifiers and payment-state transitions support it. Verify records as well as the displayed message. A page saying Payment failed while the provider recorded success is a serious inconsistency. Capture the evidence and add focused checks for the failure mode rather than relying only on the standard successful purchase journey.",
+        "direction": "Payment state diagram and test results.",
+        "id": "chapter-05",
+        "start": 237.666667,
+        "duration": 64.2,
+        "speechDuration": 63.55,
+        "speed": 1.1892368214004718
+      },
+      {
+        "title": "Regression and nonfunctional quality",
+        "text": "Run regression checks across authentication, booking and payments. Evaluate performance under concurrent searches, authorization controls, accessibility and resilience. Document remaining risks. As new increments arrive, rerun relevant checks across identity, booking and payment. A permission change in the dashboard could affect existing customer access. A payment-state fix could accidentally prevent cancellation. Add nonfunctional questions where the risks justify them: concurrent search traffic, keyboard accessibility, account isolation and recovery after a dependency failure. Use realistic synthetic data and record the tested conditions. No single green pipeline proves complete readiness. Combine automated results with exploratory findings, unresolved defects and operational evidence to explain what is known and what uncertainty remains.",
+        "direction": "CI results and load-testing dashboard.",
+        "id": "chapter-06",
+        "start": 301.866667,
+        "duration": 61.4,
+        "speechDuration": 60.75,
+        "speed": 1.1895308641975308
+      },
+      {
+        "title": "Release and monitoring",
+        "text": "Review Definition of Done, outstanding defects, deployment and rollback plans. After release, monitor logs, failures and service health. Treat production feedback as another input to the quality cycle. Before release, inspect the shared quality conditions, open risks, deployment steps and recovery plan. Make sure relevant evidence belongs to the intended release candidate. If a serious unresolved payment issue remains, either resolve it or make an explicit scope and release decision with the responsible stakeholders. After deployment, monitor error signals, transaction consistency and customer feedback using appropriate access controls. A successful deployment command is not the end of quality work. Production observations can reveal conditions that the test environment did not reproduce, and those observations should inform both fixes and future checks.",
+        "direction": "Release readiness checklist and monitoring.",
+        "id": "chapter-07",
+        "start": 363.266667,
+        "duration": 61.3,
+        "speechDuration": 60.65,
+        "speed": 1.1895136026380875
+      },
+      {
+        "title": "Worked example",
+        "text": "Your final exercise is to present a release recommendation for this platform. Name the three highest risks, give one piece of evidence for each and identify any remaining uncertainty. A strong response connects duplicate-registration checks, competing-booking results and payment-recovery verification to specific builds and conditions. It also explains how the team will detect problems after release. Look back at the whole course: principles guided priorities, methods shaped examples, artifacts preserved evidence, tools accelerated feedback and collaboration connected the work. You now have a practical way to discuss Agile Testing as part of delivering a product, from the first question through production learning.",
+        "direction": "Booking platform",
+        "id": "chapter-08",
+        "start": 424.566667,
+        "duration": 48.3,
+        "speechDuration": 47.65,
+        "speed": 1.189171038824764
+      },
+      {
+        "title": "A closer look",
+        "text": "Trace one defect across the entire case study. A repeated payment notification creates two booking confirmations. Start by reproducing the sequence with synthetic data in the sandbox. Link the failure to the rule that one successful payment should confirm one reservation. Investigate how event identifiers and state transitions are handled. After the fix, repeat the original sequence, test a delayed notification and verify that a distinct legitimate payment still works. Retain the build and results. This evidence chain connects discovery, implementation and verification, giving the release discussion more substance than the statement that the ticket is now closed.",
+        "direction": "Booking platform",
+        "id": "chapter-09",
+        "start": 472.866667,
+        "duration": 46.9,
+        "speechDuration": 46.25,
+        "speed": 1.1893621621621622
+      },
+      {
+        "title": "Verify the outcome",
+        "text": "Finally, prepare a post-release learning loop. Identify which signals would reveal duplicate confirmations, unusual payment failures or growing booking errors. Agree who reviews those signals and how a new issue enters the team's work. Use operational data with the access and privacy controls appropriate to the product. When an incident occurs, examine the contributing conditions and improve both the product and the relevant checks. Production monitoring does not replace pre-release testing, and testing does not eliminate the need to observe a live service. Together they provide feedback across the product's life and help the team adapt when real usage reveals a new risk.",
+        "direction": "Booking platform",
+        "id": "chapter-10",
+        "start": 519.766667,
+        "duration": 46.1,
+        "speechDuration": 45.45,
+        "speed": 1.1897029702970296
+      },
+      {
+        "title": "Course conclusion",
+        "text": "Agile Testing begins with clear requirements and continues through development, integration, exploration, automation and production. Quality is shared across the team. Congratulations on completing the masterclass. Thank you for completing the Agile Testing Masterclass with Tech at sixty. Keep your examples and evidence, apply the approach to a small feature, and share your most useful takeaway in the comments. Subscribe for more practical software testing tutorials.",
+        "direction": "Course completion slide and final takeaways.",
+        "id": "chapter-11",
+        "start": 565.866667,
+        "duration": 34.133333,
+        "speechDuration": 33.483333,
+        "speed": 1.1905624688899952
+      }
+    ],
+    "publishAt": "2026-10-28T18:00:00+05:30",
+    "plannedDate": "2026-10-28",
+    "status": "published",
+    "voice": "en-IN-NeerjaNeural",
+    "rate": "-12%",
+    "duration": 600,
+    "errorReason": "not_attempted_after_channel_limit",
+    "url": "https://www.youtube.com/watch?v=ETNKUsval9c",
+    "videoId": "ETNKUsval9c",
+    "thumbnailSet": false
+  }
+]
